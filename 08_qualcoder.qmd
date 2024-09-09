@@ -31,4 +31,4 @@ Let's now explore a few helpful basic functionalities including how to create a 
 
 ### Using QualCoder (Practical Example)
 
-Now that we are more familiar with the interface and affordances of QualCoder and the mechanics of setting up a project and using some basic features, let's help Sarah on how she can use the tool to code her transcripts.
+Now that we are more familiar with QualCoder interface, the mechanics of setting up a project and using some basic features, let's bring Sarah's data in and walk her through the process of coding her interview transcripts.
