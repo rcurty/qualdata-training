@@ -1,0 +1,32 @@
+---
+title: "Documenting Data"
+editor: visual
+---
+
+## What should you document?
+
+**Required:**
+
+-   Original source data, when possible, and as long as it is de-identified
+
+-   Processed data (e.g., transcripts)
+
+-   Codebook
+
+-   Readme
+
+-   Instrument for data collection (e.g., survey, interview, etc), if applicable
+
+-   Documentation generated in the Qualitative Data Analysis Software (QDAS) application (e.g., Nvivo, atlas.TI, etc.): memos, notes, networks, classifications
+
+**Desired:**
+
+-   Informed consent statement(s) or assent (see the Human Subjects Data Essentials Primer)
+
+-   IRB protocol (see the Human Subjects Data Essentials Primer)
+
+-   Study protocol or procedures manual
+
+-   Data Management Plan --To indicate how long the data needs to be preserved/accessible, and any other stipulations on sharing/management.
+
+QUALCODER - <https://www.qdasoftware.org/refi-qda-codebook>

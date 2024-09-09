@@ -1,0 +1,77 @@
+project:
+  type: website
+  title: "Handling and Sharing Qualitative Data Responsibly and Effectively"
+
+website:
+  page-navigation: true
+  search: 
+    location: navbar
+  navbar:
+    tools:
+     - text: About RDS
+       href: 00_about.qmd
+     - icon: github
+       href: https://github.com/UCSB-Library-Research-Data-Services
+       menu:
+       - text: Source Code
+         url: replace
+         target: _blank
+       - text: Report a Bug
+         url: replace
+         target: _blank
+    
+        
+  sidebar:
+    style: "docked"
+    border: true
+    collapse-level: 1
+    contents:
+    - href: 00_index.qmd
+      text: "Home"
+    - section: "Planning & Collecting"
+      contents: 
+        - text: Qualitative Data
+          href: 01_qual-data.qmd
+        - text: Data Management Planning
+          href: 01_dmp.qmd
+        - text: Ethical Considerations for HS Research
+          href: 02_ethics.qmd
+        - text: Interview Data
+          href: 03_data-interviews.qmd
+        - text: Running Example
+          href: 04_example.qmd
+    - section: "Analyzing & Documenting"
+      contents:     
+        - text: Data De-identification
+          href: 05_deidentification.qmd
+        - text: Coding Analysis
+          href: 06_coding.qmd
+        - text: Computer-Aided Analysis Tools
+          href: 07_tools.qmd
+        - text: Qualcoder Software
+          href: 08_qualcoder.qmd
+        - text: Data Documentation  
+          href: 09_documenting.qmd
+    - section: "Sharing & Archiving"
+      contents:      
+         - text: Sharing and Archiving
+           href: 10_sharing.qmd
+    - section: "Reusing"
+      contents:    
+         - text: Reusing
+           href: 11_reusing.qmd
+  page-footer:
+    background: blue
+    center: This website is built with [Quarto](https://quarto.org/), [RStudio/Posit](https://posit.co/),
+      and [webexercises R package](https://cran.r-project.org/web/packages/webexercises/index.html).
+      UCSB Library Research Data Services. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+    left: |
+      <img src="images/RDS-logo.png" alt="UCSB Library Research Data Services logo" width="250"/>
+format:
+  html:
+    theme: adapt-meds-website-styles.scss
+    toc: false
+    page-layout: full
+    code-line-numbers: true
+    css: include/webex.css
+    # include-after-body: include/webex.js

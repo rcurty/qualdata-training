@@ -1,0 +1,17 @@
+---
+title: "About RDS"
+---
+
+## Ways we can help you
+
+[Research Data Services (RDS)](https://www.library.ucsb.edu/research-data-services) helps UCSB researchers manage and preserve their research data in a more effective and reproducible way through:
+
+-   Consultations
+-   Long-term engagements
+-   Instructional workshops.
+
+Our team offers support across the research data lifecycle, from pre-project planning to post-project archival, connecting researchers with both locally- and externally-provided resources, data management systems and curation services. Our goal is to ensure that all research data is well-described, FAIR (Findable, Accessible, Interoperable, Reusable), as well as sustainable and preservable, and that researchers receive scholarly credit for sharing and publishing their data.
+
+We recommend you explore the **Research Computing and Data** website ([https://rcd.ucsb.edu](https://rcd.ucsb.edu/)) maintained by our department for campus-wide tools, recommendations, events, communities and learning resources.
+
+Contact us if you have any questions: [rds\@library.ucsb.edu](mailto:rds@library.ucsb.edu){.email}

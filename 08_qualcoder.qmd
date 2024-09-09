@@ -1,0 +1,38 @@
+---
+title: "QualCoder"
+editor: visual
+---
+
+## What is QualCoder?
+
+![](images/qualcoder-logo.png){fig-align="left" width="150"}
+
+QualCoder is client-based open-source and free multi-platform tool designed to streamline qualitative data analysis. With its user-friendly interface and comprehensive features, QualCoder empowers researchers and analysts to efficiently organize, code, and analyze qualitative data, ranging from text documents to multimedia files. By providing tools for coding, categorizing, and retrieving data, QualCoder facilitates in-depth exploration and interpretation, enabling researchers to uncover meaningful insights and patterns, and extract rich and nuanced information from their qualitative data.
+
+With QualCoder you can code text, images, audio and video, write journal notes and memos. You can categorise codes into a tree-like hierarchical categorisation scheme. Coding for audio and video requires the [VLC media player](https://www.videolan.org/vlc/download-windows.html). Coder comparison reports can be generated for text coding using the Cohen’s Kappa statistic for interrater/intercoder reliability (**FIXME:** mchugh2012interrater) measuring the level of agreement between coders. A graph displaying codes and categories can be generated to visualise the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.
+
+Documentation:
+
+-   Wiki - <https://github.com/ccbogel/QualCoder/wiki>
+
+-   GitHub Repository - <https://github.com/ccbogel/QualCoder>
+
+-   GitHub Repository (QualCoder AI - beta) - <https://github.com/kaixxx/QualCoder/tree/ai_integration>
+
+You are welcome to follow [installation and running instructions](https://github.com/ccbogel/QualCoder/wiki/01-Introduction) for your operating system. Please note, however, this is a multistep process that requires additional components and the use of the command line/terminal. We are available to consult with individuals or groups that require assistance in that process.
+
+To save us time, for this course we will skip the installation process and we will be using a virtual machine. We will first use the latest available version on the software (currently 3.5) for the exercises, and then, explore the beta version with AI capabilities to test how ChatGPT 4.0 can assist with horizontal coding. On this second half, we will discuss the implications for privacy and also the expected costs associated with the use of AI.
+
+### **Basic Functionalities**
+
+Let's now explore a few helpful basic functionalities including how to create a project and how to engage with coding. We strongly advise you to watch the following video for additional features:
+
+{{< video https://www.youtube.com/watch?v=wj5fY4F5Jxo width="250" height="175" >}}
+
+### Using QualCoder (Practical Example)
+
+Now that we are more familiar with the interface and affordances of QualCoder and the mechanics of setting up a project and conduct basic coding, let's explore more while practicing together.
+
+Our hypothetical project, "Caring for the Caregivers: Enhancing the Support System for Therapists," reuses existing data to explore a theme that was not the primary focus of the original study: therapists’ self-care and coping mechanisms in response to patient relapses. More specifically, we aim to investigate therapists' emotional, professional, and behavioral reactions to patient relapses, and how these affect their practice and well-being. By deepening our understanding of these aspects, the project aims to contribute to a more comprehensive support framework for therapists, enhancing their capacity to care for themselves while continuing to provide high-quality care for their patients.
+
+Thus, we will go through 3 of the interview transcripts and

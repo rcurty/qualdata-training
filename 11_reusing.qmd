@@ -1,0 +1,23 @@
+---
+title: "Reusing QHS Data"
+---
+
+Throughout this course we have learned
+A reuse case itself.
+
+## Citation and Attribution
+
+## Clearly Acknowledge Inherented Study Limitations
+
+
+
+Licensing 
+
+\<iframe width="25%" height="450"
+src="<iframe width="25%" height="450" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n10-2021-licensing-navy_0.pdf">
+</iframe>"
+
+
+\<iframe width="25%" height="450"
+src="<iframe width="25%" height="450" src="https://rcd.ucsb.edu/sites/default/files/2024-04/DLS-202404-ConsentDataSharing%26Reuse-navy.pdf">
+</iframe>"
