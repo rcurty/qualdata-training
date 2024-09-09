@@ -20,7 +20,7 @@ To accomplish that, we will be using the following diagram as a
 
 ### Authors:
 
-Renata Curty (primary contact), Julien Brun and Greg Janée, Research Data Services (RDS), UC Santa Barbara Library
+Renata Curty (rcurty@ucsb.edu), Julien Brun and Greg Janée, Research Data Services (RDS), UC Santa Barbara Library
 
 <div>
 
