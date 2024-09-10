@@ -7,9 +7,9 @@ From this point forward, we will be working with a fictional researcher and rese
 
 ## **Meet Sarah!**
 
-![](images/sarah-01.jpg){width="315"}
+![](images/clipboard-2573570051.png){width="300"}
 
-Image Generated using: Dall-E 3
+Image Generated using [openart.ai](https://openart.ai/)
 
 In the remaining episodes, we’ll be guiding Sarah, a graduate student in the Communication department, as she embarks on a pilot study with digital influencers for her dissertation research. Sarah's goal is to understand how influencers, with verified profiles and a large community of followers perceive their impact on consumerism, their role in shaping their audience shopping behaviors, and their ethical responsibilities when endorsing products.
 
