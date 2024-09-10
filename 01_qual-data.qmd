@@ -12,7 +12,7 @@ Despite of its advantages, handling and analyzing qualitative data requires spec
 
 -   *Volume and lack of structure*: qualitative data is often unstructured, voluminous, and more time-consuming to organize and analyze.
 
--   *Subjectivity and Sensitivity*: researchers may have different perspectives on the meaning and significance of qualitative data, leading to potential biases, and reliability and validity issues.
+-   *Subjectivity and sensitivity*: researchers may have different perspectives on the meaning and significance of qualitative data, leading to potential biases, and reliability and validity issues.
 
 -   *Labor-intensive:* collecting, transcribing and analyzing large volumes of qualitative data can be time-consuming. Qualitative data analysis typically requires multiple iterations and refinements and extra effort regarding the removal of sensitive information.
 
