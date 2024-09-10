@@ -45,21 +45,21 @@ website:
         - text: Data De-identification
           href: 05_deidentification.qmd
         - text: Coding Analysis
-          #href: 06_coding.qmd
+          # href: 06_coding.qmd
         - text: Computer-Aided Analysis Tools
           href: 07_tools.qmd
         - text: Qualcoder Software
           href: 08_qualcoder.qmd
         - text: Data Documentation  
-          #href: 09_documenting.qmd
+          # href: 09_documenting.qmd
     - section: "Sharing & Archiving"
       contents:      
          - text: Sharing and Archiving
-           #href: 10_sharing.qmd
+           # href: 10_sharing.qmd
     - section: "Reusing"
       contents:    
          - text: Reusing
-           #href: 11_reusing.qmd
+           # href: 11_reusing.qmd
   page-footer:
     background: blue
     center: This website is built with [Quarto](https://quarto.org/), [RStudio/Posit](https://posit.co/),
