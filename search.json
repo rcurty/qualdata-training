@@ -82,121 +82,77 @@
     "href": "10_sharing.html",
     "title": "Sharing and Archiving Qualitative Data",
     "section": "",
-    "text": "Before sharing the files: https://managing-qualitative-data.org/modules/3/b/ (types of access controls)\nWhen possible, consider sharing de-identified transcripts openly, while placing recordings under more stringent access controls.\nDo keep a list of de-identification rules, both for yourself, or for your team should you collaborate. This list serves as important documentation when you share your data. See for example the protocol used by Thad Dunning and Edward Camp to de-identify data deposited with the Qualitative Data Repository. This document is separate from the key that links de-identified entries to the actual individuals or entities interviewed, which should not be included when you share your data.\nDo check the document properties of files, which may contain identifiers such as original file names identifying interview respondents.\nFinally, do try to strike a balance between keeping your participants’ information confidential and unnecessarily reducing the analytic value of the data by removing too much information. If you are having difficulties striking that balance, you could ask another subject-matter expert for assistance; some repository personnel or data librarians can also provide abstract rules that you can follow.",
-    "crumbs": [
-      "Sharing & Archiving",
-      "Sharing and Archiving"
-    ]
+    "text": "Before sharing the files: https://managing-qualitative-data.org/modules/3/b/ (types of access controls)\nWhen possible, consider sharing de-identified transcripts openly, while placing recordings under more stringent access controls.\nDo keep a list of de-identification rules, both for yourself, or for your team should you collaborate. This list serves as important documentation when you share your data. See for example the protocol used by Thad Dunning and Edward Camp to de-identify data deposited with the Qualitative Data Repository. This document is separate from the key that links de-identified entries to the actual individuals or entities interviewed, which should not be included when you share your data.\nDo check the document properties of files, which may contain identifiers such as original file names identifying interview respondents.\nFinally, do try to strike a balance between keeping your participants’ information confidential and unnecessarily reducing the analytic value of the data by removing too much information. If you are having difficulties striking that balance, you could ask another subject-matter expert for assistance; some repository personnel or data librarians can also provide abstract rules that you can follow."
   },
   {
     "objectID": "10_sharing.html#epistemological-tensions-with-sharing-qualitative-data",
     "href": "10_sharing.html#epistemological-tensions-with-sharing-qualitative-data",
     "title": "Sharing and Archiving Qualitative Data",
     "section": "Epistemological Tensions With Sharing Qualitative Data",
-    "text": "Epistemological Tensions With Sharing Qualitative Data",
-    "crumbs": [
-      "Sharing & Archiving",
-      "Sharing and Archiving"
-    ]
+    "text": "Epistemological Tensions With Sharing Qualitative Data"
   },
   {
     "objectID": "10_sharing.html#ethical-issues-to-address-when-sharing-qualitative-data",
     "href": "10_sharing.html#ethical-issues-to-address-when-sharing-qualitative-data",
     "title": "Sharing and Archiving Qualitative Data",
     "section": "Ethical Issues to Address When Sharing Qualitative Data",
-    "text": "Ethical Issues to Address When Sharing Qualitative Data\nhttps://journals.sagepub.com/doi/10.1177/25152459231205832\nReasons for sharing -\nhttps://psycnet.apa.org/fulltext/2017-12030-001.html Add Table 1: Materials that are common;y archived\nLevels of sharing:\ndocumentation and metadata (codebook only) - https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6hw\nrestricted:\nall: https://researchportal.bath.ac.uk/en/studentTheses/the-lived-experiences-of-relapse-into-opiate-and-crack-cocaine-mi\nData needs documentation:\nBad example: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/4C9KFK/XRREIY&version=1.1\nMuch Better Example: https://researchportal.bath.ac.uk/en/studentTheses/the-lived-experiences-of-relapse-into-opiate-and-crack-cocaine-mi",
-    "crumbs": [
-      "Sharing & Archiving",
-      "Sharing and Archiving"
-    ]
+    "text": "Ethical Issues to Address When Sharing Qualitative Data\nhttps://journals.sagepub.com/doi/10.1177/25152459231205832\nReasons for sharing -\nhttps://psycnet.apa.org/fulltext/2017-12030-001.html Add Table 1: Materials that are common;y archived\nLevels of sharing:\ndocumentation and metadata (codebook only) - https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6hw\nrestricted:\nall: https://researchportal.bath.ac.uk/en/studentTheses/the-lived-experiences-of-relapse-into-opiate-and-crack-cocaine-mi\nData needs documentation:\nBad example: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/4C9KFK/XRREIY&version=1.1\nMuch Better Example: https://researchportal.bath.ac.uk/en/studentTheses/the-lived-experiences-of-relapse-into-opiate-and-crack-cocaine-mi"
   },
   {
     "objectID": "10_sharing.html#what-data",
     "href": "10_sharing.html#what-data",
     "title": "Sharing and Archiving Qualitative Data",
     "section": "What data?",
-    "text": "What data?\nICPSR’s Guide for Sharing Qualitative Data outlines examples of of qualitative data sources that may be archived for secondary analysis:\n• Interview methods, including those captured through notes, audio, and video\n\nIn-depth and/or unstructured interviews\nSemi-structured interviews\nFocus group interviews\n\n• Diary studies that are unstructured or use semi-structured writing prompts\n• Observational studies that generate field notes and other text and information\n\nNaturalistic observation of real-world environments (e.g., classrooms, workplaces, healthcare facilities, courtrooms, public spaces)\nParticipant observation where the researcher becomes an active part of the setting to collect information (e.g., online gaming, community policing, nightclub culture)\nStructured observation is where the research has predefined objectives and a systemic approach to collecting information. This would include case studies.\n\n• Text from available sources\n\nMeeting minutes\nOfficial records Medical records\nNews sources and social media\nExcerpts of copyrighted materials (e.g., literature, film, music)\n\n• Survey methods or questionnaires with substantial open-ended comments",
-    "crumbs": [
-      "Sharing & Archiving",
-      "Sharing and Archiving"
-    ]
+    "text": "What data?\nICPSR’s Guide for Sharing Qualitative Data outlines examples of of qualitative data sources that may be archived for secondary analysis:\n• Interview methods, including those captured through notes, audio, and video\n\nIn-depth and/or unstructured interviews\nSemi-structured interviews\nFocus group interviews\n\n• Diary studies that are unstructured or use semi-structured writing prompts\n• Observational studies that generate field notes and other text and information\n\nNaturalistic observation of real-world environments (e.g., classrooms, workplaces, healthcare facilities, courtrooms, public spaces)\nParticipant observation where the researcher becomes an active part of the setting to collect information (e.g., online gaming, community policing, nightclub culture)\nStructured observation is where the research has predefined objectives and a systemic approach to collecting information. This would include case studies.\n\n• Text from available sources\n\nMeeting minutes\nOfficial records Medical records\nNews sources and social media\nExcerpts of copyrighted materials (e.g., literature, film, music)\n\n• Survey methods or questionnaires with substantial open-ended comments"
   },
   {
     "objectID": "10_sharing.html#where-you-should-share-your-data",
     "href": "10_sharing.html#where-you-should-share-your-data",
     "title": "Sharing and Archiving Qualitative Data",
     "section": "Where you should share your Data",
-    "text": "Where you should share your Data",
-    "crumbs": [
-      "Sharing & Archiving",
-      "Sharing and Archiving"
-    ]
+    "text": "Where you should share your Data"
   },
   {
     "objectID": "10_sharing.html#preparing-your-data-for-submission",
     "href": "10_sharing.html#preparing-your-data-for-submission",
     "title": "Sharing and Archiving Qualitative Data",
     "section": "Preparing your data for Submission",
-    "text": "Preparing your data for Submission\n\nDocumenting your Data\nRequired:\n\nOriginal source data, when possible, and as long as it is de-identified\nProcessed data (e.g., transcripts)\nCodebook\nReadme\nInstrument for data collection (e.g., survey, interview, etc), if applicable\nDocumentation generated in the Qualitative Data Analysis Software (QDAS) application: memos, notes, networks, classifications\n\nRecommended:\n\nInformed consent statement(s) or assent (see the Human Subjects Data Essentials Primer)\nIRB protocol (see the Human Subjects Data Essentials Primer)\nStudy protocol or procedures manual\nData Management Plan –To indicate how long the data needs to be preserved/accessible, and any other stipulations on sharing/management.\n\n\n\n&lt;iframe width=“50%” height=“800” src=“https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf”&gt; ”\nProject example: https://rdr.ucl.ac.uk/articles/dataset/Qualitative_and_output_data_on_loneliness_among_young_adults/17212991/1\nData Availability Statements\nhttps://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf",
-    "crumbs": [
-      "Sharing & Archiving",
-      "Sharing and Archiving"
-    ]
+    "text": "Preparing your data for Submission\n\nDocumenting your Data\nRequired:\n\nOriginal source data, when possible, and as long as it is de-identified\nProcessed data (e.g., transcripts)\nCodebook\nReadme\nInstrument for data collection (e.g., survey, interview, etc), if applicable\nDocumentation generated in the Qualitative Data Analysis Software (QDAS) application: memos, notes, networks, classifications\n\nRecommended:\n\nInformed consent statement(s) or assent (see the Human Subjects Data Essentials Primer)\nIRB protocol (see the Human Subjects Data Essentials Primer)\nStudy protocol or procedures manual\nData Management Plan –To indicate how long the data needs to be preserved/accessible, and any other stipulations on sharing/management.\n\n\n\n&lt;iframe width=“50%” height=“800” src=“https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf”&gt; ”\nProject example: https://rdr.ucl.ac.uk/articles/dataset/Qualitative_and_output_data_on_loneliness_among_young_adults/17212991/1\nData Availability Statements\nhttps://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf"
   },
   {
     "objectID": "06_coding.html",
     "href": "06_coding.html",
     "title": "Analyzing Data",
     "section": "",
-    "text": "Look at this! https://community.csusm.edu/pluginfile.php/21112/mod_resource/content/1/CresswellJWAndPlanoClarkVLPrinciples_of_QualitativeResearchDesigningQualitativeStudyPPT.pdf\nRefer back to trustworthiness and practical ways to accomplish that Intercode reliability Saturation Triangulation",
-    "crumbs": [
-      "Analyzing & Documenting",
-      "Coding Analysis"
-    ]
+    "text": "Look at this! https://community.csusm.edu/pluginfile.php/21112/mod_resource/content/1/CresswellJWAndPlanoClarkVLPrinciples_of_QualitativeResearchDesigningQualitativeStudyPPT.pdf\nRefer back to trustworthiness and practical ways to accomplish that Intercode reliability Saturation Triangulation"
   },
   {
     "objectID": "06_coding.html#the-role-of-contextuality",
     "href": "06_coding.html#the-role-of-contextuality",
     "title": "Analyzing Data",
     "section": "The Role of Contextuality",
-    "text": "The Role of Contextuality\nQualitative data can be explored and re-analyzed to uncover hidden meanings and deeply unfold historical, social and cultural contexts and their entanglement with human subjects’ attitudes, behaviors and opinions. An important contextual issue regarding qualitative data concerns the ‘traces’ left by different perspectives on the material. Texts, whether from interviews, social media, or embedded in an artifact, are not just produced under certain material conditions embedded within socio-cultural contexts, but they are also produced to do something and becomes part of the context to be understood [@silva2007].",
-    "crumbs": [
-      "Analyzing & Documenting",
-      "Coding Analysis"
-    ]
+    "text": "The Role of Contextuality\nQualitative data can be explored and re-analyzed to uncover hidden meanings and deeply unfold historical, social and cultural contexts and their entanglement with human subjects’ attitudes, behaviors and opinions. An important contextual issue regarding qualitative data concerns the ‘traces’ left by different perspectives on the material. Texts, whether from interviews, social media, or embedded in an artifact, are not just produced under certain material conditions embedded within socio-cultural contexts, but they are also produced to do something and becomes part of the context to be understood [@silva2007]."
   },
   {
     "objectID": "06_coding.html#a-few-words-about-secondary-analysis",
     "href": "06_coding.html#a-few-words-about-secondary-analysis",
     "title": "Analyzing Data",
     "section": "A Few Words about Secondary Analysis",
-    "text": "A Few Words about Secondary Analysis\nArchived qualitative data offers opportunities for reanalysis, reinterpretation, and comparison with both existing and newly collected data sources. While many steps in secondary analysis parallel those of primary data analysis—such as data processing, analysis, and quality control—unique challenges arise, particularly in aligning the archived data with the specific objectives of the new study and assessing the data’s value in that context.\nThe success of secondary analysis is also heavily dependent on the quality and comprehensiveness of the accompanying documentation, which must provide detailed context about the original data collection, including the methodology, sampling, and any potential biases. Without this, the data may be misinterpreted, leading to inaccurate conclusions or limiting its applicability to new research questions. During the hands on component of this course, we will reuse pre-existing data and assess the associated documentation provided. Later, we will also explore recommendations on what type of metadata and documentation should be preserved and archive along with the data.",
-    "crumbs": [
-      "Analyzing & Documenting",
-      "Coding Analysis"
-    ]
+    "text": "A Few Words about Secondary Analysis\nArchived qualitative data offers opportunities for reanalysis, reinterpretation, and comparison with both existing and newly collected data sources. While many steps in secondary analysis parallel those of primary data analysis—such as data processing, analysis, and quality control—unique challenges arise, particularly in aligning the archived data with the specific objectives of the new study and assessing the data’s value in that context.\nThe success of secondary analysis is also heavily dependent on the quality and comprehensiveness of the accompanying documentation, which must provide detailed context about the original data collection, including the methodology, sampling, and any potential biases. Without this, the data may be misinterpreted, leading to inaccurate conclusions or limiting its applicability to new research questions. During the hands on component of this course, we will reuse pre-existing data and assess the associated documentation provided. Later, we will also explore recommendations on what type of metadata and documentation should be preserved and archive along with the data."
   },
   {
     "objectID": "06_coding.html#understanding-qualitative-data-analysis-methods",
     "href": "06_coding.html#understanding-qualitative-data-analysis-methods",
     "title": "Analyzing Data",
     "section": "Understanding Qualitative Data Analysis Methods",
-    "text": "Understanding Qualitative Data Analysis Methods\nPicture this: a treasure trove of data brimming with stories, emotions, and insights waiting to be uncovered. That’s the realm of qualitative data analysis – a journey where we navigate through the complexities of human attitudes, behaviors, and perceptions to unearth the gems that lie within.\nQualitative analysis is about finding patterns, unfold both explicit and implicit attitudes, behaviors, and beliefs, understanding meanings, and making sense of findings in relation to the research questions at hand.\nResearchers use various methods, such as thematic analysis, content analysis, comparative analysis, and discourse analysis, to unearth and understand the complexities of human experiences, attitudes, behaviors, and perceptions captured in qualitative data. The goal is to generate rich and nuanced understandings of phenomena rather than producing numerical summaries or generalizable findings. These methods have been used to inform theory development, policy, and practice across disciplines and research domains and applied to various types of data sources, including written documents, social media posts, news articles, advertisements, photographs, videos, and interviews.\n\nThematic analysis: perhaps the most common method for qualitative data analysis, it allows researchers to spot overarching topics and main themes in the data that uncover recurring ideas, topics, or concepts.\nContent analysis: digs deeper into themes to see how often they come up. It’s like zooming in to see the details. Content analysis involves systematically analyzing and interpreting the content of textual, visual, or audio materials to uncover patterns, trends, or meanings. It focuses on the specific elements within the content, such as words, phrases, images, or themes, rather than the broader themes or concepts.\nComparative analysis: delves into the intricate web of causal relationships between events and outcomes across diverse cases. By scrutinizing the nuances and variations it focuses on causal relationships between events and outcomes in different cases.\nDiscourse analysis: helps us understand how language reflects different ideas and cultures. Focuses on spoken or written conversational language.\nSentiment analysis: a branch of discourse of content analysis particularly interested in determining the emotional tone of the message or discourse (speech or written) is positive, negative, or neutral, or even exploring a broader spectrum of sentiments. It can be also heavily computational and quantitative-oriented, depending on the corpus of interest.",
-    "crumbs": [
-      "Analyzing & Documenting",
-      "Coding Analysis"
-    ]
+    "text": "Understanding Qualitative Data Analysis Methods\nPicture this: a treasure trove of data brimming with stories, emotions, and insights waiting to be uncovered. That’s the realm of qualitative data analysis – a journey where we navigate through the complexities of human attitudes, behaviors, and perceptions to unearth the gems that lie within.\nQualitative analysis is about finding patterns, unfold both explicit and implicit attitudes, behaviors, and beliefs, understanding meanings, and making sense of findings in relation to the research questions at hand.\nResearchers use various methods, such as thematic analysis, content analysis, comparative analysis, and discourse analysis, to unearth and understand the complexities of human experiences, attitudes, behaviors, and perceptions captured in qualitative data. The goal is to generate rich and nuanced understandings of phenomena rather than producing numerical summaries or generalizable findings. These methods have been used to inform theory development, policy, and practice across disciplines and research domains and applied to various types of data sources, including written documents, social media posts, news articles, advertisements, photographs, videos, and interviews.\n\nThematic analysis: perhaps the most common method for qualitative data analysis, it allows researchers to spot overarching topics and main themes in the data that uncover recurring ideas, topics, or concepts.\nContent analysis: digs deeper into themes to see how often they come up. It’s like zooming in to see the details. Content analysis involves systematically analyzing and interpreting the content of textual, visual, or audio materials to uncover patterns, trends, or meanings. It focuses on the specific elements within the content, such as words, phrases, images, or themes, rather than the broader themes or concepts.\nComparative analysis: delves into the intricate web of causal relationships between events and outcomes across diverse cases. By scrutinizing the nuances and variations it focuses on causal relationships between events and outcomes in different cases.\nDiscourse analysis: helps us understand how language reflects different ideas and cultures. Focuses on spoken or written conversational language.\nSentiment analysis: a branch of discourse of content analysis particularly interested in determining the emotional tone of the message or discourse (speech or written) is positive, negative, or neutral, or even exploring a broader spectrum of sentiments. It can be also heavily computational and quantitative-oriented, depending on the corpus of interest."
   },
   {
     "objectID": "06_coding.html#thematic-analysis",
     "href": "06_coding.html#thematic-analysis",
     "title": "Analyzing Data",
     "section": "Thematic Analysis",
-    "text": "Thematic Analysis\nFor our practical exercises we will focuses on the most common approach; thematic analysis.\n\nSo, here is a recommended workflow we suggest you follow for this method:\n\n\n\nSource: Sendze (2019) adapted from Braun, V., & Clarke, V. (2006).\n\n\nWhether you’re new to research or a pro, qualitative analysis is an active process of reflexivity in which your subjective experience and pre-knowledge about the phenomenon of interest inform your process of making sense of the data and finding patterns and relationships. It is is all about close familiarization with the data, categorizing, discovering, reviewing and iterating until you find meaningful insights to inform your research questions, before you can drawn conclusions and articulated your findings.\nData can be arranged and coded following a deductive (top-down) approach, where researchers apply pre-existing theoretical frameworks or concepts to the data, more inductively (bottom-up), where insights, themes emerge directly from the data without prior assumptions, or even use a combination of both as they engage with and learn more details from the data.\n(FIXME: ADD QUIZ & RECREATE IMAGES)\n\n\nImages from: https://delvetool.com/blog/deductiveinductive\n\nImage source: https://www.nngroup.com/articles/thematic-analysis\nThe top-down approach begins with a specific theoretical framework or research question. Data collection and analysis are guided by preconceived hypotheses, focusing on confirming or refuting these hypotheses. While it provides more direction to the research processs, it may limit alternative perspectives or emergent themes not accounted for in the initial framework.In contrast, the bottom-up approach is exploratory and higly flexible as they are no predetermined categories or hypothesis, it has its basis on grounded theory, meaning that themes emerge directly from the data through open coding and analysis, allowing a wide range of topics and potential unexpected insights to be extracted from the data.\n\n\n\n\n\n\nTime to Practice! 💪🏼\n\n\n\nNow that we’ve gained some knowledge about coding, let’s explore how we can put these concepts into practice. In pairs, access the worksheet (add link) and follow the instructions.\nhttps://docs.google.com/document/d/1Kxjx_Wp0PQ29e3Xhs1GZXTW2K3Da4LxnVd8zq1N2afY/edit\nExercise Sheet (add link) - publish on Zenodo\n\n\nWe will get more into this in later episodes where we will further explore different strategies to perform coding assisted by a QDA open and free software.\nConsider a note about salience and saturation: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7200005/\n\nRecommended & Cited Sources:",
-    "crumbs": [
-      "Analyzing & Documenting",
-      "Coding Analysis"
-    ]
+    "text": "Thematic Analysis\nFor our practical exercises we will focuses on the most common approach; thematic analysis.\n\nSo, here is a recommended workflow we suggest you follow for this method:\n\n\n\nSource: Sendze (2019) adapted from Braun, V., & Clarke, V. (2006).\n\n\nWhether you’re new to research or a pro, qualitative analysis is an active process of reflexivity in which your subjective experience and pre-knowledge about the phenomenon of interest inform your process of making sense of the data and finding patterns and relationships. It is is all about close familiarization with the data, categorizing, discovering, reviewing and iterating until you find meaningful insights to inform your research questions, before you can drawn conclusions and articulated your findings.\nData can be arranged and coded following a deductive (top-down) approach, where researchers apply pre-existing theoretical frameworks or concepts to the data, more inductively (bottom-up), where insights, themes emerge directly from the data without prior assumptions, or even use a combination of both as they engage with and learn more details from the data.\n(FIXME: ADD QUIZ & RECREATE IMAGES)\n\n\nImages from: https://delvetool.com/blog/deductiveinductive\n\nImage source: https://www.nngroup.com/articles/thematic-analysis\nThe top-down approach begins with a specific theoretical framework or research question. Data collection and analysis are guided by preconceived hypotheses, focusing on confirming or refuting these hypotheses. While it provides more direction to the research processs, it may limit alternative perspectives or emergent themes not accounted for in the initial framework.In contrast, the bottom-up approach is exploratory and higly flexible as they are no predetermined categories or hypothesis, it has its basis on grounded theory, meaning that themes emerge directly from the data through open coding and analysis, allowing a wide range of topics and potential unexpected insights to be extracted from the data.\n\n\n\n\n\n\nTime to Practice! 💪🏼\n\n\n\nNow that we’ve gained some knowledge about coding, let’s explore how we can put these concepts into practice. In pairs, access the worksheet (add link) and follow the instructions.\nhttps://docs.google.com/document/d/1Kxjx_Wp0PQ29e3Xhs1GZXTW2K3Da4LxnVd8zq1N2afY/edit\nExercise Sheet (add link) - publish on Zenodo\n\n\nWe will get more into this in later episodes where we will further explore different strategies to perform coding assisted by a QDA open and free software.\nConsider a note about salience and saturation: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7200005/\n\nRecommended & Cited Sources:"
   },
   {
     "objectID": "11_reusing.html",
@@ -206,7 +162,7 @@
     "text": "Throughout this course we have learned A reuse case itself.",
     "crumbs": [
       "Reusing",
-      "Reusing"
+      "Reusing QHS Data"
     ]
   },
   {
@@ -217,7 +173,7 @@
     "text": "Citation and Attribution",
     "crumbs": [
       "Reusing",
-      "Reusing"
+      "Reusing QHS Data"
     ]
   },
   {
@@ -228,7 +184,7 @@
     "text": "Clearly Acknowledge Inherented Study Limitations\nLicensing\n&lt;iframe width=“25%” height=“450” src=“ ”\n&lt;iframe width=“25%” height=“450” src=“ ”",
     "crumbs": [
       "Reusing",
-      "Reusing"
+      "Reusing QHS Data"
     ]
   },
   {
@@ -313,22 +269,14 @@
     "href": "09_documenting.html",
     "title": "Documenting Data",
     "section": "",
-    "text": "Required:\n\nOriginal source data, when possible, and as long as it is de-identified\nProcessed data (e.g., transcripts)\nCodebook\nReadme\nInstrument for data collection (e.g., survey, interview, etc), if applicable\nDocumentation generated in the Qualitative Data Analysis Software (QDAS) application (e.g., Nvivo, atlas.TI, etc.): memos, notes, networks, classifications\n\nDesired:\n\nInformed consent statement(s) or assent (see the Human Subjects Data Essentials Primer)\nIRB protocol (see the Human Subjects Data Essentials Primer)\nStudy protocol or procedures manual\nData Management Plan –To indicate how long the data needs to be preserved/accessible, and any other stipulations on sharing/management.\n\nQUALCODER - https://www.qdasoftware.org/refi-qda-codebook",
-    "crumbs": [
-      "Analyzing & Documenting",
-      "Data Documentation"
-    ]
+    "text": "Required:\n\nOriginal source data, when possible, and as long as it is de-identified\nProcessed data (e.g., transcripts)\nCodebook\nReadme\nInstrument for data collection (e.g., survey, interview, etc), if applicable\nDocumentation generated in the Qualitative Data Analysis Software (QDAS) application (e.g., Nvivo, atlas.TI, etc.): memos, notes, networks, classifications\n\nDesired:\n\nInformed consent statement(s) or assent (see the Human Subjects Data Essentials Primer)\nIRB protocol (see the Human Subjects Data Essentials Primer)\nStudy protocol or procedures manual\nData Management Plan –To indicate how long the data needs to be preserved/accessible, and any other stipulations on sharing/management.\n\nQUALCODER - https://www.qdasoftware.org/refi-qda-codebook"
   },
   {
     "objectID": "09_documenting.html#what-should-you-document",
     "href": "09_documenting.html#what-should-you-document",
     "title": "Documenting Data",
     "section": "",
-    "text": "Required:\n\nOriginal source data, when possible, and as long as it is de-identified\nProcessed data (e.g., transcripts)\nCodebook\nReadme\nInstrument for data collection (e.g., survey, interview, etc), if applicable\nDocumentation generated in the Qualitative Data Analysis Software (QDAS) application (e.g., Nvivo, atlas.TI, etc.): memos, notes, networks, classifications\n\nDesired:\n\nInformed consent statement(s) or assent (see the Human Subjects Data Essentials Primer)\nIRB protocol (see the Human Subjects Data Essentials Primer)\nStudy protocol or procedures manual\nData Management Plan –To indicate how long the data needs to be preserved/accessible, and any other stipulations on sharing/management.\n\nQUALCODER - https://www.qdasoftware.org/refi-qda-codebook",
-    "crumbs": [
-      "Analyzing & Documenting",
-      "Data Documentation"
-    ]
+    "text": "Required:\n\nOriginal source data, when possible, and as long as it is de-identified\nProcessed data (e.g., transcripts)\nCodebook\nReadme\nInstrument for data collection (e.g., survey, interview, etc), if applicable\nDocumentation generated in the Qualitative Data Analysis Software (QDAS) application (e.g., Nvivo, atlas.TI, etc.): memos, notes, networks, classifications\n\nDesired:\n\nInformed consent statement(s) or assent (see the Human Subjects Data Essentials Primer)\nIRB protocol (see the Human Subjects Data Essentials Primer)\nStudy protocol or procedures manual\nData Management Plan –To indicate how long the data needs to be preserved/accessible, and any other stipulations on sharing/management.\n\nQUALCODER - https://www.qdasoftware.org/refi-qda-codebook"
   },
   {
     "objectID": "01_dmp.html",
