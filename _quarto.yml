@@ -26,7 +26,7 @@ website:
     border: true
     collapse-level: 1
     contents:
-    - href: 00_index.qmd
+    - href: index.qmd
       text: "Home"
     - section: "Planning & Collecting"
       contents: 
