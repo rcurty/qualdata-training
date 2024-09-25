@@ -5,6 +5,8 @@ editor:
     wrap: 72
 ---
 
+Remember when we talked about DMPs? Well, at this point the researcher 
+
 -   Before sharing the files:
     <https://managing-qualitative-data.org/modules/3/b/> (types of
     access controls)
@@ -64,11 +66,9 @@ Much Better Example:
 
 ## What data?
 
-ICPSR's Guide for Sharing Qualitative Data outlines examples of of
-qualitative data sources that may be archived for secondary analysis:
+ICPSR's Guide for Sharing Qualitative Data outlines examples of of qualitative data sources that may be archived for secondary analysis:
 
-• Interview methods, including those captured through notes, audio, and
-video
+• Interview methods, including those captured through notes, audio, and video
 
 -   In-depth and/or unstructured interviews
 
@@ -76,23 +76,16 @@ video
 
 -   Focus group interviews
 
-• Diary studies that are unstructured or use semi-structured writing
-prompts
+• Diary studies that are unstructured or use semi-structured writing prompts
 
-• Observational studies that generate field notes and other text and
-information
+• Observational studies that generate field notes and other text and information
 
--   Naturalistic observation of real-world environments (e.g.,
-    classrooms, workplaces, healthcare facilities, courtrooms, public
+-   Naturalistic observation of real-world environments (e.g., classrooms, workplaces, healthcare facilities, courtrooms, public
     spaces)
 
--   Participant observation where the researcher becomes an active part
-    of the setting to collect information (e.g., online gaming,
-    community policing, nightclub culture)
+-   Participant observation where the researcher becomes an active part of the setting to collect information (e.g., online gaming, community policing, nightclub culture)
 
--   Structured observation is where the research has predefined
-    objectives and a systemic approach to collecting information. This
-    would include case studies.
+-   Structured observation is where the research has predefined objectives and a systemic approach to collecting information. This would include case studies.
 
 • Text from available sources
 
@@ -114,8 +107,7 @@ information
 
 Required:
 
--   Original source data, when possible, and as long as it is
-    de-identified
+-   Original source data, when possible, and as long as it is de-identified
 
 -   Processed data (e.g., transcripts)
 
@@ -123,23 +115,19 @@ Required:
 
 -   Readme
 
--   Instrument for data collection (e.g., survey, interview, etc), if
-    applicable
+-   Instrument for data collection (e.g., survey, interview, etc), if applicable
 
--   Documentation generated in the Qualitative Data Analysis Software
-    (QDAS) application: memos, notes, networks, classifications
+-   Documentation generated in the Qualitative Data Analysis Software (QDAS) application: memos, notes, networks, classifications
 
 Recommended:
 
--   Informed consent statement(s) or assent (see the Human Subjects Data
-    Essentials Primer)
+-   Informed consent statement(s) or assent (see the Human Subjects Data Essentials Primer)
 
 -   IRB protocol (see the Human Subjects Data Essentials Primer)
 
 -   Study protocol or procedures manual
 
--   Data Management Plan --To indicate how long the data needs to be
-    preserved/accessible, and any other stipulations on
+-   Data Management Plan --To indicate how long the data needs to be preserved/accessible, and any other stipulations on
     sharing/management.
 
 <iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2024-07/DLS-202407-QualDataSharing.pdf">

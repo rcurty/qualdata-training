@@ -3,7 +3,7 @@ title: "Running Example"
 editor: visual
 ---
 
-From this point onward, we will be working with a fictional researcher and research project, and a toy dataset containing interview transcripts generated with the assistance of ChatGPT 4.0 mini.
+From this point onward, we will be working with a fictional research project and a toy dataset containing interview transcripts generated with the assistance of ChatGPT 4.0 mini.
 
 ## **Meet Sarah!**
 

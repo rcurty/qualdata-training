@@ -25,10 +25,12 @@ To save us time, for this course we will skip the installation process and we wi
 
 ### **Basic Functionalities**
 
-Let's now explore a few helpful basic functionalities including how to create a project and how to engage with coding. We strongly advise you to watch the following video for additional features:
+Let's now explore a few helpful basic functionalities by navigating the wikipage. We will cover some basic settings, terms (attributes, including how to create a project and how to engage with coding. If you are following this content asynchronously, we strongly advise you to watch the following video for additional features:
 
 {{< video https://www.youtube.com/watch?v=wj5fY4F5Jxo width="250" height="175" >}}
 
+Other helpful videos can be found here: <https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos>
+
 ### Practicing Code
 
-Now that we are more familiar with QualCoder interface, the mechanics of setting up a project and using some basic features, let's bring Sarah's data in and walk her through the process of coding her interview transcripts.
+Now that we are more familiar with QualCoder interface, the mechanics of setting up a project and using some basic features, let's bring Sarah's data into Qualcoder and walk her through the process of coding her interview transcripts.
