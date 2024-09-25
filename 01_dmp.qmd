@@ -4,7 +4,7 @@ title: "Data Management Planning"
 
 ## What Are Data Management Plans (DMPs) and Why Should You Care?
 
-A Data Management Plan (DMP) is a strategic document that outlines how you will handle data throughout the lifecycle of a project. It serves as a roadmap for managing, storing, and sharing data effectively, ensuring that your data is well-organized, accessible, and secure. By documenting your data management strategies, a DMP helps streamline data workflows, facilitates compliance with institutional and funding agency requirements, and enhances the efficiency and integrity of research.
+A Data Management Plan (DMP) is a strategic document that outlines how you will handle data throughout the life cycle of a project. It serves as a roadmap for managing, storing, and sharing data effectively, ensuring that your data is well-organized, accessible, and secure. By documenting your data management strategies, a DMP helps streamline data workflows, facilitates compliance with institutional and funding agency requirements, and enhances the efficiency and integrity of research.
 
 The importance of a DMP can be highlighted in several ways:
 
