@@ -31,9 +31,9 @@ Interviews were conducted over Zoom and audio recorded with participants' consen
 
 *Q4. What do you see as key ethical responsibilities of content creators/digital influencers? In your opinion, how should these ethics apply to endorsements and recommendations? Are there any personal examples you could share?*
 
-Each interview generated approximately 15 minutes of audio recording and were manually transcribed by Sarah. Sarah decided to keep the transcription true to the audio recording and seek assistance to mitigate any risk of identification later, as we will see in the next episode.
+Each interview generated approximately 15 minutes of audio recording and were manually transcribed by Sarah. Sarah decided to keep the transcription true to the recordings and seek assistance to mitigate any risk of identification later, as we will see in the next episode.
 
-Now, let's make sure we all have the project files and that we take a quick pick on what is included there: [Link to Project Folder](https://drive.google.com/drive/folders/1pujd0G0R2Tl9wE8Ci4bOUhzGEtWSfvP6?usp=drive_link)
+Now, let's make sure we all have the project files and that we take a quick pick on what is included there: [Link to Project Folder](https://drive.google.com/drive/folders/1pujd0G0R2Tl9wE8Ci4bOUhzGEtWSfvP6?usp=drive_link). Make sure to also save this file in your computer.
 
 ## Reviewing Documents
 
@@ -50,3 +50,5 @@ Answer: Yes! A pilot study is a preliminary investigation, often involving 10 or
 
 Answer: All amendments (i.e., changes/modifications) to approved research must be submitted to the IRB for review and approval before they are implemented. If the amendments involve changes to how participants' data will be used or how their involvement is described, inform the participants of these changes. This might involve contacting them to obtain updated consent or simply providing them with new information depending on the nature of the amendments.
 :::
+
+Now, let's open some transcripts. Sarah did well by not listing actual interviewees' names. She organized all transcripts in a dedicated `data` folder and adopted a file convention name. Way to go, Sarah! When working on your own projects, ensure to do the same.
