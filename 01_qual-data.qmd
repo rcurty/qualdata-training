@@ -2,7 +2,7 @@
 title: "Qualitative Data"
 ---
 
-![](images/clipboard-1415196151.png)
+![Quantiative vs. Qualitative Data](images/qualvsquanti-01.png)
 
 Qualitative data refers to any non-numeric forms of data that are typically textual, audio, images, or video recordings, which can be transcribed or described. This type of data includes field notes, interviews, social media content (e.g., posts, comments), archival documents, and more.
 

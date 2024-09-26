@@ -6,7 +6,7 @@ Disclosing sensitive information without proper safeguards can lead to significa
 
 The richness of the data obtained through interviews presents additional ethical and analytical challenges, particularly regarding the need for more nuanced and intricate analysis, concerning the protection of participant' identity, and the mitigation of the risk of re-identification.
 
-Qualitative data can be more difficult to de-identify compared to quantitative data due to its typically unstructured nature. Another challenge is that qualitative data includes unique personal narratives and contextual details that can inadvertently reveal identities, requiring careful and nuanced de-identification strategies to protect participants' privacy effectively. The process of de-identification or anonymization can also alter or diminish the data's value, especially when the significance lies in capturing personal experiences or narratives. Researchers should consider using de-identification alongside other methods, such as limiting access to the data or obtaining explicit consent from participants to share some or all of their personal information. Because extensive de-identification might sometimes obscure important details needed for deep analysis, striking a balance between removing identifiers and preserving the essential context of the qualitative data is key.
+Qualitative data can be more difficult to de-identify compared to quantitative data due to its typically unstructured nature. Another challenge is that qualitative data includes unique personal narratives and contextual details that can inadvertently reveal identities, requiring careful and nuanced de-identification strategies to protect participants' privacy effectively. The process of de-identification or anonymization can also alter or diminish data value, especially when the significance lies in capturing personal experiences or narratives. Researchers should consider using de-identification alongside other methods, such as limiting access to the data or obtaining explicit consent from participants to share some or all of their personal information. Because extensive de-identification might sometimes obscure important details needed for deep analysis, striking a balance between removing identifiers and preserving the essential context of the qualitative data is key.
 
 In a nutshell, data de-identification entails the process of removing direct and indirect identifiers from a dataset, while maintaining enough information to preserve its value and usability to future research. In this episode, we cover common strategies for de-identifying interview data and recommendations for handling sensitive information.
 
@@ -150,15 +150,15 @@ This handout provides a compilation with some helpful tips:
 
 Source: UCSB Library Data Literacy Series ([perma.cc/LM2L-K8DN](https://perma.cc/LM2L-K8DN)).
 
-Having promised to keep participants' identities confidential, Sarah have assigned pesudonyms to interviewees. However she is uncertain how to handle indirect identifiers. We will help her to address these issues confidently.
+Having promised to keep participants' identities confidential, Sarah have assigned pseudonyms to interviewees. However, she is uncertain how to handle indirect identifiers. We will help her to address these issues confidently.
 
 ::: {.callout-note appearance="simple" collapse="true" icon="false"}
 ## 🏋️‍♀Exercise: Helping Sarah De-identifying Transcripts
 
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
-Let's open the files for Interviews 1 and 3 ([Sara-Project/Data](https://drive.google.com/drive/folders/1SBxXcMPnNdSHDxUFsMfl5u7cTwAzLskT)). To make things easier, we have highlighted some potential sensitive pieces of information. How we would mitigate those issues?
+Let's open the files for `interviewee_01` and `interviewee_03` ([Sara-Project/Data](https://drive.google.com/drive/folders/1SBxXcMPnNdSHDxUFsMfl5u7cTwAzLskT)). To make things easier, we have highlighted some potential sensitive pieces of information. How we would mitigate those issues?
 
-The [Data-Qualcoder](https://drive.google.com/drive/folders/1736eI0a61UkAsMX1sxvbWPzKGVUzrymD) folder contains a possible solution.
+The [Data-Qualcoder](https://drive.google.com/drive/folders/1736eI0a61UkAsMX1sxvbWPzKGVUzrymD) folder contains a possible solution. **(FIXME-ADD SOLLUTION FILE)**
 :::
 :::
 
@@ -170,4 +170,4 @@ Adopting best practices for de-identifying responses from your human participant
 
 Campbell R, Javorka M, Engleton J, Fishwick K, Gregory K, Goodman-Williams R. Open-Science Guidance for Qualitative Research: An Empirically Validated Approach for De-Identifying Sensitive Narrative Data. *Advances in Methods and Practices in Psychological Science*. 2023;6(4). doi:[10.1177/25152459231205832](https://doi.org/10.1177/25152459231205832)
 
-Myers CA, Long SE, Polasek FO. Protecting participant privacy while maintaining content and context: Challenges inqualitative data De-identification and sharing. ProcAssoc Inf Sci Technol. 2020;57:e415. <https://doi.org/10.1002/pra2.415>
+Myers CA, Long SE, Polasek FO. Protecting participant privacy while maintaining content and context: Challenges in qualitative data De-identification and sharing. ProcAssoc Inf Sci Technol. 2020;57:e415. <https://doi.org/10.1002/pra2.415>
