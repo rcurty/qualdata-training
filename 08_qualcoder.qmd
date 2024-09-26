@@ -43,7 +43,7 @@ Other helpful tutorials can be found here: <https://github.com/ccbogel/QualCoder
 
 In QualCoder, *projects* serve as containers for organizing multiple files, cases, and attributes. Each project allows you to manage and analyze a specific set of qualitative data, keeping everything organized. You can create different projects for distinct research questions or datasets, enabling a streamlined workflow. This structure ultimately helps you delve deeper into your analysis without mixing different data sets.
 
-Understanding the roles of files, attributes and cases and their relationships is key to most QDA software. In QualCoder, **files** refer to the individual documents or data sources you import for analysis. You may have more than one file associate with a unique case. **Cases** are specific units of analysis, often linked to files, that allow you to organize and explore your data in a more detailed manner. Together, they create a structured environment for qualitative analysis, allowing you to delve into themes and patterns effectively. In our project example, the cases will consist of individual interviewees, but we could also focus on the niche they belong to if we were to analyze at that level.
+Understanding the roles of files, attributes and cases and their relationships is key to most QDA software. In QualCoder, *files* refer to the individual documents or data sources you import for analysis. You may have more than one file associate with a unique case. *Cases* are specific units of analysis, often linked to files, that allow you to organize and explore your data in a more detailed manner. Together, they create a structured environment for qualitative analysis, allowing you to delve into themes and patterns effectively. In our project example, the cases will consist of individual interviewees, but we could also focus on the niche they belong to if we were to analyze at that level.
 
 For example, let’s imagine that Sarah also collected social media video posts from content creators and digital influencers to analyze behaviors beyond participants’ self-reports, by also checking how they have been engaging with their followers. In this case, she can add video clips to QualCoder and associate them with the same research participant. This structure will depend on the nature of your project, allowing for flexibility in how data is organized and analyzed to best capture the insights you seek.
 
@@ -67,7 +67,7 @@ Select the directory you want to save your qda project and name it `Influencers`
 
 ![](images/creating-new-project.png)
 
-\##### Loading Files
+##### Loading Files
 
 We've created a project, but we don't have any files yet, so let's load them now.
 
