@@ -2,6 +2,8 @@
 title: "Analyzing Data"
 ---
 
+Before we engage with data analysis, we have to create a project in QualCoder. 
+
 Look at this! <https://community.csusm.edu/pluginfile.php/21112/mod_resource/content/1/CresswellJWAndPlanoClarkVLPrinciples_of_QualitativeResearchDesigningQualitativeStudyPPT.pdf>
 
 Refer back to trustworthiness and practical ways to accomplish that Intercode reliability Saturation Triangulation

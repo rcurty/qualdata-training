@@ -51,7 +51,7 @@ For example, let’s imagine that Sarah also collected social media video posts 
 
 As a heads up, QualCoder was not designed having statistical analysis of attributes in mind, for that, you can export attributes as csv files and use R or other open dedicated application. Also, the only current options for attributes are numeric and character, so dates, types or intengers are not supported. To export attributes, use the icon below or
 
-![](images/export-attributes-csv-01.png)
+![](images/export-attributes-csv.png)
 
 You can utilize *Journals* to practice data journaling anddocument ideas and reflections throughout the coding process, making them searchable with regex expressions—a topic we'll explore later. Journals are particularly useful for a bottom-up approaches, requiring multiple iterations to refine your themes and coding scheme. Plus, you can enhance your journaling content with markdown formatting!
 
