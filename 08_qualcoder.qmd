@@ -71,4 +71,7 @@ Select the directory you want to save your qda project and name it `Influencers`
 
 We've created a project, but we don't have any files yet, so let's load them now.
 
-Choose the
+
+------------------------------------------------------------------------
+
+**Recommended/Cited Sources:**
