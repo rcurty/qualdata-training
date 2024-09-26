@@ -11,11 +11,11 @@ From this point onward, we will be working with a fictional research project and
 
 Image Generated using [openart.ai](https://openart.ai/)
 
-In the remaining episodes, we’ll be guiding Sarah, a graduate student in the Communication department, as she embarks on a pilot study with content creators and digital influencers for her dissertation research. Sarah's goal is to understand how influencers, with verified profiles and a large community of followers, perceive their impact on consumerism, their role in shaping their audience shopping behaviors, and their ethical responsibilities when endorsing products and services.
+In the remaining episodes, we’ll be guiding Sarah, a graduate student in the Communication department, as she embarks on a pilot study with content creators/digital influencers for her dissertation research. Sarah's goal is to understand how content creators/influencers, with verified profiles and a large community of followers, perceive their impact on consumerism, their role in shaping their audience shopping behaviors, and their ethical responsibilities when endorsing products and services.
 
 ## Example Research Project
 
-Her main research question is: *How do contet creators/digital influencers view their role in shaping their followers' consumer behavior, and what ethical dilemmas do they face when promoting products?*
+Her main research question is: *How do content creators/digital influencers view their role in shaping their followers' consumer behavior, and what ethical dilemmas do they face when promoting products?*
 
 Given the novelty of this research topic and the limited academic literature available, Sarah hopes that the insights gained from this small-scale qualitative exploratory study will help identify key variables for a larger survey study with a representative sample of content creators/digital influencers across the U.S.
 
@@ -23,7 +23,7 @@ Sarah has previous experience with quantitative methods but is very new to quali
 
 Interviews were conducted over Zoom and audio recorded with participants' consent. The interview included four main questions, which were consistent across all interviews:
 
-*Q1. Please tell me a little about your work as a content creators/digital influencer, how it started, and how you have established yourself in your current niche.*
+*Q1. Please tell me a little about your work as a content creator/digital influencer how it started, and how you have established yourself in your current niche.*
 
 *Q2. In what ways do you believe content creators/digital influencers shape consumer behavior? Could you share any examples?*
 
