@@ -39,7 +39,7 @@ The ultimate goal is that researchers will make more informed decisions on how t
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR](https://perma.cc/CT8P-D5MK)).
+Source: UCSB Library Data Literacy Series ([perma.cc/CT8P-D5MK](https://perma.cc/CT8P-D5MK)).
 
 
 Researchers studying indigenous communities should pay special attention to an additional set of principles, named CARE, an acronym for a set of purpose-oriented principles for Indigenous Data Governance, which aims to help advancing Indigenous innovation, sovereignty, and self-determination.
@@ -48,16 +48,26 @@ Researchers studying indigenous communities should pay special attention to an a
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR]https://perma.cc/3ZHR-6JAG)).
+Source: UCSB Library Data Literacy Series ([perma.cc/3ZHR-6JAG](https://perma.cc/3ZHR-6JAG)).
 
 
 ## Crafting a DMP for Qualitative Research
 
-Fortunately, creating a DMP is simplified with the help of appropriate templates.The DMPTool is an excellent resource for researchers to develop customized data management plans tailored to specific disciplines and funding agencies. To get started with the DMPTool, follow these steps:
+Fortunately, creating a DMP is simplified with the help of appropriate templates.The DMPTool is an excellent resource for researchers to develop customized data management plans tailored to specific disciplines and funding agencies. The handout below outlines  is more information about it:
+
+<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-02/dls-n05-2022-dmptool-navy_0.pdf">
+
+</iframe>
+
+Source: UCSB Library Data Literacy Series ([perma.cc/3HFE-6X7U](https://perma.cc/3HFE-6X7U)).
+
+
+
+To get started with the DMPTool, follow these steps:
 
 1.  Visit [DMPTool](https://dmptool.org/) in your web browser.
 
-2.  On the DMPTool homepage, enter your .utexas.edu email address on the right side and click "Continue."
+2.  On the DMPTool homepage, enter your institutional email address on the right side and click "Continue."
 
 3.  The tool will automatically recognize your affiliation. Click the "Sign in with Institution (SSO)" button to be redirected to the EID sign-in page and complete the sign-in process.
 

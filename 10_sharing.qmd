@@ -7,11 +7,11 @@ editor:
 
 ## Sharing with Caring
 
-Before we dive into what researchers should share and where. Let's try
-something together.
+Before we dive into what researchers should share and where. Let's
+explore something together.
 
 ::: {.callout-note collapse="true" icon="false"}
-# 💭 **Discussion:** Evaluating Data Deposits
+# 💭 **Discussion:** Comparing Data Deposits
 
 Please open the links to the two data deposits below:
 
@@ -25,6 +25,8 @@ Archive. Available from: <https://doi.org/10.15125/BATH-01096>.
 Can you spot any differences? Supposing those were both topics related
 to your research, how likely would you be to reuse one dataset versus
 another? Why?
+
+<div>
 
 **Context and Documentation**
 
@@ -53,6 +55,8 @@ Klein (2022): Higher
     including context about the participants and the study goals. This
     information facilitates a better understanding of how to apply the
     data effectively in new research, making it much more reusable.
+
+</div>
 :::
 
 ## Considerations on What to Share
@@ -70,18 +74,116 @@ adhering to key principles of open practices.
 Also it is important to recap the importance of balancing the value of
 open sharing against the risks of harms associated with the
 identification of participants, communities and research sites. The good
-news is that there are more options in between closed and open access!
+news is that there are more options in between data being closed and
+open!
 
-![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfBqtCTvncJn1zHxWvIY0U7I2vEUuDQWDg9bKHTbQtuudsj6d--c5KEm4Eij7xyDwFR7wP0W7jEdS6us1s_80n-ZTBw_g9jTOAbQ9JHa9TWn2ryCzlJMudwEwOPjrZ9jsgQAgVCBKwo5PiaHI69iXiCA1dwdfw=s2048?key=1nkKb6fHpODzCG9zNj-ckQ){width="246"}
+![](images/openvsclosed.png){fig-align="center" width="300"}
 
-Depending on your project needs and what was promised
+Depending on your project needs and what was agreed in the informed
+consent, we recommend you to consider evaluating access control options,
+they will help you determine which data repository will be most suitable
+for storing and preserving your project data.
 
--   Before sharing the files:
-    <https://managing-qualitative-data.org/modules/3/b/> (types of
-    access controls)
+### Access Control Questions
 
--   When possible, consider sharing de-identified transcripts openly,
-    while placing recordings under more stringent access controls.
+Access controls fall into three main categories:
+
+-   *Who* can access your data? Access may be limited to qualified
+    researchers, often requiring proof of interest through a research
+    proposal, or it may require pre-approval from an Institutional
+    Review Board (IRB) for general requests.
+
+-   *How* can others access your data? Secure internet connections might
+    be required for downloading data, along with agreements regarding
+    data storage and destruction. In some cases, researchers may need to
+    access data in person on a secure, offline computer. Hybrid
+    solutions, like ICPSR’s “virtual enclave,” allow remote viewing
+    without data leaving the server.
+
+-   *When* can others access your data? Embargoes can temporarily
+    restrict access to protect human participants, often allowing
+    researchers to publish findings before wider access. These embargoes
+    can also facilitate long-term data availability, with set dates for
+    lifting restrictions, as seen in historical archives.
+
+### Sharing Levels
+
+-   Openly available: data (typically de-identified) shared with no
+    restrictions.
+
+Example: Cunningham, Una; De Brún, Aoife; Mayumi, Willgerodt et al.
+(2021). Appendices interview formats \[Dataset\]. Dryad.
+<https://doi.org/10.5061/dryad.q83bk3jg8>
+
+-   Subject to Embargo: a temporary restriction on sharing or publishing
+    data. It means that the data can’t be made public for a set period,
+    usually to protect sensitive information, allow for further
+    analysis, or wait for a specific event such as a formal publication
+    before releasing it.
+
+Example: Ibitoye, Mobolaji; OlaOlorun, Funmilola; Casterline, John B..
+2025. "Demand for Modern Contraception in Sub-Saharan Africa: New
+Methods, New Evidence". Qualitative Data Repository.
+<https://doi.org/10.5064/F600CMLO>. QDR Main Collection. V1
+
+-   Closed Access/Metadata Record Only (sensitive data/no consent): a
+    summary and description of a dataset without containing the actual
+    data itself that provides essential information about the dataset's
+    provenance, structure, and context.
+
+Depending on the research case, access can be provided through a Data
+Use Agreement (DUA) which requirements will be also dependenable on IRB
+agreements
+
+-   Data Use Agreement (DUA) required: a contract that outlines the
+    terms and conditions for a recipient to use data from a data owner.
+    It's specific to a project or study and can include limitations on
+    use, data safeguarding obligations, and privacy rights. Some
+    supplementary files (i.e., codebooks, data collection instrument,
+    selected processed data to reproduce specific figures or support
+    some findings).
+
+Example: Steeves, Vicky; Peltzman, Shira; Kim, Julia; Griesinger, Peggy;
+Blumenthal, Karl-Rainer. 2020. "Data for: "What’s Wrong with Digital
+Stewardship: Evaluating the Organization of Digital Preservation
+Programs from Practitioners’ Perspectives"". Qualitative Data
+Repository. <https://doi.org/10.5064/F6DJRPLK>.
+
+::: {.callout-note collapse="true" icon="false"}
+# 💭 **Discussion:** What is the value of sharing a metadata record?
+
+A metadata-only record for research data that isn't openly available
+enables readers to quickly evaluate whether they want to request access.
+While a well-crafted Data Availability Statement in journal papers
+serves a similar purpose, a metadata-only record in a suitable
+repository offers the benefit of being discoverable through data-focused
+searches, along with the ability to provide more detailed descriptions
+through rich, linked, and interoperable metadata.
+:::
+
+A Note About DAS
+
+\<iframe width="50%" height="800"
+src="https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf"\>
+</iframe>"
+
+</iframe>
+
+Source: UCSB Library Data Literacy Series
+(\[perma.cc/3ZHR-6JAG\](<https://perma.cc/3ZHR-6JAG)).>
+
+### Applying Access Controls
+
+Implementing access controls involves a trade-off: while stricter
+controls reduce misuse risk, they can hinder beneficial access. Though
+powerful, they should not unnecessarily complicate access to low-risk
+data. As the principal steward of your data, you ultimately decide on
+access controls. However, it’s advisable to involve repository staff in
+this process, as they can highlight potential challenges, ensuring that
+your data remains accessible and ethically shared in the long run.
+
+-   Sharing de-identified transcripts openly, while placing recordings
+    under more stringent access controls.
 
 -   Do keep a list of de-identification rules, both for yourself, or for
     your team should you collaborate. This list serves as important
@@ -103,10 +205,6 @@ Depending on your project needs and what was promised
     another subject-matter expert for assistance; some repository
     personnel or data librarians can also provide abstract rules that
     you can follow.
-
-## Epistemological Tensions With Sharing Qualitative Data
-
-## Ethical Issues to Address When Sharing Qualitative Data
 
 <https://journals.sagepub.com/doi/10.1177/25152459231205832>
 
@@ -169,6 +267,8 @@ information
 
 • Survey methods or questionnaires with substantial open-ended comments
 
+### What format?
+
 ## Where should you share your project Data
 
 Not locally
@@ -220,13 +320,12 @@ Recommended:
 
 </iframe>
 
-\<iframe width="50%" height="800"
-src="https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf"\>
-</iframe>"
-
-Project example:
-<https://rdr.ucl.ac.uk/articles/dataset/Qualitative_and_output_data_on_loneliness_among_young_adults/17212991/1>
+Source: UCSB Library Data Literacy Series
+(\[perma.cc/[E7BA-BBYE](https://perma.cc/E7BA-BBYE)\](<https://perma.cc/E7BA-BBYE>[)).](https://perma.cc/3ZHR-6JAG)).)
 
 Data Availability Statements
 
 <https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf>
+
+Project example:
+<https://rdr.ucl.ac.uk/articles/dataset/Qualitative_and_output_data_on_loneliness_among_young_adults/17212991/1>
