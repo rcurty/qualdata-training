@@ -2,6 +2,15 @@
 title: "Reusing QHS Data"
 ---
 
+We have seen the importance of sharing well-documented data and cross-reference it to related research deliverables to maximize their reuse value. 
+Data can be reused in various ways,
+
+<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n06-2021-reuse-navy.pdf">
+
+</iframe>
+
+Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR](https://perma.cc/AD4C-272F)).
+
 Throughout this course we have learned
 A reuse case itself.
 
@@ -9,6 +18,8 @@ A reuse case itself.
 
 ## Clearly Acknowledge Inherented Study Limitations
 
+
+Data Citation Handout 
 
 
 Licensing 

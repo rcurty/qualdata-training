@@ -5,7 +5,76 @@ editor:
     wrap: 72
 ---
 
-Remember when we talked about DMPs? Well, at this point the researcher 
+## Sharing with Caring
+
+Before we dive into what researchers should share and where. Let's try
+something together.
+
+::: {.callout-note collapse="true" icon="false"}
+# 💭 **Discussion:** Evaluating Data Deposits
+
+Please open the links to the two data deposits below:
+
+Taherzadeh, O., 2016, "Interview Transcripts", *Interview Transcripts*,
+<https://doi.org/10.7910/DVN/4C9KFK/XRREIY>, Harvard Dataverse, V1
+
+Klein, M., 2022. *Interview transcripts of addiction therapists and
+recovering drug service users.* Bath: University of Bath Research Data
+Archive. Available from: <https://doi.org/10.15125/BATH-01096>.
+
+Can you spot any differences? Supposing those were both topics related
+to your research, how likely would you be to reuse one dataset versus
+another? Why?
+
+**Context and Documentation**
+
+-   Taherzadeh (2016): This deposit lacks detailed contextual
+    information about the study, such as the sample, interview
+    questions, study goals, or informed consent details. It is a
+    standalone collection of transcripts.
+
+-   Klein (2022): This deposit provides clearer context, the objectives
+    of the research and questions asked, and links to the associated
+    dissertation.
+
+**Reuse Value**
+
+Taherzadeh (2016) Dataset: Low
+
+-   The absence of context and supporting documentation makes it
+    challenging to assess the dataset’s validity, reliability, and
+    relevance to other research. Without knowing the background or how
+    the data was collected, it's difficult to justify its use in further
+    studies.
+
+Klein (2022): Higher
+
+-   The dataset seems to come with comprehensive documentation,
+    including context about the participants and the study goals. This
+    information facilitates a better understanding of how to apply the
+    data effectively in new research, making it much more reusable.
+:::
+
+## Considerations on What to Share
+
+Remember when we discussed the importance of outlining data-sharing
+plans in Data Management Plans (DMPs)? At this stage, Sarah could
+greatly benefit from having a clear strategy for archiving and storing
+her data. As we mentioned earlier, understanding the available options
+and having at least a rough plan for what will be shared, along with
+strategies to facilitate the process, is crucial. We provided Sarah with
+recommendations on what to document, and we hope this guidance will
+empower her to share her research deliverables confidently while
+adhering to key principles of open practices.
+
+Also it is important to recap the importance of balancing the value of
+open sharing against the risks of harms associated with the
+identification of participants, communities and research sites. The good
+news is that there are more options in between closed and open access!
+
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfBqtCTvncJn1zHxWvIY0U7I2vEUuDQWDg9bKHTbQtuudsj6d--c5KEm4Eij7xyDwFR7wP0W7jEdS6us1s_80n-ZTBw_g9jTOAbQ9JHa9TWn2ryCzlJMudwEwOPjrZ9jsgQAgVCBKwo5PiaHI69iXiCA1dwdfw=s2048?key=1nkKb6fHpODzCG9zNj-ckQ){width="246"}
+
+Depending on your project needs and what was promised
 
 -   Before sharing the files:
     <https://managing-qualitative-data.org/modules/3/b/> (types of
@@ -44,7 +113,7 @@ Remember when we talked about DMPs? Well, at this point the researcher
 Reasons for sharing -
 
 <https://psycnet.apa.org/fulltext/2017-12030-001.html> Add Table 1:
-Materials that are common;y archived
+Materials that are commonly archived
 
 Levels of sharing:
 
@@ -56,19 +125,13 @@ restricted:
 all:
 <https://researchportal.bath.ac.uk/en/studentTheses/the-lived-experiences-of-relapse-into-opiate-and-crack-cocaine-mi>
 
-Data needs documentation:
-
-Bad example:
-<https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/4C9KFK/XRREIY&version=1.1>
-
-Much Better Example:
-<https://researchportal.bath.ac.uk/en/studentTheses/the-lived-experiences-of-relapse-into-opiate-and-crack-cocaine-mi>
-
 ## What data?
 
-ICPSR's Guide for Sharing Qualitative Data outlines examples of of qualitative data sources that may be archived for secondary analysis:
+ICPSR's Guide for Sharing Qualitative Data outlines examples of of
+qualitative data sources that may be archived for secondary analysis:
 
-• Interview methods, including those captured through notes, audio, and video
+• Interview methods, including those captured through notes, audio, and
+video
 
 -   In-depth and/or unstructured interviews
 
@@ -76,16 +139,23 @@ ICPSR's Guide for Sharing Qualitative Data outlines examples of of qualitative d
 
 -   Focus group interviews
 
-• Diary studies that are unstructured or use semi-structured writing prompts
+• Diary studies that are unstructured or use semi-structured writing
+prompts
 
-• Observational studies that generate field notes and other text and information
+• Observational studies that generate field notes and other text and
+information
 
--   Naturalistic observation of real-world environments (e.g., classrooms, workplaces, healthcare facilities, courtrooms, public
+-   Naturalistic observation of real-world environments (e.g.,
+    classrooms, workplaces, healthcare facilities, courtrooms, public
     spaces)
 
--   Participant observation where the researcher becomes an active part of the setting to collect information (e.g., online gaming, community policing, nightclub culture)
+-   Participant observation where the researcher becomes an active part
+    of the setting to collect information (e.g., online gaming,
+    community policing, nightclub culture)
 
--   Structured observation is where the research has predefined objectives and a systemic approach to collecting information. This would include case studies.
+-   Structured observation is where the research has predefined
+    objectives and a systemic approach to collecting information. This
+    would include case studies.
 
 • Text from available sources
 
@@ -99,7 +169,16 @@ ICPSR's Guide for Sharing Qualitative Data outlines examples of of qualitative d
 
 • Survey methods or questionnaires with substantial open-ended comments
 
-## Where you should share your Data
+## Where should you share your project Data
+
+Not locally
+
+Preferably In a stable and curated
+
+## Choosing a Data Repository
+
+Special considerations for Qualitative Data need to be taken into
+account.
 
 ## Preparing your data for Submission
 
@@ -107,27 +186,34 @@ ICPSR's Guide for Sharing Qualitative Data outlines examples of of qualitative d
 
 Required:
 
--   Original source data, when possible, and as long as it is de-identified
+-   Original source data, whenever possible, and as long as it is
+    de-identified
 
 -   Processed data (e.g., transcripts)
 
 -   Codebook
 
+-   Coded Data
+
 -   Readme
 
--   Instrument for data collection (e.g., survey, interview, etc), if applicable
+-   Instrument for data collection (e.g., survey, interview, etc), if
+    applicable
 
--   Documentation generated in the Qualitative Data Analysis Software (QDAS) application: memos, notes, networks, classifications
+-   Documentation generated in the Qualitative Data Analysis Software
+    (QDAS) application: memos, notes, networks, classifications
 
 Recommended:
 
--   Informed consent statement(s) or assent (see the Human Subjects Data Essentials Primer)
+-   Informed consent statement(s) or assent (see the Human Subjects Data
+    Essentials Primer)
 
 -   IRB protocol (see the Human Subjects Data Essentials Primer)
 
 -   Study protocol or procedures manual
 
--   Data Management Plan --To indicate how long the data needs to be preserved/accessible, and any other stipulations on
+-   Data Management Plan --To indicate how long the data needs to be
+    preserved/accessible, and any other stipulations on
     sharing/management.
 
 <iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2024-07/DLS-202407-QualDataSharing.pdf">
