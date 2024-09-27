@@ -5,6 +5,13 @@ editor:
     wrap: 72
 ---
 
+### Why Sharing Data?
+
+-   Reasons for sharing -
+
+<https://psycnet.apa.org/fulltext/2017-12030-001.html> Add Table 1:
+Materials that are commonly archived
+
 ## Sharing with Caring
 
 Before we dive into what researchers should share and where. Let's
@@ -26,8 +33,7 @@ Can you spot any differences? Supposing those were both topics related
 to your research, how likely would you be to reuse one dataset versus
 another? Why?
 
-<div>
-
+::: {collapse="true"}
 **Context and Documentation**
 
 -   Taherzadeh (2016): This deposit lacks detailed contextual
@@ -55,8 +61,7 @@ Klein (2022): Higher
     including context about the participants and the study goals. This
     information facilitates a better understanding of how to apply the
     data effectively in new research, making it much more reusable.
-
-</div>
+:::
 :::
 
 ## Considerations on What to Share
@@ -132,8 +137,8 @@ Methods, New Evidence". Qualitative Data Repository.
     provenance, structure, and context.
 
 Depending on the research case, access can be provided through a Data
-Use Agreement (DUA) which requirements will be also dependenable on IRB
-agreements
+Use Agreement (DUA) and involve a data enclave for safe access. These
+requirements will be also dependable on IRB and consent form agreements.
 
 -   Data Use Agreement (DUA) required: a contract that outlines the
     terms and conditions for a recipient to use data from a data owner.
@@ -161,7 +166,15 @@ searches, along with the ability to provide more detailed descriptions
 through rich, linked, and interoperable metadata.
 :::
 
-A Note About DAS
+### A Note About DAS
+
+Data Availability Statements (DAS) are crucial for the credibility of
+manuscripts and other published research. They provide interested
+readers—and sometimes automated algorithms—with access to the underlying
+data supporting your claims, allowing them to verify those assertions or
+use the data for further research. We suggest following some best
+practices for crafting statements that are both effective and clear,
+while also complying with funders' and journal policies' requirements.
 
 \<iframe width="50%" height="800"
 src="https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf"\>
@@ -205,23 +218,6 @@ your data remains accessible and ethically shared in the long run.
     another subject-matter expert for assistance; some repository
     personnel or data librarians can also provide abstract rules that
     you can follow.
-
-<https://journals.sagepub.com/doi/10.1177/25152459231205832>
-
-Reasons for sharing -
-
-<https://psycnet.apa.org/fulltext/2017-12030-001.html> Add Table 1:
-Materials that are commonly archived
-
-Levels of sharing:
-
-documentation and metadata (codebook only) -
-<https://datadryad.org/stash/dataset/doi:10.5061/dryad.z612jm6hw>
-
-restricted:
-
-all:
-<https://researchportal.bath.ac.uk/en/studentTheses/the-lived-experiences-of-relapse-into-opiate-and-crack-cocaine-mi>
 
 ## What data?
 
@@ -323,9 +319,25 @@ Recommended:
 Source: UCSB Library Data Literacy Series
 (\[perma.cc/[E7BA-BBYE](https://perma.cc/E7BA-BBYE)\](<https://perma.cc/E7BA-BBYE>[)).](https://perma.cc/3ZHR-6JAG)).)
 
-Data Availability Statements
-
-<https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf>
-
 Project example:
 <https://rdr.ucl.ac.uk/articles/dataset/Qualitative_and_output_data_on_loneliness_among_young_adults/17212991/1>
+
+------------------------------------------------------------------------
+
+**Recommended/Cited Sources:**
+
+Campbell R, Javorka M, Engleton J, Fishwick K, Gregory K,
+Goodman-Williams R. Open-Science Guidance for Qualitative Research: An
+Empirically Validated Approach for De-Identifying Sensitive Narrative
+Data. *Advances in Methods and Practices in Psychological Science*.
+2023;6(4).
+doi:[10.1177/25152459231205832](https://doi.org/10.1177/25152459231205832)
+
+Myers CA, Long SE, Polasek FO. Protecting participant privacy while
+maintaining content and context: Challenges in qualitative data
+De-identification and sharing. ProcAssoc Inf Sci Technol. 2020;57:e415.
+<https://doi.org/10.1002/pra2.415>
+
+DuBois, J. M., Strait, M., & Walsh, H. (2018). Is it time to share
+qualitative research data?*Qualitative Psychology, 5*(3), 380–393.
+https://doi.org/10.1037/qup0000076
