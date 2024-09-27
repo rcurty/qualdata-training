@@ -2,15 +2,9 @@
 title: "Analyzing Data"
 ---
 
-Before we engage with data analysis, we have to create a project in QualCoder. 
-
-Look at this! <https://community.csusm.edu/pluginfile.php/21112/mod_resource/content/1/CresswellJWAndPlanoClarkVLPrinciples_of_QualitativeResearchDesigningQualitativeStudyPPT.pdf>
-
-Refer back to trustworthiness and practical ways to accomplish that Intercode reliability Saturation Triangulation
-
 ## The Role of Contextuality
 
-Qualitative data can be explored and re-analyzed to uncover hidden meanings and deeply unfold historical, social and cultural contexts and their entanglement with human subjects' attitudes, behaviors and opinions. An important contextual issue regarding qualitative data concerns the ‘traces’ left by different perspectives on the material. Texts, whether from interviews, social media, or embedded in an artifact, are not just produced under certain material conditions embedded within socio-cultural contexts, but they are also produced to do something and becomes part of the context to be understood [@silva2007].
+Qualitative data can be explored and re-analyzed to uncover hidden meanings and deeply unfold historical, social and cultural contexts and their entanglement with human subjects' attitudes, behaviors and opinions. An important contextual issue regarding qualitative data concerns the ‘traces’ left by different perspectives on the material. Texts, whether from interviews, social media, or embedded in an artifact, are not just produced under certain material conditions embedded within socio-cultural contexts, but they are also produced to do something and becomes part of the context to be understood.
 
 ## A Few Words about Secondary Analysis
 
@@ -54,15 +48,29 @@ Data can be arranged and coded following a deductive (top-down) approach, where 
 
 ![](images/bottom-up-coding.png){width="800"}
 
-![](images/top-down-coding.png){width="400"}
+![](images/top-down-coding.png){width="300"}
 
-Images from: <https://delvetool.com/blog/deductiveinductive>
+Source: <https://delvetool.com/blog/deductiveinductive>
 
 ![](images/6_steps_desktop.webp)
 
-Image source: [https://www.nngroup.com/articles/thematic-analysis](https://www.nngroup.com/articles/thematic-analysis/)
+Source: [https://www.nngroup.com/articles/thematic-analysis](https://www.nngroup.com/articles/thematic-analysis/)
 
-The top-down approach begins with a specific theoretical framework or research question. Data collection and analysis are guided by preconceived hypotheses, focusing on confirming or refuting these hypotheses. While it provides more direction to the research processs, it may limit alternative perspectives or emergent themes not accounted for in the initial framework.In contrast, the bottom-up approach is exploratory and higly flexible as they are no predetermined categories or hypothesis, it has its basis on grounded theory, meaning that themes emerge directly from the data through open coding and analysis, allowing a wide range of topics and potential unexpected insights to be extracted from the data.
+The top-down approach begins with a specific theoretical framework or research question. Data collection and analysis are guided by preconceived hypotheses, focusing on confirming or refuting these hypotheses. While it provides more direction to the research process, it may limit alternative perspectives or emergent themes not accounted for in the initial framework.In contrast, the bottom-up approach is exploratory and highly flexible as they are no predetermined categories or hypothesis, it has its basis on grounded theory, meaning that themes emerge directly from the data through open coding and analysis, allowing a wide range of topics and potential unexpected insights to be extracted from the data.
+
+::: {.callout-note collapse="true"}
+## A note about saturation
+
+How many interviews are enough? Determining how many qualitative interviews are sufficient is a complex question, often yielding nuanced answers.
+
+Data saturation is frequently cited as a measure of quality in qualitative research and used to justify purposive small samples, being primarily reliant on the point at which little new information is obtained, known as thematic saturation. In theory, thematic saturation occurs when interviews or observations start lacking variability to only reveal recurring themes, indicating that further data collection is unlikely to yield new insights. When researchers observe a plateau in these findings, it often signals that they may have reached an adequate sample size.
+
+However, assessing saturation is not straightforward and much left to interpretation; as it involves subjective judgments about rigor, precision, and confidence. Often times, researchers may claim to have achieved saturation to meet certain criteria without adequately explaining what it entails in their specific context or how they reached that conclusion.
+
+This lack of justification can undermine the transparency and credibility of qualitative studies. The notion of data saturation is often insufficiently examined and can be problematic and contradictory when applied broadly to qualitative research. It might be more appropriate to reserve the concept of data saturation for grounded theory, where there is a clear framework for its application.
+
+While there is no consensus on minimal sample sizes for qualitative research. There is a general recommendation of 6–30 interviews for most qualitative research.
+:::
 
 ::: callout-tip
 ## Time to Practice! 💪🏼
@@ -76,8 +84,10 @@ Exercise Sheet ([add link](https://docs.google.com/document/d/1Kxjx_Wp0PQ29e3Xhs
 
 We will get more into this in later episodes where we will further explore different strategies to perform coding assisted by a QDA open and free software.
 
-**Consider a note about salience and saturation: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7200005/>**
-
 ------------------------------------------------------------------------
 
-**Recommended & Cited Sources:**
+**Recommended/Cited Sources:**
+
+Guest, G., Namey, E., & Chen, M. (2020). A simple method to assess and report thematic saturation in qualitative research. PloS one, 15(5), e0232076. <https://doi.org/10.1371/journal.pone.0232076>
+
+van Rijnsoever F. J. (2017). (I Can't Get No) Saturation: A simulation and guidelines for sample sizes in qualitative research. PloS one, 12(7), e0181689. <https://doi.org/10.1371/journal.pone.0181689>
