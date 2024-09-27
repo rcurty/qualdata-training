@@ -5,14 +5,42 @@ editor:
     wrap: 72
 ---
 
-### Why Sharing Data?
+### Why Sharing Qualitative Data?
 
--   Reasons for sharing -
+Sharing qualitative data benefits both the scholarly community and
+researchers in several ways:
 
-<https://psycnet.apa.org/fulltext/2017-12030-001.html> Add Table 1:
-Materials that are commonly archived
+1.  **Fostering Public Trust**: Transparency enhances public confidence
+    in research outcomes, vital for securing funding and support for
+    future projects. It allows for verification of claims, reinforcing
+    trust in the research.
+
+2.  **Dynamic Research Environment**: While qualitative research invites
+    diverse interpretations, sharing data fosters improved research
+    quality through collaborative critique and examination.
+
+3.  **Enabling New Research**: Access to shared data inspires innovative
+    analyses, maximizing the scientific value of existing studies.
+
+4.  **More Effective Use of Resources**: Data sharing reduces costs
+    related to new data collection, promoting efficient resource
+    utilization and minimizing the burden on frequently targeted
+    communities.
+
+5.  **Skill Development for Trainees**: It offers students valuable
+    opportunities to learn coding and analysis techniques, enhancing
+    their educational experience.
+
+6.  **Receiving Credit**: Sharing data ensures proper attribution,
+    allowing researchers to gain recognition for their work.
+
+7.  **Opportunities for Collaboration**: Open data fosters partnerships
+    among researchers, leading to new insights and advancements.
 
 ## Sharing with Caring
+
+When sharing data, researchers should make their best effort to provide
+complete and good quality documentation to support reuse.
 
 Before we dive into what researchers should share and where. Let's
 explore something together.
@@ -265,20 +293,14 @@ information
 
 ### What format?
 
-## Where should you share your project Data
+### Where should you share your project Data?
 
-Not locally
-
-Preferably In a stable and curated
-
-## Choosing a Data Repository
+### Choosing a Data Repository
 
 Special considerations for Qualitative Data need to be taken into
 account.
 
-## Preparing your data for Submission
-
-### Documenting your Data
+### Preparing your data for Submission
 
 Required:
 
@@ -319,8 +341,16 @@ Recommended:
 Source: UCSB Library Data Literacy Series
 (\[perma.cc/[E7BA-BBYE](https://perma.cc/E7BA-BBYE)\](<https://perma.cc/E7BA-BBYE>[)).](https://perma.cc/3ZHR-6JAG)).)
 
-Project example:
-<https://rdr.ucl.ac.uk/articles/dataset/Qualitative_and_output_data_on_loneliness_among_young_adults/17212991/1>
+### Licensing Your Data
+
+Licensing
+
+\<iframe width="25%" height="450"
+src="<iframe width="25%" height="450" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n10-2021-licensing-navy_0.pdf">
+</iframe>"
+
+Source: UCSB Library Data Literacy Series
+(\[perma.cc/[ET6F-N84X](https://perma.cc/ET6F-N84X)\]([https://perma.cc/ET6F-N84X)](https://perma.cc/ET6F-N84X))
 
 ------------------------------------------------------------------------
 

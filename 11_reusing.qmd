@@ -2,8 +2,7 @@
 title: "Reusing QHS Data"
 ---
 
-We have seen the importance of sharing well-documented data and cross-reference it to related research deliverables to maximize their reuse value. 
-Data can be reused in various ways,
+We have seen the importance of sharing well-documented data and cross-reference it to related research deliverables to maximize their reuse value. Research data can be reused in various ways as outlined in the handout below:
 
 <iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n06-2021-reuse-navy.pdf">
 
@@ -11,24 +10,38 @@ Data can be reused in various ways,
 
 Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR](https://perma.cc/AD4C-272F)).
 
-Throughout this course we have learned
-A reuse case itself.
+The [UK Data Archive](https://ukdataservice.ac.uk/learning-hub/qualitative-data/reusing-qualitative-data/approaches-to-reusing-qualitative-data/) highlights a the main ways qualitative data tend to be reused:
 
-## Citation and Attribution
+-   *Description:* Previous research can be utilized to describe the attributes, attitudes, and behaviors of individuals, societies, groups, or organizations during the original project period.
 
-## Clearly Acknowledge Inherented Study Limitations
+-   *Comparative Research:* This approach enables comparisons over time or among different social groups or regions.
 
+-   *Reanalysis:* Involves posing new questions to the data and interpreting it in ways not addressed by the original researchers. This could include exploring different themes or topics. The richness and contextual detail of the raw data enhance the potential for fresh insights, without attempting to undermine previous analyses.
 
-Data Citation Handout 
+-   *Research Design and Methodological Advancement:* This approach focuses on designing new studies or developing methodologies and research tools. By examining sampling methods, data collection strategies, and topic guides, researchers can gain valuable insights. While researchers often publish sections on methods, their fieldwork diaries and analytic notes can provide deeper context about the research's development.
 
+-   *Learning and Teaching:* Both classic and contemporary studies serve as valuable case materials for teaching research methods and substantive topics across various social science disciplines.
 
-Licensing 
+When considering various approaches to data reuse, researchers should ask the following questions:
 
-\<iframe width="25%" height="450"
-src="<iframe width="25%" height="450" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n10-2021-licensing-navy_0.pdf">
-</iframe>"
+-   What are the purposes of reuse?
 
+-   Do you fully understand the licenses or any restrictions applied to your data of interest?
 
-\<iframe width="25%" height="450"
-src="<iframe width="25%" height="450" src="https://rcd.ucsb.edu/sites/default/files/2024-04/DLS-202404-ConsentDataSharing%26Reuse-navy.pdf">
-</iframe>"
+-   Are the new questions similar to or significantly different from those posed by the original researchers?
+
+-   Do you have a full understanding of the study limitations?
+
+    Some of these answers will also help to inform a Data Request for controlled access data.
+
+### Citation & Attribution
+
+Data Citation
+
+\<iframe width="25%" height="450" src="<iframe width="25%" height="450" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls_n2_datacitation_navy_1.pdf"> </iframe>"
+
+Source: UCSB Library Data Literacy Series (\[perma.cc/[VHW9-9EPQ](https://perma.cc/VHW9-9EPQ)\](<https://perma.cc/VHW9-9EPQ>))
+
+Reuse/Consent
+
+\<iframe width="25%" height="450" src="<iframe width="25%" height="450" src="https://rcd.ucsb.edu/sites/default/files/2024-04/DLS-202404-ConsentDataSharing%26Reuse-navy.pdf"> </iframe>"
