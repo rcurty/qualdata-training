@@ -10,7 +10,7 @@ Qualitative data can be more difficult to de-identify compared to quantitative d
 
 In a nutshell, data de-identification entails the process of removing direct and indirect identifiers from a dataset, while maintaining enough information to preserve its value and usability to future research. In this episode, we cover common strategies for de-identifying interview data and recommendations for handling sensitive information.
 
-::: {.callout-note icon="false"}
+::: {.callout-note collapse="true" icon="false"}
 ## 🤔 Should all data derived from human subjects always be de-identified?
 
 Not all qualitative data collected from human participants requires de-identification. First, it depends on the agreement made with the research subject and the nature of the study. Also, oral history research and "on the record," interviews resulting notes or transcripts can be shared with the respondent's name, especially for well-known figures who are used to journalistic interviews. However, be aware of local practices: in some regions, interviewees may have the right to review the written record before it is shared or published. Data that is already part of the public record, such as public statements by politicians, does not need to be de-identified.
