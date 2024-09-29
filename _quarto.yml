@@ -33,33 +33,35 @@ website:
         - text: Qualitative Data
           href: 01_qual-data.qmd
         - text: Data Management Planning
-          href: 01_dmp.qmd
+          href: 02_dmp.qmd
         - text: Ethical Considerations for HS Research
-          href: 02_ethics.qmd
+          href: 03_ethics.qmd
         - text: Interview Data
-          href: 03_data-interviews.qmd
+          href: 04_data-interviews.qmd
         - text: Running Example
-          href: 04_example.qmd
+          href: 05_example.qmd
     - section: "Analyzing & Documenting"
       contents:     
         - text: Data De-identification
-          href: 05_deidentification.qmd
+          href: 06_deidentification.qmd
         - text: Coding Analysis
-          href: 06_coding.qmd
+          href: 07_coding.qmd
         - text: Computer-Aided Analysis Tools
-          href: 07_tools.qmd
-        - text: Qualcoder Software
-          href: 08_qualcoder.qmd
+          href: 08_tools.qmd
+        - text: Qualcoder
+          href: 09_qualcoder.qmd
+        - text: Practing Coding with Qualcoder 
+          href: 10_coding-qualcoder.qmd
         - text: Data Documentation  
-          href: 09_documenting.qmd
+          href: 11_documenting.qmd
     - section: "Sharing & Archiving"
       contents:      
          - text: Sharing and Archiving
-           href: 10_sharing.qmd
+           href: 12_sharing.qmd
     - section: "Reusing"
       contents:    
          - text: Reusing
-           href: 11_reusing.qmd
+           href: 13_reusing.qmd
   page-footer:
     background: blue
     center: This website is built with [Quarto](https://quarto.org/), [RStudio/Posit](https://posit.co/),
