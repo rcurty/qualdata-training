@@ -51,7 +51,7 @@ website:
         - text: Qualcoder
           href: 09_qualcoder.qmd
         - text: Practing Coding with Qualcoder 
-          href: 10_coding-qualcoder.qmd
+          href: 10_qualcoder-coding.qmd
         - text: Data Documentation  
           href: 11_documenting.qmd
     - section: "Sharing & Archiving"
