@@ -30,7 +30,7 @@ Even though the types of studies listed above are typically not considered human
 
 Jokes aside, IRB boards are tasked with guaranteeing the full protection of the rights and welfare research participants through ethical oversight and by monitoring compliance with regulations. Most importantly, **you should NOT start a project or even a pilot study before obtaining a formal determination** from the IRB or Research Integrity Office. This is crucial to ensure you are in compliance with all relevant regulations and ethical guidelines for research involving human participants.
 
-::: callout-important
+::: {.callout-important collapse="true"}
 ## Requesting a Formal Determination
 
 At UCSB, researchers should fill out this [checklist](https://www.research.ucsb.edu/sites/default/files/forms/hs/hsc-human%20subjects%20research%20determination%20form.docx) and follow the submission instructions outlined in the form. Ensure to check specific guidelines and policies at your institution.
@@ -156,10 +156,10 @@ This handout provides a compilation of helpful tips:
 
 Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR](https://perma.cc/U4D8-UYFR)).
 
-::: callout-important
-**Additional Considerations:**
+::: {.callout-important collapse="true"}
+## Additional Considerations
 
--   *Alignment with repository access policies:* Ensure consent language supports options for data deposition (controlled or public) supported by your chosen data repository.
+-   *Alignment with repository access policies:* Ensure consent language supports options for data deposition (controlled or public) supported by the repository of your choice.
 
 -   *Modular Consent:* You may also consider creating flexible consent language to adjust future data sharing options and obtain separate signatures for different uses.
 
@@ -173,11 +173,9 @@ Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR](https://perma.cc
 
 Now that we have learned about the importance of consent forms and some recommendations to craft these documents, in pairs, let's access the archive for the two projects below:
 
-Klein, M., 2022. *Interview transcripts of addiction therapists and recovering drug service users.* Bath: University of Bath Research Data Archive. Available from: <https://doi.org/10.15125/BATH-01096>.
-
 VandeVusse, Alicia; Mueller, Jennifer. 2021. "Data for: Qualitative Data Sharing: Participant Understanding, Motivation, and Consent". Qualitative Data Repository.<https://doi.org/10.5064/F6YYA3O3>. QDR Main Collection. V2
 
-Let's review the project ethical documentation. Please check their consent forms and reflect on the following:
+Let's review the project ethical documentation. Please check the consent form and reflect on the following:
 
 -   What are the strengths of this consent form? What elements contribute positively to ethical and legal clarity?
 
