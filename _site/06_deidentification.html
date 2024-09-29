@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Handling and Sharing Qualitative Data Responsibly and Effectively - Qualitative Data</title>
+<title>Handling and Sharing Qualitative Data Responsibly and Effectively - Data De-identification</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./02_dmp.html" rel="next">
-<link href="./index.html" rel="prev">
+<link href="./07_coding.html" rel="next">
+<link href="./05_example.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -109,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_qual-data.html">Planning &amp; Collecting</a></li><li class="breadcrumb-item"><a href="./01_qual-data.html">Qualitative Data</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./06_deidentification.html">Analyzing &amp; Documenting</a></li><li class="breadcrumb-item"><a href="./06_deidentification.html">Data De-identification</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -129,16 +129,16 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
  <span class="menu-text">Planning &amp; Collecting</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./01_qual-data.html" class="sidebar-item-text sidebar-link active">
+  <a href="./01_qual-data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Qualitative Data</span></a>
   </div>
 </li>
@@ -170,16 +170,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
  <span class="menu-text">Analyzing &amp; Documenting</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./06_deidentification.html" class="sidebar-item-text sidebar-link">
+  <a href="./06_deidentification.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Data De-identification</span></a>
   </div>
 </li>
@@ -258,9 +258,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content column-page-right" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_qual-data.html">Planning &amp; Collecting</a></li><li class="breadcrumb-item"><a href="./01_qual-data.html">Qualitative Data</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./06_deidentification.html">Analyzing &amp; Documenting</a></li><li class="breadcrumb-item"><a href="./06_deidentification.html">Data De-identification</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Qualitative Data</h1>
+<h1 class="title">Data De-identification</h1>
 </div>
 
 
@@ -277,76 +277,283 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/qualvsquanti-01.png" class="img-fluid figure-img"></p>
-<figcaption>Quantiative vs.&nbsp;Qualitative Data</figcaption>
-</figure>
-</div>
-<p>Qualitative data refers to any non-numeric forms of data that are typically textual, audio, images, or video recordings, which can be transcribed or described. This type of data includes field notes, interviews, social media content (e.g., posts, comments), archival documents, and more.</p>
-<p>Qualitative data delves into the “why” and “how” of research questions, aiming to understand underlying motivations, behaviors, and experiences. Considering their It can complement quantitative data in mixed methods studies by providing deeper insights, context, and understanding of complex research phenomena.</p>
-<p>Despite of its advantages, handling and analyzing qualitative data requires specialized skills, tools, and techniques to overcome the following challenges:</p>
-<ul>
-<li><p><em>Volume and lack of structure</em>: qualitative data is often unstructured, voluminous, and more time-consuming to organize and analyze.</p></li>
-<li><p><em>Subjectivity and sensitivity</em>: researchers may have different perspectives on the meaning and significance of qualitative data, leading to potential biases, and reliability and validity issues.</p></li>
-<li><p><em>Labor-intensive:</em> collecting, transcribing and analyzing large volumes of qualitative data can be time-consuming. Qualitative data analysis typically requires multiple iterations and refinements and extra effort regarding the removal of sensitive information.</p></li>
-</ul>
-<p>Qualitative researchers should be aware of the above limitations and plan accordingly in order to identify ways to improve the transparency and reusability of their work.</p>
-<section id="scientific-rigor-in-qualitative-research" class="level2">
-<h2 class="anchored" data-anchor-id="scientific-rigor-in-qualitative-research">Scientific Rigor in Qualitative Research</h2>
-<p>Scientific rigor manifests differently in qualitative research. Unlike quantitative research, which produces numerical results, qualitative research yields findings. These findings consist of insights, themes, and patterns that emerge from analyzing non-numerical. They offer a descriptive and interpretive understanding of the studied phenomenon and play a crucial role in theory-building and contextual understanding, laying the groundwork for exploring phenomena in depth and inform practical applications.</p>
-<p>A key challenge in qualitative research is establishing the credibility of these findings, as they lack the objective metrics used in quantitative research, such as validity and reliability checks. Also, instead of aiming for generalizability to a broader population, qualitative research provides in-depth insights into specific contexts or groups, enhancing our understanding of the subject matter within those contexts.</p>
-<p>Qualitative researchers use the concept of “trustworthiness” as a foundational scientific rigor principle, which is built on four key pillars:</p>
-<ol type="1">
-<li><p><em>Credibility:</em> the confidence in the truthfulness of the findings.</p></li>
-<li><p><em>Transferability:</em> the extent to which the findings are applicable to other contexts.</p></li>
-<li><p><em>Dependability:</em> the consistency of the findings and their potential for replication.</p></li>
-<li><p><em>Confirmability:</em> the degree to which the findings are shaped by the respondents rather than influenced by researcher bias or personal interests.</p></li>
-</ol>
-<p>Later in this course, we’ll cover some practical recommendations to increase the trustworthiness of your qualitative research findings.</p>
-</section>
-<section id="data-types-in-qualitative-research" class="level2">
-<h2 class="anchored" data-anchor-id="data-types-in-qualitative-research">Data Types in Qualitative Research</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/qualdata-examples-banner.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="689"></p>
-</figure>
-</div>
-<p>Qualitative data includes a diverse array of sources, ranging from those obtained through direct interaction with human participants to those generated independently of a research protocol. Although not originally intended for research, some data can still be analyzed and explored through a research lens. Think about a sociologist or communication researcher who analyzes social media posts to study the public discourse on a particular topic.</p>
-<p>Qualitative data types include written text, recordings and their transcriptions, and imagery found in diaries, personal notes, letters, emails, news articles, social media platforms, official documents, policies, medical records, meeting minutes, and other organizational documents and much more. These sources are analyzed to gain insights into attitudes, behaviors, and cultural norms in a variety of topics.</p>
-<p>Qualitative data also includes the analysis of literature, film, music, and artifacts—whether produced, valued, accumulated, or possessed by research participants or their communities. These artifacts, such as products, remains, artwork, photographs, or prototypes, can reveal both explicit and implicit (or overt and covert) values, attitudes, beliefs, and experiences that are crucial for understanding the phenomenon under study.</p>
+<p>Disclosing sensitive information without proper safeguards can lead to significant harm and jeopardize not only the well-being of participants but also the integrity and trustworthiness of the research process.</p>
+<p>The richness of the data obtained through interviews presents additional ethical and analytical challenges, particularly regarding the need for more nuanced and intricate analysis, concerning the protection of participant’ identity, and the mitigation of the risk of re-identification.</p>
+<p>Qualitative data can be more difficult to de-identify compared to quantitative data due to its typically unstructured nature. Another challenge is that qualitative data includes unique personal narratives and contextual details that can inadvertently reveal identities, requiring careful and nuanced de-identification strategies to protect participants’ privacy effectively. The process of de-identification or anonymization can also alter or diminish data value, especially when the significance lies in capturing personal experiences or narratives. Researchers should consider using de-identification alongside other methods, such as limiting access to the data or obtaining explicit consent from participants to share some or all of their personal information. Because extensive de-identification might sometimes obscure important details needed for deep analysis, striking a balance between removing identifiers and preserving the essential context of the qualitative data is key.</p>
+<p>In a nutshell, data de-identification entails the process of removing direct and indirect identifiers from a dataset, while maintaining enough information to preserve its value and usability to future research. In this episode, we cover common strategies for de-identifying interview data and recommendations for handling sensitive information.</p>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-💭 <strong>Discussion:</strong> Can you think of any examples where an everyday artifact can be used in research to provide valuable insights about a specific group?
+🤔 Should all data derived from human subjects always be de-identified?
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>A collection of protest signs from a social movement could be one. These signs might initially appear to be simple expressions of demands or slogans. However, analyzing the language, imagery, and symbolism used can uncover underlying values, emotions, and the collective identity of the movement. For instance, the choice of words, the use of humor or anger, and the symbols depicted can reveal insights into the group’s attitudes towards authority, their sense of justice, and the cultural or references that have historically resonate with them. This deeper analysis helps in understanding the broader social and political context in which the movement operates.</p>
+<p>Not all qualitative data collected from human participants requires de-identification. First, it depends on the agreement made with the research subject and the nature of the study. Also, oral history research and “on the record,” interviews resulting notes or transcripts can be shared with the respondent’s name, especially for well-known figures who are used to journalistic interviews. However, be aware of local practices: in some regions, interviewees may have the right to review the written record before it is shared or published. Data that is already part of the public record, such as public statements by politicians, does not need to be de-identified.</p>
 </div>
 </div>
 </div>
-<p>Qualitative data can be collected through various research methods. Defining the best approach to obtain qualitative data depends on several factors, including the research question(s), the dispersion of research subjects, the nature of the data needed, and the context of the study. Below, are the most common methods:</p>
+<section id="direct-vs-indirect-identifiers" class="level2">
+<h2 class="anchored" data-anchor-id="direct-vs-indirect-identifiers">Direct vs Indirect Identifiers</h2>
+<p>A person’s identity can be disclosed from direct identifiers, unique to an individual or indirect identifiers which, when linked with other available information, could identify someone.</p>
+<p>Direct identifiers are pieces of information that can immediately identify an individual on their own, such as a social security number, full name, email address, home address, or phone number. In contrast, indirect identifiers are data points that do not uniquely identify someone by themselves but can do so when combined with other information. Examples of indirect identifiers include job title, gender, and ethnicity. The risk associated with indirect identifiers can vary depending on the context and the availability of additional data. Therefore, it is crucial to understand which data points are relevant within the context of the study and to consider both direct and indirect identifiers to effectively protect privacy and minimize the risk of identification.</p>
+<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls_n3_dataprivacy_navy_0.pdf">
+</iframe>
+<p>Source: UCSB Library Data Literacy Series (<a href="https://perma.cc/YEN7-XBDY">perma.cc/LM2L-K8DN</a>).</p>
+<p>Initially, researchers might change names and disguise locations, but effectively managing identifying details in qualitative data requires a nuanced approach. Anonymity and privacy exist on a spectrum, so researchers must balance the risk of identification with the needs of their research.</p>
+<p>When data isn’t fully anonymised, including cases of potential indirect identification, obtaining explicit consent is essential before public release. This consent should be secured either at the time of data collection or prior to publication.</p>
+<p>One significant challenge arises with indirect identification, particularly in small groups where participants know each other. This issue can be exacerbated by existing power dynamics, such as those between a team and its leader. Therefore, researchers must transparently communicate the risks of identity disclosure to participants and respect their wishes.</p>
+<p>To mitigate these risks, techniques such as using multiple pseudonyms, rephrasing quotes, and breaking known links can be effective. These methods help protect participant identities while allowing for restricted sharing of the dataset.</p>
+<p>However, there may be situations where these strategies are not feasible. In such cases, researchers need to carefully consider how to obtain consent for disclosing an individual’s identity without inadvertently revealing the identities of others. Ultimately, the outcomes of these processes should be documented in the data management plan and ethics application, ensuring that all considerations are addressed.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+💭 Discussion: What could be potential direct and indirect identifiers in the context of Sarah’s research?
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Answer: Social media usernames or handles are considered direct identifiers, while patterns in use of custom tags and symbols, bios and profile descriptions and catchphrases combined might direct identify users, especially in niche activities.</p>
+<p>Consider the infamous <a href="https://www.forbes.com/sites/danafeldman/2024/07/17/how-to-write-a-hollywood-script-and-avoid-the-baby-reindeer-legal-trap">Baby Reindeer Netflix series lawsuit</a>, in which a simple keyword search on Twitter swiftly uncovered the identity of the real person behind the pseudonym used in the series.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="data-de-identification-essentials" class="level2">
+<h2 class="anchored" data-anchor-id="data-de-identification-essentials">Data De-identification Essentials</h2>
+<p>The existing literature provides limited guidance on de-identifying qualitative data, with most researchers relying on <em>ad hoc</em> strategies. Perhaps the most robust and up-to-date methodological framework for handling sensitive narrative data is found in Campbell and co-authors (2023) multiphased process inspired by common qualitative coding techniques.</p>
+<p>In the first phase, the process involves consultations with a range of stakeholders and subject-matter experts to identify risks related to re-identifiability and concerns about data sharing. The second phase outlines an iterative approach to identifying potentially identifiable information and developing tailored remediation strategies through group review and consensus. The final phase includes multiple methods for evaluating the effectiveness of the de-identification efforts, ensuring that the remediated transcripts adequately protect participants’ privacy. If your project involves working with vulnerable or protected groups, or handling sensitive data, we strongly recommend reviewing and applying this framework to your research.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/transcript-remediation.jpeg" class="img-fluid figure-img" width="809"></p>
+<figcaption>Qualitative Data De-identification Overview. Source: Campbell et al.&nbsp;(2023)</figcaption>
+</figure>
+</div>
+<p>These three phases can be broken into tasks, actions and examples:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 15%">
+<col style="width: 22%">
+<col style="width: 25%">
+<col style="width: 35%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Phase goal</th>
+<th>Tasks</th>
+<th>Actions</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p>Phase 1:</p>
+<p>Develop a process to distinguish potentially identifiable data</p></td>
+<td>Create a coding framework</td>
+<td>Consult with stakeholders and look for strategies followed by similar projects</td>
+<td>Regulatory guidance (HIPPAA, IRB, relevant professional and research associations)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td>Subject-matter experts familiar with the population studied</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td>Publicly available records that may contain same/similar information as the research-interview transcripts</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td>Draft a codebook</td>
+<td>Scan for named entities (e.g., names, places, dates)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td>List potential identifiable topics</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td>Guidance for evaluating ambiguous information others or public records might have and that combined could jeopardize privacy and confidentiality</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Phase 2:</p>
+<p>Remediate potentially identifiable data</p></td>
+<td>Establish a coding team*</td>
+<td>Hire and train coders</td>
+<td>Include coders with varying levels of familiarity with the data</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td>Review transcripts and propose re mediation plans</td>
+<td>Highlight each data point and create an audit trail containing proposed edits</td>
+<td>Draft blurred text</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td>Bracket redacted text</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td></td>
+<td>Review proposed remediation plans and discuss as a team</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td>Implement remediation plans</td>
+<td>Edit and redact text</td>
+<td>Insert blurred text, remove redacted text, and insert summaries in the event of important long redactions</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td>Provide support to coding team if there will be repeated exposure to traumatic con tent*</td>
+<td>Check in with team members regarding their experiences of vicarious trauma</td>
+<td>Provide information and support regarding the emotional impact of repeated exposure to traumatic content and offer supportive resources</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Phase 3:</p>
+<p>Assess the validity of the de-identification analyses</p></td>
+<td>Select validity standards</td>
+<td>Assess credibility (i.e., confidence in the accuracy of the findings)</td>
+<td>Use of prolonged engagement, persistent engagement, and member checks to assess accuracy of the findings</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td>Assess dependability (i.e., the findings are consistent and could be repeated)</td>
+<td>Use of codebooks, memos, and audit trails to document analyses</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td></td>
+<td>Assess transferability (i.e., the findings have applicability in other con texts)</td>
+<td>Provide audiences with sufficient detail about the project so they can assess whether conclusions are transferable to other settings</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td></td>
+<td>Assess confirmability (i.e., the findings reflect the participants’ views, not the researchers’ biases)</td>
+<td>Consider how re searchers’ positionalities affected the processes and findings and when necessary, recenter the participants’ views</td>
+</tr>
+</tbody>
+</table>
+<p>*Not applicable to small-scale studies. Source: Adapted from: Campbell et al.&nbsp;(2023).</p>
+<p>Now, let’s focus on some practical ways to remediate potentially identifiable data in interview transcripts. General recommendations include:</p>
 <ol type="1">
-<li><p><em>Document analyses:</em> Examination of written or recorded materials to gain insights into past events, attitudes, and experiences.</p></li>
-<li><p><em>Open-ended digital surveys:</em> Online questionnaires with open-ended questions to collect qualitative data at scale to capture participants’ opinions, experiences, and suggestions.</p></li>
-<li><p><em>Focus Groups:</em> Moderated discussions among a small group of participants representing the targeted population or the community of interest, allowing researchers to observe interactions and gather collective insights on a specific topic.</p></li>
-<li><p><em>Observations:</em> Close monitoring and recording of behaviors, interactions, and phenomena in natural physical or online setting and the context in which those are generated. Observations might be naturalistic - when researchers observe people in their natural setting without interference -, or participatory - when the investigator becomes an active member of the group being observed.</p></li>
-<li><p><em>Field Work:</em> Researchers produce annotations based on their observations, reflections, and impressions during fieldwork, capturing nuances and contextual details that may not be captured through other methods.</p></li>
-<li><p><em>Case Studies:</em> In-depth examination of a single individual, group, or organization, using multiple data sources to explore complex phenomena within real-life contexts.</p></li>
-<li><p><em>Ethnography:</em> Immersive, long-term engagement with a particular community or culture, aiming to understand its social dynamics, rituals, and practices through participant observation and interaction. It may also be conducted online to explore communities and cultures formed and active through computer-mediated social interaction.</p></li>
-<li><p><em>One-to-one Interviews:</em> Direct conversations between the researcher and participants, allowing for in-depth exploration of thoughts, experiences, and perspectives. Interviews can be structured, semi-structured or unstructured and be conducted utilizing various means (phone, online, in-person).</p></li>
+<li><p>Establish uniform de-identification rules at the start of your project and apply them consistently throughout, especially when working with a team.</p></li>
+<li><p>Thoroughly review data to pinpoint any details that could lead to individual identification.</p></li>
+<li><p>Assign an unique identifier to each participant to replace their name.</p></li>
+<li><p>Replace real names (people, companies) with pseudonyms.</p></li>
+<li><p>Generalize location details and dates (e.g., North Carolina → [Southeast], 1977 → [1975-1980])</p></li>
+<li><p>Generalize meaning of detailed variables (e.g., specific professional position → occupation or area of expertise)&nbsp;</p></li>
+<li><p>Remove or redact sensitive text or entire sections as needed.</p></li>
+<li><p>Avoid blanking out or replacing items without any indication. The use of brackets indicates that something has been changed, modified, or deleted from its original form.</p></li>
+<li><p>Maintain a master log of all replacements, aggregations, or removals made and keep it in a secure location separate from the de-identified data files.</p></li>
 </ol>
-<p>This course will be using qualitative research data obtained from direct interactions between researchers and human participants through interviews.</p>
-<p>When dealing with human subjects data, ethical considerations become significantly more complex due to the direct impact on individuals’ privacy, rights, and well-being. In the next episode, we will cover ethical considerations and additional steps researchers should take when conducting research with human participants.</p>
+<p>In a single excerpt, you can integrate multiple de-identification techniques. The example below illustrates how an excerpt has been de-identified, with the modifications clearly indicated, while still retaining essential information for future analysis.</p>
+<p><img src="images/clipboard-2093281909.png" class="img-fluid" width="350"></p>
+<div class="callout callout-style-simple callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+🏋️‍♀️ Exercise: Handling identifiable information
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="callout callout-style-simple callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+How many potential identifiers can you spot? How would you mitigate re-identification risk?
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>*Identifiable Excerpt:** I collaborated with EcoFashion Co., a company based in North Carolina, to launch a sustainable clothing line bearing my name, Chole Adams. Given that this line was closely associated with my personal brand, I insisted on strict terms for fair compensation and transparency in sourcing. Unfortunately, the CEO at the time, Mitchel, did not adhere to these commitments. It was later exposed in a Netflix documentary named Harmful Fashion, that some of the items were produced in Cambodia under very unfair labor practices, a fact Mitchel had failed to disclose to me.*</p>
+<div class="callout callout-style-simple callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Answer
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>There are seven potential identifiers that if combined with public information could potentially give away the interviewee’s identity.</p>
+<p><strong>De-identified Excerpt:</strong> <em>I collaborated with [Company A] based in [the Southeastern U.S.] to launch a sustainable clothing line bearing my name [name redacted]. Given that this line was closely associated with my personal brand, I insisted on strict terms for fair compensation and transparency in sourcing. Unfortunately, the CEO at the time, [CEO Name], did not adhere to these commitments. It was later exposed in a [Streaming Service Name] documentary named [Documentary Title], that some items were produced in [Southeast Asia] under very unfair labor practices, which the CEO had failed to disclose to me.</em></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>This handout provides a compilation with some helpful tips:</p>
+<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2024-05/DLS-202405-Sensitive-Textual-Data.pdf">
+</iframe>
+<p>Source: UCSB Library Data Literacy Series (<a href="https://perma.cc/LM2L-K8DN">perma.cc/LM2L-K8DN</a>).</p>
+<p>Having promised to keep participants’ identities confidential, Sarah have assigned pseudonyms to interviewees. However, she is uncertain how to handle indirect identifiers. We will help her to address these issues confidently.</p>
+<div class="callout callout-style-simple callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+🏋️‍♀Exercise: Helping Sarah De-identifying Transcripts
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Let’s open the files for <code>interviewee_01</code> and <code>interviewee_03</code> (<a href="https://drive.google.com/drive/folders/1SBxXcMPnNdSHDxUFsMfl5u7cTwAzLskT">Sara-Project/Data</a>). To make things easier, we have highlighted some potential sensitive pieces of information. How we would mitigate those issues?</p>
+<p>The <a href="https://drive.google.com/drive/folders/1736eI0a61UkAsMX1sxvbWPzKGVUzrymD">Data-Qualcoder</a> folder contains a possible solution. <strong>(FIXME-ADD SOLLUTION FILE)</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Adopting best practices for de-identifying responses from your human participants can significantly enhance both the ease and reliability of this process. It’s crucial to incorporate de-identification considerations early in your planning phase as part of your overall data management strategy. Decisions on which data to collect, what to exclude, and how to inform participants about de-identification will profoundly impact how you can use and share the data in the future as we will explore in future episodes.</p>
 <hr>
 <p><strong>Recommended/Cited Sources:</strong></p>
-<p>Creswell, J. W., &amp; Creswell, J. W. (2007). Qualitative inquiry &amp; research design: choosing among five approaches (Second edition.). Sage Publications. (<a href="https://search.library.ucsb.edu/permalink/01UCSB_INST/1aqck9j/alma990029788350203776">UCSB Library Catalog</a>)</p>
+<p>Campbell R, Javorka M, Engleton J, Fishwick K, Gregory K, Goodman-Williams R. Open-Science Guidance for Qualitative Research: An Empirically Validated Approach for De-Identifying Sensitive Narrative Data. <em>Advances in Methods and Practices in Psychological Science</em>. 2023;6(4). doi:<a href="https://doi.org/10.1177/25152459231205832">10.1177/25152459231205832</a></p>
+<p>Myers CA, Long SE, Polasek FO. Protecting participant privacy while maintaining content and context: Challenges in qualitative data De-identification and sharing. ProcAssoc Inf Sci Technol. 2020;57:e415. <a href="https://doi.org/10.1002/pra2.415" class="uri">https://doi.org/10.1002/pra2.415</a></p>
 
 
 </section>
@@ -763,13 +970,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation column-page-right">
   <div class="nav-page nav-page-previous">
-      <a href="./index.html" class="pagination-link" aria-label="Home">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Home</span>
+      <a href="./05_example.html" class="pagination-link" aria-label="Running Example">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Running Example</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./02_dmp.html" class="pagination-link" aria-label="Data Management Planning">
-        <span class="nav-page-text">Data Management Planning</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./07_coding.html" class="pagination-link" aria-label="Coding Analysis">
+        <span class="nav-page-text">Coding Analysis</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

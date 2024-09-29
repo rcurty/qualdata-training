@@ -27,9 +27,19 @@ To save us time, for this workshop we will skip the installation process and we 
 
 To run QualCoder from the command prompt or terminal use the following
 
-*Mac* From any directory: `qualcoder` From the QualCoder-Master directory: `python3 -m qualcoder` or `python3 qualcoder/__main__.py`
+***Mac***
 
-*Windows* From the command prompt: `py -m qualcoder`
+From any directory: `qualcoder` From the QualCoder-Master directory: `python3 -m qualcoder` or `python3 qualcoder/__main__.py`
+
+***Windows***
+
+From the command prompt: `py -m qualcoder`
+
+::: callout-warning
+## Running Qualcoder
+
+Do not close the terminal or command prompt running in the background; otherwise, you will exit QualCoder. If you miminize the QualCoder window and get lost, you may click the Python Launch icon.
+:::
 
 ### Basic Functionalities
 
@@ -49,29 +59,58 @@ For example, let’s imagine that Sarah also collected social media video posts 
 
 *Attributes* are metadata or characteristics that can be assigned to files and cases, helping to categorize or describe them. Examples related to our project example could be demographic pieces of information (e.g., gender, age group), years active, niche, total followers assigned to individuals represented as cases, or characteristics attributed to a file such as the type of source (e.g., interview, social media), total numbers of views, shares and comments, platform (e.g., IG, Youtube, TikTok). You may take advantage of *memos* to record more detailed information about attributes. Think of it an essential aid to documentation that will provide better contextualization so researchers, including your future self, can better interpret and understand decisions made during the research process.
 
-As a heads up, QualCoder was not designed having statistical analysis of attributes in mind, for that, you can export attributes as csv files and use R or other open dedicated application. Also, the only current options for attributes are numeric and character, so dates, types or integers are not supported. To export attributes, use the icon below or
+As a heads up, QualCoder was not designed having statistical analysis of attributes in mind, for that, you can export attributes as csv files and use R or other open dedicated application. Also, the only current options for attributes are numeric and character, so dates, types or integers are not supported. We will see how we can export attributes later.
 
-![](images/export-attributes-csv.png)
+You can utilize *Journals* to practice data journaling and document ideas and reflections throughout the coding process, making them searchable with regex expressions—a topic we'll explore later. Journals are particularly useful for a bottom-up approaches, requiring multiple iterations to refine your themes and coding scheme. Plus, you can enhance your journaling content with markdown formatting!
 
-You can utilize *Journals* to practice data journaling anddocument ideas and reflections throughout the coding process, making them searchable with regex expressions—a topic we'll explore later. Journals are particularly useful for a bottom-up approaches, requiring multiple iterations to refine your themes and coding scheme. Plus, you can enhance your journaling content with markdown formatting!
+### Our Example Project in QualCoder
 
-#### Practicing with the Case Example
+Let's now set Sarah's project in QualCoder, bring the files into the project and perform some housekeeping and organization before engaging with actual coding.
 
-Now that we are more familiar with QualCoder's interface, some key functions and the mechanics of setting up a project, let's bring Sarah's data into QualCoder and create a project. We will then, walk her through the process of coding her interview transcripts using some recommended practices.
+#### Creating a Project
 
-##### Creating a Project
+**Project \> Create New Project**
 
-Project \> Create New Project
+Select the directory you want to save your `qda` project and name it `Influencers`.
 
-Select the directory you want to save your qda project and name it `Influencers`.
+#### Loading Files
 
-![](images/creating-new-project.png)
+We've created a project, but we don't have any files yet, so let's make sure to load them now. Choose, manage files, and then, the second icon as noted below (Import File Into Project Folder), select the desired folder and files.
 
-##### Loading Files
+![](images/add-files-02.png)
 
-We've created a project, but we don't have any files yet, so let's load them now.
+Note the file ID will be assigned according to the order of the import, so if you want that to match your file naming convention, you should order it accordingly. In case you need to fix it, click the red X on the right and delete the files, then reorder then accordingly and bring import them again into QualCoder.
 
+You may double click in the file or choose the "eye icon" to open the file content. Don't worry about the information at the bottom of the window for now, we will cover that later.
 
-------------------------------------------------------------------------
+#### Organizing Things
 
-**Recommended/Cited Sources:**
+*Create Cases*
+
+Now, let's create a case for each interviewee and link the transcript to them accordingly. We will use the same pseudonym assigned to each research participant described in the file.
+
+`Manage > Manage Cases > Pencil (Add Case) > Add your Case Name`
+
+![](images/create-cases.png)
+
+*Link Files*
+
+Now, let's link the corresponding file to the specific case we have created. Click on the file cell to manage files for the case. This will prompt another window as shown below:
+
+![](images/associate-casesandfiles.png)
+
+Now, create cases and link the files for each of the interviews. You should have one for Linda, Margot, Gina, Otto, Ben and Alex. Note that you can also import csv files with cases. This can be handy especially for projects with several cases.
+
+*Describe Attributes*
+
+Each transcript has some characteristics associated with interviewees. It would be helpful to describe these as attributes for further analysis. We will only add two types of attributes: `age group` and `niche`. There are two different ways to create attributes: via `manage > manage attributes` or in the `manage file` window you may select the `blue plus sign`. In this case, the latter might be just more convenient considering we have only a few attributes and cases.
+
+We will be assigning age groups (25-29, 30-35, or 35-40) to each case, and adding their respective niches.
+
+![](images/Screenshot 2024-09-29 at 10.05.47 AM.png)
+
+You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to **`Manage > Manage Attributes`**
+
+For now, we won't need to add memos, but keep in mind that they can be useful for providing additional context when attributes aren’t immediately clear.
+
+We now have a well-organized project set up in QualCoder, so let’s jump into some coding!

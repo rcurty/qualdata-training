@@ -1,4 +1,14 @@
 ---
-title: "Practing Coding with Qualcoder"
+title: "Coding with Qualcoder"
 editor: visual
 ---
+
+#### Practicing with the Case Example
+
+Now that we are more familiar with QualCoder's interface, some key functions and have set up our project, let's walk her through the process of coding her interview transcripts using some recommended practices.
+
+##### 
+
+#### **Export attributes**
+
+![](images/export-attributes-csv.png)

@@ -42,24 +42,53 @@ So, here is a recommended workflow we suggest you follow for this method:
 
 Whether you're new to research or a pro, qualitative analysis is an active process of reflexivity in which your subjective experience and pre-knowledge about the phenomenon of interest inform your process of making sense of the data and finding patterns and relationships. It is is all about close familiarization with the data, categorizing, discovering, reviewing and iterating until you find meaningful insights to inform your research questions, before you can drawn conclusions and articulated your findings.
 
-Data can be arranged and coded following a deductive (top-down) approach, where researchers apply pre-existing theoretical frameworks or concepts to the data, more inductively (bottom-up), where insights, themes emerge directly from the data without prior assumptions, or even use a combination of both as they engage with and learn more details from the data.
+Data can be arranged and coded following two types of approaches. A more inductively (bottom-up) approach, where insights, themes emerge more organically and directly from the data without prior assumptions, or even use a combination of both as they engage with and learn more details from the data. Or a deductive (top-down) approach, where researchers apply pre-existing theoretical frameworks or concepts to the data.
 
-**(FIXME: ADD QUIZ & RECREATE IMAGES)**
+![Bottom-up/Inductive Coding](images/bottom-up-coding.png){width="800"}
 
-![](images/bottom-up-coding.png){width="800"}
-
-![](images/top-down-coding.png){width="300"}
+![Top-down/Deductive Coding](images/top-down-coding.png){width="300"}
 
 Source: <https://delvetool.com/blog/deductiveinductive>
 
-![](images/6_steps_desktop.webp)
-
-Source: [https://www.nngroup.com/articles/thematic-analysis](https://www.nngroup.com/articles/thematic-analysis/)
-
 The top-down approach begins with a specific theoretical framework or research question. Data collection and analysis are guided by preconceived hypotheses, focusing on confirming or refuting these hypotheses. While it provides more direction to the research process, it may limit alternative perspectives or emergent themes not accounted for in the initial framework.In contrast, the bottom-up approach is exploratory and highly flexible as they are no predetermined categories or hypothesis, it has its basis on grounded theory, meaning that themes emerge directly from the data through open coding and analysis, allowing a wide range of topics and potential unexpected insights to be extracted from the data.
 
+``` R
+library(webexercises)
+
+# Questions
+q1 <- "What is the primary focus of top-down coding?"
+q2 <- "Which of the following best describes bottom-up coding?"
+q3 <- "Which of the following scenarios is most suitable for using top-down coding?"
+
+# Answer choices
+q1_choices <- c("Identifying themes that emerge directly from the data", 
+                "Applying pre-existing categories or frameworks to the data", 
+                "Allowing codes to develop organically without prior assumptions", 
+                "Analyzing data without any structured approach")
+
+q2_choices <- c("It begins with hypotheses that guide the analysis", 
+                "It utilizes existing literature to create codes", 
+                "It starts with the raw data and develops codes from specific observations", 
+                "It requires researchers to categorize data before analysis")
+
+q3_choices <- c("An exploratory study aiming to discover new patterns", 
+                "A study testing a specific theory or framework", 
+                "An analysis of open-ended survey responses", 
+                "A case study where themes have not been established")
+
+# Correct answers
+correct_answers <- c("Applying pre-existing categories or frameworks to the data", 
+                     "It starts with the raw data and develops codes from specific observations", 
+                     "A study testing a specific theory or framework")
+
+# Print the questions and choices
+cat(q1, "\n", longmcq(q1_choices, answer = "Applying pre-existing categories or frameworks to the data"), "\n")
+cat(q2, "\n", longmcq(q2_choices, answer = "It starts with the raw data and develops codes from specific observations"), "\n")
+cat(q3, "\n", longmcq(q3_choices, answer = "A study testing a specific theory or framework"), "\n")
+```
+
 ::: {.callout-note collapse="true"}
-## A note about saturation
+## A Note about Saturation
 
 How many interviews are enough? Determining how many qualitative interviews are sufficient is a complex question, often yielding nuanced answers.
 
@@ -72,17 +101,17 @@ This lack of justification can undermine the transparency and credibility of qua
 While there is no consensus on minimal sample sizes for qualitative research. There is a general recommendation of 6–30 interviews for most qualitative research.
 :::
 
-::: callout-tip
+::: {.callout-tip collapse="true"}
 ## Time to Practice! 💪🏼
 
-Now that we've gained some knowledge about coding, let's explore how we can put these concepts into practice. In pairs, access the worksheet (add link) and follow the instructions.
+**Optional Exercise:**
 
-<https://docs.google.com/document/d/1Kxjx_Wp0PQ29e3Xhs1GZXTW2K3Da4LxnVd8zq1N2afY/edit>
+Now that we've gained some knowledge about coding, let's explore how we can put these concepts into practice. In pairs, access the [worksheet](https://docs.google.com/document/d/1Kxjx_Wp0PQ29e3Xhs1GZXTW2K3Da4LxnVd8zq1N2afY/edit) and follow the instructions.
 
-Exercise Sheet ([add link](https://docs.google.com/document/d/1Kxjx_Wp0PQ29e3Xhs1GZXTW2K3Da4LxnVd8zq1N2afY/edit)) - publish on Zenodo
+Exercise Sheet ([add link](https://docs.google.com/document/d/1Kxjx_Wp0PQ29e3Xhs1GZXTW2K3Da4LxnVd8zq1N2afY/edit)) - \[ to be publish on Zenodo\]
 :::
 
-We will get more into this in later episodes where we will further explore different strategies to perform coding assisted by a QDA open and free software.
+We will get more into this in later episodes where we will further perform coding assisted by a QDA open and free software.
 
 ------------------------------------------------------------------------
 

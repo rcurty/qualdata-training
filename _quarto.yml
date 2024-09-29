@@ -45,7 +45,7 @@ website:
         - text: Data De-identification
           href: 06_deidentification.qmd
         - text: Coding Analysis
-          href: 07_coding.qmd
+          href: 07_analysis.qmd
         - text: Computer-Aided Analysis Tools
           href: 08_tools.qmd
         - text: Qualcoder
@@ -76,4 +76,4 @@ format:
     page-layout: full
     code-line-numbers: true
     css: include/webex.css
-    # include-after-body: include/webex.js
+    include-after-body: include/webex.js
