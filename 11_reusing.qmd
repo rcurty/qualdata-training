@@ -36,6 +36,8 @@ When considering various approaches to data reuse, researchers should ask the fo
 
 ### Citation & Attribution
 
+Enter text
+
 Data Citation
 
 \<iframe width="25%" height="450" src="<iframe width="25%" height="450" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls_n2_datacitation_navy_1.pdf"> </iframe>"
