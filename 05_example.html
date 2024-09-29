@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Handling and Sharing Qualitative Data Responsibly and Effectively - Data Management Planning</title>
+<title>Running Example – Handling and Sharing Qualitative Data Responsibly and Effectively</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./02_ethics.html" rel="next">
-<link href="./01_qual-data.html" rel="prev">
+<link href="./06_deidentification.html" rel="next">
+<link href="./04_data-interviews.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
         <div class="quarto-navbar-tools tools-end">
     <a href="./00_about.html" title="About RDS" class="quarto-navigation-tool px-1" aria-label="About RDS"><i class="bi bi-"></i></a>
     <div class="dropdown">
-      <a href="https://github.com/UCSB-Library-Research-Data-Services" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-github"></i></a>
+      <a href="https://github.com/UCSB-Library-Research-Data-Services" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label=""><i class="bi bi-github"></i></a>
       <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
           <li>
             <a class="dropdown-item quarto-navbar-tools-item" href="./replace" target="_blank">
@@ -106,11 +106,11 @@ ul.task-list li input[type="checkbox"] {
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_qual-data.html">Planning &amp; Collecting</a></li><li class="breadcrumb-item"><a href="./01_dmp.html">Data Management Planning</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_qual-data.html">Planning &amp; Collecting</a></li><li class="breadcrumb-item"><a href="./05_example.html">Running Example</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
   </nav>
@@ -129,9 +129,9 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
  <span class="menu-text">Planning &amp; Collecting</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -144,25 +144,25 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./01_dmp.html" class="sidebar-item-text sidebar-link active">
+  <a href="./02_dmp.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data Management Planning</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./02_ethics.html" class="sidebar-item-text sidebar-link">
+  <a href="./03_ethics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Ethical Considerations for HS Research</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./03_data-interviews.html" class="sidebar-item-text sidebar-link">
+  <a href="./04_data-interviews.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Interview Data</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./04_example.html" class="sidebar-item-text sidebar-link">
+  <a href="./05_example.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Running Example</span></a>
   </div>
 </li>
@@ -170,40 +170,46 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
  <span class="menu-text">Analyzing &amp; Documenting</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./05_deidentification.html" class="sidebar-item-text sidebar-link">
+  <a href="./06_deidentification.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data De-identification</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./06_coding.html" class="sidebar-item-text sidebar-link">
+  <a href="./07_coding.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Coding Analysis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./07_tools.html" class="sidebar-item-text sidebar-link">
+  <a href="./08_tools.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Computer-Aided Analysis Tools</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./08_qualcoder.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Qualcoder Software</span></a>
+  <a href="./09_qualcoder.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Qualcoder</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./09_documenting.html" class="sidebar-item-text sidebar-link">
+  <a href="./10_coding-qualcoder.qmd" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Practing Coding with Qualcoder</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./11_documenting.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data Documentation</span></a>
   </div>
 </li>
@@ -211,16 +217,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
  <span class="menu-text">Sharing &amp; Archiving</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./10_sharing.html" class="sidebar-item-text sidebar-link">
+  <a href="./12_sharing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Sharing and Archiving</span></a>
   </div>
 </li>
@@ -228,16 +234,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
  <span class="menu-text">Reusing</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./11_reusing.html" class="sidebar-item-text sidebar-link">
+  <a href="./13_reusing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Reusing</span></a>
   </div>
 </li>
@@ -252,9 +258,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content column-page-right" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_qual-data.html">Planning &amp; Collecting</a></li><li class="breadcrumb-item"><a href="./01_dmp.html">Data Management Planning</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_qual-data.html">Planning &amp; Collecting</a></li><li class="breadcrumb-item"><a href="./05_example.html">Running Example</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Data Management Planning</h1>
+<h1 class="title">Running Example</h1>
 </div>
 
 
@@ -271,55 +277,53 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="what-are-data-management-plans-dmps-and-why-should-you-care" class="level2">
-<h2 class="anchored" data-anchor-id="what-are-data-management-plans-dmps-and-why-should-you-care">What Are Data Management Plans (DMPs) and Why Should You Care?</h2>
-<p>A Data Management Plan (DMP) is a strategic document that outlines how you will handle data throughout the life cycle of a project. It serves as a roadmap for managing, storing, and sharing data effectively, ensuring that your data is well-organized, accessible, and secure. By documenting your data management strategies, a DMP helps streamline data workflows, facilitates compliance with institutional and funding agency requirements, and enhances the efficiency and integrity of research.</p>
-<p>The importance of a DMP can be highlighted in several ways:</p>
-<ol type="1">
-<li><p><em>Organization and efficiency:</em> A well-structured DMP ensures that data is collected, stored, and analyzed in a consistent and organized manner. This reduces the risk of data loss, duplication, or mismanagement, and helps team members quickly find and use the data they need.</p></li>
-<li><p><em>Resource allocation:</em> The plan helps allocate resources effectively, including budgeting for data management tools and personnel. This foresight can prevent unexpected costs and ensure that data management tasks are adequately resourced.</p></li>
-<li><p><em>Data security and privacy:</em> The DMP outlines measures for safeguarding sensitive or confidential data, ensuring compliance with privacy regulations and ethical guidelines. This includes specifying access controls, encryption methods, and protocols for data anonymization.</p></li>
-<li><p><em>Data sharing and reproducibility:</em> By detailing how data will be shared and made available, the DMP supports transparency and collaboration. This includes specifying data formats, metadata standards, and repositories for public or restricted access, which enhances the reproducibility of research findings.</p></li>
-<li><p><em>Long-Term preservation:</em> The DMP addresses strategies for long-term data preservation, including backup procedures, archival formats, and storage solutions. This ensures that valuable data remains accessible and usable beyond the immediate project duration.</p></li>
-</ol>
-<p>Most funders require researchers to submit a Data Management Plan (DMP) along with their research proposal as a prerequisite for consideration. However, developing a DMP offers substantial benefits beyond meeting this requirement. It serves as a crucial tool for all researchers, aiding them in anticipating resource needs, exploring available services, and strategically planning for data management throughout the project’s life cycle. For example, a researcher planning to conduct interviews can use the DMP to identify and utilize institutionally-supported transcription services and secure storage solutions.</p>
-<p>By anticipating these needs early on, the researcher can allocate appropriate budget and resources, ensuring that these essential services are available when required. Additionally, the DMP helps the researcher create a structured plan for managing qualitative data, such as organizing interview transcripts, coding data, and maintaining a detailed audit trail of data analysis decisions.</p>
-<p>Broadly, the DMP should cover the following topics:</p>
-<ol type="1">
-<li><p>The types of data you expect to collect,</p></li>
-<li><p>How those data will be documented and organized,</p></li>
-<li><p>How the data will be stored and kept secure, and</p></li>
-<li><p>How the data will be shared (or why not) and stored for the long term.</p></li>
-</ol>
-<p>The ultimate goal is that researchers will make more informed decisions on how to produce and share data satisfying the FAIR principles:</p>
-<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n04-2021-fair-navy.pdf">
-</iframe>
-<p>Source: UCSB Library Data Literacy Series (<a href="https://perma.cc/CT8P-D5MK">perma.cc/U4D8-UYFR</a>).</p>
-<p>Researchers studying indigenous communities should pay special attention to an additional set of principles, named CARE, an acronym for a set of purpose-oriented principles for Indigenous Data Governance, which aims to help advancing Indigenous innovation, sovereignty, and self-determination.</p>
-<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-02/dls-n1-2022-careprinciples-navy.pdf">
-</iframe>
-<p>Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR]https://perma.cc/3ZHR-6JAG)).</p>
+<p>From this point onward, we will be working with a fictional research project and a toy dataset containing interview transcripts generated with the assistance of ChatGPT 4.0 mini.</p>
+<section id="meet-sarah" class="level2">
+<h2 class="anchored" data-anchor-id="meet-sarah"><strong>Meet Sarah!</strong></h2>
+<p><img src="images/clipboard-2573570051.png" class="img-fluid" width="300"></p>
+<p>Image Generated using <a href="https://openart.ai/">openart.ai</a></p>
+<p>In the remaining episodes, we’ll be guiding Sarah, a graduate student in the Communication department, as she embarks on a pilot study with content creators/digital influencers for her dissertation research. Sarah’s goal is to understand how content creators/influencers, with verified profiles and a large community of followers, perceive their impact on consumerism, their role in shaping their audience shopping behaviors, and their ethical responsibilities when endorsing products and services.</p>
 </section>
-<section id="crafting-a-dmp-for-qualitative-research" class="level2">
-<h2 class="anchored" data-anchor-id="crafting-a-dmp-for-qualitative-research">Crafting a DMP for Qualitative Research</h2>
-<p>Fortunately, creating a DMP is simplified with the help of appropriate templates.The DMPTool is an excellent resource for researchers to develop customized data management plans tailored to specific disciplines and funding agencies. To get started with the DMPTool, follow these steps:</p>
+<section id="example-research-project" class="level2">
+<h2 class="anchored" data-anchor-id="example-research-project">Example Research Project</h2>
+<p>Her main research question is: <em>How do content creators/digital influencers view their role in shaping their followers’ consumer behavior, and what ethical dilemmas do they face when promoting products?</em></p>
+<p>Given the novelty of this research topic and the limited academic literature available, Sarah hopes that the insights gained from this small-scale qualitative exploratory study will help identify key variables for a larger survey study with a representative sample of content creators/digital influencers across the U.S.</p>
+<p>Sarah has previous experience with quantitative methods but is very new to qualitative research and could use our help for better handling the data. Having already conducted six short structured with subjects from top revenue niches (i.e., Home Decor and DYI, Travel &amp; Adventure, Fashion &amp; Style, Health &amp; Wellness, Finance &amp; Investment, Beauty &amp; Skincare) and planning to conduct a dozen more, Sarah is eager to begin engaging with the data she has collected so far and deciding how to best organize and interpret it. We’ll be walking her through this process, providing the necessary guidance and support for effective and responsible data management.</p>
+<p>Interviews were conducted over Zoom and audio recorded with participants’ consent. The interview included four main questions, which were consistent across all interviews:</p>
+<p><em>Q1. Please tell me a little about your work as a content creator/digital influencer how it started, and how you have established yourself in your current niche.</em></p>
+<p><em>Q2. In what ways do you believe content creators/digital influencers shape consumer behavior? Could you share any examples?</em></p>
+<p><em>Q3. What strategies would you say content creators/digital influencers typically use to increase sales of sponsored products and services? Which ones have you used? What worked and what did not work for you? Why?</em></p>
+<p><em>Q4. What do you see as key ethical responsibilities of content creators/digital influencers? In your opinion, how should these ethics apply to endorsements and recommendations? Are there any personal examples you could share?</em></p>
+<p>Each interview generated approximately 15 minutes of audio recording and were manually transcribed by Sarah. Sarah decided to keep the transcription true to the recordings and seek assistance to mitigate any risk of identification later, as we will see in the next episode.</p>
+<p>Now, let’s make sure we all have the project files and that we take a quick pick on what is included there: <a href="https://drive.google.com/drive/folders/1pujd0G0R2Tl9wE8Ci4bOUhzGEtWSfvP6?usp=drive_link">Link to Project Folder</a>. Make sure to also save this file in your computer.</p>
+</section>
+<section id="reviewing-documents" class="level2">
+<h2 class="anchored" data-anchor-id="reviewing-documents">Reviewing Documents</h2>
+<p>Open the Sarah’s Project folder. Before we look at the transcripts, skim through the consent form and identify any opportunities for improvement. What details would you advise Sarah to add?</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+💭 Discussion
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
 <ol type="1">
-<li><p>Visit <a href="https://dmptool.org/">DMPTool</a> in your web browser.</p></li>
-<li><p>On the DMPTool homepage, enter your .utexas.edu email address on the right side and click “Continue.”</p></li>
-<li><p>The tool will automatically recognize your affiliation. Click the “Sign in with Institution (SSO)” button to be redirected to the EID sign-in page and complete the sign-in process.</p></li>
+<li><em>Do pilot studies, such as Sarah’s, require IRB review?</em></li>
 </ol>
-<p>The DMPTool offers a wide range of templates tailored to specific funder requirements and assists you in structuring your Data Management Plan (DMP) according to these templates. It guides you through the process with targeted questions, ensuring that all necessary components are addressed. Once completed, the tool generates a well-organized and professionally formatted DMP.</p>
-<p>The Qualitative Data Repository (QDR) has developed a specialized <a href="https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf">data management checklist</a> for qualitative researchers to ensure that their Data Management Plans (DMPs) address all critical aspects. The checklist includes topic-specific examples from qualitative research where applicable, and offers practical tips based on our extensive experience advising researchers on their DMPs. You can use this checklist proactively as a guide while drafting your DMP, or as a tool to review and confirm that an existing DMP comprehensively covers all necessary elements. Using the DMPTool in tandem with QDR’s checklist can provide additional clarity and help you navigate the various topics effectively. This combination ensures that your DMP is comprehensive, meets all requirements, and is easy to understand.</p>
-<p>For future reference, you may find valuable insights by consulting the list of the <a href="https://blog.dmptool.org/2021/05/19/dmp-competition-winners-dmps-so-good-they-go-to-11">11 winning DMPs</a> from the DMPTool Qualitative Data Competition. These exemplary DMPs showcase best practices and innovative approaches in managing qualitative data, offering a useful benchmark for developing your own plan.</p>
-</section>
-<section id="update-as-you-progress" class="level2">
-<h2 class="anchored" data-anchor-id="update-as-you-progress">Update as You Progress</h2>
-<p>DMPs aren’t meant to collect dust; they should be treated as living documents that evolve alongside your project. To ensure they stay relevant and accurate, it’s crucial to implement version control. Regularly update the DMP to reflect any changes in your project, and track these revisions to maintain a clear history of modifications. This way, you can easily reference past versions, understand the evolution of your project, and ensure that everyone involved is working with the most current information.</p>
-</section>
-<section id="ethical-considerations-are-paramount-in-any-research-but-they-take-on-added-significance-in-qualitative-research-where-interactions-and-data-collection-are-often-more-personal-and-complex.-its-vital-to-address-these-considerations-early-in-the-research-process-and-incorporate-them-into-the-data-management-plan-dmp.-for-qualitative-research-the-dmp-should-be-particularly-detailed-in-outlining-these-ethical-aspects.-this-includes-obtaining-informed-consent-from-participants-ensuring-confidentiality-and-privacy-managing-potential-biases-and-being-transparent-about-how-data-will-be-used.-by-embedding-these-considerations-into-a-well-defined-dmp-you-create-a-framework-that-not-only-supports-responsible-and-respectful-research-practices-but-also-anticipates-the-resources-and-services-needed-for-compliance.-in-the-next-episode-we-will-explore-the-ethical-dimensions-of-qualitative-research-in-greater-detail." class="level2">
-<h2 class="anchored" data-anchor-id="ethical-considerations-are-paramount-in-any-research-but-they-take-on-added-significance-in-qualitative-research-where-interactions-and-data-collection-are-often-more-personal-and-complex.-its-vital-to-address-these-considerations-early-in-the-research-process-and-incorporate-them-into-the-data-management-plan-dmp.-for-qualitative-research-the-dmp-should-be-particularly-detailed-in-outlining-these-ethical-aspects.-this-includes-obtaining-informed-consent-from-participants-ensuring-confidentiality-and-privacy-managing-potential-biases-and-being-transparent-about-how-data-will-be-used.-by-embedding-these-considerations-into-a-well-defined-dmp-you-create-a-framework-that-not-only-supports-responsible-and-respectful-research-practices-but-also-anticipates-the-resources-and-services-needed-for-compliance.-in-the-next-episode-we-will-explore-the-ethical-dimensions-of-qualitative-research-in-greater-detail.">Ethical considerations are paramount in any research, but they take on added significance in qualitative research, where interactions and data collection are often more personal and complex. It’s vital to address these considerations early in the research process and incorporate them into the Data Management Plan (DMP). For qualitative research, the DMP should be particularly detailed in outlining these ethical aspects. This includes obtaining informed consent from participants, ensuring confidentiality and privacy, managing potential biases, and being transparent about how data will be used. By embedding these considerations into a well-defined DMP, you create a framework that not only supports responsible and respectful research practices but also anticipates the resources and services needed for compliance. In the next episode, we will explore the ethical dimensions of qualitative research in greater detail.</h2>
-<p><strong>Recommended/Cited Sources:</strong></p>
-<p>Qualitative Data Repository (2017). <em>Data Management Checklist</em>. <a href="https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf" class="uri">https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf</a></p>
+<p>Answer: Yes! A pilot study is a preliminary investigation, often involving 10 or fewer participants, aimed at testing the feasibility of a research design and refining data collection methods or instruments. Despite its exploratory nature and potential lack of inclusion in final results or publications, a pilot study with human subjects requires IRB review as it constitutes human subjects research. If the pilot study refines tools or procedures for a larger study, it remains an integral part of the research process. It’s crucial to inform participants that they are part of a pilot study and clarify whether their data will be used for refinement purposes or included in the main study.</p>
+<ol start="2" type="1">
+<li><em>What if Sarah accepts our advise and make some modifications to the informed consent? What about the participants who have already signed the original consent form?</em></li>
+</ol>
+<p>Answer: All amendments (i.e., changes/modifications) to approved research must be submitted to the IRB for review and approval before they are implemented. If the amendments involve changes to how participants’ data will be used or how their involvement is described, inform the participants of these changes. This might involve contacting them to obtain updated consent or simply providing them with new information depending on the nature of the amendments.</p>
+</div>
+</div>
+</div>
+<p>Now, let’s open some transcripts. Sarah did well by not listing actual interviewees’ names. She organized all transcripts in a dedicated <code>data</code> folder and adopted a file convention name. Way to go, Sarah! When working on your own projects, ensure to do the same.</p>
 
 
 </section>
@@ -360,18 +364,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -403,15 +396,37 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/rcurty\.github\.io\/qualdata-training\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -736,13 +751,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation column-page-right">
   <div class="nav-page nav-page-previous">
-      <a href="./01_qual-data.html" class="pagination-link" aria-label="Qualitative Data">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Qualitative Data</span>
+      <a href="./04_data-interviews.html" class="pagination-link" aria-label="Interview Data">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Interview Data</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./02_ethics.html" class="pagination-link" aria-label="Ethical Considerations for HS Research">
-        <span class="nav-page-text">Ethical Considerations for HS Research</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./06_deidentification.html" class="pagination-link" aria-label="Data De-identification">
+        <span class="nav-page-text">Data De-identification</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Handling and Sharing Qualitative Data Responsibly and Effectively - Data Management Planning</title>
+<title>QualCoder – Handling and Sharing Qualitative Data Responsibly and Effectively</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./02_ethics.html" rel="next">
-<link href="./01_qual-data.html" rel="prev">
+<link href="./10_coding-qualcoder.qmd" rel="next">
+<link href="./08_tools.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
         <div class="quarto-navbar-tools tools-end">
     <a href="./00_about.html" title="About RDS" class="quarto-navigation-tool px-1" aria-label="About RDS"><i class="bi bi-"></i></a>
     <div class="dropdown">
-      <a href="https://github.com/UCSB-Library-Research-Data-Services" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-github"></i></a>
+      <a href="https://github.com/UCSB-Library-Research-Data-Services" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label=""><i class="bi bi-github"></i></a>
       <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="quarto-navigation-tool-dropdown-0">
           <li>
             <a class="dropdown-item quarto-navbar-tools-item" href="./replace" target="_blank">
@@ -106,11 +106,11 @@ ul.task-list li input[type="checkbox"] {
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_qual-data.html">Planning &amp; Collecting</a></li><li class="breadcrumb-item"><a href="./01_dmp.html">Data Management Planning</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./06_deidentification.html">Analyzing &amp; Documenting</a></li><li class="breadcrumb-item"><a href="./09_qualcoder.html">Qualcoder</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
   </nav>
@@ -129,13 +129,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false">
  <span class="menu-text">Planning &amp; Collecting</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./01_qual-data.html" class="sidebar-item-text sidebar-link">
@@ -144,25 +144,25 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./01_dmp.html" class="sidebar-item-text sidebar-link active">
+  <a href="./02_dmp.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data Management Planning</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./02_ethics.html" class="sidebar-item-text sidebar-link">
+  <a href="./03_ethics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Ethical Considerations for HS Research</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./03_data-interviews.html" class="sidebar-item-text sidebar-link">
+  <a href="./04_data-interviews.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Interview Data</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./04_example.html" class="sidebar-item-text sidebar-link">
+  <a href="./05_example.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Running Example</span></a>
   </div>
 </li>
@@ -170,40 +170,46 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
  <span class="menu-text">Analyzing &amp; Documenting</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./05_deidentification.html" class="sidebar-item-text sidebar-link">
+  <a href="./06_deidentification.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data De-identification</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./06_coding.html" class="sidebar-item-text sidebar-link">
+  <a href="./07_coding.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Coding Analysis</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./07_tools.html" class="sidebar-item-text sidebar-link">
+  <a href="./08_tools.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Computer-Aided Analysis Tools</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./08_qualcoder.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Qualcoder Software</span></a>
+  <a href="./09_qualcoder.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Qualcoder</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./09_documenting.html" class="sidebar-item-text sidebar-link">
+  <a href="./10_coding-qualcoder.qmd" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Practing Coding with Qualcoder</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./11_documenting.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data Documentation</span></a>
   </div>
 </li>
@@ -211,16 +217,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
  <span class="menu-text">Sharing &amp; Archiving</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./10_sharing.html" class="sidebar-item-text sidebar-link">
+  <a href="./12_sharing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Sharing and Archiving</span></a>
   </div>
 </li>
@@ -228,16 +234,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
  <span class="menu-text">Reusing</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./11_reusing.html" class="sidebar-item-text sidebar-link">
+  <a href="./13_reusing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Reusing</span></a>
   </div>
 </li>
@@ -252,9 +258,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content column-page-right" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01_qual-data.html">Planning &amp; Collecting</a></li><li class="breadcrumb-item"><a href="./01_dmp.html">Data Management Planning</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./06_deidentification.html">Analyzing &amp; Documenting</a></li><li class="breadcrumb-item"><a href="./09_qualcoder.html">Qualcoder</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Data Management Planning</h1>
+<h1 class="title">QualCoder</h1>
 </div>
 
 
@@ -271,57 +277,63 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="what-are-data-management-plans-dmps-and-why-should-you-care" class="level2">
-<h2 class="anchored" data-anchor-id="what-are-data-management-plans-dmps-and-why-should-you-care">What Are Data Management Plans (DMPs) and Why Should You Care?</h2>
-<p>A Data Management Plan (DMP) is a strategic document that outlines how you will handle data throughout the life cycle of a project. It serves as a roadmap for managing, storing, and sharing data effectively, ensuring that your data is well-organized, accessible, and secure. By documenting your data management strategies, a DMP helps streamline data workflows, facilitates compliance with institutional and funding agency requirements, and enhances the efficiency and integrity of research.</p>
-<p>The importance of a DMP can be highlighted in several ways:</p>
-<ol type="1">
-<li><p><em>Organization and efficiency:</em> A well-structured DMP ensures that data is collected, stored, and analyzed in a consistent and organized manner. This reduces the risk of data loss, duplication, or mismanagement, and helps team members quickly find and use the data they need.</p></li>
-<li><p><em>Resource allocation:</em> The plan helps allocate resources effectively, including budgeting for data management tools and personnel. This foresight can prevent unexpected costs and ensure that data management tasks are adequately resourced.</p></li>
-<li><p><em>Data security and privacy:</em> The DMP outlines measures for safeguarding sensitive or confidential data, ensuring compliance with privacy regulations and ethical guidelines. This includes specifying access controls, encryption methods, and protocols for data anonymization.</p></li>
-<li><p><em>Data sharing and reproducibility:</em> By detailing how data will be shared and made available, the DMP supports transparency and collaboration. This includes specifying data formats, metadata standards, and repositories for public or restricted access, which enhances the reproducibility of research findings.</p></li>
-<li><p><em>Long-Term preservation:</em> The DMP addresses strategies for long-term data preservation, including backup procedures, archival formats, and storage solutions. This ensures that valuable data remains accessible and usable beyond the immediate project duration.</p></li>
-</ol>
-<p>Most funders require researchers to submit a Data Management Plan (DMP) along with their research proposal as a prerequisite for consideration. However, developing a DMP offers substantial benefits beyond meeting this requirement. It serves as a crucial tool for all researchers, aiding them in anticipating resource needs, exploring available services, and strategically planning for data management throughout the project’s life cycle. For example, a researcher planning to conduct interviews can use the DMP to identify and utilize institutionally-supported transcription services and secure storage solutions.</p>
-<p>By anticipating these needs early on, the researcher can allocate appropriate budget and resources, ensuring that these essential services are available when required. Additionally, the DMP helps the researcher create a structured plan for managing qualitative data, such as organizing interview transcripts, coding data, and maintaining a detailed audit trail of data analysis decisions.</p>
-<p>Broadly, the DMP should cover the following topics:</p>
-<ol type="1">
-<li><p>The types of data you expect to collect,</p></li>
-<li><p>How those data will be documented and organized,</p></li>
-<li><p>How the data will be stored and kept secure, and</p></li>
-<li><p>How the data will be shared (or why not) and stored for the long term.</p></li>
-</ol>
-<p>The ultimate goal is that researchers will make more informed decisions on how to produce and share data satisfying the FAIR principles:</p>
-<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n04-2021-fair-navy.pdf">
-</iframe>
-<p>Source: UCSB Library Data Literacy Series (<a href="https://perma.cc/CT8P-D5MK">perma.cc/U4D8-UYFR</a>).</p>
-<p>Researchers studying indigenous communities should pay special attention to an additional set of principles, named CARE, an acronym for a set of purpose-oriented principles for Indigenous Data Governance, which aims to help advancing Indigenous innovation, sovereignty, and self-determination.</p>
-<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-02/dls-n1-2022-careprinciples-navy.pdf">
-</iframe>
-<p>Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR]https://perma.cc/3ZHR-6JAG)).</p>
+<section id="what-is-qualcoder" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-qualcoder">What is QualCoder?</h2>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="images/qualcoder-logo.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="150"></p>
+</figure>
+</div>
+<p>QualCoder is client-based open-source and free multi-platform tool designed to streamline qualitative data analysis. With its user-friendly interface and comprehensive features, QualCoder empowers researchers and analysts to efficiently organize, code, and analyze qualitative data, ranging from text documents to multimedia files. By providing tools for coding, categorizing, and retrieving data, QualCoder facilitates in-depth exploration and interpretation, enabling researchers to uncover meaningful insights and patterns, and extract rich and nuanced information from their qualitative data.</p>
+<p>With QualCoder you can code text, images, audio and video, write journal notes and memos. You can categorize codes into a tree-like hierarchical categorization scheme. Coding for audio and video requires the <a href="https://www.videolan.org/vlc/download-windows.html">VLC media player</a>. Coder comparison reports can be generated for text coding using the Cohen’s Kappa statistic for interrater/intercoder reliability (<strong>FIXME:</strong> mchugh2012interrater) measuring the level of agreement between coders. A graph displaying codes and categories can be generated to visualize the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.</p>
+<p>Documentation:</p>
+<ul>
+<li><p>Wiki - <a href="https://github.com/ccbogel/QualCoder/wiki" class="uri">https://github.com/ccbogel/QualCoder/wiki</a></p></li>
+<li><p>GitHub Repository - <a href="https://github.com/ccbogel/QualCoder" class="uri">https://github.com/ccbogel/QualCoder</a></p></li>
+<li><p>GitHub Repository (QualCoder AI - beta) - <a href="https://github.com/kaixxx/QualCoder/tree/ai_integration" class="uri">https://github.com/kaixxx/QualCoder/tree/ai_integration</a></p></li>
+</ul>
+<p>You are welcome to follow <a href="https://github.com/ccbogel/QualCoder/wiki/01-Introduction">installation and running instructions</a> for your operating system. Please note, however, this is a multistep process that requires additional components and the use of the command line/terminal. We are available to consult with individuals or groups that require assistance in that process.</p>
+<p>To save us time, for this workshop we will skip the installation process and we will be supplying a virtual machine to attendees. We will first use the latest available version on the software (currently 3.5) for the exercises, and then, give a sneak peak of the beta version with AI capabilities to test how ChatGPT 4.0 can assist with horizontal coding. On this second half, we will discuss the implications for privacy and also the expected costs associated with the use of AI.</p>
+<section id="launching-qualcoder" class="level3">
+<h3 class="anchored" data-anchor-id="launching-qualcoder">Launching QualCoder</h3>
+<p>To run QualCoder from the command prompt or terminal use the following</p>
+<p><em>Mac</em> From any directory: <code>qualcoder</code> From the QualCoder-Master directory: <code>python3 -m qualcoder</code> or <code>python3 qualcoder/__main__.py</code></p>
+<p><em>Windows</em> From the command prompt: <code>py -m qualcoder</code></p>
 </section>
-<section id="crafting-a-dmp-for-qualitative-research" class="level2">
-<h2 class="anchored" data-anchor-id="crafting-a-dmp-for-qualitative-research">Crafting a DMP for Qualitative Research</h2>
-<p>Fortunately, creating a DMP is simplified with the help of appropriate templates.The DMPTool is an excellent resource for researchers to develop customized data management plans tailored to specific disciplines and funding agencies. To get started with the DMPTool, follow these steps:</p>
-<ol type="1">
-<li><p>Visit <a href="https://dmptool.org/">DMPTool</a> in your web browser.</p></li>
-<li><p>On the DMPTool homepage, enter your .utexas.edu email address on the right side and click “Continue.”</p></li>
-<li><p>The tool will automatically recognize your affiliation. Click the “Sign in with Institution (SSO)” button to be redirected to the EID sign-in page and complete the sign-in process.</p></li>
-</ol>
-<p>The DMPTool offers a wide range of templates tailored to specific funder requirements and assists you in structuring your Data Management Plan (DMP) according to these templates. It guides you through the process with targeted questions, ensuring that all necessary components are addressed. Once completed, the tool generates a well-organized and professionally formatted DMP.</p>
-<p>The Qualitative Data Repository (QDR) has developed a specialized <a href="https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf">data management checklist</a> for qualitative researchers to ensure that their Data Management Plans (DMPs) address all critical aspects. The checklist includes topic-specific examples from qualitative research where applicable, and offers practical tips based on our extensive experience advising researchers on their DMPs. You can use this checklist proactively as a guide while drafting your DMP, or as a tool to review and confirm that an existing DMP comprehensively covers all necessary elements. Using the DMPTool in tandem with QDR’s checklist can provide additional clarity and help you navigate the various topics effectively. This combination ensures that your DMP is comprehensive, meets all requirements, and is easy to understand.</p>
-<p>For future reference, you may find valuable insights by consulting the list of the <a href="https://blog.dmptool.org/2021/05/19/dmp-competition-winners-dmps-so-good-they-go-to-11">11 winning DMPs</a> from the DMPTool Qualitative Data Competition. These exemplary DMPs showcase best practices and innovative approaches in managing qualitative data, offering a useful benchmark for developing your own plan.</p>
+<section id="basic-functionalities" class="level3">
+<h3 class="anchored" data-anchor-id="basic-functionalities">Basic Functionalities</h3>
+<p>We will cover some basic settings, terms (attributes, including how to create a project and how to engage with coding. If you are following this content asynchronously, we strongly advise you to watch the following video for additional features:</p>
+<div class="quarto-video"><iframe data-external="1" src="https://www.youtube.com/embed/wj5fY4F5Jxo" width="250" height="175" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Other helpful tutorials can be found here: <a href="https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos" class="uri">https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos</a></p>
+<section id="anatomy-of-a-qualcoder-project" class="level4">
+<h4 class="anchored" data-anchor-id="anatomy-of-a-qualcoder-project">Anatomy of a QualCoder Project</h4>
+<p>In QualCoder, <em>projects</em> serve as containers for organizing multiple files, cases, and attributes. Each project allows you to manage and analyze a specific set of qualitative data, keeping everything organized. You can create different projects for distinct research questions or datasets, enabling a streamlined workflow. This structure ultimately helps you delve deeper into your analysis without mixing different data sets.</p>
+<p>Understanding the roles of files, attributes and cases and their relationships is key to most QDA software. In QualCoder, <em>files</em> refer to the individual documents or data sources you import for analysis. You may have more than one file associate with a unique case. <em>Cases</em> are specific units of analysis, often linked to files, that allow you to organize and explore your data in a more detailed manner. Together, they create a structured environment for qualitative analysis, allowing you to delve into themes and patterns effectively. In our project example, the cases will consist of individual interviewees, but we could also focus on the niche they belong to if we were to analyze at that level.</p>
+<p>For example, let’s imagine that Sarah also collected social media video posts from content creators and digital influencers to analyze behaviors beyond participants’ self-reports, by also checking how they have been engaging with their followers. In this case, she can add video clips to QualCoder and associate them with the same research participant. This structure will depend on the nature of your project, allowing for flexibility in how data is organized and analyzed to best capture the insights you seek.</p>
+<p><em>Attributes</em> are metadata or characteristics that can be assigned to files and cases, helping to categorize or describe them. Examples related to our project example could be demographic pieces of information (e.g., gender, age group), years active, niche, total followers assigned to individuals represented as cases, or characteristics attributed to a file such as the type of source (e.g., interview, social media), total numbers of views, shares and comments, platform (e.g., IG, Youtube, TikTok). You may take advantage of <em>memos</em> to record more detailed information about attributes. Think of it an essential aid to documentation that will provide better contextualization so researchers, including your future self, can better interpret and understand decisions made during the research process.</p>
+<p>As a heads up, QualCoder was not designed having statistical analysis of attributes in mind, for that, you can export attributes as csv files and use R or other open dedicated application. Also, the only current options for attributes are numeric and character, so dates, types or integers are not supported. To export attributes, use the icon below or</p>
+<p><img src="images/export-attributes-csv.png" class="img-fluid"></p>
+<p>You can utilize <em>Journals</em> to practice data journaling anddocument ideas and reflections throughout the coding process, making them searchable with regex expressions—a topic we’ll explore later. Journals are particularly useful for a bottom-up approaches, requiring multiple iterations to refine your themes and coding scheme. Plus, you can enhance your journaling content with markdown formatting!</p>
 </section>
-<section id="update-as-you-progress" class="level2">
-<h2 class="anchored" data-anchor-id="update-as-you-progress">Update as You Progress</h2>
-<p>DMPs aren’t meant to collect dust; they should be treated as living documents that evolve alongside your project. To ensure they stay relevant and accurate, it’s crucial to implement version control. Regularly update the DMP to reflect any changes in your project, and track these revisions to maintain a clear history of modifications. This way, you can easily reference past versions, understand the evolution of your project, and ensure that everyone involved is working with the most current information.</p>
+<section id="practicing-with-the-case-example" class="level4">
+<h4 class="anchored" data-anchor-id="practicing-with-the-case-example">Practicing with the Case Example</h4>
+<p>Now that we are more familiar with QualCoder’s interface, some key functions and the mechanics of setting up a project, let’s bring Sarah’s data into QualCoder and create a project. We will then, walk her through the process of coding her interview transcripts using some recommended practices.</p>
+<section id="creating-a-project" class="level5">
+<h5 class="anchored" data-anchor-id="creating-a-project">Creating a Project</h5>
+<p>Project &gt; Create New Project</p>
+<p>Select the directory you want to save your qda project and name it <code>Influencers</code>.</p>
+<p><img src="images/creating-new-project.png" class="img-fluid"></p>
 </section>
-<section id="ethical-considerations-are-paramount-in-any-research-but-they-take-on-added-significance-in-qualitative-research-where-interactions-and-data-collection-are-often-more-personal-and-complex.-its-vital-to-address-these-considerations-early-in-the-research-process-and-incorporate-them-into-the-data-management-plan-dmp.-for-qualitative-research-the-dmp-should-be-particularly-detailed-in-outlining-these-ethical-aspects.-this-includes-obtaining-informed-consent-from-participants-ensuring-confidentiality-and-privacy-managing-potential-biases-and-being-transparent-about-how-data-will-be-used.-by-embedding-these-considerations-into-a-well-defined-dmp-you-create-a-framework-that-not-only-supports-responsible-and-respectful-research-practices-but-also-anticipates-the-resources-and-services-needed-for-compliance.-in-the-next-episode-we-will-explore-the-ethical-dimensions-of-qualitative-research-in-greater-detail." class="level2">
-<h2 class="anchored" data-anchor-id="ethical-considerations-are-paramount-in-any-research-but-they-take-on-added-significance-in-qualitative-research-where-interactions-and-data-collection-are-often-more-personal-and-complex.-its-vital-to-address-these-considerations-early-in-the-research-process-and-incorporate-them-into-the-data-management-plan-dmp.-for-qualitative-research-the-dmp-should-be-particularly-detailed-in-outlining-these-ethical-aspects.-this-includes-obtaining-informed-consent-from-participants-ensuring-confidentiality-and-privacy-managing-potential-biases-and-being-transparent-about-how-data-will-be-used.-by-embedding-these-considerations-into-a-well-defined-dmp-you-create-a-framework-that-not-only-supports-responsible-and-respectful-research-practices-but-also-anticipates-the-resources-and-services-needed-for-compliance.-in-the-next-episode-we-will-explore-the-ethical-dimensions-of-qualitative-research-in-greater-detail.">Ethical considerations are paramount in any research, but they take on added significance in qualitative research, where interactions and data collection are often more personal and complex. It’s vital to address these considerations early in the research process and incorporate them into the Data Management Plan (DMP). For qualitative research, the DMP should be particularly detailed in outlining these ethical aspects. This includes obtaining informed consent from participants, ensuring confidentiality and privacy, managing potential biases, and being transparent about how data will be used. By embedding these considerations into a well-defined DMP, you create a framework that not only supports responsible and respectful research practices but also anticipates the resources and services needed for compliance. In the next episode, we will explore the ethical dimensions of qualitative research in greater detail.</h2>
+<section id="loading-files" class="level5">
+<h5 class="anchored" data-anchor-id="loading-files">Loading Files</h5>
+<p>We’ve created a project, but we don’t have any files yet, so let’s load them now.</p>
+<hr>
 <p><strong>Recommended/Cited Sources:</strong></p>
-<p>Qualitative Data Repository (2017). <em>Data Management Checklist</em>. <a href="https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf" class="uri">https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf</a></p>
 
 
+</section>
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -360,18 +372,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -403,15 +404,37 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/rcurty\.github\.io\/qualdata-training\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -736,13 +759,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation column-page-right">
   <div class="nav-page nav-page-previous">
-      <a href="./01_qual-data.html" class="pagination-link" aria-label="Qualitative Data">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Qualitative Data</span>
+      <a href="./08_tools.html" class="pagination-link" aria-label="Computer-Aided Analysis Tools">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Computer-Aided Analysis Tools</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./02_ethics.html" class="pagination-link" aria-label="Ethical Considerations for HS Research">
-        <span class="nav-page-text">Ethical Considerations for HS Research</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./10_coding-qualcoder.qmd" class="pagination-link" aria-label="Practing Coding with Qualcoder">
+        <span class="nav-page-text">Practing Coding with Qualcoder</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
