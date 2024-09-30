@@ -16,7 +16,7 @@ To accomplish that, we will be using the following diagram as a
 
 
 
-*If you have comments or feedback, you can use this repository [issues](enter%20URL%20for%20issues)*
+*If you have comments or feedback, please use the [issues](enter%20URL%20for%20issues) repository feature*
 
 ### Authors:
 
