@@ -46,3 +46,5 @@ When conducting qualitative research, it's crucial to maintain thorough document
     :::
 
 By adhering to this documentation checklist, researchers can enhance the credibility and ethical integrity of their qualitative data projects.
+
+**Using the Reporting Features to Document**

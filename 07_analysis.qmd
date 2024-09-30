@@ -203,11 +203,9 @@ There is a general recommendation of 6–30 interviews for most qualitative rese
 
 Now that we've gained some knowledge about coding, let's explore how we can put these concepts into practice.
 In pairs, access the [worksheet](https://docs.google.com/document/d/1Kxjx_Wp0PQ29e3Xhs1GZXTW2K3Da4LxnVd8zq1N2afY/edit) and follow the instructions.
-
-Exercise Sheet ([add link](https://docs.google.com/document/d/1Kxjx_Wp0PQ29e3Xhs1GZXTW2K3Da4LxnVd8zq1N2afY/edit)) - \[ to be publish on Zenodo\]
 :::
 
-We will get more into this in later episodes where we will further perform coding assisted by a QDA open and free software.
+We will get more into this in later episodes where we will have a chance to perform coding assisted by a QDA open and free software.
 
 ------------------------------------------------------------------------
 
