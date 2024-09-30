@@ -5,7 +5,9 @@ editor: visual
 
 ## What should you document?
 
-When conducting qualitative research, it's crucial to maintain thorough documentation to ensure transparency and ethical compliance. Here’s what we should recommend Sarah to document and preserve:
+When conducting qualitative research, it's crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. Here’s what we should recommend Sarah to document and preserve:
+
+**FIXME: re-org strucutre - link with the sharing and archiving ep. (not everything needs to be shared!)**
 
 **Required**
 

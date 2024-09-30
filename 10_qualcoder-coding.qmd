@@ -5,10 +5,30 @@ editor: visual
 
 #### Practicing with the Case Example
 
-Now that we are more familiar with QualCoder's interface, some key functions and have set up our project, let's walk her through the process of coding her interview transcripts using some recommended practices.
+Sure! Here’s a polished version with an improved tone:
 
-##### 
+------------------------------------------------------------------------
 
-#### **Export attributes**
+Now that we’re more familiar with QualCoder’s interface and project basics, let’s guide Sarah through the coding analysis of the transcripts using the software features and some recommended practices.
+
+To make the most of our time, we’ll focus our coding examples and activities on the interviewees' responses to Question 4:
+
+*What do you see as the key ethical responsibilities of content creators and digital influencers? How should these ethics apply to endorsements and recommendations? Can you share any personal examples?*
+
+We’ll be using a combination of top-down and bottom-up approaches to demonstrate some important coding features in QualCoder. For now, don’t worry about the various icons on the top bar—we’ll explore those shortly. Instead, let’s concentrate on the lower right-hand window.
+
+After we presented the distinction between inductive and deductive coding approaches, Sarah mentioned that her preliminary literature review on the topic revealed some broad themes that could guide her initial coding framework. She’s eager to keep it flexible, allowing for refinement, including branching and or combination of existing codes, and the incorporation of new codes as they emerge. Therefore, we will first create some code examples and later incorporate new ones. It’s important to keep in mind that this process typically requires multiple iterations, which we might not be able to afford in a short episode. While we want to demonstrate the overall process to Sarah, she will likely need to keep adjusting the codes until we have a more solid list of unambiguous ones.
+
+1\. Authentic & Transparent Engagement: Share genuine content that reflects true values and beliefs. Avoid misleading information or exaggerated claims. Be open about intentions and motivations. Clearly disclose any partnerships, sponsorships, or potential biases in content.
+
+2\. Promote Positive Discourse: Be mindful of the impact social media can have on mental health. Encourage constructive discussions and discourage negativity, harassment, or bullying within the community of followers.
+
+3\. Responsible Content Creation: Create content that is not only engaging but also socially responsible. Consider the potential implications of messages to the audience and the society at large. Verify the accuracy of the information. Prioritize credible sources and be willing to correct misinformation when necessary.
+
+4\. Inclusive & Respectul Communication: Strive to create an inclusive environment by being mindful of diverse perspectives and experiences. Avoid language or imagery that could alienate or offend.
+
+So, we will start by creating this first set of codes in QualCoder.
+
+**Export attributes**
 
 ![](images/export-attributes-csv.png)

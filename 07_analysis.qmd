@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Data"
+title: "Analyzing Qualitative Data"
 ---
 
 ## The Role of Contextuality

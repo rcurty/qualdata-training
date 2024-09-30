@@ -19,7 +19,7 @@ Her main research question is: *How do content creators/digital influencers view
 
 Given the novelty of this research topic and the limited academic literature available, Sarah hopes that the insights gained from this small-scale qualitative exploratory study will help identify key variables for a larger survey study with a representative sample of content creators/digital influencers across the U.S.
 
-Sarah has previous experience with quantitative methods but is very new to qualitative research and could use our help for better handling the data. Having already conducted six short structured with subjects from top revenue niches (i.e., Home Decor and DYI, Travel & Adventure, Fashion & Style, Health & Wellness, Finance & Investment, Beauty & Skincare) and planning to conduct a dozen more, Sarah is eager to begin engaging with the data she has collected so far and deciding how to best organize and interpret it. We’ll be walking her through this process, providing the necessary guidance and support for effective and responsible data management.
+Sarah has previous experience with quantitative methods but is very new to qualitative research and could use our help for better handling the data. Having already conducted six short structured interviews with subjects from top revenue niches (i.e., Home Decor and DYI, Travel & Adventure, Fashion & Style, Health & Wellness, Finance & Investment, Beauty & Skincare) and planning to conduct a dozen more, Sarah is eager to begin engaging with the data she has collected so far and deciding how to best organize and interpret it. We’ll be walking her through this process, providing the necessary guidance and support for effective and responsible data management.
 
 Interviews were conducted over Zoom and audio recorded with participants' consent. The interview included four main questions, which were consistent across all interviews:
 
@@ -29,7 +29,7 @@ Interviews were conducted over Zoom and audio recorded with participants' consen
 
 *Q3. What strategies would you say content creators/digital influencers typically use to increase sales of sponsored products and services? Which ones have you used? What worked and what did not work for you? Why?*
 
-*Q4. What do you see as key ethical responsibilities of content creators/digital influencers? In your opinion, how should these ethics apply to endorsements and recommendations? Are there any personal examples you could share?*
+*Q4. What do you see as key ethical responsibilities of content creators/digital influencers? Are there any personal examples you could share?* 
 
 Each interview generated approximately 15 minutes of audio recording and were manually transcribed by Sarah. Sarah decided to keep the transcription true to the recordings and seek assistance to mitigate any risk of identification later, as we will see in the next episode.
 
@@ -51,4 +51,4 @@ Answer: Yes! A pilot study is a preliminary investigation, often involving 10 or
 Answer: All amendments (i.e., changes/modifications) to approved research must be submitted to the IRB for review and approval before they are implemented. If the amendments involve changes to how participants' data will be used or how their involvement is described, inform the participants of these changes. This might involve contacting them to obtain updated consent or simply providing them with new information depending on the nature of the amendments.
 :::
 
-Now, let's open some transcripts. Sarah did well by not listing actual interviewees' names. She organized all transcripts in a dedicated `data` folder and adopted a file convention name. Way to go, Sarah! When working on your own projects, ensure to do the same.
+Now, let's open some transcripts. Sarah did well by not listing actual interviewees' names. She organized all transcripts in a dedicated `data` folder and adopted a file convention name before sharing it with us. Way to go, Sarah! When working on your own projects, ensure to do the same.

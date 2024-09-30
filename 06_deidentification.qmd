@@ -41,7 +41,7 @@ However, there may be situations where these strategies are not feasible. In suc
 ::: {.callout-note collapse="true" icon="false"}
 ## 💭 Discussion: What could be potential direct and indirect identifiers in the context of Sarah's research?
 
-Answer: Social media usernames or handles are considered direct identifiers, while patterns in use of custom tags and symbols, bios and profile descriptions and catchphrases combined might direct identify users, especially in niche activities.
+Answer: Besides names, social media usernames or handles are considered direct identifiers, while patterns in use of custom tags and symbols, locations, bios and profile descriptions and catchphrases combined might re-identify users, especially in niche activities.
 
 Consider the infamous [Baby Reindeer Netflix series lawsuit](https://www.forbes.com/sites/danafeldman/2024/07/17/how-to-write-a-hollywood-script-and-avoid-the-baby-reindeer-legal-trap), in which a simple keyword search on Twitter swiftly uncovered the identity of the real person behind the pseudonym used in the series.
 :::
@@ -156,9 +156,9 @@ Having promised to keep participants' identities confidential, Sarah have assign
 ## 🏋️‍♀Exercise: Helping Sarah De-identifying Transcripts
 
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
-Let's open the files for `interviewee_01` and `interviewee_03` ([Sara-Project/Data](https://drive.google.com/drive/folders/1SBxXcMPnNdSHDxUFsMfl5u7cTwAzLskT)). To make things easier, we have highlighted some potential sensitive pieces of information. How we would mitigate those issues?
+Let's open the files for `interviewee_01` and `interviewee_03` ([Sara-Project/Data](https://drive.google.com/drive/folders/1SBxXcMPnNdSHDxUFsMfl5u7cTwAzLskT)). To make things easier, we have highlighted some potential sensitive pieces of information. What strategies can we implement to minimize the risk of interviewees' identification?
 
-The [Data-Qualcoder](https://drive.google.com/drive/folders/1736eI0a61UkAsMX1sxvbWPzKGVUzrymD) folder contains a possible solution. **(FIXME-ADD SOLLUTION FILE)**
+The [Data-Qualcoder-Deid](https://drive.google.com/drive/folders/1yYlgtlQ0lvw7Iify7-XydBwpGSkgxwGg?usp=drive_link) folder contains a possible solution.
 :::
 :::
 
