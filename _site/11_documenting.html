@@ -31,7 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./12_sharing.html" rel="next">
-<link href="./10_coding-qualcoder.qmd" rel="prev">
+<link href="./10_qualcoder-coding.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -185,7 +185,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./07_coding.html" class="sidebar-item-text sidebar-link">
+  <a href="./07_analysis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Coding Analysis</span></a>
   </div>
 </li>
@@ -203,7 +203,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./10_coding-qualcoder.qmd" class="sidebar-item-text sidebar-link">
+  <a href="./10_qualcoder-coding.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Practing Coding with Qualcoder</span></a>
   </div>
 </li>
@@ -279,28 +279,250 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="what-should-you-document" class="level2">
 <h2 class="anchored" data-anchor-id="what-should-you-document">What should you document?</h2>
-<p><strong>Required:</strong></p>
-<ul>
-<li><p>Original source data, when possible, and as long as it is de-identified</p></li>
-<li><p>Processed data (e.g., transcripts)</p></li>
-<li><p>Codebook</p></li>
-<li><p>Readme</p></li>
-<li><p>Instrument for data collection (e.g., survey, interview, etc), if applicable</p></li>
-<li><p>Documentation generated in the Qualitative Data Analysis Software (QDAS) application (e.g., Nvivo, atlas.TI, etc.): memos, notes, networks, classifications</p></li>
-</ul>
-<p><strong>Desired:</strong></p>
-<ul>
-<li><p>Informed consent statement(s) or assent (see the Human Subjects Data Essentials Primer)</p></li>
-<li><p>IRB protocol (see the Human Subjects Data Essentials Primer)</p></li>
-<li><p>Study protocol or procedures manual</p></li>
-<li><p>Data Management Plan –To indicate how long the data needs to be preserved/accessible, and any other stipulations on sharing/management.</p></li>
-</ul>
-<p>QUALCODER - <a href="https://www.qdasoftware.org/refi-qda-codebook" class="uri">https://www.qdasoftware.org/refi-qda-codebook</a></p>
+<p>When conducting qualitative research, it’s crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. Here’s what we should recommend Sarah to document and preserve:</p>
+<p><strong>FIXME: re-org strucutre - link with the sharing and archiving ep. (not everything needs to be shared!)</strong></p>
+<p><strong>Required</strong></p>
+<ol type="1">
+<li><p>Original Source Data: Retain the original data whenever possible, ensuring it is de-identified to protect participant privacy.</p></li>
+<li><p>Processed Data: Include finalized versions of your data, such as transcripts of interviews or focus groups.</p></li>
+<li><p>Readme File: an overview of your project, including data sources, their relationships and a brief description of the methods.</p></li>
+<li><p>Data Collection Instruments: A sample of instruments used for data collection, such as surveys or interview guides.</p></li>
+<li><p>Codebook: the coding framework used, including definitions of codes and categories.</p></li>
+<li><p>Documentation from Qualitative Data Analysis Software (QDAS): Include all relevant materials generated from QDAS tools (e.g., NVivo, Atlas.ti), such as memos, notes, network diagrams, and classifications.</p></li>
+<li><p>Informed Consent/Assent Statements: copies of informed consent or assent documents, following the guidelines.</p></li>
+<li><p>IRB Protocol: a copy of the Institutional Review Board (IRB) protocol.</p></li>
+<li><p>Study Protocol or Procedures Manual: a comprehensive guide outlining the study procedures and methodology.</p></li>
+<li><p>Data Management Plan: specifying how long the data will be preserved and any stipulations regarding its sharing and management.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+REFI-QDA Codebook (Items 5 &amp; 6)
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>As seen, a codebook in qualitative or mixed-methods research is a structured list of defined keywords or phrases that represent key themes, concepts, or topics of interest to the researcher. These keywords or phrases are commonly referred to as “codes.”</p>
+<p>In qualitative data analysis (QDA) software, codes can be linked to specific segments of data where they appear. While the codebook serves as a comprehensive listing of codes, many QDA programs also allow for the organization of these codes in various ways, depending on the features of the software used.</p>
+<p>The REFI-QDA Standard enables interoperability between Qualitative Data Analysis Software (QDAS or CAQDAS) programmes. It ensures that a codebook developed in one of the compatible software programs can be exported and imported into any other listed programs, including QualCoder, which complies with this format.</p>
+<p>It’s important to note that because each program has unique functionalities regarding codes and their organization, users may encounter some modifications when importing a codebook into a different software environment.</p>
+<p>Check which QDA software are REFI-QDA compatible: <a href="https://www.qdasoftware.org/refi-qda-codebook" class="uri">https://www.qdasoftware.org/refi-qda-codebook</a></p>
+</div>
+</div></li>
+</ol>
+<p>By adhering to this documentation checklist, researchers can enhance the credibility and ethical integrity of their qualitative data projects.</p>
 
 
 </section>
 
 </main> <!-- /main -->
+<script>
+
+/* update total correct if #webex-total_correct exists */
+update_total_correct = function() {
+  console.log("webex: update total_correct");
+
+  var t = document.getElementsByClassName("webex-total_correct");
+  for (var i = 0; i < t.length; i++) {
+    p = t[i].parentElement;
+    var correct = p.getElementsByClassName("webex-correct").length;
+    var solvemes = p.getElementsByClassName("webex-solveme").length;
+    var radiogroups = p.getElementsByClassName("webex-radiogroup").length;
+    var selects = p.getElementsByClassName("webex-select").length;
+
+    t[i].innerHTML = correct + " of " + (solvemes + radiogroups + selects) + " correct";
+  }
+}
+
+/* webex-solution button toggling function */
+b_func = function() {
+  console.log("webex: toggle hide");
+
+  var cl = this.parentElement.classList;
+  if (cl.contains('open')) {
+    cl.remove("open");
+  } else {
+    cl.add("open");
+  }
+}
+
+/* check answers */
+check_func = function() {
+  console.log("webex: check answers");
+
+  var cl = this.parentElement.classList;
+  if (cl.contains('unchecked')) {
+    cl.remove("unchecked");
+    this.innerHTML = "Hide Answers";
+  } else {
+    cl.add("unchecked");
+    this.innerHTML = "Show Answers";
+  }
+}
+
+/* function for checking solveme answers */
+solveme_func = function(e) {
+  console.log("webex: check solveme");
+
+  var real_answers = JSON.parse(this.dataset.answer);
+  var my_answer = this.value;
+  var cl = this.classList;
+  if (cl.contains("ignorecase")) {
+    my_answer = my_answer.toLowerCase();
+  }
+  if (cl.contains("nospaces")) {
+    my_answer = my_answer.replace(/ /g, "")
+  }
+
+  if (my_answer == "") {
+    cl.remove("webex-correct");
+    cl.remove("webex-incorrect");
+  } else if (real_answers.includes(my_answer)) {
+    cl.add("webex-correct");
+    cl.remove("webex-incorrect");
+  } else {
+    cl.add("webex-incorrect");
+    cl.remove("webex-correct");
+  }
+
+  // match numeric answers within a specified tolerance
+  if(this.dataset.tol > 0){
+    var tol = JSON.parse(this.dataset.tol);
+    var matches = real_answers.map(x => Math.abs(x - my_answer) < tol)
+    if (matches.reduce((a, b) => a + b, 0) > 0) {
+      cl.add("webex-correct");
+    } else {
+      cl.remove("webex-correct");
+    }
+  }
+
+  // added regex bit
+  if (cl.contains("regex")){
+    answer_regex = RegExp(real_answers.join("|"))
+    if (answer_regex.test(my_answer)) {
+      cl.add("webex-correct");
+    }
+  }
+
+  update_total_correct();
+}
+
+/* function for checking select answers */
+select_func = function(e) {
+  console.log("webex: check select");
+
+  var cl = this.classList
+
+  /* add style */
+  cl.remove("webex-incorrect");
+  cl.remove("webex-correct");
+  if (this.value == "answer") {
+    cl.add("webex-correct");
+  } else if (this.value != "blank") {
+    cl.add("webex-incorrect");
+  }
+
+  update_total_correct();
+}
+
+/* function for checking radiogroups answers */
+radiogroups_func = function(e) {
+  console.log("webex: check radiogroups");
+
+  var checked_button = document.querySelector('input[name=' + this.id + ']:checked');
+  var cl = checked_button.parentElement.classList;
+  var labels = checked_button.parentElement.parentElement.children;
+
+  /* get rid of styles */
+  for (i = 0; i < labels.length; i++) {
+    labels[i].classList.remove("webex-incorrect");
+    labels[i].classList.remove("webex-correct");
+  }
+
+  /* add style */
+  if (checked_button.value == "answer") {
+    cl.add("webex-correct");
+  } else {
+    cl.add("webex-incorrect");
+  }
+
+  update_total_correct();
+}
+
+window.onload = function() {
+  console.log("webex onload");
+  /* set up solution buttons */
+  var buttons = document.getElementsByTagName("button");
+
+  for (var i = 0; i < buttons.length; i++) {
+    if (buttons[i].parentElement.classList.contains('webex-solution')) {
+      buttons[i].onclick = b_func;
+    }
+  }
+
+  var check_sections = document.getElementsByClassName("webex-check");
+  console.log("check:", check_sections.length);
+  for (var i = 0; i < check_sections.length; i++) {
+    check_sections[i].classList.add("unchecked");
+
+    let btn = document.createElement("button");
+    btn.innerHTML = "Show Answers";
+    btn.classList.add("webex-check-button");
+    btn.onclick = check_func;
+    check_sections[i].appendChild(btn);
+
+    let spn = document.createElement("span");
+    spn.classList.add("webex-total_correct");
+    check_sections[i].appendChild(spn);
+  }
+
+  /* set up webex-solveme inputs */
+  var solveme = document.getElementsByClassName("webex-solveme");
+
+  for (var i = 0; i < solveme.length; i++) {
+    /* make sure input boxes don't auto-anything */
+    solveme[i].setAttribute("autocomplete","off");
+    solveme[i].setAttribute("autocorrect", "off");
+    solveme[i].setAttribute("autocapitalize", "off");
+    solveme[i].setAttribute("spellcheck", "false");
+    solveme[i].value = "";
+
+    /* adjust answer for ignorecase or nospaces */
+    var cl = solveme[i].classList;
+    var real_answer = solveme[i].dataset.answer;
+    if (cl.contains("ignorecase")) {
+      real_answer = real_answer.toLowerCase();
+    }
+    if (cl.contains("nospaces")) {
+      real_answer = real_answer.replace(/ /g, "");
+    }
+    solveme[i].dataset.answer = real_answer;
+
+    /* attach checking function */
+    solveme[i].onkeyup = solveme_func;
+    solveme[i].onchange = solveme_func;
+
+    solveme[i].insertAdjacentHTML("afterend", " <span class='webex-icon'></span>")
+  }
+
+  /* set up radiogroups */
+  var radiogroups = document.getElementsByClassName("webex-radiogroup");
+  for (var i = 0; i < radiogroups.length; i++) {
+    radiogroups[i].onchange = radiogroups_func;
+  }
+
+  /* set up selects */
+  var selects = document.getElementsByClassName("webex-select");
+  for (var i = 0; i < selects.length; i++) {
+    selects[i].onchange = select_func;
+    selects[i].insertAdjacentHTML("afterend", " <span class='webex-icon'></span>")
+  }
+
+  update_total_correct();
+}
+
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -712,7 +934,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation column-page-right">
   <div class="nav-page nav-page-previous">
-      <a href="./10_coding-qualcoder.qmd" class="pagination-link" aria-label="Practing Coding with Qualcoder">
+      <a href="./10_qualcoder-coding.html" class="pagination-link" aria-label="Practing Coding with Qualcoder">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Practing Coding with Qualcoder</span>
       </a>          
   </div>

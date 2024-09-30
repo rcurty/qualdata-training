@@ -5,7 +5,7 @@ editor: visual
 
 #### Practicing with the Case Example
 
-Now that we’re more familiar with QualCoder’s interface and project basics, let’s guide Sarah through the coding analysis of the transcripts using the software features and some recommended practices.
+Now that we’re more familiar with QualCoder’s interface and the basics of our project, let’s walk Sarah through the coding analysis of the transcripts using the software’s features and some best practices. QualCoder offers a versatile platform for coding not just text, but also images (including PDFs), video, and audio. While Sarah's project focuses on textual data, feel free to explore these features for your own work later on!
 
 To make the most of our time, we’ll focus our coding examples and activities on the interviewees' responses to Question 4:
 
@@ -23,7 +23,13 @@ After we presented the distinction between inductive and deductive coding approa
 
 4\. Inclusive & Respectul Communication: Strive to create an inclusive environment by being mindful of diverse perspectives and experiences. Avoid language or imagery that could alienate or offend.
 
-So, we will start by creating this first set of codes in QualCoder.
+So, we will start by creating this first set of codes in QualCoder. To do that, let's do a ctrl+click on the panel.
+
+![](images/new-code.png)
+
+Complete the same process for the other codes. You will notice that
+
+Then, choose `add new code` and type the first one on the list above. You will notice
 
 **Export attributes**
 

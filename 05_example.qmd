@@ -7,7 +7,7 @@ From this point onward, we will be working with a fictional research project and
 
 ## **Meet Sarah!**
 
-![](images/clipboard-2573570051.png){width="300"}
+![](images/sarah-new.png){width="400"}
 
 Image Generated using [openart.ai](https://openart.ai/)
 
@@ -29,7 +29,7 @@ Interviews were conducted over Zoom and audio recorded with participants' consen
 
 *Q3. What strategies would you say content creators/digital influencers typically use to increase sales of sponsored products and services? Which ones have you used? What worked and what did not work for you? Why?*
 
-*Q4. What do you see as key ethical responsibilities of content creators/digital influencers? Are there any personal examples you could share?* 
+*Q4. In your view, what are the essential ethical responsibilities that content creators and digital influencers should uphold? Can you share any personal experiences that illustrate these responsibilities in action?*
 
 Each interview generated approximately 15 minutes of audio recording and were manually transcribed by Sarah. Sarah decided to keep the transcription true to the recordings and seek assistance to mitigate any risk of identification later, as we will see in the next episode.
 
