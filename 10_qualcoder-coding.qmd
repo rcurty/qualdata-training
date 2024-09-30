@@ -5,10 +5,6 @@ editor: visual
 
 #### Practicing with the Case Example
 
-Sure! Here’s a polished version with an improved tone:
-
-------------------------------------------------------------------------
-
 Now that we’re more familiar with QualCoder’s interface and project basics, let’s guide Sarah through the coding analysis of the transcripts using the software features and some recommended practices.
 
 To make the most of our time, we’ll focus our coding examples and activities on the interviewees' responses to Question 4:
