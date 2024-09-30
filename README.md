@@ -38,7 +38,7 @@ Renata Curty (rcurty@ucsb.edu), Julien Brun and Greg Janée, Research Data Servi
 
 <p align="center">
 
-<a href="https://www.library.ucsb.edu/research-data-services"><img src="images/ucsb-primary-wordmark.png" alt="UCSB logo" style="border-width:0" width="250px" align="center"/></a>
+<a href="https://www.library.ucsb.edu/research-data-services"><img src="images/rds-hexsticker.png" alt="UCSB logo" style="border-width:0" width="250px" align="center"/></a>
 
 </p>
 
