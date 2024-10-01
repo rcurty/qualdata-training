@@ -11,13 +11,13 @@ website:
      - text: About RDS
        href: 00_about.qmd
      - icon: github
-       href: https://github.com/UCSB-Library-Research-Data-Services
+       href: https://github.com/rcurty/qualdata-training
        menu:
        - text: Source Code
-         url: replace
+         url: https://github.com/rcurty/qualdata-training
          target: _blank
        - text: Report a Bug
-         url: replace
+         url: https://github.com/rcurty/qualdata-training/issues
          target: _blank
     
         
