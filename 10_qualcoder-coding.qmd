@@ -3,7 +3,7 @@ title: "Coding with Qualcoder"
 editor: visual
 ---
 
-#### Practicing with the Case Example
+## Practicing with the Case Example
 
 Now that we’re more familiar with QualCoder’s interface and the basics of our project, let’s walk Sarah through the coding analysis of the transcripts using the software’s features and some best practices. QualCoder offers a versatile platform for coding not just text, but also images (including PDFs), video, and audio. While Sarah's project focuses on textual data, feel free to explore these features for your own work later on!
 
@@ -13,24 +13,66 @@ To make the most of our time, we’ll focus our coding examples and activities o
 
 We’ll be using a combination of top-down and bottom-up approaches to demonstrate some important coding features in QualCoder. For now, don’t worry about the various icons on the top bar—we’ll explore those shortly. Instead, let’s concentrate on the lower right-hand window.
 
-After we presented the distinction between inductive and deductive coding approaches, Sarah mentioned that her preliminary literature review on the topic revealed some broad themes that could guide her initial coding framework. She’s eager to keep it flexible, allowing for refinement, including branching and or combination of existing codes, and the incorporation of new codes as they emerge. Therefore, we will first create some code examples and later incorporate new ones. It’s important to keep in mind that this process typically requires multiple iterations, which we might not be able to afford in a short episode. While we want to demonstrate the overall process to Sarah, she will likely need to keep adjusting the codes until we have a more solid list of unambiguous ones.
+### **Creating Categories & Codes**
 
-1\. Authentic & Transparent Engagement: Share genuine content that reflects true values and beliefs. Avoid misleading information or exaggerated claims. Be open about intentions and motivations. Clearly disclose any partnerships, sponsorships, or potential biases in content.
+After we presented the distinction between inductive and deductive coding approaches, Sarah mentioned that her preliminary literature review on the topic revealed some broad topics that could guide her initial coding framework.
 
-2\. Promote Positive Discourse: Be mindful of the impact social media can have on mental health. Encourage constructive discussions and discourage negativity, harassment, or bullying within the community of followers.
+She found that accountability, authenticity and transparency are ethical responsibilities frequently associated with the the work of content creators and social media influencers. She’s eager to explore these broad categories while keeping them flexible, allowing for refinement, including branching and or combination of existing codes, and the incorporation of new codes as they emerge. Therefore, we will first create these initial three categories to get her started with some coding using the tool. It’s important to keep in mind that this process typically requires multiple iterations, which we might not be able to afford in a short episode. While we want to demonstrate the overall process to Sarah, she will likely need to keep adjusting the codes until we have a more solid list of unambiguous ones.
 
-3\. Responsible Content Creation: Create content that is not only engaging but also socially responsible. Consider the potential implications of messages to the audience and the society at large. Verify the accuracy of the information. Prioritize credible sources and be willing to correct misinformation when necessary.
+So, we will start by representing these three main categories in QualCoder. To do that, let's do a ctrl+click on the panel. This will prompt a window with the most important actions for you to engage with the development and organization of your codebook.
 
-4\. Inclusive & Respectul Communication: Strive to create an inclusive environment by being mindful of diverse perspectives and experiences. Avoid language or imagery that could alienate or offend.
+Click `add a new category`, and enter "Accountability". Complete the same process for the other two codes. You may also add a memo with some explanation about the category. Complete the same for the other two categories.
 
-So, we will start by creating this first set of codes in QualCoder. To do that, let's do a ctrl+click on the panel.
+![](images/memo-category.png)
 
-![](images/new-code.png)
+With QualCoder we can create as many levels we want (as long as they are not ambiguous) and also drag categories and codes to reorganize them. We'll see more about it later. We can also add
 
-Complete the same process for the other codes. You will notice that
+We now have three initial categories to work with. Assuming we’re familiar with the transcripts, we’ll explore excerpts related to these categories and consider the possibility of developing new codes. It’s important to remember that while we can’t directly assign categories to excerpts, they serve as a useful guide for exploring the data. This approach will assist us in identifying relevant themes later on, as we’ve seen in previous episodes.
 
-Then, choose `add new code` and type the first one on the list above. You will notice
+Ok, let's open the `Interviewee_01` transcripts. look at the answer to Q4, let's read the first paragraph. In these few sentences we can identify a few relevant keywords: trust, reliability, respect, genuine/genuinely. There could be multiple ways to go about it, but let's say we want to code this section as "Genuine Added-Value" and relate this to the "Authenticity" category.
+
+![](images/genuine-added-value-code.png)
+
+We can then drag the new code and arrange it under Authenticity. You will notice that a color will be automatically assigned to the code. You change colors, rename, add memos, move or edit codes using the menu options. Note that the code now shows that there is one excerpt associated with the code. If you continue assigning more excerpts to a giving code, they will be reflected in the number, but at the file level in this view. You may check all excerpts assigned to a code across files by selecting `Show coded files`.
+
+![](images/coded-excerpt-view.png)
+
+Your turn! Code the second paragraph in relation to the category "Transparency" and code it as "Honest Reviews".
+
+![](images/honest-reviews-code.png)
+
+Alright, we have two new codes assigned to this interview, let's move to other interviews and see if we can find excerpts related to this existing codes. I trust you have found some right away.
+
+![](images/honest-review-examples.png){width="500"}
+
+Great! Now that we understand how to create codes, assign and reorganize them, and view excerpts related to those codes, let’s move our attention now to the top bar we mentioned earlier to understand other coding options we have to assist our coding tasks.
+
+![](images/upper-bar-code.png)
+
+You may use the search box to perform queries using [Regex functions](https://www.rexegg.com/regex-quickstart.php) and locate specific terms within and across multiple documents. This can be extremely handy to speed up the process of getting to specific passages of the data. Once you perform a search you, unfortunately you won't see the total of matching results. QualCoder will highlight those and you may use the back and forward arrows to navigate results.
+
+Another useful feature is the ability to create file annotations for selected excerpts and coded sections, all conveniently displayed in one window. This allows you to highlight points that need clarification and passages you may want to revisit, especially if they have the potential to inspire new codes. You can use this tool to streamline your workflow and enhance your analysis. Note that the passage will be highlighted in bold so you can more easily spot what needs your attention. Similar approach can be followed with already coded passages, but typically those memos will reflect decisions behind the coding of that passage.
+
+![](images/annotations.png)
+
+Okay, a few more features to support Sarah's coding efforts, and we already can see how this is definitely a more effective approach to coding then using post-its or word processors, right?
+
+\[fix me - add final coded project\] - ask learners to navigate and then, move to reporting
+
+### Reporting
 
 **Export attributes**
 
 ![](images/export-attributes-csv.png)
+
+Final Themes
+
+-   *Authentic & Transparent Engagement:* Share genuine content that reflects true values and beliefs. Avoid misleading information or exaggerated claims. Be open about intentions and motivations. Clearly disclose any partnerships, sponsorships, or potential biases in content.
+
+-   *Promote Positive Discourse*: Be mindful of the impact social media can have on mental health. Encourage constructive discussions and discourage negativity, harassment, or bullying within the community of followers.
+
+-   *Responsible Content Creation:* Create content that is not only engaging but also socially responsible. Consider the potential implications of messages to the audience and the society at large. Verify the accuracy of the information. Prioritize credible sources and be willing to correct misinformation when necessary.
+
+-   *Inclusive & Respectful Communication:* Strive to create an inclusive environment by being mindful of diverse perspectives and experiences. Avoid language or imagery that could alienate or offend.
+
+-   Mindful Consumerism: Estimulate conscious shopping, promote ethical brands, and encourage sustainable consumption practices, while inspiring others to think critically about their buying habits.
