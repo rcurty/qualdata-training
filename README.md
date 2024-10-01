@@ -22,7 +22,7 @@ To accomplish that, we will be using the following diagram as a
 
 Renata Curty (rcurty@ucsb.edu), Julien Brun and Greg Janée
 Research Data Services (RDS), UC Santa Barbara Library
-<p align="center">
+<p align="left">
 
 <a href="https://www.library.ucsb.edu/research-data-services"><img src="images/RDS-logo.png" alt="UCSB logo" style="border-width:0" width="250px" align="center"/></a>
 
