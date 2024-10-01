@@ -156,16 +156,15 @@ Having promised to keep participants' identities confidential, Sarah have assign
 ## 🏋️‍♀Exercise: Helping Sarah De-identifying Transcripts
 
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
-Let's open the files for `interviewee_01` and `interviewee_03` ([Sara-Project/Data](https://drive.google.com/drive/folders/1SBxXcMPnNdSHDxUFsMfl5u7cTwAzLskT)). To make things easier, we have highlighted some potential sensitive pieces of information. What strategies can we implement to minimize the risk of interviewees' identification?
+Let's open the files for `interviewee_01` and `interviewee_03` ([Sara-Project/Data/Transcripts](https://drive.google.com/drive/folders/1SBxXcMPnNdSHDxUFsMfl5u7cTwAzLskT?usp=sharing)). To make things easier, we have highlighted some potential sensitive pieces of information. What strategies can we implement to minimize the risk of interviewees' identification?
 
-The [Data-Qualcoder-Deid](https://drive.google.com/drive/folders/1yYlgtlQ0lvw7Iify7-XydBwpGSkgxwGg?usp=drive_link) folder contains a possible solution.
+The [Deid-Transcripts](https://drive.google.com/drive/folders/1yYlgtlQ0lvw7Iify7-XydBwpGSkgxwGg?usp=sharing) folder contains a possible solution.
 :::
 :::
 
 Adopting best practices for de-identifying responses from your human participants can significantly enhance both the ease and reliability of this process. It's crucial to incorporate de-identification considerations early in your planning phase as part of your overall data management strategy. Decisions on which data to collect, what to exclude, and how to inform participants about de-identification will profoundly impact how you can use and share the data in the future as we will explore in future episodes.
 
 ------------------------------------------------------------------------
-
 **Recommended/Cited Sources:**
 
 Campbell R, Javorka M, Engleton J, Fishwick K, Gregory K, Goodman-Williams R. Open-Science Guidance for Qualitative Research: An Empirically Validated Approach for De-Identifying Sensitive Narrative Data. *Advances in Methods and Practices in Psychological Science*. 2023;6(4). doi:[10.1177/25152459231205832](https://doi.org/10.1177/25152459231205832)
