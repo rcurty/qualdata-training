@@ -287,10 +287,10 @@ ul.task-list li input[type="checkbox"] {
 <li><p>GitHub Repository (QualCoder AI - beta) - <a href="https://github.com/kaixxx/QualCoder/tree/ai_integration" class="uri">https://github.com/kaixxx/QualCoder/tree/ai_integration</a></p></li>
 </ul>
 <p>You are welcome to follow <a href="https://github.com/ccbogel/QualCoder/wiki/01-Introduction">installation and running instructions</a> for your operating system. Please note, however, this is a multistep process that requires additional components and the use of the command line/terminal. We are available to consult with individuals or groups that require assistance in that process.</p>
-<p>To save us time, for this workshop we will skip the installation process and we will be supplying a virtual machine to attendees. We will first use the latest available version on the software (currently 3.5) for the exercises, and then, give a sneak peak of the beta version with AI capabilities to test how ChatGPT 4.0 can assist with horizontal coding. On this second half, we will discuss the implications for privacy and also the expected costs associated with the use of AI.</p>
+<p>To save us time, for this workshop, we will skip the installation process, and we will grant learners access to a virtual machine with QualCoder pre-installed. We will first use the latest available version on the software (currently 3.5) for the coding activities, and then, give a sneak peak of the beta version with AI capabilities to demonstrate how ChatGPT 4.0 can assist with horizontal coding.</p>
 <section id="launching-qualcoder" class="level3">
 <h3 class="anchored" data-anchor-id="launching-qualcoder">Launching QualCoder</h3>
-<p>To run QualCoder from the command prompt or terminal use the following</p>
+<p>To run QualCoder from the command prompt or terminal, use the following commands:</p>
 <p><strong><em>Mac</em></strong></p>
 <p>From any directory: <code>qualcoder</code> From the QualCoder-Master directory: <code>python3 -m qualcoder</code> or <code>python3 qualcoder/__main__.py</code></p>
 <p><strong><em>Windows</em></strong></p>
@@ -305,28 +305,28 @@ Running Qualcoder
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Do not close the terminal or command prompt running in the background; otherwise, you will exit QualCoder. If you miminize the QualCoder window and get lost, you may click the Python Launch icon.</p>
+<p>Do not close the terminal or command prompt running in the background; otherwise, you will exit QualCoder. If you minimize the QualCoder window and get lost, you may click the Python Launch icon.</p>
 </div>
 </div>
 </section>
 <section id="basic-functionalities" class="level3">
 <h3 class="anchored" data-anchor-id="basic-functionalities">Basic Functionalities</h3>
-<p>We will cover some basic settings, terms (attributes, including how to create a project and how to engage with coding. If you are following this content asynchronously, we strongly advise you to watch the following video for additional features:</p>
-<div class="quarto-video"><iframe data-external="1" src="https://www.youtube.com/embed/wj5fY4F5Jxo" width="250" height="175" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>We will cover some basic settings and terms (attributes, including how to create a project and how to engage with coding. If you are following this content asynchronously, we strongly advise you to watch the following video for additional features:</p>
+<div class="quarto-video"><iframe data-external="1" src="https://www.youtube.com/embed/wj5fY4F5Jxo" width="600" height="400" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p>Other helpful tutorials can be found here: <a href="https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos" class="uri">https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos</a></p>
 <section id="anatomy-of-a-qualcoder-project" class="level4">
 <h4 class="anchored" data-anchor-id="anatomy-of-a-qualcoder-project">Anatomy of a QualCoder Project</h4>
 <p>In QualCoder, <em>projects</em> serve as containers for organizing multiple files, cases, and attributes. Each project allows you to manage and analyze a specific set of qualitative data, keeping everything organized. You can create different projects for distinct research questions or datasets, enabling a streamlined workflow. This structure ultimately helps you delve deeper into your analysis without mixing different data sets.</p>
-<p>Understanding the roles of files, attributes and cases and their relationships is key to most QDA software. In QualCoder, <em>files</em> refer to the individual documents or data sources you import for analysis. You may have more than one file associate with a unique case. <em>Cases</em> are specific units of analysis, often linked to files, that allow you to organize and explore your data in a more detailed manner. Together, they create a structured environment for qualitative analysis, allowing you to delve into themes and patterns effectively. In our project example, the cases will consist of individual interviewees, but we could also focus on the niche they belong to if we were to analyze at that level.</p>
-<p>For example, let’s imagine that Sarah also collected social media video posts from content creators and digital influencers to analyze behaviors beyond participants’ self-reports, by also checking how they have been engaging with their followers. In this case, she can add video clips to QualCoder and associate them with the same research participant. This structure will depend on the nature of your project, allowing for flexibility in how data is organized and analyzed to best capture the insights you seek.</p>
-<p><em>Attributes</em> are metadata or characteristics that can be assigned to files and cases, helping to categorize or describe them. Examples related to our project example could be demographic pieces of information (e.g., gender, age group), years active, niche, total followers assigned to individuals represented as cases, or characteristics attributed to a file such as the type of source (e.g., interview, social media), total numbers of views, shares and comments, platform (e.g., IG, Youtube, TikTok). You may take advantage of <em>memos</em> to record more detailed information about attributes. Think of it an essential aid to documentation that will provide better contextualization so researchers, including your future self, can better interpret and understand decisions made during the research process.</p>
-<p>As a heads up, QualCoder was not designed having statistical analysis of attributes in mind, for that, you can export attributes as csv files and use R or other open dedicated application. Also, the only current options for attributes are numeric and character, so dates, types or integers are not supported. We will see how we can export attributes later.</p>
-<p>You can utilize <em>Journals</em> to practice data journaling and document ideas and reflections throughout the coding process, making them searchable with regex expressions—a topic we’ll explore later. Journals are particularly useful for a bottom-up approaches, requiring multiple iterations to refine your themes and coding scheme. Plus, you can enhance your journaling content with markdown formatting!</p>
+<p>Understanding the roles of files, attributes, cases, and their relationships is key to most QDA software. In QualCoder, <em>files</em> refer to the individual documents or data sources you import for analysis. You may have more than one file associated with a unique case. <em>Cases</em> are specific units of analysis, often linked to files, that allow you to organize and explore your data in a more detailed manner. Together, they create a structured environment for qualitative analysis, allowing you to delve into themes and patterns effectively. In our project example, the cases will consist of individual interviewees, but we could also focus on the niche they belong to if we were to analyze at that level.</p>
+<p>For example, let’s imagine that Sarah also collected social media video posts from content creators and digital influencers to analyze behaviors beyond participants’ self-reports by also checking how they have been engaging with their followers. In this case, she can add video clips to QualCoder and associate them with the same research participant. This structure will depend on the nature of your project, allowing for flexibility in how data is organized and analyzed to best capture the insights you seek.</p>
+<p><em>Attributes</em> are metadata or characteristics that can be assigned to files and cases, helping to categorize or describe them. Examples related to our project example could be demographic pieces of information (e.g., gender, age group), years active, niche, total followers assigned to individuals represented as cases, or characteristics attributed to a file such as the type of source (e.g., interview, social media), total numbers of views, shares and comments, platform (e.g., IG, Youtube, TikTok). You may take advantage of <em>memos</em> to record more detailed information about attributes. Think of it as an essential aid to documentation that will provide better contextualization so researchers, including your future self, can better interpret and understand decisions made during the research process.</p>
+<p>As a heads up, QualCoder was not designed having statistical analysis of attributes in mind, for that, you can export attributes as csv files and use R or other open dedicated application. Also, the only current options for attributes are numeric and character, so dates, types, or integers are not supported. We will see how we can export attributes later.</p>
+<p>You can utilize <em>Journals</em> to practice data journaling and document ideas and reflections throughout the coding process, making them searchable with regex expressions—a topic we’ll explore later. Journals are particularly useful for bottom-up approaches, requiring multiple iterations to refine your themes and coding scheme. Plus, you can enhance your journaling content with markdown formatting!</p>
 </section>
 </section>
 <section id="our-example-project-in-qualcoder" class="level3">
 <h3 class="anchored" data-anchor-id="our-example-project-in-qualcoder">Our Example Project in QualCoder</h3>
-<p>Let’s now set Sarah’s project in QualCoder, bring the files into the project and perform some housekeeping and organization before engaging with actual coding.</p>
+<p>Let’s now set Sarah’s project in QualCoder, bring the files into the project, and perform some housekeeping and organization before engaging with actual coding.</p>
 <section id="creating-a-project" class="level4">
 <h4 class="anchored" data-anchor-id="creating-a-project">Creating a Project</h4>
 <p><strong>Project &gt; Create New Project</strong></p>
@@ -334,10 +334,10 @@ Running Qualcoder
 </section>
 <section id="loading-files" class="level4">
 <h4 class="anchored" data-anchor-id="loading-files">Loading Files</h4>
-<p>We’ve created a project, but we don’t have any files yet, so let’s make sure to load them now. Choose, manage files, and then, the second icon as noted below (Import File Into Project Folder), select the desired folder and files.</p>
+<p>We’ve created a project but don’t have any files yet, so let’s make sure to load them now. Choose, manage files, and then, the second icon as noted below (Import File Into Project Folder), select the desired folder and files.</p>
 <p><img src="images/add-files-02.png" class="img-fluid"></p>
-<p>Note the file ID will be assigned according to the order of the import, so if you want that to match your file naming convention, you should order it accordingly. In case you need to fix it, click the red X on the right and delete the files, then reorder then accordingly and bring import them again into QualCoder.</p>
-<p>You may double click in the file or choose the “eye icon” to open the file content. Don’t worry about the information at the bottom of the window for now, we will cover that later.</p>
+<p>Note that the file ID will be assigned according to the order of the import, so if you want that to match your file naming convention, you should order it accordingly. In case you need to fix it, click the red X on the right and delete the files, then reorder them accordingly and import them again into QualCoder.</p>
+<p>You may double-click on the file or choose the “eye icon” to open the file content. Don’t worry about the information at the bottom of the window for now, we will cover that later.</p>
 </section>
 <section id="organizing-things" class="level4">
 <h4 class="anchored" data-anchor-id="organizing-things">Organizing Things</h4>
@@ -346,16 +346,16 @@ Running Qualcoder
 <p><code>Manage &gt; Manage Cases &gt; Pencil (Add Case) &gt; Add your Case Name</code></p>
 <p><img src="images/create-cases.png" class="img-fluid"></p>
 <p><em>Link Files</em></p>
-<p>Now, let’s link the corresponding file to the specific case we have created. Click on the file cell to manage files for the case. This will prompt another window as shown below:</p>
+<p>Now, let’s link the corresponding file to the case we created. Click on the file cell to manage files for the case. This will prompt another window, as shown below:</p>
 <p><img src="images/associate-casesandfiles.png" class="img-fluid"></p>
 <p>Now, create cases and link the files for each of the interviews. You should have one for Linda, Margot, Gina, Otto, Ben and Alex. Note that you can also import csv files with cases. This can be handy especially for projects with several cases.</p>
 <p><em>Describe Attributes</em></p>
-<p>Each transcript has some characteristics associated with interviewees. It would be helpful to describe these as attributes for further analysis. We will only add two types of attributes: <code>age group</code> and <code>niche</code>. There are two different ways to create attributes: via <code>manage &gt; manage attributes</code> or in the <code>manage file</code> window you may select the <code>blue plus sign</code>. In this case, the latter might be just more convenient considering we have only a few attributes and cases.</p>
-<p>We will be assigning age groups (25-29, 30-35, or 35-40) to each case, and adding their respective niches.</p>
+<p>Each transcript has some characteristics associated with interviewees. It would be helpful to describe these as attributes for further analysis. We will only add two attributes: <code>age group</code> and <code>niche</code>. There are two different ways to create attributes: via <code>manage &gt; manage attributes</code> or in the <code>manage file</code> window you may select the <code>blue plus sign</code>. In this case, the latter might be more convenient, considering we have only a few attributes and cases.</p>
+<p>We will be assigning age groups (25-29, 30-35, or 35-40) to each case and adding their respective niches.</p>
 <p><img src="images/attributes.png" class="img-fluid"></p>
 <p>You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to <strong><code>Manage &gt; Manage Attributes</code></strong></p>
-<p>For now, we won’t need to add memos, but keep in mind that they can be useful for providing additional context when attributes aren’t immediately clear.</p>
-<p>We now have a well-organized project set up in QualCoder, so let’s jump into some coding!</p>
+<p>For now, we won’t need to add memos, but they can be useful for providing additional context when attributes aren’t immediately clear.</p>
+<p>We now have a well-organized project in QualCoder, so let’s jump into some coding!</p>
 <hr>
 <p><strong>Recommended/Cited Sources:</strong></p>
 <p>Cheung, K. K. C., &amp; Tai, K. W. H. (2021). The use of intercoder reliability in qualitative interview data analysis in science education. <em>Research in Science &amp; Technological Education</em>, <em>41</em>(3), 1155–1175. <a href="https://doi.org/10.1080/02635143.2021.1993179" class="uri">https://doi.org/10.1080/02635143.2021.1993179</a></p>
