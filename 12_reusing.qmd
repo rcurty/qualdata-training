@@ -2,9 +2,9 @@
 title: "Reusing QHS Data"
 ---
 
-We’ve seen how important it is to share well-documented data and link it to related research to boost its reuse potential. For instance, when Sarah wraps up her analysis on digital influencers, she makes sure her dataset is carefully documented and connected to her findings and other relevant studies. This way, her work isn’t just valuable for her field—it can be reused by other disciplines too. This approach really enhances the value of her data and encourages collaboration across different areas of research!
+Sharing well-documented data and connecting it to related research is crucial for maximizing reuse potential. With the tips we've provided and the support of QualCoder for exporting codebooks and reports, Sarah can easily share her project with the research community. This ensures that her work is valuable within her field and accessible to other disciplines. By adopting this approach, she enhances the reuse value of her data and fosters collaboration across various research areas!
 
-Research data can be reused in various ways as outlined in the handout below:
+Research data can be reused in various ways, as outlined in the handout below:
 
 <iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n06-2021-reuse-navy.pdf">
 
@@ -12,7 +12,7 @@ Research data can be reused in various ways as outlined in the handout below:
 
 Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR](https://perma.cc/AD4C-272F)).
 
-The [UK Data Archive](https://ukdataservice.ac.uk/learning-hub/qualitative-data/reusing-qualitative-data/approaches-to-reusing-qualitative-data/) highlights a the main ways qualitative data tend to be reused:
+The [UK Data Archive](https://ukdataservice.ac.uk/learning-hub/qualitative-data/reusing-qualitative-data/approaches-to-reusing-qualitative-data/) highlights more specific applications od qualitative data secondary analysis:
 
 -   *Description:* Previous research can be utilized to describe the attributes, attitudes, and behaviors of individuals, societies, groups, or organizations during the original project period.
 
@@ -20,7 +20,7 @@ The [UK Data Archive](https://ukdataservice.ac.uk/learning-hub/qualitative-data/
 
 -   *Reanalysis:* Involves posing new questions to the data and interpreting it in ways not addressed by the original researchers. This could include exploring different themes or topics. The richness and contextual detail of the raw data enhance the potential for fresh insights, without attempting to undermine previous analyses.
 
--   *Research Design and Methodological Advancement:* This approach focuses on designing new studies or developing methodologies and research tools. By examining sampling methods, data collection strategies, and topic guides, researchers can gain valuable insights. While researchers often publish sections on methods, their fieldwork diaries and analytic notes can provide deeper context about the research's development.
+-   *Research Design and Methodological Advancement:* This approach focuses on designing new studies or developing methodologies and research tools. Researchers can gain valuable insights by examining sampling methods, data collection strategies, and topic guides. While researchers often publish sections on methods, their fieldwork diaries and analytic notes can provide deeper context about the research's development.
 
 -   *Learning and Teaching:* Both classic and contemporary studies serve as valuable case materials for teaching research methods and substantive topics across various social science disciplines.
 
@@ -32,7 +32,7 @@ When considering various approaches to data reuse, researchers should ask the fo
 
 -   Are the new questions similar to or significantly different from those posed by the original researchers?
 
--   Do you have a full understanding of the study limitations?
+-   Do you fully understand the study's limitations?
 
     Some of these answers will also help to inform a Data Request for controlled access data.
 
@@ -54,13 +54,13 @@ Researchers interested in reusing QHS data need to pay special attention to the 
 
 6\. Data Security: Safeguard the data, especially if it contains sensitive information, to prevent unauthorized access or misuse.
 
-7\. Sharing Findings: Share your results and insights about how you utilized the data, contributing back to the community and promoting further research.
+7\. Sharing Findings: Share your results and insights about utilizing the data, contributing to the community and promoting further research.
 
 ### Citation & Attribution
 
 Data citation and attribution are vital, especially when it comes to recognizing the hard work of researchers like Sarah in her digital influencers project. Since she invested significant effort in gathering and analyzing her data, it's essential that she receives proper attribution to acknowledge her contributions to the topic. This not only upholds academic integrity but also enhances the credibility and visibility of her research.
 
-The good news is that most data repositories offer a recommended citation alongside a persistent identifier, such as a DOI, which simplifies the process of referencing datasets. If a citation is not available, we recommend following the guidelines outlined in this handout:
+The good news is that most data repositories offer a recommended citation alongside a persistent identifier, such as a DOI, simplifying referencing datasets. If a citation is not available, we recommend following the guidelines outlined in this handout:
 
 <iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls_n2_datacitation_navy_1.pdf">
 
