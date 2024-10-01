@@ -9,7 +9,7 @@ editor: visual
 
 QualCoder is client-based open-source and free multi-platform tool designed to streamline qualitative data analysis. With its user-friendly interface and comprehensive features, QualCoder empowers researchers and analysts to efficiently organize, code, and analyze qualitative data, ranging from text documents to multimedia files. By providing tools for coding, categorizing, and retrieving data, QualCoder facilitates in-depth exploration and interpretation, enabling researchers to uncover meaningful insights and patterns, and extract rich and nuanced information from their qualitative data.
 
-With QualCoder you can code text, images, audio and video, write journal notes and memos. You can categorize codes into a tree-like hierarchical categorization scheme. Coding for audio and video requires the [VLC media player](https://www.videolan.org/vlc/download-windows.html). Coder comparison reports can be generated for text coding using the Cohen’s Kappa statistic for interrater/intercoder reliability (**FIXME:** mchugh2012interrater) measuring the level of agreement between coders. A graph displaying codes and categories can be generated to visualize the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.
+With QualCoder you can code text, images, audio and video, write journal notes and memos. You can categorize codes into a tree-like hierarchical categorization scheme. Coding for audio and video requires the [VLC media player](https://www.videolan.org/vlc/download-windows.html). Coder comparison reports can be generated for text coding using the Cohen’s Kappa statistic for interrater/intercoder reliability measuring the level of agreement between coders. A graph displaying codes and categories can be generated to visualize the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.
 
 Documentation:
 
@@ -107,10 +107,16 @@ Each transcript has some characteristics associated with interviewees. It would 
 
 We will be assigning age groups (25-29, 30-35, or 35-40) to each case, and adding their respective niches.
 
-![](images/Screenshot 2024-09-29 at 10.05.47 AM.png)
+![](images/attributes.png)
 
 You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to **`Manage > Manage Attributes`**
 
 For now, we won't need to add memos, but keep in mind that they can be useful for providing additional context when attributes aren’t immediately clear.
 
 We now have a well-organized project set up in QualCoder, so let’s jump into some coding!
+
+------------------------------------------------------------------------
+
+**Recommended/Cited Sources:**
+
+Cheung, K. K. C., & Tai, K. W. H. (2021). The use of intercoder reliability in qualitative interview data analysis in science education. *Research in Science & Technological Education*, *41*(3), 1155–1175. https://doi.org/10.1080/02635143.2021.1993179Cheung, K. K. C., & Tai, K. W. H. (2021). The use of intercoder reliability in qualitative interview data analysis in science education. *Research in Science & Technological Education*, *41*(3), 1155–1175. https://doi.org/10.1080/02635143.2021.1993179

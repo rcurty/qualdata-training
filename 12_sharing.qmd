@@ -10,31 +10,30 @@ editor:
 Sharing qualitative data benefits both the scholarly community and
 researchers in several ways:
 
-1.  **Fostering Public Trust**: Transparency enhances public confidence
-    in research outcomes, vital for securing funding and support for
-    future projects. It allows for verification of claims, reinforcing
-    trust in the research.
+1.  Fostering Public Trust: Transparency enhances public confidence in
+    research outcomes, vital for securing funding and support for future
+    projects. It allows for verification of claims, reinforcing trust in
+    the research.
 
-2.  **Dynamic Research Environment**: While qualitative research invites
+2.  Dynamic Research Environment: While qualitative research invites
     diverse interpretations, sharing data fosters improved research
     quality through collaborative critique and examination.
 
-3.  **Enabling New Research**: Access to shared data inspires innovative
+3.  Enabling New Research: Access to shared data inspires innovative
     analyses, maximizing the scientific value of existing studies.
 
-4.  **More Effective Use of Resources**: Data sharing reduces costs
-    related to new data collection, promoting efficient resource
-    utilization and minimizing the burden on frequently targeted
-    communities.
+4.  More Effective Use of Resources: Data sharing reduces costs related
+    to new data collection, promoting efficient resource utilization and
+    minimizing the burden on frequently targeted communities.
 
-5.  **Skill Development for Trainees**: It offers students valuable
+5.  Skill Development for Trainees: It offers students valuable
     opportunities to learn coding and analysis techniques, enhancing
     their educational experience.
 
-6.  **Receiving Credit**: Sharing data ensures proper attribution,
-    allowing researchers to gain recognition for their work.
+6.  Receiving Credit: Sharing data ensures proper attribution, allowing
+    researchers to gain recognition for their work.
 
-7.  **Opportunities for Collaboration**: Open data fosters partnerships
+7.  Opportunities for Collaboration: Open data fosters partnerships
     among researchers, leading to new insights and advancements.
 
 ## Sharing with Caring
@@ -343,10 +342,8 @@ Source: UCSB Library Data Literacy Series
 
 ### Licensing Your Data
 
-Licensing
-
 \<iframe width="25%" height="450"
-src="<iframe width="25%" height="450" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n10-2021-licensing-navy_0.pdf">
+src="<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n10-2021-licensing-navy_0.pdf">
 </iframe>"
 
 Source: UCSB Library Data Literacy Series

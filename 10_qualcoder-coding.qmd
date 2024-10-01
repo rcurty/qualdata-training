@@ -65,16 +65,40 @@ QualCoder also offers auto-coding text features represented in the icons below:
 
 ![](images/autocoding.png)
 
-You can from left to right: • auto-code exact text • auto-code sentences based on a text fragment in the current file • auto-code sentences based on a text fragment for all files • auto-code the current file using start and end text marks. You can use ‘\\n’ for a line ending character
+You can from left to right:
 
-Note that automatic coding is case-sensitive and requires a defined end for each sentence, with a default setting being a period followed by a space. To auto-code exact text matches, you can assign multiple text sections using the pipe ‘\|’ symbol. For instance, both "politics" and "politicians" can be assigned to the same code simultaneously (only for exact text matches). Additionally, there is an undo option to revert recent auto-coding actions; however, this option will be lost if the project is closed and then reopened.
+• auto-code exact text
+
+• auto-code sentences based on a text fragment in the current file
+
+• auto-code sentences based on a text fragment for all files
+
+• auto-code the current file using start and end text marks. You can use ‘\\n’ for a line ending character
+
+Note that automatic coding is case-sensitive and requires a defined end for each sentence, with a default setting being a period followed by a space.
+
+To auto-code exact text matches, you can assign multiple text sections using the pipe ‘\|’ symbol. For instance, both "politics" and "politicians" can be assigned to the same code simultaneously (only for exact text matches).
+
+Additionally, there is an undo option to revert recent auto-coding actions; however, this option will be lost if the project is closed and then reopened.
 
 The Auto-Code Exact Text button includes a right-click menu with additional options. By default, it auto-codes all text, but you can also choose to auto-code only the first instance or specific matching text. When using the auto-code exact text feature, you can select which files to apply it to, making it a useful option if you want to identify a single instance across multiple files.
 
-::: {.callout-caution collapse="true"}
-## Auto-coding Issues
+For example, let's say Sarah Identified another code under the "Authenticity" category named "Genuine Engagement" to represent content/creators connections with their community of followers. In this case, after we create the code and select it, by choosing the first wand, we can auto-code all mentions of "genuine connection" as "Genuine Engagement".
 
-Using auto-coding features in QDA software can lead to inflexibility, as predefined settings may not accommodate all research needs. This approach can also result in a loss of insight, as nuanced meanings and context may be overlooked. Additionally, auto-coding often oversimplifies the data, focusing on specific terms rather than capturing broader themes.
+![](images/auto-coding-genuine-connection1.png)
+
+We can select as many files we would like to apply the auto-code to the chosen piece of text.
+
+![](images/autocoding2.png)
+
+Note that the text is highlighted and coded accordingly.
+
+![](images/autocoding3-01.png)
+
+::: {.callout-caution collapse="true"}
+#### Auto-coding Limitations
+
+Using auto-coding features in any QDA software can lead to inflexibility, as predefined settings may not accommodate all possible nuances. This approach can also result in a loss of insight, as context may be overlooked. Additionally, auto-coding often oversimplifies the data, focusing on specific terms rather than capturing broader themes.
 :::
 
 ### Additional features in the Coding Panel
@@ -83,19 +107,19 @@ You may also edit text using the blue pencil (proceed with care as this are irre
 
 ### Reporting
 
-After walking the basics with Sarah she felt confident exploring the data herself. She spend a few weeks focusing on Q4 and came back with some initial analysis so we can walk her through the reporting features in QualCoder.
+After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels empowered by her understanding of the various ways to approach it.
 
-So before we move forward, please download the Influencers-final.qda **\[fixme: add to the folder\]** project and open it.
+Before we move forward, please download the influencers_q4.qda **\[fixme: add to the folder\]** project and open it.
 
-**Coding Documentation**
+QualCoder offers a few options for users to export, query and visualize the data. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, and it also supports intercoder reliability testing. Let's see show Sarah some of the options she might want to consider for her analysis.
 
-## What should you document?
+### **Coding Documentation**
 
-When conducting qualitative research, it's crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. Here’s what we should recommend Sarah to document and preserve:
+When conducting qualitative research, it's crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. Here’s what we should recommend Sarah to save:
 
-1.  Original Source Data: Retain the original data whenever possible, ensuring it is de-identified to protect participant privacy.
+1.  Original Source Data: Retain the original data whenever possible, ensuring it is de-identified to protect participants' privacy.
 
-2.  Processed Data: Include finalized versions of your data, such as transcripts of interviews or focus groups.
+2.  Processed Data: de-identified versions of your data, such as transcripts of interviews or focus groups.
 
 3.  Readme File: an overview of your project, including data sources, their relationships and a brief description of the methods.
 
@@ -106,7 +130,7 @@ When conducting qualitative research, it's crucial to maintain thorough document
 6.  Documentation from Qualitative Data Analysis Software (QDAS): Include all relevant materials generated from QDAS tools (e.g., NVivo, Atlas.ti), such as memos, notes, network diagrams, and classifications.
 
     ::: callout-important
-    ## REFI-QDA Codebook (Items 5 & 6)
+    #### REFI-QDA Codebook
 
     As seen, a codebook in qualitative or mixed-methods research is a structured list of defined keywords or phrases that represent key themes, concepts, or topics of interest to the researcher. These keywords or phrases are commonly referred to as "codes."
 
