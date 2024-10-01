@@ -26,7 +26,16 @@ Renata Curty (rcurty@ucsb.edu), Julien Brun and Greg Janée, Research Data Servi
 
 <p>
 
-<hr />
+Citation
+BibTeX citation:
+@online{curty2024,
+  author = {Curty, Renata and Brun, Julien and Janée, Greg},
+  title = {Handling and {Sharing} {Qualitative} {Data} {Responsibly} and
+    {Effectively}},
+  date = {2024-10-01},
+  url = {https://ucsb-library-research-data-services.github.io/change},
+  langid = {en}
+}
 
 </p>
 
