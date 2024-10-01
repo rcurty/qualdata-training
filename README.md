@@ -16,7 +16,7 @@ To accomplish that, we will be using the following diagram as a
 
 
 
-*If you have comments or feedback, you can use this repository [issues](enter%20URL%20for%20issues)*
+*If you have comments or feedback, please use the [issues](enter%20URL%20for%20issues) repository feature*
 
 ### Authors:
 
@@ -38,7 +38,7 @@ Renata Curty (rcurty@ucsb.edu), Julien Brun and Greg Janée, Research Data Servi
 
 <p align="center">
 
-<a href="https://www.library.ucsb.edu/research-data-services"><img src="images/ucsb-primary-wordmark.png" alt="UCSB logo" style="border-width:0" width="250px" align="center"/></a>
+<a href="https://www.library.ucsb.edu/research-data-services"><img src="images/RDS-logo.png" alt="UCSB logo" style="border-width:0" width="250px" align="center"/></a>
 
 </p>
 
