@@ -23,7 +23,7 @@ researchers in several ways:
     analyses, maximizing the scientific value of existing studies.
 
 4.  More Effective Use of Resources: Data sharing reduces costs related
-    to new data collection, promoting efficient resource utilization and
+    to new data collection, promoting efficient resource utilization, and
     minimizing the burden on frequently targeted communities.
 
 5.  Skill Development for Trainees: It offers students valuable
@@ -96,16 +96,16 @@ Klein (2022): Higher
 Remember when we discussed the importance of outlining data-sharing
 plans in Data Management Plans (DMPs)? At this stage, Sarah could
 greatly benefit from having a clear strategy for archiving and storing
-her data. As we mentioned earlier, understanding the available options
+her data. As we discussed earlier, understanding the available options
 and having at least a rough plan for what will be shared, along with
-strategies to facilitate the process, is crucial. We provided Sarah with
+strategies to facilitate the process, is very important. We provided Sarah with
 recommendations on what to document, and we hope this guidance will
 empower her to share her research deliverables confidently while
 adhering to key principles of open practices.
 
-Also it is important to recap the importance of balancing the value of
-open sharing against the risks of harms associated with the
-identification of participants, communities and research sites. The good
+Also, it is important to recap the importance of balancing the value of
+open sharing against the risks of harm associated with the
+identification of participants, communities, and research sites. The good
 news is that there are more options in between data being closed and
 open!
 
@@ -119,20 +119,19 @@ for storing and preserving your project data.
 Access controls fall into three main categories:
 
 -   *Who* can access your data? Access may be limited to qualified
-    researchers, often requiring proof of interest through a research
+    researchers, often requiring proof of interest through research
     proposal, or it may require pre-approval from an Institutional
     Review Board (IRB) for general requests.
 
--   *How* can others access your data? Secure internet connections might
-    be required for downloading data, along with agreements regarding
-    data storage and destruction. In some cases, researchers may need to
+-   *How* can others access your data? Secure internet connections, along with agreements regarding
+data storage and destruction, might be required for downloading data. Researchers may sometimes need to
     access data in person on a secure, offline computer. Hybrid
     solutions, like ICPSR’s “virtual enclave,” allow remote viewing
     without data leaving the server.
 
 -   *When* can others access your data? Embargoes can temporarily
     restrict access to protect human participants, often allowing
-    researchers to publish findings before wider access. These embargoes
+    researchers to publish findings before broader access. These embargoes
     can also facilitate long-term data availability, with set dates for
     lifting restrictions, as seen in historical archives.
 
@@ -147,8 +146,8 @@ Example: Cunningham, Una; De Brún, Aoife; Mayumi, Willgerodt et al.
 
 -   Subject to Embargo: a temporary restriction on sharing or publishing
     data. It means that the data can’t be made public for a set period,
-    usually to protect sensitive information, allow for further
-    analysis, or wait for a specific event such as a formal publication
+    usually to protect sensitive information allow for further
+    analysis, or wait for a specific event, such as a formal publication
     before releasing it.
 
 Example: Ibitoye, Mobolaji; OlaOlorun, Funmilola; Casterline, John B..
@@ -163,7 +162,7 @@ Methods, New Evidence". Qualitative Data Repository.
 
 Depending on the research case, access can be provided through a Data
 Use Agreement (DUA) and involve a data enclave for safe access. These
-requirements will be also dependable on IRB and consent form agreements.
+requirements will also depend on IRB and consent form agreements.
 
 -   Data Use Agreement (DUA) required: a contract that outlines the
     terms and conditions for a recipient to use data from a data owner.
@@ -176,14 +175,14 @@ requirements will be also dependable on IRB and consent form agreements.
 Example: Steeves, Vicky; Peltzman, Shira; Kim, Julia; Griesinger, Peggy;
 Blumenthal, Karl-Rainer. 2020. "Data for: "What’s Wrong with Digital
 Stewardship: Evaluating the Organization of Digital Preservation
-Programs from Practitioners’ Perspectives"". Qualitative Data
+Programs from Practitioners’ Perspectives". Qualitative Data
 Repository. <https://doi.org/10.5064/F6DJRPLK>.
 
 ::: {.callout-note collapse="true" icon="false"}
 # 💭 **Discussion:** What is the value of sharing a metadata record only?
 
 A metadata-only record for research data that isn't openly available
-enables readers to quickly evaluate whether they want to request access.
+enables readers to evaluate whether they want to request access quickly.
 While a well-crafted Data Availability Statement in journal papers
 serves a similar purpose, a metadata-only record in a suitable
 repository offers the benefit of being discoverable through data-focused
@@ -195,10 +194,10 @@ through rich, linked, and interoperable metadata.
 
 Data Availability Statements (DAS) are crucial for the credibility of
 manuscripts and other published research. They provide interested
-readers—and sometimes automated algorithms—with access to the underlying
+readers—and sometimes automated algorithms—access to the underlying
 data supporting your claims, allowing them to verify those assertions or
 use the data for further research. We suggest following some best
-practices for crafting statements that are both effective and clear,
+practices for crafting statements that are both effective and clear
 while also complying with funders' and journal policies' requirements.
 
 \<iframe width="50%" height="800"
@@ -220,16 +219,16 @@ access controls. However, it’s advisable to involve repository staff in
 this process, as they can highlight potential challenges, ensuring that
 your data remains accessible and ethically shared in the long run.
 
--   Sharing de-identified transcripts openly, while placing recordings
+-   Sharing de-identified transcripts openly while placing recordings
     under more stringent access controls.
 
--   Do keep a list of de-identification rules, both for yourself, or for
-    your team should you collaborate. This list serves as important
-    documentation when you share your data. See for example the protocol
-    used by Thad Dunning and Edward Camp to de-identify data deposited
+-   Do keep a list of de-identification rules for yourself and
+    your team should you collaborate. This list serves as necessary
+    documentation when you share your data. See, for example, the protocol
+    Thad Dunning and Edward Camp used to de-identify data deposited
     with the Qualitative Data Repository. This document is separate from
-    the key that links de-identified entries to the actual individuals
-    or entities interviewed, which should not be included when you share
+    the key that links de-identified entries to the individuals
+or entities interviewed, which should not be included when sharing
     your data.
 
 -   Do check the document properties of files, which may contain
@@ -246,7 +245,7 @@ your data remains accessible and ethically shared in the long run.
 
 ### What data?
 
-ICPSR's Guide for Sharing Qualitative Data outlines examples of of
+ICPSR's Guide for Sharing Qualitative Data outlines examples of
 qualitative data sources that may be archived for secondary analysis:
 
 • Interview methods, including those captured through notes, audio, and
@@ -268,7 +267,7 @@ information
     classrooms, workplaces, healthcare facilities, courtrooms, public
     spaces)
 
--   Participant observation where the researcher becomes an active part
+-   Participant observation, where the researcher becomes an active part
     of the setting to collect information (e.g., online gaming,
     community policing, nightclub culture)
 
@@ -294,13 +293,13 @@ Why should we prioritize open file formats in our research? Imagine
 sharing your groundbreaking findings and ensuring that anyone, anywhere,
 can access and build upon your work without running into compatibility
 issues. Open formats, offer exactly that—freedom from proprietary
-software constraints. By choosing open formats, you not only enhance
-collaboration and transparency but also make your research more
+software constraints. By choosing open formats, you enhance
+collaboration and transparency and make your research more
 sustainable for others and your future self.
 
-There are a diversity of open formats available across different types
-of media that can be of great use of qualitative data researchers,
-including audio, video, image and text. Refer to the handout below for
+There is a diversity of open formats available across different types
+of media that can be of great use to qualitative data researchers,
+including audio, video, image, and text. Refer to the handout below for
 some examples:
 
 \<iframe width="50%" height="700"
