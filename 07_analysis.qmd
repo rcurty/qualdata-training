@@ -71,7 +71,7 @@ Once you have your codes, you can group them into broader themes that provide de
 
 2.  Challenges in Learning Environment: This theme combines "Focus and Motivation" with "Technical Issues," reflecting how both psychological factors and technical difficulties impact students' learning experiences.
 
-::: {.callout-important collpase="true"}
+::: {.callout-important collapse="true"}
 ## Can we start with themes?
 
 Every research project begins with some foundational knowledge, whether drawn from existing literature or from the researchers’ own assumptions developed while exploring their topic and creating data collection instruments.
