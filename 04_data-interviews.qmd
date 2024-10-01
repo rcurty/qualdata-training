@@ -36,7 +36,7 @@ Transcription is a representation of verbal narratives into written text which c
 
 While automated transcription and third-party services can expedite data processing, researchers might prefer to transcribe interviews themselves. Depending on the scope of the project, manual transcription can be an effective way to ensure confidentiality and privacy, maintain better control over data quality, and become more familiar with the content. This hands-on approach allows researchers to observe subtleties in language, tone, and expression that may be missed in automated transcriptions, leading to deeper insights into participants' thoughts and feelings.
 
-![](images/transcription.png)
+![](images/transcription.png){width="350"}
 
 We won't have time to cover the transcription process in detail, but here is good [guide](https://www.msvu.ca/wp-content/uploads/2020/05/GuideTranscribing.pdf) with things to remember when you are transcribing audio recording.
 

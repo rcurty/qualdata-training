@@ -138,7 +138,7 @@ This handout provides a compilation with some helpful tips:
 
 Source: UCSB Library Data Literacy Series ([perma.cc/4L6T-4ND5](https://perma.cc/4L6T-4ND5)).
 
-### Knowledge Checking 🧠
+### 🧠 Knowledge Checking
 
 ``` r
 library(webexercises)

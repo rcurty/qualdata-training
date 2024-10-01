@@ -56,4 +56,6 @@ Below we compare the top most popular open-source free tool: [Qualcoder](https:/
 
 (\*) QualCoder AI (beta) experimental version of QualCoder with AI-enhanced functionality (using GPT-4). See: <https://github.com/kaixxx/QualCoder/tree/ai_integration>
 
-Despite of its limited collaboration capabilities (as it will be further described), for this offer of the course we will be using QualCoder. This choice was motivated by the fact that this tool offer more robust coding features than Taguette, and that are more similar to advanced options offered by commercial QDA tools. If you are interested in learning more about Taguette, here is a hands-on workshop to help you get started: [Open Qualitative Research](http://ucla-imls-open-sci.info/open-qualitative-research).
+Despite of its limited collaboration capabilities (as it will be further described), for this offer of the course we will be using QualCoder. This choice was motivated by the fact that this tool offer more robust coding features than Taguette, and that are more similar to advanced options offered by commercial QDA tools. 
+
+If you are interested in learning more about Taguette, here is a hands-on workshop to help you get started: [Open Qualitative Research](http://ucla-imls-open-sci.info/open-qualitative-research).
