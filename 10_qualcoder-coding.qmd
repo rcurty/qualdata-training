@@ -45,6 +45,8 @@ Alright, we have two new codes assigned to this interview, let's move to other i
 
 ![](images/honest-review-examples.png){width="500"}
 
+There’s also an *in vivo* coding option, allowing you to select specific content, which will then be transformed into a code.
+
 Great! Now that we understand how to create codes, assign and reorganize them, and view excerpts related to those codes, let’s move our attention now to the top bar we mentioned earlier to understand other coding options we have to assist our coding tasks.
 
 ![](images/upper-bar-code.png)
@@ -55,24 +57,29 @@ Another useful feature is the ability to create file annotations for selected ex
 
 ![](images/annotations.png)
 
-Okay, a few more features to support Sarah's coding efforts, and we already can see how this is definitely a more effective approach to coding then using post-its or word processors, right?
+Alright, here are a few more features to support Sarah's coding efforts. It's clear that this approach to coding is much more effective than using post-its or word processors, wouldn’t you agree?
 
-\[fix me - add final coded project\] - ask learners to navigate and then, move to reporting
+### Automatic Coding
+
+QualCoder also offers auto-coding text features represented in the icons below:
+
+![](images/autocoding.png)
+
+You can from left to right:
+• auto-code exact text
+• auto-code sentences based on a text fragment in the current file
+• auto-code sentences based on a text fragment for all files
+• auto-code the current file using start and end text marks. You can use ‘\\n’ for a line ending
+character
+
+Note that automatic coding is case-sensitive and requires a defined end for each sentence, with a default setting being a period followed by a space. To auto-code exact text matches, you can assign multiple text sections using the pipe ‘\|’ symbol. For instance, both "politics" and "politicians" can be assigned to the same code simultaneously (only for exact text matches). Additionally, there is an undo option to revert recent auto-coding actions; however, this option will be lost if the project is closed and then reopened.
+
+The Auto-Code Exact Text button includes a right-click menu with additional options. By default, it auto-codes all text, but you can also choose to auto-code only the first instance or specific matching text. When using the auto-code exact text feature, you can select which files to apply it to, making it a useful option if you want to identify a single instance across multiple files.
+
+### Additional features in the Coding Panel
+
+You may also edit text using the blue pencil (proceed with care as this are irreversible) and export your coded files with the list of codes in html, odt or txt. Caution in clicking the red X, that will erase all your coding efforts for that particular file.
+
+**\[FIXME\] Add final coded project - ask learners to navigate and then, move on to reporting**
 
 ### Reporting
-
-**Export attributes**
-
-![](images/export-attributes-csv.png)
-
-Final Themes
-
--   *Authentic & Transparent Engagement:* Share genuine content that reflects true values and beliefs. Avoid misleading information or exaggerated claims. Be open about intentions and motivations. Clearly disclose any partnerships, sponsorships, or potential biases in content.
-
--   *Promote Positive Discourse*: Be mindful of the impact social media can have on mental health. Encourage constructive discussions and discourage negativity, harassment, or bullying within the community of followers.
-
--   *Responsible Content Creation:* Create content that is not only engaging but also socially responsible. Consider the potential implications of messages to the audience and the society at large. Verify the accuracy of the information. Prioritize credible sources and be willing to correct misinformation when necessary.
-
--   *Inclusive & Respectful Communication:* Strive to create an inclusive environment by being mindful of diverse perspectives and experiences. Avoid language or imagery that could alienate or offend.
-
--   Mindful Consumerism: Estimulate conscious shopping, promote ethical brands, and encourage sustainable consumption practices, while inspiring others to think critically about their buying habits.
