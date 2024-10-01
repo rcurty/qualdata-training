@@ -306,22 +306,34 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="automatic-coding">Automatic Coding</h3>
 <p>QualCoder also offers auto-coding text features represented in the icons below:</p>
 <p><img src="images/autocoding.png" class="img-fluid"></p>
-<p>You can from left to right: • auto-code exact text • auto-code sentences based on a text fragment in the current file • auto-code sentences based on a text fragment for all files • auto-code the current file using start and end text marks. You can use ‘\n’ for a line ending character</p>
-<p>Note that automatic coding is case-sensitive and requires a defined end for each sentence, with a default setting being a period followed by a space. To auto-code exact text matches, you can assign multiple text sections using the pipe ‘|’ symbol. For instance, both “politics” and “politicians” can be assigned to the same code simultaneously (only for exact text matches). Additionally, there is an undo option to revert recent auto-coding actions; however, this option will be lost if the project is closed and then reopened.</p>
+<p>You can from left to right:</p>
+<p>• auto-code exact text</p>
+<p>• auto-code sentences based on a text fragment in the current file</p>
+<p>• auto-code sentences based on a text fragment for all files</p>
+<p>• auto-code the current file using start and end text marks. You can use ‘\n’ for a line ending character</p>
+<p>Note that automatic coding is case-sensitive and requires a defined end for each sentence, with a default setting being a period followed by a space.</p>
+<p>To auto-code exact text matches, you can assign multiple text sections using the pipe ‘|’ symbol. For instance, both “politics” and “politicians” can be assigned to the same code simultaneously (only for exact text matches).</p>
+<p>Additionally, there is an undo option to revert recent auto-coding actions; however, this option will be lost if the project is closed and then reopened.</p>
 <p>The Auto-Code Exact Text button includes a right-click menu with additional options. By default, it auto-codes all text, but you can also choose to auto-code only the first instance or specific matching text. When using the auto-code exact text feature, you can select which files to apply it to, making it a useful option if you want to identify a single instance across multiple files.</p>
+<p>For example, let’s say Sarah Identified another code under the “Authenticity” category named “Genuine Engagement” to represent content/creators connections with their community of followers. In this case, after we create the code and select it, by choosing the first wand, we can auto-code all mentions of “genuine connection” as “Genuine Engagement”.</p>
+<p><img src="images/auto-coding-genuine-connection1.png" class="img-fluid"></p>
+<p>We can select as many files we would like to apply the auto-code to the chosen piece of text.</p>
+<p><img src="images/autocoding2.png" class="img-fluid"></p>
+<p>Note that the text is highlighted and coded accordingly.</p>
+<p><img src="images/autocoding3-01.png" class="img-fluid"></p>
 <div class="callout callout-style-default callout-caution callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Auto-coding Issues
+Auto-coding Limitations
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Using auto-coding features in QDA software can lead to inflexibility, as predefined settings may not accommodate all research needs. This approach can also result in a loss of insight, as nuanced meanings and context may be overlooked. Additionally, auto-coding often oversimplifies the data, focusing on specific terms rather than capturing broader themes.</p>
+<p>Using auto-coding features in any QDA software can lead to inflexibility, as predefined settings may not accommodate all possible nuances. This approach can also result in a loss of insight, as context may be overlooked. Additionally, auto-coding often oversimplifies the data, focusing on specific terms rather than capturing broader themes.</p>
 </div>
 </div>
 </div>
@@ -332,17 +344,16 @@ Auto-coding Issues
 </section>
 <section id="reporting" class="level3">
 <h3 class="anchored" data-anchor-id="reporting">Reporting</h3>
-<p>After walking the basics with Sarah she felt confident exploring the data herself. She spend a few weeks focusing on Q4 and came back with some initial analysis so we can walk her through the reporting features in QualCoder.</p>
-<p>So before we move forward, please download the Influencers-final.qda <strong>[fixme: add to the folder]</strong> project and open it.</p>
-<p><strong>Coding Documentation</strong></p>
+<p>After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels empowered by her understanding of the various ways to approach it.</p>
+<p>Before we move forward, please download the influencers_q4.qda <strong>[fixme: add to the folder]</strong> project and open it.</p>
+<p>QualCoder offers a few options for users to export, query and visualize the data. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, and it also supports intercoder reliability testing. Let’s see show Sarah some of the options she might want to consider for her analysis.</p>
 </section>
-</section>
-<section id="what-should-you-document" class="level2">
-<h2 class="anchored" data-anchor-id="what-should-you-document">What should you document?</h2>
-<p>When conducting qualitative research, it’s crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. Here’s what we should recommend Sarah to document and preserve:</p>
+<section id="coding-documentation" class="level3">
+<h3 class="anchored" data-anchor-id="coding-documentation"><strong>Coding Documentation</strong></h3>
+<p>When conducting qualitative research, it’s crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. Here’s what we should recommend Sarah to save:</p>
 <ol type="1">
-<li><p>Original Source Data: Retain the original data whenever possible, ensuring it is de-identified to protect participant privacy.</p></li>
-<li><p>Processed Data: Include finalized versions of your data, such as transcripts of interviews or focus groups.</p></li>
+<li><p>Original Source Data: Retain the original data whenever possible, ensuring it is de-identified to protect participants’ privacy.</p></li>
+<li><p>Processed Data: de-identified versions of your data, such as transcripts of interviews or focus groups.</p></li>
 <li><p>Readme File: an overview of your project, including data sources, their relationships and a brief description of the methods.</p></li>
 <li><p>Data Collection Instruments: A sample of instruments used for data collection, such as surveys or interview guides.</p></li>
 <li><p>Codebook: the coding framework used, including definitions of codes and categories.</p></li>
@@ -353,7 +364,7 @@ Auto-coding Issues
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-REFI-QDA Codebook (Items 5 &amp; 6)
+REFI-QDA Codebook
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -367,6 +378,7 @@ REFI-QDA Codebook (Items 5 &amp; 6)
 </ol>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
