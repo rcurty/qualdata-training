@@ -119,4 +119,4 @@ We now have a well-organized project set up in QualCoder, so let’s jump into s
 
 **Recommended/Cited Sources:**
 
-Cheung, K. K. C., & Tai, K. W. H. (2021). The use of intercoder reliability in qualitative interview data analysis in science education. *Research in Science & Technological Education*, *41*(3), 1155–1175. https://doi.org/10.1080/02635143.2021.1993179Cheung, K. K. C., & Tai, K. W. H. (2021). The use of intercoder reliability in qualitative interview data analysis in science education. *Research in Science & Technological Education*, *41*(3), 1155–1175. https://doi.org/10.1080/02635143.2021.1993179
+Cheung, K. K. C., & Tai, K. W. H. (2021). The use of intercoder reliability in qualitative interview data analysis in science education. *Research in Science & Technological Education*, *41*(3), 1155–1175. <https://doi.org/10.1080/02635143.2021.1993179>

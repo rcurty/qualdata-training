@@ -30,7 +30,7 @@ Source: UCSB Library Data Literacy Series ([perma.cc/LM2L-K8DN](https://perma.cc
 
 Initially, researchers might change names and disguise locations, but effectively managing identifying details in qualitative data requires a nuanced approach. Anonymity and privacy exist on a spectrum, so researchers must balance the risk of identification with the needs of their research.
 
-When data isn’t fully anonymised, including cases of potential indirect identification, obtaining explicit consent is essential before public release. This consent should be secured either at the time of data collection or prior to publication.
+When data isn’t fully anonymized, including cases of potential indirect identification, obtaining explicit consent is essential before public release. This consent should be secured either at the time of data collection or prior to publication.
 
 One significant challenge arises with indirect identification, particularly in small groups where participants know each other. This issue can be exacerbated by existing power dynamics, such as those between a team and its leader. Therefore, researchers must transparently communicate the risks of identity disclosure to participants and respect their wishes.
 
