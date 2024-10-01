@@ -50,10 +50,8 @@ website:
           href: 08_tools.qmd
         - text: QualCoder
           href: 09_qualcoder.qmd
-        - text: Practing Coding with Qualcoder 
+        - text: Coding and Documenting with Qualcoder 
           href: 10_qualcoder-coding.qmd
-        - text: Data Documentation  
-          href: 11_documenting.qmd
     - section: "Sharing & Archiving"
       contents:      
          - text: Sharing and Archiving
