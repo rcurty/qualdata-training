@@ -55,11 +55,11 @@ website:
     - section: "Sharing & Archiving"
       contents:      
          - text: Sharing and Archiving
-           href: 12_sharing.qmd
+           href: 11_sharing.qmd
     - section: "Reusing"
       contents:    
          - text: Reusing
-           href: 13_reusing.qmd
+           href: 12_reusing.qmd
   page-footer:
     background: blue
     center: This website is built with [Quarto](https://quarto.org/), [RStudio/Posit](https://posit.co/),

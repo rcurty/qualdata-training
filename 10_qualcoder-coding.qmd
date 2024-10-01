@@ -148,3 +148,7 @@ When conducting qualitative research, it's crucial to maintain thorough document
 You may export your project and codebook using the REFI-QDA standard under the Export \> Project option.
 
 ![](images/export-REFI-QDA.png)
+
+Attributes are also exportable in csv file, as indicated below:
+
+![](images/attributes-export.png)

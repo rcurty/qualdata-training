@@ -62,6 +62,8 @@ Data citation and attribution are vital, especially when it comes to recognizing
 
 The good news is that most data repositories offer a recommended citation alongside a persistent identifier, such as a DOI, which simplifies the process of referencing datasets. If a citation is not available, we recommend following the guidelines outlined in this handout:
 
-\<iframe width="50%" height="700" src="<iframe width="25%" height="450" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls_n2_datacitation_navy_1.pdf"> </iframe>"
+<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls_n2_datacitation_navy_1.pdf">
+
+</iframe>
 
 Source: UCSB Library Data Literacy Series (\[perma.cc/[VHW9-9EPQ](https://perma.cc/VHW9-9EPQ)\](<https://perma.cc/VHW9-9EPQ>))
