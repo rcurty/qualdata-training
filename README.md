@@ -22,23 +22,6 @@ To accomplish that, we will be using the following diagram as a
 
 Renata Curty (rcurty@ucsb.edu), Julien Brun and Greg Janée, Research Data Services (RDS), UC Santa Barbara Library
 
-<div>
-
-<p>
-
-Citation
-BibTeX citation:
-@online{curty2024,
-  author = {Curty, Renata and Brun, Julien and Janée, Greg},
-  title = {Handling and {Sharing} {Qualitative} {Data} {Responsibly} and
-    {Effectively}},
-  date = {2024-10-01},
-  url = {https://ucsb-library-research-data-services.github.io/change},
-  langid = {en}
-}
-
-</p>
-
 <p align="center">
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
