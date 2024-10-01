@@ -20,14 +20,8 @@ To accomplish that, we will be using the following diagram as a
 
 ### Authors:
 
-Renata Curty (rcurty@ucsb.edu), Julien Brun and Greg Janée, Research Data Services (RDS), UC Santa Barbara Library
-
-<p align="center">
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
-
-</p>
-
+Renata Curty (rcurty@ucsb.edu), Julien Brun and Greg Janée
+Research Data Services (RDS), UC Santa Barbara Library
 <p align="center">
 
 <a href="https://www.library.ucsb.edu/research-data-services"><img src="images/RDS-logo.png" alt="UCSB logo" style="border-width:0" width="250px" align="center"/></a>
@@ -35,3 +29,9 @@ Renata Curty (rcurty@ucsb.edu), Julien Brun and Greg Janée, Research Data Servi
 </p>
 
 </div>
+
+<p align="center">
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+
+</p>
