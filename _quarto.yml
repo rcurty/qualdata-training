@@ -48,7 +48,7 @@ website:
           href: 07_analysis.qmd
         - text: Computer-Aided Analysis Tools
           href: 08_tools.qmd
-        - text: Qualcoder
+        - text: QualCoder
           href: 09_qualcoder.qmd
         - text: Practing Coding with Qualcoder 
           href: 10_qualcoder-coding.qmd

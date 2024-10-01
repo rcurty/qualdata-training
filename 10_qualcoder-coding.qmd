@@ -76,10 +76,16 @@ Note that automatic coding is case-sensitive and requires a defined end for each
 
 The Auto-Code Exact Text button includes a right-click menu with additional options. By default, it auto-codes all text, but you can also choose to auto-code only the first instance or specific matching text. When using the auto-code exact text feature, you can select which files to apply it to, making it a useful option if you want to identify a single instance across multiple files.
 
+::: {.callout-caution collapse="true"}
+## Auto-coding Issues
+
+Using auto-coding features in QDA software can lead to inflexibility, as predefined settings may not accommodate all research needs. This approach can also result in a loss of insight, as nuanced meanings and context may be overlooked. Additionally, auto-coding often oversimplifies the data, focusing on specific terms rather than capturing broader themes.
+:::
+
 ### Additional features in the Coding Panel
 
 You may also edit text using the blue pencil (proceed with care as this are irreversible) and export your coded files with the list of codes in html, odt or txt. Caution in clicking the red X, that will erase all your coding efforts for that particular file.
 
-**\[FIXME\] Add final coded project - ask learners to navigate and then, move on to reporting**
+## **\[FIXME\] Add final coded project - ask learners to navigate and then, move on to reporting**
 
 ### Reporting
