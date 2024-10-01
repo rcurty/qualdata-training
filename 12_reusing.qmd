@@ -34,7 +34,7 @@ When considering various approaches to data reuse, researchers should ask the fo
 
 -   Do you fully understand the study's limitations?
 
-    Some of these answers will also help to inform a Data Request for controlled access data.
+Some of these answers will also help to inform a Data Request for controlled access data.
 
 ### **Responsibilities**
 
