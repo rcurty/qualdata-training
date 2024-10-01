@@ -21,7 +21,7 @@ Documentation:
 
 You can follow [installation and running instructions](https://github.com/ccbogel/QualCoder/wiki/01-Introduction) for your operating system. Please note, however, that this is a multi-step process requiring additional components and the command line/terminal. We are available to consult with individuals or groups that require assistance in that process.
 
-To save time, for this workshop, we will skip the installation process and grant learners access to a virtual machine with QualCoder pre-installed. We will first use the latest available version of the software (currently 3.5) for the coding activities and then give a sneak peak of the beta version with AI capabilities to demonstrate how ChatGPT 4.0 can assist with horizontal coding.
+To save time, for this workshop, we will skip the installation process and grant learners access to a virtual machine with QualCoder pre-installed. We use the latest available version of the software (currently 3.5) for the coding and reporting activities.
 
 ### Launching QualCoder
 
