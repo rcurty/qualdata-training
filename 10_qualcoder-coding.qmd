@@ -65,12 +65,7 @@ QualCoder also offers auto-coding text features represented in the icons below:
 
 ![](images/autocoding.png)
 
-You can from left to right:
-• auto-code exact text
-• auto-code sentences based on a text fragment in the current file
-• auto-code sentences based on a text fragment for all files
-• auto-code the current file using start and end text marks. You can use ‘\\n’ for a line ending
-character
+You can from left to right: • auto-code exact text • auto-code sentences based on a text fragment in the current file • auto-code sentences based on a text fragment for all files • auto-code the current file using start and end text marks. You can use ‘\\n’ for a line ending character
 
 Note that automatic coding is case-sensitive and requires a defined end for each sentence, with a default setting being a period followed by a space. To auto-code exact text matches, you can assign multiple text sections using the pipe ‘\|’ symbol. For instance, both "politics" and "politicians" can be assigned to the same code simultaneously (only for exact text matches). Additionally, there is an undo option to revert recent auto-coding actions; however, this option will be lost if the project is closed and then reopened.
 
@@ -86,6 +81,8 @@ Using auto-coding features in QDA software can lead to inflexibility, as predefi
 
 You may also edit text using the blue pencil (proceed with care as this are irreversible) and export your coded files with the list of codes in html, odt or txt. Caution in clicking the red X, that will erase all your coding efforts for that particular file.
 
-## **\[FIXME\] Add final coded project - ask learners to navigate and then, move on to reporting**
-
 ### Reporting
+
+After walking the basics with Sarah she felt confident exploring the data herself. She spend a few weeks focusing on Q4 and came back with some initial analysis so we can walk her through the reporting features in QualCoder.
+
+So before we move forward, please download the Influencers-final.qda **\[fixme: add to the folder\]** project and open it.
