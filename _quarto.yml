@@ -50,15 +50,15 @@ website:
           href: 08_tools.qmd
         - text: QualCoder
           href: 09_qualcoder.qmd
-        - text: Coding and Documenting with Qualcoder 
+        - text: Coding & Documenting with Qualcoder 
           href: 10_qualcoder-coding.qmd
     - section: "Sharing & Archiving"
       contents:      
-         - text: Sharing and Archiving
+         - text: What and where to share?
            href: 11_sharing.qmd
     - section: "Reusing"
       contents:    
-         - text: Reusing
+         - text: QHD Secondary Analysis
            href: 12_reusing.qmd
   page-footer:
     background: blue
