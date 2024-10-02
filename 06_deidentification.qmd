@@ -130,7 +130,7 @@ In a single excerpt, you can integrate multiple de-identification techniques. Th
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
 ## How many potential identifiers can you spot? How would you mitigate re-identification risk?
 
-**Identifiable Excerpt:** * I collaborated with EcoFashion Co., a company based in North Carolina, to launch a sustainable clothing line bearing my name, Chole Adams. Given that this line was closely associated with my personal brand, I insisted on strict terms for fair compensation and transparency in sourcing. Unfortunately, the CEO at the time, Mitchel, did not adhere to these commitments. It was later exposed in a Netflix documentary named Harmful Fashion, that some of the items were produced in Cambodia under very unfair labor practices, a fact Mitchel had failed to disclose to me.\*
+**Identifiable Excerpt:** *I collaborated with EcoFashion Co., a company based in North Carolina, to launch a sustainable clothing line bearing my name, Chole Adams. Given that this line was closely associated with my personal brand, I insisted on strict terms for fair compensation and transparency in sourcing. Unfortunately, the CEO at the time, Mitchel, did not adhere to these commitments. It was later exposed in a Netflix documentary named Harmful Fashion, that some of the items were produced in Cambodia under very unfair labor practices, a fact Mitchel had failed to disclose to me*.
 
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
 ## Answer
