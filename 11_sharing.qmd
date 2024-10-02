@@ -331,12 +331,12 @@ Beyond support to access controls when required, choosing a repository
 to archive QHS data, should take into account several factors laid out
 in the handout below:
 
-\<iframe width="50%" height="700"
-src="<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n05-2021-dr-navy.pdf">
-</iframe>"
+<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n05-2021-dr-navy.pdf">
 
-Source: UCSB Library Data Literacy Series
-(\[perma.cc/[WLF7-WTUC](https://perma.cc/WLF7-WTUC)\](<https://perma.cc/WLF7-WTUC>[)](https://perma.cc/ET6F-N84X))
+</iframe>
+
+Source: UCSB Library Data Literacy Series ([perma.cc/WLF7-WTUC](https://perma.cc/WLF7-WTUC)).
+
 
 ### Preparing your data for Submission
 
@@ -364,12 +364,13 @@ Recommended:
 
 -   Study protocol or procedures manual, if applicable
 
+
 <iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2024-07/DLS-202407-QualDataSharing.pdf">
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series
-(\[perma.cc/[E7BA-BBYE](https://perma.cc/E7BA-BBYE)\](<https://perma.cc/E7BA-BBYE>[)).](https://perma.cc/3ZHR-6JAG)).)
+Source: UCSB Library Data Literacy Series ([perma.cc/E7BA-BBYE](https://perma.cc/E7BA-BBYE)).
+
 
 ### Licensing Your Data
 
@@ -400,12 +401,11 @@ collective body of knowledge.
 The handout below provides more insights about licenses, including the
 Creative Commons family:
 
-\<iframe width="50%" height="700"
-src="<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n10-2021-licensing-navy_0.pdf">
-</iframe>"
+<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n10-2021-licensing-navy_0.pdf">
 
-Source: UCSB Library Data Literacy Series
-(\[perma.cc/[ET6F-N84X](https://perma.cc/ET6F-N84X)\]([https://perma.cc/ET6F-N84X)](https://perma.cc/ET6F-N84X))
+</iframe>
+
+Source: UCSB Library Data Literacy Series ([perma.cc/ET6F-N84X](https://perma.cc/ET6F-N84X)).
 
 ------------------------------------------------------------------------
 
