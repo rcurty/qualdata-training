@@ -125,7 +125,7 @@ In a single excerpt, you can integrate multiple de-identification techniques. Th
 ![](images/clipboard-2093281909.png){width="350"}
 
 ::: {.callout-note appearance="simple" collapse="true" icon="false"}
-## 🏋️‍♀️ Exercise: Handling identifiable information
+## 🏋️‍♀️ Exercise: Handling Identifiable Information
 
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
 ## How many potential identifiers can you spot? How would you mitigate re-identification risk?
@@ -137,7 +137,7 @@ In a single excerpt, you can integrate multiple de-identification techniques. Th
 
 There are seven potential identifiers that if combined with public information could potentially give away the interviewee's identity.
 
-**De-identified Excerpt:** *I collaborated with \[Company A\] based in \[the Southeastern U.S.\] to launch a sustainable clothing line bearing my name \[name redacted\]. Given that this line was closely associated with my personal brand, I insisted on strict terms for fair compensation and transparency in sourcing. Unfortunately, the CEO at the time, \[CEO Name\], did not adhere to these commitments. It was later exposed in a \[Streaming Service Name\] documentary named \[Documentary Title\], that some items were produced in \[Southeast Asia\] under very unfair labor practices, which the CEO had failed to disclose to me.*
+**De-identified Excerpt:** *I collaborated with \[Company A\] based in \[the Southeastern U.S.\] to launch a sustainable clothing line bearing my name \[name redacted\]. Given that this line was closely associated with my personal brand, I insisted on strict terms for fair compensation and transparency in sourcing. Unfortunately, the CEO at the time, \[name redacted\], did not adhere to these commitments. It was later exposed in a \[Streaming Service name redacted\] documentary named \[Documentary Title redacted\], that some items were produced in \[Southeast Asia\] under very unfair labor practices, which the CEO had failed to disclose to me.*
 :::
 :::
 :::
@@ -165,6 +165,7 @@ The [Deid-Transcripts](https://drive.google.com/drive/folders/1yYlgtlQ0lvw7Iify7
 Adopting best practices for de-identifying responses from your human participants can significantly enhance both the ease and reliability of this process. It's crucial to incorporate de-identification considerations early in your planning phase as part of your overall data management strategy. Decisions on which data to collect, what to exclude, and how to inform participants about de-identification will profoundly impact how you can use and share the data in the future as we will explore in future episodes.
 
 ------------------------------------------------------------------------
+
 **Recommended/Cited Sources:**
 
 Campbell R, Javorka M, Engleton J, Fishwick K, Gregory K, Goodman-Williams R. Open-Science Guidance for Qualitative Research: An Empirically Validated Approach for De-Identifying Sensitive Narrative Data. *Advances in Methods and Practices in Psychological Science*. 2023;6(4). doi:[10.1177/25152459231205832](https://doi.org/10.1177/25152459231205832)
