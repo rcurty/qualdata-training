@@ -200,14 +200,14 @@ use the data for further research. We suggest following some best
 practices for crafting statements that are both effective and clear
 while also complying with funders' and journal policies' requirements.
 
-\<iframe width="50%" height="800"
-src="https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf"\>
+<iframe width="50%" height="800"
+src="https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf">
 </iframe>"
 
 </iframe>
 
 Source: UCSB Library Data Literacy Series
-(\[perma.cc/3ZHR-6JAG\](<https://perma.cc/3ZHR-6JAG)).>
+([perma.cc/3ZHR-6JAG](<https://perma.cc/3ZHR-6JAG)).>
 
 ### Applying Access Controls
 
@@ -302,12 +302,11 @@ of media that can be of great use to qualitative data researchers,
 including audio, video, image, and text. Refer to the handout below for
 some examples:
 
-\<iframe width="50%" height="700"
-src="<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n07-2021-openformats-navy.pdf">
+<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n07-2021-openformats-navy.pdf">
 </iframe>"
 
 Source: UCSB Library Data Literacy Series
-(\[perma.cc/[W4FL-JDFT](https://perma.cc/W4FL-JDFT)\](<https://perma.cc/W4FL-JDFT>[)](https://perma.cc/ET6F-N84X))
+([perma.cc/[W4FL-JDFT](https://perma.cc/W4FL-JDFT)](<https://perma.cc/W4FL-JDFT>[)](https://perma.cc/ET6F-N84X))
 
 ### Where should you share your project Data?
 

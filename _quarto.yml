@@ -54,7 +54,7 @@ website:
           href: 10_qualcoder-coding.qmd
     - section: "Sharing & Archiving"
       contents:      
-         - text: What and where to share?
+         - text: What and Where to Share?
            href: 11_sharing.qmd
     - section: "Reusing"
       contents:    
