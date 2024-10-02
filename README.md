@@ -28,7 +28,7 @@ Research Data Services (RDS), UC Santa Barbara Library
 
 </p>
 
-</div>
+Curty, Renata, Julien Brun, and Greg Janée. 2024. “Handling and Sharing Qualitative Data Responsibly and Effectively.” October 2, 2024. [https://rcurty.github.io/qualdata-training[(https://rcurty.github.io/qualdata-training).
 
 <p align="center">
 
