@@ -98,7 +98,7 @@ Check our handout for more information on these two approaches:
 
 This handout provides a compilation with some helpful tips:
 
-`<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2024-06/DLS-202406-QualCoding.pdf"`{=html}
+<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2024-06/DLS-202406-QualCoding.pdf">
 
 </iframe>
 
