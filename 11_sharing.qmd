@@ -202,12 +202,10 @@ while also complying with funders' and journal policies' requirements.
 
 <iframe width="50%" height="800"
 src="https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf">
-</iframe>"
-
 </iframe>
 
 Source: UCSB Library Data Literacy Series
-([perma.cc/3ZHR-6JAG](<https://perma.cc/3ZHR-6JAG)).>
+[perma.cc/3ZHR-6JAG](https://perma.cc/3ZHR-6JAG)
 
 ### Applying Access Controls
 
@@ -302,11 +300,11 @@ of media that can be of great use to qualitative data researchers,
 including audio, video, image, and text. Refer to the handout below for
 some examples:
 
-<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n07-2021-openformats-navy.pdf">
-</iframe>"
+<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n07-2021-openformats-navy.pdf">
+</iframe>
 
 Source: UCSB Library Data Literacy Series
-([perma.cc/[W4FL-JDFT](https://perma.cc/W4FL-JDFT)](<https://perma.cc/W4FL-JDFT>[)](https://perma.cc/ET6F-N84X))
+[perma.cc/W4FL-JDFT](https://perma.cc/W4FL-JDFT)
 
 ### Where should you share your project Data?
 
@@ -330,11 +328,11 @@ Beyond support to access controls when required, choosing a repository
 to archive QHS data, should take into account several factors laid out
 in the handout below:
 
-<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n05-2021-dr-navy.pdf">
+<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n05-2021-dr-navy.pdf">
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/WLF7-WTUC](https://perma.cc/WLF7-WTUC)).
+Source: UCSB Library Data Literacy Series [perma.cc/WLF7-WTUC](https://perma.cc/WLF7-WTUC).
 
 
 ### Preparing your data for Submission
@@ -364,7 +362,7 @@ Recommended:
 -   Study protocol or procedures manual, if applicable
 
 
-<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2024-07/DLS-202407-QualDataSharing.pdf">
+<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2024-07/DLS-202407-QualDataSharing.pdf">
 
 </iframe>
 
@@ -400,7 +398,7 @@ collective body of knowledge.
 The handout below provides more insights about licenses, including the
 Creative Commons family:
 
-<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n10-2021-licensing-navy_0.pdf">
+<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n10-2021-licensing-navy_0.pdf">
 
 </iframe>
 
