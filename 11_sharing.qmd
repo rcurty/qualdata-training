@@ -205,7 +205,7 @@ src="https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailabilit
 </iframe>
 
 Source: UCSB Library Data Literacy Series
-[perma.cc/3ZHR-6JAG](https://perma.cc/3ZHR-6JAG)
+([perma.cc/3ZHR-6JAG](https://perma.cc/3ZHR-6JAG))
 
 ### Applying Access Controls
 
@@ -304,7 +304,7 @@ some examples:
 </iframe>
 
 Source: UCSB Library Data Literacy Series
-[perma.cc/W4FL-JDFT](https://perma.cc/W4FL-JDFT)
+([perma.cc/W4FL-JDFT](https://perma.cc/W4FL-JDFT))
 
 ### Where should you share your project Data?
 
@@ -332,7 +332,7 @@ in the handout below:
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series [perma.cc/WLF7-WTUC](https://perma.cc/WLF7-WTUC).
+Source: UCSB Library Data Literacy Series ([perma.cc/WLF7-WTUC](https://perma.cc/WLF7-WTUC)).
 
 
 ### Preparing your data for Submission
