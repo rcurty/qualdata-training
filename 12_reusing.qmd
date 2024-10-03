@@ -6,7 +6,7 @@ Sharing well-documented data and connecting it to related research is crucial fo
 
 Research data can be reused in various ways, as outlined in the handout below:
 
-<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n06-2021-reuse-navy.pdf">
+<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n06-2021-reuse-navy.pdf">
 
 </iframe>
 
@@ -62,8 +62,8 @@ Data citation and attribution are vital, especially when it comes to recognizing
 
 The good news is that most data repositories offer a recommended citation alongside a persistent identifier, such as a DOI, simplifying referencing datasets. If a citation is not available, we recommend following the guidelines outlined in this handout:
 
-<iframe width="50%" height="700" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls_n2_datacitation_navy_1.pdf">
+<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls_n2_datacitation_navy_1.pdf">
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series (\[perma.cc/[VHW9-9EPQ](https://perma.cc/VHW9-9EPQ)\](<https://perma.cc/VHW9-9EPQ>))
+Source: UCSB Library Data Literacy Series ([perma.cc/VHW9-9EPQ](https://perma.cc/VHW9-9EPQ))
