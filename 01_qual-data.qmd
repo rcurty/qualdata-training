@@ -20,7 +20,7 @@ Qualitative researchers should be aware of the above limitations and plan accord
 
 ## Scientific Rigor in Qualitative Research
 
-Scientific rigor manifests differently in qualitative research. Unlike quantitative research, which produces numerical results, qualitative research yields findings. These findings consist of insights, themes, and patterns that emerge from analyzing non-numerical. They offer a descriptive and interpretive understanding of the studied phenomenon and play a crucial role in theory-building and contextual understanding, laying the groundwork for exploring phenomena in depth and inform practical applications.
+Scientific rigor manifests differently in qualitative research. Unlike quantitative research, which produces numerical results, qualitative research yields findings. These findings consist of insights, themes, and patterns that emerge from analyzing non-numerical data. They offer a descriptive and interpretive understanding of the studied phenomenon and play a crucial role in theory-building and contextual understanding, laying the groundwork for exploring phenomena in depth and inform practical applications.
 
 A key challenge in qualitative research is establishing the credibility of these findings, as they lack the objective metrics used in quantitative research, such as validity and reliability checks. Also, instead of aiming for generalizability to a broader population, qualitative research provides in-depth insights into specific contexts or groups, enhancing our understanding of the subject matter within those contexts.
 
