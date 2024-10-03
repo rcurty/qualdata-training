@@ -306,7 +306,7 @@ some examples:
 Source: UCSB Library Data Literacy Series
 ([perma.cc/W4FL-JDFT](https://perma.cc/W4FL-JDFT))
 
-### Where should you share your project Data?
+### Where Should You Share Your Project Data?
 
 The decision of where to archive data is crucial for ensuring its
 accessibility, integrity, and long-term preservation. Selecting a
@@ -335,7 +335,7 @@ in the handout below:
 Source: UCSB Library Data Literacy Series ([perma.cc/WLF7-WTUC](https://perma.cc/WLF7-WTUC)).
 
 
-### Preparing your data for Submission
+### Preparing Your Data for Submission
 
 There are a few required and recommended files that are important to be
 added to your project package submission.
