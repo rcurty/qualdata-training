@@ -355,7 +355,7 @@ Required:
 
 Recommended:
 
--   Informed consent statement(s) or assen,t if applicable
+-   Informed consent statement(s), if applicable
 
 -   IRB protocol, if applicable
 
