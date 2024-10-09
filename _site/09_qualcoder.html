@@ -69,7 +69,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="include/webex.css">
 </head>
 
 <body class="nav-sidebar docked nav-fixed">
@@ -220,7 +219,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./12_sharing.html" class="sidebar-item-text sidebar-link">
+  <a href="./11_sharing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Sharing and Archiving</span></a>
   </div>
 </li>
@@ -237,7 +236,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./13_reusing.html" class="sidebar-item-text sidebar-link">
+  <a href="./12_reusing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Reusing</span></a>
   </div>
 </li>
@@ -278,19 +277,19 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="images/qualcoder-logo.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="150"></p>
 </figure>
 </div>
-<p>QualCoder is client-based open-source and free multi-platform tool designed to streamline qualitative data analysis. With its user-friendly interface and comprehensive features, QualCoder empowers researchers and analysts to efficiently organize, code, and analyze qualitative data, ranging from text documents to multimedia files. By providing tools for coding, categorizing, and retrieving data, QualCoder facilitates in-depth exploration and interpretation, enabling researchers to uncover meaningful insights and patterns, and extract rich and nuanced information from their qualitative data.</p>
-<p>With QualCoder you can code text, images, audio and video, write journal notes and memos. You can categorize codes into a tree-like hierarchical categorization scheme. Coding for audio and video requires the <a href="https://www.videolan.org/vlc/download-windows.html">VLC media player</a>. Coder comparison reports can be generated for text coding using the Cohen’s Kappa statistic for interrater/intercoder reliability measuring the level of agreement between coders. A graph displaying codes and categories can be generated to visualize the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.</p>
+<p>QualCoder is client-based open-source and free multi-platform tool designed to streamline qualitative data analysis. With its user-friendly interface and comprehensive features, QualCoder empowers researchers and analysts to efficiently organize, code, and analyze qualitative data, ranging from text documents to multimedia files. By providing tools for coding, categorizing, and retrieving data. QualCoder facilitates in-depth exploration and interpretation, enables researchers to uncover meaningful insights and patterns, and extracts rich and nuanced information from their qualitative data.</p>
+<p>With QualCoder, you can code text, images, audio and video, and write journal notes and memos. You can categorize codes into a tree-like hierarchical categorization scheme. Coding for audio and video requires the <a href="https://www.videolan.org/vlc/download-windows.html">VLC media player</a>. Coder comparison reports can be generated for text coding using Cohen’s Kappa statistic for interrater/intercoder reliability, which measures the level of agreement between coders. A graph displaying codes and categories can be generated to visualize the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.</p>
 <p>Documentation:</p>
 <ul>
 <li><p>Wiki - <a href="https://github.com/ccbogel/QualCoder/wiki" class="uri">https://github.com/ccbogel/QualCoder/wiki</a></p></li>
 <li><p>GitHub Repository - <a href="https://github.com/ccbogel/QualCoder" class="uri">https://github.com/ccbogel/QualCoder</a></p></li>
 <li><p>GitHub Repository (QualCoder AI - beta) - <a href="https://github.com/kaixxx/QualCoder/tree/ai_integration" class="uri">https://github.com/kaixxx/QualCoder/tree/ai_integration</a></p></li>
 </ul>
-<p>You are welcome to follow <a href="https://github.com/ccbogel/QualCoder/wiki/01-Introduction">installation and running instructions</a> for your operating system. Please note, however, this is a multistep process that requires additional components and the use of the command line/terminal. We are available to consult with individuals or groups that require assistance in that process.</p>
-<p>To save us time, for this workshop we will skip the installation process and we will be supplying a virtual machine to attendees. We will first use the latest available version on the software (currently 3.5) for the exercises, and then, give a sneak peak of the beta version with AI capabilities to test how ChatGPT 4.0 can assist with horizontal coding. On this second half, we will discuss the implications for privacy and also the expected costs associated with the use of AI.</p>
+<p>You can follow <a href="https://github.com/ccbogel/QualCoder/wiki/01-Introduction">installation and running instructions</a> for your operating system. Please note, however, that this is a multi-step process requiring additional components and the command line/terminal. We are available to consult with individuals or groups that require assistance in that process.</p>
+<p>To save time, for this workshop, we will skip the installation process and grant learners access to a virtual machine with QualCoder pre-installed. We use the latest available version of the software (currently 3.5) for the coding and reporting activities.</p>
 <section id="launching-qualcoder" class="level3">
 <h3 class="anchored" data-anchor-id="launching-qualcoder">Launching QualCoder</h3>
-<p>To run QualCoder from the command prompt or terminal use the following</p>
+<p>To run QualCoder from the command prompt or terminal, use the following commands:</p>
 <p><strong><em>Mac</em></strong></p>
 <p>From any directory: <code>qualcoder</code> From the QualCoder-Master directory: <code>python3 -m qualcoder</code> or <code>python3 qualcoder/__main__.py</code></p>
 <p><strong><em>Windows</em></strong></p>
@@ -305,39 +304,39 @@ Running Qualcoder
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Do not close the terminal or command prompt running in the background; otherwise, you will exit QualCoder. If you miminize the QualCoder window and get lost, you may click the Python Launch icon.</p>
+<p>Do not close the terminal or command prompt running in the background; otherwise, you will exit QualCoder. If you minimize the QualCoder window and get lost, you may click the Python Launch icon.</p>
 </div>
 </div>
 </section>
 <section id="basic-functionalities" class="level3">
 <h3 class="anchored" data-anchor-id="basic-functionalities">Basic Functionalities</h3>
-<p>We will cover some basic settings, terms (attributes, including how to create a project and how to engage with coding. If you are following this content asynchronously, we strongly advise you to watch the following video for additional features:</p>
-<div class="quarto-video"><iframe data-external="1" src="https://www.youtube.com/embed/wj5fY4F5Jxo" width="250" height="175" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>We will cover some basic settings and terms (attributes, including how to create a project and how to engage with coding. If you are following this content asynchronously, we strongly advise you to watch the following video for additional features:</p>
+<div class="quarto-video"><iframe data-external="1" src="https://www.youtube.com/embed/wj5fY4F5Jxo" width="600" height="400" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p>Other helpful tutorials can be found here: <a href="https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos" class="uri">https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos</a></p>
 <section id="anatomy-of-a-qualcoder-project" class="level4">
 <h4 class="anchored" data-anchor-id="anatomy-of-a-qualcoder-project">Anatomy of a QualCoder Project</h4>
-<p>In QualCoder, <em>projects</em> serve as containers for organizing multiple files, cases, and attributes. Each project allows you to manage and analyze a specific set of qualitative data, keeping everything organized. You can create different projects for distinct research questions or datasets, enabling a streamlined workflow. This structure ultimately helps you delve deeper into your analysis without mixing different data sets.</p>
-<p>Understanding the roles of files, attributes and cases and their relationships is key to most QDA software. In QualCoder, <em>files</em> refer to the individual documents or data sources you import for analysis. You may have more than one file associate with a unique case. <em>Cases</em> are specific units of analysis, often linked to files, that allow you to organize and explore your data in a more detailed manner. Together, they create a structured environment for qualitative analysis, allowing you to delve into themes and patterns effectively. In our project example, the cases will consist of individual interviewees, but we could also focus on the niche they belong to if we were to analyze at that level.</p>
-<p>For example, let’s imagine that Sarah also collected social media video posts from content creators and digital influencers to analyze behaviors beyond participants’ self-reports, by also checking how they have been engaging with their followers. In this case, she can add video clips to QualCoder and associate them with the same research participant. This structure will depend on the nature of your project, allowing for flexibility in how data is organized and analyzed to best capture the insights you seek.</p>
-<p><em>Attributes</em> are metadata or characteristics that can be assigned to files and cases, helping to categorize or describe them. Examples related to our project example could be demographic pieces of information (e.g., gender, age group), years active, niche, total followers assigned to individuals represented as cases, or characteristics attributed to a file such as the type of source (e.g., interview, social media), total numbers of views, shares and comments, platform (e.g., IG, Youtube, TikTok). You may take advantage of <em>memos</em> to record more detailed information about attributes. Think of it an essential aid to documentation that will provide better contextualization so researchers, including your future self, can better interpret and understand decisions made during the research process.</p>
-<p>As a heads up, QualCoder was not designed having statistical analysis of attributes in mind, for that, you can export attributes as csv files and use R or other open dedicated application. Also, the only current options for attributes are numeric and character, so dates, types or integers are not supported. We will see how we can export attributes later.</p>
-<p>You can utilize <em>Journals</em> to practice data journaling and document ideas and reflections throughout the coding process, making them searchable with regex expressions—a topic we’ll explore later. Journals are particularly useful for a bottom-up approaches, requiring multiple iterations to refine your themes and coding scheme. Plus, you can enhance your journaling content with markdown formatting!</p>
+<p>In QualCoder, <em>projects</em> serve as containers for organizing multiple files, cases, and attributes. Each project allows you to manage and analyze a specific qualitative data set, keeping everything organized. You can create different projects for distinct research questions or datasets, enabling a streamlined workflow. This structure helps you delve deeper into your analysis without mixing different data sets.</p>
+<p>Understanding the roles of files, attributes, cases, and their relationships is key to most QDA software. In QualCoder, <em>files</em> refer to the individual documents or data sources you import for analysis. You may have more than one file associated with a unique case. <em>Cases</em> are specific units of analysis, often linked to files, that allow you to organize and explore your data with more detail. Together, they create a structured environment for qualitative analysis, allowing you to delve into themes and patterns effectively. In our project example, the cases will consist of individual interviewees, but we could also focus on their niche if we were to analyze at that level.</p>
+<p>For example, let’s imagine that Sarah also collected social media video posts from content creators and digital influencers to analyze behaviors beyond participants’ self-reports by also checking how they have been engaging with their followers. In this case, she can add video clips to QualCoder and associate them with the same research participant. This structure will depend on the nature of your project, allowing for flexibility in how data is organized and analyzed to best capture the insights you seek.</p>
+<p><em>Attributes</em> are metadata or characteristics that can be assigned to files and cases, helping to categorize or describe them. Examples related to our project example could be demographic pieces of information (e.g., gender, age group), years active, niche, total followers assigned to individuals represented as cases, or characteristics attributed to a file such as the type of source (e.g., interview, social media), total numbers of views, shares and comments, platform (e.g., IG, Youtube, TikTok). You may use <em>memos</em> to record more detailed information about attributes. Think of it as an essential aid to documentation that will provide better contextualization so researchers, including your future self, can better interpret and understand decisions made during the research process.</p>
+<p>As a heads-up, QualCoder was not designed to analyze attributes statistically. For that, you can export attributes as CSV files and use R or another open dedicated application. Also, the only current options for attributes are numeric and character, so dates, types, or integers are not supported. We will see how we can export attributes later.</p>
+<p>You can utilize <em>Journals</em> to practice data journaling and document ideas and reflections throughout the coding process, making them searchable with regex expressions—a topic we’ll explore later. Journals are particularly useful for bottom-up approaches, requiring multiple iterations to refine your themes and coding scheme. Plus, you can enhance your journaling content with markdown formatting!</p>
 </section>
 </section>
 <section id="our-example-project-in-qualcoder" class="level3">
 <h3 class="anchored" data-anchor-id="our-example-project-in-qualcoder">Our Example Project in QualCoder</h3>
-<p>Let’s now set Sarah’s project in QualCoder, bring the files into the project and perform some housekeeping and organization before engaging with actual coding.</p>
+<p>Let’s now set Sarah’s project in QualCoder, bring the files into the project, and perform some housekeeping and organization before engaging with actual coding.</p>
 <section id="creating-a-project" class="level4">
 <h4 class="anchored" data-anchor-id="creating-a-project">Creating a Project</h4>
 <p><strong>Project &gt; Create New Project</strong></p>
-<p>Select the directory you want to save your <code>qda</code> project and name it <code>Influencers</code>.</p>
+<p>Select the directory in which you want to save your <code>qda</code> project and name it <code>Influencers</code>.</p>
 </section>
 <section id="loading-files" class="level4">
 <h4 class="anchored" data-anchor-id="loading-files">Loading Files</h4>
-<p>We’ve created a project, but we don’t have any files yet, so let’s make sure to load them now. Choose, manage files, and then, the second icon as noted below (Import File Into Project Folder), select the desired folder and files.</p>
+<p>We’ve created a project but don’t have any files yet, so let’s load them now. Choose and manage files, and then, the second icon as noted below (Import File Into Project Folder), select the desired folder and files.</p>
 <p><img src="images/add-files-02.png" class="img-fluid"></p>
-<p>Note the file ID will be assigned according to the order of the import, so if you want that to match your file naming convention, you should order it accordingly. In case you need to fix it, click the red X on the right and delete the files, then reorder then accordingly and bring import them again into QualCoder.</p>
-<p>You may double click in the file or choose the “eye icon” to open the file content. Don’t worry about the information at the bottom of the window for now, we will cover that later.</p>
+<p>Note that the file ID will be assigned according to the import order, so if you want that to match your file naming convention, you should order it accordingly. If you need to fix it, click the red X on the right and delete the files, then reorder them accordingly and import them again into QualCoder.</p>
+<p>You may double-click on the file or choose the “eye icon” to open its content. Don’t worry about the information at the bottom of the window for now; we will cover that later.</p>
 </section>
 <section id="organizing-things" class="level4">
 <h4 class="anchored" data-anchor-id="organizing-things">Organizing Things</h4>
@@ -346,19 +345,19 @@ Running Qualcoder
 <p><code>Manage &gt; Manage Cases &gt; Pencil (Add Case) &gt; Add your Case Name</code></p>
 <p><img src="images/create-cases.png" class="img-fluid"></p>
 <p><em>Link Files</em></p>
-<p>Now, let’s link the corresponding file to the specific case we have created. Click on the file cell to manage files for the case. This will prompt another window as shown below:</p>
+<p>Now, let’s link the corresponding file to the case we created. Click on the file cell to manage files for the case. This will prompt another window, as shown below:</p>
 <p><img src="images/associate-casesandfiles.png" class="img-fluid"></p>
-<p>Now, create cases and link the files for each of the interviews. You should have one for Linda, Margot, Gina, Otto, Ben and Alex. Note that you can also import csv files with cases. This can be handy especially for projects with several cases.</p>
+<p>Now, create cases and link the files for each of the interviews. You should have one for Linda, Margot, Gina, Otto, Ben, and Alex. Note that you can also import CSV files with cases. This can be handy, especially for projects with several cases.</p>
 <p><em>Describe Attributes</em></p>
-<p>Each transcript has some characteristics associated with interviewees. It would be helpful to describe these as attributes for further analysis. We will only add two types of attributes: <code>age group</code> and <code>niche</code>. There are two different ways to create attributes: via <code>manage &gt; manage attributes</code> or in the <code>manage file</code> window you may select the <code>blue plus sign</code>. In this case, the latter might be just more convenient considering we have only a few attributes and cases.</p>
-<p>We will be assigning age groups (25-29, 30-35, or 35-40) to each case, and adding their respective niches.</p>
+<p>Each transcript has some characteristics associated with interviewees. It would be helpful to describe these as attributes for further analysis. We will only add two attributes: <code>age group</code> and <code>niche</code>. There are two different ways to create attributes: via <code>manage &gt; manage attributes</code> or in the <code>manage file</code> window, you may select the <code>blue plus sign.</code> The latter might be more convenient in this case, considering we have only a few attributes and cases.</p>
+<p>We will assign age groups (25-29, 30-35, or 35-40) to each case and add their respective niches.</p>
 <p><img src="images/attributes.png" class="img-fluid"></p>
 <p>You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to <strong><code>Manage &gt; Manage Attributes</code></strong></p>
-<p>For now, we won’t need to add memos, but keep in mind that they can be useful for providing additional context when attributes aren’t immediately clear.</p>
-<p>We now have a well-organized project set up in QualCoder, so let’s jump into some coding!</p>
+<p>We won’t need to add memos for now, but they can provide additional context when attributes aren’t immediately apparent.</p>
+<p>We now have a well-organized project in QualCoder, so let’s jump into some coding!</p>
 <hr>
 <p><strong>Recommended/Cited Sources:</strong></p>
-<p>Cheung, K. K. C., &amp; Tai, K. W. H. (2021). The use of intercoder reliability in qualitative interview data analysis in science education. <em>Research in Science &amp; Technological Education</em>, <em>41</em>(3), 1155–1175. https://doi.org/10.1080/02635143.2021.1993179Cheung, K. K. C., &amp; Tai, K. W. H. (2021). The use of intercoder reliability in qualitative interview data analysis in science education. <em>Research in Science &amp; Technological Education</em>, <em>41</em>(3), 1155–1175. https://doi.org/10.1080/02635143.2021.1993179</p>
+<p>Cheung, K. K. C., &amp; Tai, K. W. H. (2021). The use of intercoder reliability in qualitative interview data analysis in science education. <em>Research in Science &amp; Technological Education</em>, <em>41</em>(3), 1155–1175. <a href="https://doi.org/10.1080/02635143.2021.1993179" class="uri">https://doi.org/10.1080/02635143.2021.1993179</a></p>
 
 
 </section>
@@ -366,212 +365,6 @@ Running Qualcoder
 </section>
 
 </main> <!-- /main -->
-<script>
-
-/* update total correct if #webex-total_correct exists */
-update_total_correct = function() {
-  console.log("webex: update total_correct");
-
-  var t = document.getElementsByClassName("webex-total_correct");
-  for (var i = 0; i < t.length; i++) {
-    p = t[i].parentElement;
-    var correct = p.getElementsByClassName("webex-correct").length;
-    var solvemes = p.getElementsByClassName("webex-solveme").length;
-    var radiogroups = p.getElementsByClassName("webex-radiogroup").length;
-    var selects = p.getElementsByClassName("webex-select").length;
-
-    t[i].innerHTML = correct + " of " + (solvemes + radiogroups + selects) + " correct";
-  }
-}
-
-/* webex-solution button toggling function */
-b_func = function() {
-  console.log("webex: toggle hide");
-
-  var cl = this.parentElement.classList;
-  if (cl.contains('open')) {
-    cl.remove("open");
-  } else {
-    cl.add("open");
-  }
-}
-
-/* check answers */
-check_func = function() {
-  console.log("webex: check answers");
-
-  var cl = this.parentElement.classList;
-  if (cl.contains('unchecked')) {
-    cl.remove("unchecked");
-    this.innerHTML = "Hide Answers";
-  } else {
-    cl.add("unchecked");
-    this.innerHTML = "Show Answers";
-  }
-}
-
-/* function for checking solveme answers */
-solveme_func = function(e) {
-  console.log("webex: check solveme");
-
-  var real_answers = JSON.parse(this.dataset.answer);
-  var my_answer = this.value;
-  var cl = this.classList;
-  if (cl.contains("ignorecase")) {
-    my_answer = my_answer.toLowerCase();
-  }
-  if (cl.contains("nospaces")) {
-    my_answer = my_answer.replace(/ /g, "")
-  }
-
-  if (my_answer == "") {
-    cl.remove("webex-correct");
-    cl.remove("webex-incorrect");
-  } else if (real_answers.includes(my_answer)) {
-    cl.add("webex-correct");
-    cl.remove("webex-incorrect");
-  } else {
-    cl.add("webex-incorrect");
-    cl.remove("webex-correct");
-  }
-
-  // match numeric answers within a specified tolerance
-  if(this.dataset.tol > 0){
-    var tol = JSON.parse(this.dataset.tol);
-    var matches = real_answers.map(x => Math.abs(x - my_answer) < tol)
-    if (matches.reduce((a, b) => a + b, 0) > 0) {
-      cl.add("webex-correct");
-    } else {
-      cl.remove("webex-correct");
-    }
-  }
-
-  // added regex bit
-  if (cl.contains("regex")){
-    answer_regex = RegExp(real_answers.join("|"))
-    if (answer_regex.test(my_answer)) {
-      cl.add("webex-correct");
-    }
-  }
-
-  update_total_correct();
-}
-
-/* function for checking select answers */
-select_func = function(e) {
-  console.log("webex: check select");
-
-  var cl = this.classList
-
-  /* add style */
-  cl.remove("webex-incorrect");
-  cl.remove("webex-correct");
-  if (this.value == "answer") {
-    cl.add("webex-correct");
-  } else if (this.value != "blank") {
-    cl.add("webex-incorrect");
-  }
-
-  update_total_correct();
-}
-
-/* function for checking radiogroups answers */
-radiogroups_func = function(e) {
-  console.log("webex: check radiogroups");
-
-  var checked_button = document.querySelector('input[name=' + this.id + ']:checked');
-  var cl = checked_button.parentElement.classList;
-  var labels = checked_button.parentElement.parentElement.children;
-
-  /* get rid of styles */
-  for (i = 0; i < labels.length; i++) {
-    labels[i].classList.remove("webex-incorrect");
-    labels[i].classList.remove("webex-correct");
-  }
-
-  /* add style */
-  if (checked_button.value == "answer") {
-    cl.add("webex-correct");
-  } else {
-    cl.add("webex-incorrect");
-  }
-
-  update_total_correct();
-}
-
-window.onload = function() {
-  console.log("webex onload");
-  /* set up solution buttons */
-  var buttons = document.getElementsByTagName("button");
-
-  for (var i = 0; i < buttons.length; i++) {
-    if (buttons[i].parentElement.classList.contains('webex-solution')) {
-      buttons[i].onclick = b_func;
-    }
-  }
-
-  var check_sections = document.getElementsByClassName("webex-check");
-  console.log("check:", check_sections.length);
-  for (var i = 0; i < check_sections.length; i++) {
-    check_sections[i].classList.add("unchecked");
-
-    let btn = document.createElement("button");
-    btn.innerHTML = "Show Answers";
-    btn.classList.add("webex-check-button");
-    btn.onclick = check_func;
-    check_sections[i].appendChild(btn);
-
-    let spn = document.createElement("span");
-    spn.classList.add("webex-total_correct");
-    check_sections[i].appendChild(spn);
-  }
-
-  /* set up webex-solveme inputs */
-  var solveme = document.getElementsByClassName("webex-solveme");
-
-  for (var i = 0; i < solveme.length; i++) {
-    /* make sure input boxes don't auto-anything */
-    solveme[i].setAttribute("autocomplete","off");
-    solveme[i].setAttribute("autocorrect", "off");
-    solveme[i].setAttribute("autocapitalize", "off");
-    solveme[i].setAttribute("spellcheck", "false");
-    solveme[i].value = "";
-
-    /* adjust answer for ignorecase or nospaces */
-    var cl = solveme[i].classList;
-    var real_answer = solveme[i].dataset.answer;
-    if (cl.contains("ignorecase")) {
-      real_answer = real_answer.toLowerCase();
-    }
-    if (cl.contains("nospaces")) {
-      real_answer = real_answer.replace(/ /g, "");
-    }
-    solveme[i].dataset.answer = real_answer;
-
-    /* attach checking function */
-    solveme[i].onkeyup = solveme_func;
-    solveme[i].onchange = solveme_func;
-
-    solveme[i].insertAdjacentHTML("afterend", " <span class='webex-icon'></span>")
-  }
-
-  /* set up radiogroups */
-  var radiogroups = document.getElementsByClassName("webex-radiogroup");
-  for (var i = 0; i < radiogroups.length; i++) {
-    radiogroups[i].onchange = radiogroups_func;
-  }
-
-  /* set up selects */
-  var selects = document.getElementsByClassName("webex-select");
-  for (var i = 0; i < selects.length; i++) {
-    selects[i].onchange = select_func;
-    selects[i].insertAdjacentHTML("afterend", " <span class='webex-icon'></span>")
-  }
-
-  update_total_correct();
-}
-
-</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
