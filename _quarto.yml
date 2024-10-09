@@ -73,5 +73,7 @@ format:
     toc: false
     page-layout: full
     code-line-numbers: true
-    #css: include/webex.css
-    #include-after-body: include/webex.js
+    filters:
+      - naquiz
+
+

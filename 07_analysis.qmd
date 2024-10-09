@@ -1,5 +1,7 @@
 ---
 title: "Analyzing Qualitative Data"
+filters:
+  - naquiz
 ---
 
 ## The Role of Contextuality
@@ -106,7 +108,73 @@ Source: UCSB Library Data Literacy Series ([perma.cc/4L6T-4ND5](https://perma.cc
 
 ### 🧠 Knowledge Checking
 
-(FIXME) - add webexercises quiz here
+:::::{.question}
+What is the primary focus of top-down coding?
+
+::::{.choices}
+
+:::{.choice .correct-choice}
+Applying pre-existing categories or frameworks to the data.
+:::
+
+:::{.choice}
+Identifying themes that emerge directly from the data.
+:::
+
+:::{.choice}
+Allowing codes to develop organically without prior assumptions.
+:::
+
+:::{.choice}
+Analyzing data without an structured approach.
+:::
+
+::::
+:::::
+
+:::::{.question}
+Which of the following best describes bottom-up coding?
+
+::::{.choices}
+
+:::{.choice}
+It begins with hypotheses that guide the analysis.
+:::
+
+:::{.choice}
+It utilizes existing literature to create codes.
+:::
+
+:::{.choice}
+It follows a structured approach to analyze the data.
+:::
+
+:::{.choice .correct-choice}
+It starts with the raw data and develops codes from specific observations.
+:::
+
+::::
+:::::
+
+:::::{.question}
+Which of the following scenarios is most suitable for using top-down coding?
+
+::::{.choices}
+
+:::{.choice}
+A study aiming to discover new patterns in data.
+:::
+
+:::{.choice .correct-choice}
+A study testing a specific theory or framework.
+:::
+
+:::{.choice}
+Explore a new topic, not yet well-established in your field. 
+:::
+
+::::
+:::::
 
 
 ::: {.callout-note collapse="true"}
