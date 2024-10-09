@@ -108,74 +108,69 @@ Source: UCSB Library Data Literacy Series ([perma.cc/4L6T-4ND5](https://perma.cc
 
 ### 🧠 Knowledge Checking
 
-:::::{.question}
-What is the primary focus of top-down coding?
+Based on our discussion about bottom-up versus top-down approaches to coding, please answer the following questions:
 
-::::{.choices}
+::: question
+***What is the primary focus of top-down coding?***
 
-:::{.choice .correct-choice}
+::: choices
+::: {.choice .correct-choice}
 Applying pre-existing categories or frameworks to the data.
 :::
 
-:::{.choice}
+::: choice
 Identifying themes that emerge directly from the data.
 :::
 
-:::{.choice}
+::: choice
 Allowing codes to develop organically without prior assumptions.
 :::
 
-:::{.choice}
+::: choice
 Analyzing data without an structured approach.
 :::
+:::
+:::
 
-::::
-:::::
+::: question
+***Which of the following best describes bottom-up coding?***
 
-:::::{.question}
-Which of the following best describes bottom-up coding?
-
-::::{.choices}
-
-:::{.choice}
+::: choices
+::: choice
 It begins with hypotheses that guide the analysis.
 :::
 
-:::{.choice}
+::: choice
 It utilizes existing literature to create codes.
 :::
 
-:::{.choice}
+::: choice
 It follows a structured approach to analyze the data.
 :::
 
-:::{.choice .correct-choice}
+::: {.choice .correct-choice}
 It starts with the raw data and develops codes from specific observations.
 :::
+:::
+:::
 
-::::
-:::::
+::: question
+***Which of the following scenarios is most suitable for using top-down coding?***
 
-:::::{.question}
-Which of the following scenarios is most suitable for using top-down coding?
-
-::::{.choices}
-
-:::{.choice}
+::: choices
+::: choice
 A study aiming to discover new patterns in data.
 :::
 
-:::{.choice .correct-choice}
+::: {.choice .correct-choice}
 A study testing a specific theory or framework.
 :::
 
-:::{.choice}
-Explore a new topic, not yet well-established in your field. 
+::: choice
+Explore a new topic, not yet well-established in the literature.
 :::
-
-::::
-:::::
-
+:::
+:::
 
 ::: {.callout-note collapse="true"}
 ### A Note about Saturation
