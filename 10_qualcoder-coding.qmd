@@ -23,7 +23,7 @@ It’s important to keep in mind that this process typically requires multiple i
 
 So, we will start by representing these three main categories in QualCoder. To do that, let's do a ctrl+click on the panel. This will prompt a window with the most important actions for you to engage with the development and organization of your codebook.
 
-Click `add a new category`, and enter "Accountability". Complete the same process for the other two codes. You may also add a memo with some explanation about their meanings.
+Click `add a new category`, and enter "Accountability". Complete the same process for the other two: authenticity and transparency. You may also add a memo with some explanation about their meanings.
 
 ![](images/memo-category.png)
 
@@ -35,7 +35,9 @@ Ok, let's open the `Interviewee_01` transcripts. look at the answer to Q4, let's
 
 ![](images/genuine-added-value-code.png)
 
-We can then drag the new code and arrange it under Authenticity. You will notice that a color will be automatically assigned to the code. You change colors, rename, add memos, move or edit codes using the menu options. Note that the code now shows that there is one excerpt associated with the code. If you continue assigning more excerpts to a giving code, they will be reflected in the number, but at the file level in this view. You may check all excerpts assigned to a code across files by selecting `Show coded files`.
+We can then drag the new code and arrange it under Authenticity. You will notice that a color will be automatically assigned to the code. You may change colors, rename, add memos, move or edit codes using the menu options.
+
+Note that the code now shows that there is one excerpt associated with the code. If you continue assigning more excerpts to a giving code, they will be reflected in that number, but at the file level in this view. You may check all excerpts assigned to a code across files by selecting `Show coded files`.
 
 ![](images/coded-excerpt-view.png)
 
