@@ -171,7 +171,7 @@ Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR](https://perma.cc
 ::: {.callout-note appearance="simple" collapse="true" icon="false"}
 ## 🏋️‍♀️ Exercise: Review a Consent Form
 
-Now that we have learned about the importance of consent forms and some recommendations to craft these documents, in pairs, let's access the archive for the two projects below:
+Now that we have learned about the importance of consent forms and some recommendations to craft these documents, in pairs, let's access the archive for the below:
 
 VandeVusse, Alicia; Mueller, Jennifer. 2021. "Data for: Qualitative Data Sharing: Participant Understanding, Motivation, and Consent". Qualitative Data Repository.<https://doi.org/10.5064/F6YYA3O3>. QDR Main Collection. V2
 
