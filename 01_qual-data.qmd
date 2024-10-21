@@ -70,10 +70,7 @@ Qualitative data can be collected through various research methods. Defining the
 
 8.  *One-to-one Interviews:* Direct conversations between the researcher and participants, allowing in-depth exploration of thoughts, experiences, and perspectives. Interviews can be structured, semi-structured, or unstructured and be conducted utilizing various means (phone, online, in-person).
 
-This course will use qualitative research data from direct interactions between researchers and human participants through interviews.
-
-When dealing with human subjects' data, ethical considerations become significantly more complex due to the direct impact on individuals' privacy, rights, and well-being. In the next episode, we will cover ethical considerations and additional steps researchers should take when conducting research with human participants.
-
+This course will use qualitative research data from direct interactions between researchers and human participants through interviews. Before we delve into the specifics, it’s crucial to recognize the significance of a data management plan in guiding your research process effectively.
 ------------------------------------------------------------------------
 
 **Recommended/Cited Sources:**
