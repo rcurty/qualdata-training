@@ -26,7 +26,7 @@ This process involves identifying and assigning "codes," which are specific labe
 
 ![](images/codes-themes.png){width="549"}
 
-Imagine you’ve conducted a study on students’ perceptions of online learning. The responses you collected highlight various challenges participants face, such as:
+Let's imagine you’ve conducted a study on students’ perceptions of online learning. The responses you collected highlight various challenges participants face, such as:
 
 -   Challenges for active participation in discussions
 
@@ -36,7 +36,7 @@ Imagine you’ve conducted a study on students’ perceptions of online learning
 
 -   Internet connectivity and bandwidth issues
 
--   Learning Management System (Software-related) problems
+-   Learning Management System (software-related) problems
 
 *Assigning Codes*
 
