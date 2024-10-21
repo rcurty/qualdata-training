@@ -115,7 +115,7 @@ You may also edit text using the blue pencil (proceed with care as this are irre
 
 ### Reporting
 
-After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels empowered by her understanding of the various ways to approach it.
+After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels like she is in a good place to navigate the reporting options within the tool with us.
 
 Before we proceed, please download the [influencers_q4.qda](https://drive.google.com/drive/folders/10dXK1wFoQcYBCSTbo-ofglc8nI5kZr5u?usp=drive_link), save it and open it in QualCoder.
 
