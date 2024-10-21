@@ -6,7 +6,7 @@ filters:
 
 ## The Role of Contextuality
 
-Qualitative data can be explored and re-analyzed to uncover hidden meanings and deeply unfold historical, social, and cultural contexts and their entanglement with human subjects' attitudes, behaviors, and opinions. A crucial contextual issue regarding qualitative data concerns the ‘traces’ left by different perspectives on the material. Texts, whether from interviews, social media, or embedded in an artifact, are not just produced under certain material conditions embedded within socio-cultural contexts, but they are also produced to do something and become part of the context to be understood.
+Qualitative data can be explored and re-analyzed to uncover hidden meanings and deeply unfold historical, social, and cultural contexts and their entanglement with human subjects' attitudes, behaviors, and opinions. A crucial contextual issue regarding qualitative data concerns the ‘traces’ left by different perspectives on the material. Texts, whether from interviews, social media, or embedded in an artifact, are not just produced under certain material conditions rooted within socio-cultural contexts, but they are also produced to do something and become part of the context to be understood.
 
 ## A Few Words about Secondary Analysis
 
@@ -183,7 +183,7 @@ However, assessing saturation is not straightforward and is much left to interpr
 
 This lack of justification can undermine the transparency and credibility of qualitative studies. Data saturation is often insufficiently examined and can be problematic and contradictory when applied broadly to qualitative research. It might be more appropriate to reserve the concept of data saturation for grounded theory, where there is a clear framework for its application.
 
-While there is no consensus on minimal sample sizes for qualitative research. There is a general recommendation of 6–30 interviews for most qualitative research.
+While there is no consensus on minimal sample sizes for qualitative research. There is a general recommendation of 6–30 interviews for most qualitative research projects.
 :::
 
 ::: {.callout-tip collapse="true"}
