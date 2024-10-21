@@ -19,7 +19,7 @@ After we presented the distinction between inductive and deductive coding approa
 
 She found that accountability, authenticity and transparency are ethical responsibilities frequently associated with the the work of content creators and social media influencers. She’s eager to explore these broad categories while keeping them flexible, allowing for refinement, including branching and or combination of existing codes, and the incorporation of new codes as they emerge. Therefore, we will first create these initial three categories to get her started with some coding using the tool.
 
-It’s important to keep in mind that this process typically requires multiple iterations, which we might not be able to afford in a short episode. While we want to demonstrate the overall process to Sarah, she will likely need to keep adjusting the codes until we have a more solid list of unambiguous ones.
+It’s important to keep in mind that this process typically requires multiple iterations, which we might not be able to afford in a short episode. While we want to demonstrate the overall process to Sarah, she will likely need to keep adjusting the codes until she comes up with a more solid list of unambiguous ones.
 
 So, we will start by representing these three main categories in QualCoder. To do that, let's do a ctrl+click on the panel. This will prompt a window with the most important actions for you to engage with the development and organization of your codebook.
 

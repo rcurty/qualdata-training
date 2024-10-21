@@ -49,6 +49,12 @@ We will cover some basic settings and terms (attributes, including how to create
 
 Other helpful tutorials can be found here: <https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos>
 
+#### Accessing the Virtual Machine with Pre-Installed QualCoder
+
+If you are a UCSB affiliate attending an in-person workshop, you will have the opportunity to engage with QualCoder via a virtual machine. Here are the instructions:
+
+**\<Fix me: Add instructions\>**
+
 #### Anatomy of a QualCoder Project
 
 In QualCoder, *projects* serve as containers for organizing multiple files, cases, and attributes. Each project allows you to manage and analyze a specific qualitative data set, keeping everything organized. You can create different projects for distinct research questions or datasets, enabling a streamlined workflow. This structure helps you delve deeper into your analysis without mixing different data sets.
