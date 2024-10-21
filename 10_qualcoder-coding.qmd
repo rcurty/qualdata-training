@@ -49,11 +49,7 @@ Alright, we have two new codes assigned to this interview, let's move to other i
 
 ![](images/honest-review-examples.png){width="500"}
 
-::: callout-note
-## In Vivo Coding
-
-There’s an option for *in vivo* coding, which allows users to select specific content that is then automatically transformed into a code. This approach also known as verbatim coding, literal coding, and natural coding uses exact phrases or terms from participants' responses during data analysis, enabling researchers to highlight key themes and concepts directly from the data. While this method can be effective for preliminary and first cycle coding, researchers should be aware of its potential drawbacks as the primary method. First, it may lead to a loss of context and limit the scope of analysis, potentially overlooking important themes. Second, the subjective nature of code selection can result in inconsistencies, and complex ideas may become oversimplified. Third, this approach can complicate comparisons across different data sets, since it is unlikely terms and expressions derived from various sources will match.
-:::
+### More Coding Options
 
 Great! Now that we understand how to create categories, assign and organize codes, and view excerpts related to those codes, let’s move our attention now to the top bar we mentioned earlier to understand other coding options we have to assist our coding tasks.
 
@@ -67,7 +63,7 @@ Another useful feature is the ability to create file annotations for selected ex
 
 Alright, here are a few more features to support Sarah's coding efforts. It's clear that this approach to coding is much more effective than using post-its or word processors, wouldn’t you agree?
 
-### Automatic Coding
+#### Automatic Coding
 
 QualCoder also offers auto-coding text features represented in the icons below:
 
@@ -89,7 +85,7 @@ To auto-code exact text matches, you can assign multiple text sections using the
 
 Additionally, there is an undo option to revert recent auto-coding actions; however, this option will be lost if the project is closed and then reopened.
 
-The Auto-Code Exact Text button includes a right-click menu with additional options. By default, it auto-codes all text, but you can also choose to auto-code only the first instance or specific matching text. When using the auto-code exact text feature, you can select which files to apply it to, making it a useful option if you want to identify a single instance across multiple files.
+The *auto-code exact text* button includes a right-click menu with additional options. By default, it auto-codes all text, but you can also choose to auto-code only the first instance or specific matching text. When using the auto-code exact text feature, you can select which files to apply it to, making it a useful option if you want to identify a single instance across multiple files.
 
 For example, let's say Sarah Identified another code under the "Authenticity" category named "Genuine Engagement" to represent content/creators connections with their community of followers. In this case, after we create the code and select it, by choosing the first wand, we can auto-code all mentions of "genuine connection" as "Genuine Engagement".
 
@@ -103,10 +99,14 @@ Note that the text is highlighted and coded accordingly.
 
 ![](images/autocoding3-01.png)
 
+::: callout-note
+First, it may lead to a loss of context and limit the scope of analysis, potentially overlooking important themes. Second, the subjective nature of code selection can result in inconsistencies, and complex ideas may become oversimplified. Third, this approach can complicate comparisons across different data sets, since it is unlikely terms and expressions derived from various sources will match.
+:::
+
 ::: {.callout-caution collapse="true"}
 #### Auto-coding Limitations
 
-Using auto-coding features in any QDA software can lead to inflexibility, as predefined settings may not accommodate all possible nuances. This approach can also result in a loss of insight, as context may be overlooked. Additionally, auto-coding often oversimplifies the data, focusing on specific terms rather than capturing broader themes.
+Auto-coding features, which can be also referred as *in vivo*, verbatim coding, literal coding use exact phrases or terms from participants' responses, enabling researchers to highlight key themes and concepts directly from the data. While this method can be effective for preliminary and first cycle coding, researchers should be aware of its potential drawbacks as the primary method. This approach can result in a loss of insight, as context may be overlooked. Additionally, auto-coding often oversimplifies the data, focusing on specific terms rather than capturing broader themes.
 :::
 
 ### Additional features in the Coding Panel
