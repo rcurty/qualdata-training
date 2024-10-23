@@ -117,7 +117,7 @@ You may also edit text using the blue pencil (proceed with care as this are irre
 
 After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels like she is in a good place to navigate the reporting options within the tool with us.
 
-Before we proceed, please download the [influencers_q4.qda](https://drive.google.com/drive/folders/10dXK1wFoQcYBCSTbo-ofglc8nI5kZr5u?usp=drive_link), save it and open it in QualCoder.
+Before we proceed, please access and download the [influencers_q4.qda](https://drive.google.com/drive/folders/10dXK1wFoQcYBCSTbo-ofglc8nI5kZr5u?usp=drive_link) in our shared drive, save it in your desktop and open it in QualCoder.
 
 QualCoder offers a few options for users to export, query and visualize the data. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, heat and tree maps. It also supports intercoder reliability testing for datasets coded, independently, by multiple people. Let's see show Sarah some of the options she might want to consider for her analysis.
 
