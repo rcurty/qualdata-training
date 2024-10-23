@@ -113,9 +113,9 @@ Auto-coding features, which can be also referred as *in vivo*, verbatim coding, 
 
 You may also edit text using the blue pencil (proceed with care as this are irreversible) and export your coded files with the list of codes in html, odt or txt. Caution in clicking the red X, that will erase all your coding efforts for that particular file.
 
-### Reporting
+### Reporting & Graphing
 
-After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels like she is in a good place to navigate the reporting options within the tool with us.
+After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting and graphing features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels like she is in a good place to navigate the reporting options within the tool with us.
 
 Before we proceed, please access and download the [influencers_q4.qda](https://drive.google.com/drive/folders/10dXK1wFoQcYBCSTbo-ofglc8nI5kZr5u?usp=drive_link) in our shared drive, save it in your desktop and open it in QualCoder.
 
