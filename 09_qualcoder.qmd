@@ -59,7 +59,7 @@ We will be using this lab VM [dreamlab-datastats](https://nam.safelink.emails.az
 
 [Window users](https://www.library.ucsb.edu/sites/default/files/azure_lab_login_windows_instructions_w2024.pdf)
 
-Once you follow those instructions, since we will be using a Windows virtual machine, you will need to launch the command prompt and type `py -m qualcoder` to start QualCoder.
+Once you follow those instructions, since we will be using a Windows virtual machine, you may click on the QualCoder logo to launch it.
 
 #### Anatomy of a QualCoder Project
 
