@@ -19,21 +19,16 @@ Documentation:
 
 -   GitHub Repository (QualCoder AI - beta) - <https://github.com/kaixxx/QualCoder/tree/ai_integration>
 
-You can follow [installation and running instructions](https://github.com/ccbogel/QualCoder/wiki/01-Introduction) for your operating system. Please note, however, that this is a multi-step process requiring additional components and the command line/terminal. We are available to consult with individuals or groups that require assistance in that process.
+You can follow [installation and running instructions](https://github.com/ccbogel/QualCoder/wiki/01-Introduction) for your operating system. Please note, however, that Mac users will need to follow a multi-step process requiring additional components and the terminal. We are available to consult with individuals or groups that require assistance in that process.
 
 To save time, for this workshop, we will skip the installation process and grant learners access to a virtual machine with QualCoder pre-installed. We use the latest available version of the software (currently 3.5) for the coding and reporting activities.
 
 ### Launching QualCoder
 
-To run QualCoder from the command prompt or terminal, use the following commands:
+To run QualCoder in a Mac you will need to type from any directory: `qualcoder` or, 
 
-***Mac***
+From the QualCoder-Master directory: `python3 -m qualcoder` or `python3 qualcoder/__main__.py`
 
-From any directory: `qualcoder` From the QualCoder-Master directory: `python3 -m qualcoder` or `python3 qualcoder/__main__.py`
-
-***Windows***
-
-From the command prompt: `py -m qualcoder`
 
 ::: callout-warning
 ## Running Qualcoder
