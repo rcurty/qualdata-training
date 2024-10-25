@@ -149,17 +149,15 @@ Let's move on to the `charts` section, where you'll encounter several options. P
 
 When conducting qualitative research, it's crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. Here’s what we should recommend Sarah to save:
 
-1.  Original Source Data: Retain the original data whenever possible, ensuring it is de-identified to protect participants' privacy.
+1.  Data files: Retain a copy of the dataset, ensuring it is properly de-identified to protect participants' privacy.
 
-2.  Processed Data: de-identified versions of your data, such as transcripts of interviews or focus groups.
+2.  README File: an overview of your project, including data sources, their relationships and a brief description of the methods. Here is a [customizable README template](https://zenodo.org/records/10828379).
 
-3.  Readme File: an overview of your project, including data sources, their relationships and a brief description of the methods.
+3.  Data Collection Instruments: A sample of instruments used for data collection, such as surveys or interview guides.
 
-4.  Data Collection Instruments: A sample of instruments used for data collection, such as surveys or interview guides.
+4.  Codebook: the coding framework used, including definitions of codes and categories.
 
-5.  Codebook: the coding framework used, including definitions of codes and categories.
-
-6.  Documentation from Qualitative Data Analysis Software (QDAS): Include all relevant materials generated from QDAS tools (e.g., NVivo, Atlas.ti), such as memos, notes, network diagrams, and classifications.
+5.  Documentation from Qualitative Data Analysis Software (QDAS): Include all relevant materials generated from QDAS tools (e.g., NVivo, Atlas.ti), such as memos, notes, network diagrams, and classifications.
 
     ::: callout-important
     #### REFI-QDA Codebook
@@ -182,3 +180,5 @@ You may export your project and codebook using the REFI-QDA standard under the E
 Attributes are also exportable in csv file, as indicated below:
 
 ![](images/attributes-export.png)
+
+Save these files using a consistent naming convention and ensure they are included in your data archiving package, which will be discussed in more detail in the next episode.
