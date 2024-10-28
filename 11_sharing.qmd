@@ -23,8 +23,8 @@ researchers in several ways:
     analyses, maximizing the scientific value of existing studies.
 
 4.  More Effective Use of Resources: Data sharing reduces costs related
-    to new data collection, promoting efficient resource utilization, and
-    minimizing the burden on frequently targeted communities.
+    to new data collection, promoting efficient resource utilization,
+    and minimizing the burden on frequently targeted communities.
 
 5.  Skill Development for Trainees: It offers students valuable
     opportunities to learn coding and analysis techniques, enhancing
@@ -98,16 +98,16 @@ plans in Data Management Plans (DMPs)? At this stage, Sarah could
 greatly benefit from having a clear strategy for archiving and storing
 her data. As we discussed earlier, understanding the available options
 and having at least a rough plan for what will be shared, along with
-strategies to facilitate the process, is very important. We provided Sarah with
-recommendations on what to document, and we hope this guidance will
-empower her to share her research deliverables confidently while
-adhering to key principles of open practices.
+strategies to facilitate the process, is very important. We provided
+Sarah with recommendations on what to document, and we hope this
+guidance will empower her to share her research deliverables confidently
+while adhering to key principles of open practices.
 
 Also, it is important to recap the importance of balancing the value of
 open sharing against the risks of harm associated with the
-identification of participants, communities, and research sites. The good
-news is that there are more options in between data being closed and
-open!
+identification of participants, communities, and research sites. The
+good news is that there are more options in between data being closed
+and open!
 
 Depending on your project needs and what was agreed in the informed
 consent, we recommend you to consider evaluating access control options,
@@ -123,17 +123,18 @@ Access controls fall into three main categories:
     proposal, or it may require pre-approval from an Institutional
     Review Board (IRB) for general requests.
 
--   *How* can others access your data? Secure internet connections, along with agreements regarding
-data storage and destruction, might be required for downloading data. Researchers may sometimes need to
+-   *How* can others access your data? Secure internet connections,
+    along with agreements regarding data storage and destruction, might
+    be required for downloading data. Researchers may sometimes need to
     access data in person on a secure, offline computer. Hybrid
     solutions, like ICPSR’s “virtual enclave,” allow remote viewing
     without data leaving the server.
 
 -   *When* can others access your data? Embargoes can temporarily
     restrict access to protect human participants, often allowing
-    researchers to publish findings before broader access. These embargoes
-    can also facilitate long-term data availability, with set dates for
-    lifting restrictions, as seen in historical archives.
+    researchers to publish findings before broader access. These
+    embargoes can also facilitate long-term data availability, with set
+    dates for lifting restrictions, as seen in historical archives.
 
 ### Sharing Levels
 
@@ -146,9 +147,9 @@ Example: Cunningham, Una; De Brún, Aoife; Mayumi, Willgerodt et al.
 
 -   Subject to Embargo: a temporary restriction on sharing or publishing
     data. It means that the data can’t be made public for a set period,
-    usually to protect sensitive information allow for further
-    analysis, or wait for a specific event, such as a formal publication
-    before releasing it.
+    usually to protect sensitive information allow for further analysis,
+    or wait for a specific event, such as a formal publication before
+    releasing it.
 
 Example: Ibitoye, Mobolaji; OlaOlorun, Funmilola; Casterline, John B..
 2025. "Demand for Modern Contraception in Sub-Saharan Africa: New
@@ -175,8 +176,8 @@ requirements will also depend on IRB and consent form agreements.
 Example: Steeves, Vicky; Peltzman, Shira; Kim, Julia; Griesinger, Peggy;
 Blumenthal, Karl-Rainer. 2020. "Data for: "What’s Wrong with Digital
 Stewardship: Evaluating the Organization of Digital Preservation
-Programs from Practitioners’ Perspectives". Qualitative Data
-Repository. <https://doi.org/10.5064/F6DJRPLK>.
+Programs from Practitioners’ Perspectives". Qualitative Data Repository.
+<https://doi.org/10.5064/F6DJRPLK>.
 
 ::: {.callout-note collapse="true" icon="false"}
 # 💭 **Discussion:** What is the value of sharing a metadata record only?
@@ -194,14 +195,14 @@ through rich, linked, and interoperable metadata.
 
 Data Availability Statements (DAS) are crucial for the credibility of
 manuscripts and other published research. They provide interested
-readers—and sometimes automated algorithms—access to the underlying
-data supporting your claims, allowing them to verify those assertions or
-use the data for further research. We suggest following some best
-practices for crafting statements that are both effective and clear
-while also complying with funders' and journal policies' requirements.
+readers—and sometimes automated algorithms—access to the underlying data
+supporting your claims, allowing them to verify those assertions or use
+the data for further research. We suggest following some best practices
+for crafting statements that are both effective and clear while also
+complying with funders' and journal policies' requirements.
 
-<iframe width="50%" height="800"
-src="https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf">
+<iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2024-02/DLS-202402-DataAvailability_navy.pdf">
+
 </iframe>
 
 Source: UCSB Library Data Literacy Series
@@ -220,14 +221,13 @@ your data remains accessible and ethically shared in the long run.
 -   Sharing de-identified transcripts openly while placing recordings
     under more stringent access controls.
 
--   Do keep a list of de-identification rules for yourself and
-    your team should you collaborate. This list serves as necessary
-    documentation when you share your data. See, for example, the protocol
-    Thad Dunning and Edward Camp used to de-identify data deposited
-    with the Qualitative Data Repository. This document is separate from
-    the key that links de-identified entries to the individuals
-or entities interviewed, which should not be included when sharing
-    your data.
+-   Do keep a list of de-identification rules for yourself and your team
+    should you collaborate. This list serves as necessary documentation
+    when you share your data. See, for example, the protocol Thad
+    Dunning and Edward Camp used to de-identify data deposited with the
+    Qualitative Data Repository. This document is separate from the key
+    that links de-identified entries to the individuals or entities
+    interviewed, which should not be included when sharing your data.
 
 -   Do check the document properties of files, which may contain
     identifiers such as original file names identifying interview
@@ -292,15 +292,16 @@ sharing your groundbreaking findings and ensuring that anyone, anywhere,
 can access and build upon your work without running into compatibility
 issues. Open formats, offer exactly that—freedom from proprietary
 software constraints. By choosing open formats, you enhance
-collaboration and transparency and make your research more
-sustainable for others and your future self.
+collaboration and transparency and make your research more sustainable
+for others and your future self.
 
-There is a diversity of open formats available across different types
-of media that can be of great use to qualitative data researchers,
+There is a diversity of open formats available across different types of
+media that can be of great use to qualitative data researchers,
 including audio, video, image, and text. Refer to the handout below for
 some examples:
 
 <iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2023-03/dls-n07-2021-openformats-navy.pdf">
+
 </iframe>
 
 Source: UCSB Library Data Literacy Series
@@ -332,8 +333,8 @@ in the handout below:
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/WLF7-WTUC](https://perma.cc/WLF7-WTUC)).
-
+Source: UCSB Library Data Literacy Series
+([perma.cc/WLF7-WTUC](https://perma.cc/WLF7-WTUC)).
 
 ### Preparing Your Data for Submission
 
@@ -342,32 +343,41 @@ added to your project package submission.
 
 Required:
 
--   Processed de-identified data (e.g., transcripts)
+-   Processed de-identified data (e.g., transcripts);
 
--   Codebook
+-   Codebook;
 
--   Coded Data
+-   Coded Data (supporting excerpts);
 
--   Readme
+-   README File: an overview of your project, including data sources,
+    their relationships and a brief description of the methods. Here is
+    a [customizable README
+    template](https://zenodo.org/records/10828379);
 
--   Instrument for data collection (e.g., survey, interview, etc), if
-    applicable
+-   Data Collection Instruments: A sample of instruments used for data
+    collection, such as surveys or interview guides;
+
+-   Codebook: the coding framework used, including definitions of codes
+    and categories;
+
+-   README File: an overview of your project, including data sources,
+    their relationships and a brief description of the methods. Here is
+    a customizable README template.
 
 Recommended:
 
--   Informed consent statement(s), if applicable
+-   Informed consent statement(s), if applicable;
 
--   IRB protocol, if applicable
+-   IRB protocol, if applicable;
 
--   Study protocol or procedures manual, if applicable
-
+-   Study protocol or procedures manual, if applicable.
 
 <iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2024-07/DLS-202407-QualDataSharing.pdf">
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/E7BA-BBYE](https://perma.cc/E7BA-BBYE)).
-
+Source: UCSB Library Data Literacy Series
+([perma.cc/E7BA-BBYE](https://perma.cc/E7BA-BBYE)).
 
 ### Licensing Your Data
 
@@ -402,7 +412,8 @@ Creative Commons family:
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/ET6F-N84X](https://perma.cc/ET6F-N84X)).
+Source: UCSB Library Data Literacy Series
+([perma.cc/ET6F-N84X](https://perma.cc/ET6F-N84X)).
 
 ------------------------------------------------------------------------
 

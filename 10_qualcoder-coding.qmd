@@ -143,21 +143,15 @@ The `view graph` option will allow you to create visual based on existing select
 
 ![](images/graph-codemap.png)
 
-Let's move on to the `charts` section, where you'll encounter several options. Please avoid using pie charts, as they are not effective for communicating information with three or more slices; human eyes struggle to distinguish curves. Instead, let’s explore more effective alternatives.
+Let's move on to the `charts` section, where you'll encounter several options. We typically recommend researchers avoid pie charts, as they are not effective for communicating information with three or more slices; human eyes struggle to distinguish curves. Instead, let’s explore more effective alternatives.
 
 ### **Documenting Things**
 
-When conducting qualitative research, it's crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. Here’s what we should recommend Sarah to save:
+When conducting qualitative research, it's crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. QualCoder allows you to export a few important files to support interpretation and reusability. Here’s what we should recommend Sarah to save:
 
-1.  Data files: Retain a copy of the dataset, ensuring it is properly de-identified to protect participants' privacy.
+1.  Codebook: the coding framework used, including definitions of codes and categories.
 
-2.  README File: an overview of your project, including data sources, their relationships and a brief description of the methods. Here is a [customizable README template](https://zenodo.org/records/10828379).
-
-3.  Data Collection Instruments: A sample of instruments used for data collection, such as surveys or interview guides.
-
-4.  Codebook: the coding framework used, including definitions of codes and categories.
-
-5.  Documentation from Qualitative Data Analysis Software (QDAS): Include all relevant materials generated from QDAS tools (e.g., NVivo, Atlas.ti), such as memos, notes, network diagrams, and classifications.
+2.  All relevant materials generated within the tool, such as memos, notes, network diagrams, and classifications.
 
     ::: callout-important
     #### REFI-QDA Codebook
@@ -181,4 +175,4 @@ Attributes are also exportable in csv file, as indicated below:
 
 ![](images/attributes-export.png)
 
-Save these files using a consistent naming convention and ensure they are included in your data archiving package, which will be discussed in more detail in the next episode.
+Save these files using a consistent naming convention and ensure they are included in your data archiving package along with other important files, which will be discussed in more detail in the next episode.
