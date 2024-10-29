@@ -145,6 +145,14 @@ The `view graph` option will allow you to create visual based on existing select
 
 Let's move on to the `charts` section, where you'll encounter several options. We typically recommend researchers avoid pie charts, as they are not effective for communicating information with three or more slices; human eyes struggle to distinguish curves. Instead, let’s explore more effective alternatives.
 
+![](images/graphs-options.png)
+
+Take time to explore the options available. Which ones would make more sense for you visualize Sarah's coding?
+
+### Multiple Coders
+
+Remember we covered
+
 ### **Documenting Things**
 
 When conducting qualitative research, it's crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. QualCoder allows you to export a few important files to support interpretation and reusability. Here’s what we should recommend Sarah to save:
