@@ -38,8 +38,7 @@ Later in this course, we'll cover some practical recommendations to increase the
 
 ## Data Types in Qualitative Research
 
-![](images/qualdata-examples-banner.png){fig-align="center" width="689"}
-Qualitative data encompasses a variety of types, including written text, recordings, imagery, and cultural artifacts. Written text can be found in diaries, personal notes, letters, emails, news articles, official documents, policies, medical records, meeting minutes, and other organizational documents. Recordings consist of audio and video materials, along with their transcriptions. Imagery includes photographs and artwork, while cultural artifacts cover literature, film, music, and products or prototypes that reflect the experiences of research participants and their communities.
+![](images/qualdata-examples-banner.png){fig-align="center" width="689"} Qualitative data encompasses a variety of types, including written text, recordings, imagery, and cultural artifacts. Written text can be found in diaries, personal notes, letters, emails, news articles, official documents, policies, medical records, meeting minutes, and other organizational documents. Recordings consist of audio and video materials, along with their transcriptions. Imagery includes photographs and artwork, while cultural artifacts cover literature, film, music, and products or prototypes that reflect the experiences of research participants and their communities.
 
 The sources of qualitative data can be broadly categorized into two groups: direct interaction with human participants and existing materials generated independently of a research protocol. Direct interaction may involve interviews or focus groups, while existing materials can include social media posts, community-produced content, and various organizational records. These diverse sources allow researchers to explore and analyze a wide range of topics.
 
@@ -70,7 +69,6 @@ Qualitative data can be collected through various research methods. Defining the
 8.  *One-to-one Interviews:* Direct conversations between the researcher and participants, allowing in-depth exploration of thoughts, experiences, and perspectives. Interviews can be structured, semi-structured, or unstructured and be conducted utilizing various means (phone, online, in-person).
 
 This course will use qualitative research data from direct interactions between researchers and human participants through interviews. Before we delve into the specifics, it’s crucial to recognize the significance of a data management plan in guiding your research process effectively.
-------------------------------------------------------------------------
 
 **Recommended/Cited Sources:**
 
