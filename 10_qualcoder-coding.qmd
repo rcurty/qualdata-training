@@ -149,9 +149,13 @@ Let's move on to the `charts` section, where you'll encounter several options. W
 
 Take time to explore the options available. Which ones would make more sense for you visualize Sarah's coding?
 
-### Multiple Coders
+### Multiple Coders and Coding Comparison
 
-Remember we covered
+QualCoder was designed to be used as client-based software to be used by one person at a time. Still, a second coder can use the same project on the same computer, or the project folder can be transferred to the second coder's computer. To add a new coder, go to project settings,
+
+![](images/Screenshot 2024-10-29 at 4.47.12 PM.png)
+
+Add yourself as Sarah's helper. Go back to the coding text feature and code one or two excerpts with the existing themes. Make sure to have yourself as the coder.
 
 ### **Documenting Things**
 
