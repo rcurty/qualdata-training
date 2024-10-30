@@ -13,7 +13,7 @@ author:
 date: last-modified
 citation: 
   url: https://ucsb-library-research-data-services.github.io/change
-categories: [data ethics, data management, data de-identification, human subjects, qualitative research, sensitive data, qualcoder, thematic analysis]
+categories: [data ethics, data management, data de-identification, human subjects, qualcoder, qualitative research, sensitive data, thematic analysis]
 ---
 
 ## Course Description
