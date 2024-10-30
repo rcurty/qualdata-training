@@ -173,11 +173,11 @@ To interpret the table, you can click the question mark icon for a detailed expl
 
 -   **Agree coded only %:** Is the dual coded characters divided by the dual coded and single coded characters
 
--   **Kappa**: The statistic or coefficient also know as Cohen's kappa used to measure inter-rater reliability as described by McHugh (2012). This coefficient essentially assesses the degree of agreement and how well two independent coders classified/coded the same content into thematic groups.
+-   **Kappa**: The statistic or coefficient also know as Cohen's kappa (***κ***, lowercase Greek ***kappa***) used to measure inter-rater reliability as described by McHugh (2012). This coefficient essentially assesses the degree of agreement and how well two independent coders classified/coded the same content into thematic groups.
 
 You might be wondering how this can be useful to you, right? Well, let's imagine you plan to publish your study. Several journals and peer reviewers might require that information, specially for disciplines that are more traditionally quantitative. Indicating that an independent coder agreed with your classification helps to support reliability, consistency and credibility of coding decisions that guided data analysis. But what are the thresholds?
 
-While there are some variations in the literature, a typical rule of thumb is that:
+While there are some variations in the literature, below is a typical rule of thumb:
 
 -   Kappa = 0.00 should be taken as representing no agreement
 
@@ -192,6 +192,14 @@ While there are some variations in the literature, a typical rule of thumb is th
 -   0.81 ± 0.99 as “almost perfect” agreement.
 
 -   A kappa coefficient of 1 represents perfect agreement.
+
+Below are a few examples of papers reporting the kappa coefficient for interview data:
+
+Coates, A. E., Hardman, C. A., Halford, J. C. G., Christiansen, P., & Boyland, E. J. (2019). Food and beverage cues featured in YouTube videos of social media influencers popular with children: An exploratory study. *Frontiers in Psychology, 10*, Article 2142. <https://doi.org/10.3389/fpsyg.2019.02142>
+
+Dekoninck, H., Van Houtven, E., & Schmuck, D. (2023). Inspiring G(re)en Z: Unraveling (Para)social Bonds with Influencers and Perceptions of Their Environmental Content. *Environmental Communication*, *17*(7), 701–719. <https://doi.org/10.1080/17524032.2023.2237693>
+
+Kopp, B., & Dinkel, C. (2024). Adolescents’ values and values education through social media. *EDULEARN24 Proceedings*, 5257–5260. [10.21125/edulearn.2024.1289](https://doi.org/10.21125/edulearn.2024.1289 "doi")
 
 ### **Documenting Things**
 
