@@ -151,11 +151,47 @@ Take time to explore the options available. Which ones would make more sense for
 
 ### Multiple Coders and Coding Comparison
 
-QualCoder was designed to be used as client-based software to be used by one person at a time. Still, a second coder can use the same project on the same computer, or the project folder can be transferred to the second coder's computer. To add a new coder, go to project settings,
+QualCoder was designed for individual use, allowing one person to work on a project at a time. However, a second coder can access the same project on the same computer, or the project folder can be easily transferred to another computer. To add a new coder, navigate to the project settings, enter the coder's name, and click "Apply."
 
-![](images/Screenshot 2024-10-29 at 4.47.12 PM.png)
+![](images/adding-coder.png)
 
-Add yourself as Sarah's helper. Go back to the coding text feature and code one or two excerpts with the existing themes. Make sure to have yourself as the coder.
+Add yourself as Sarah's helper. To do this, return to the coding text feature and code one or two excerpts using the existing codes, ensuring that your name is listed as the coder.
+
+For a quick refresher on the steps: go to the coding section, then select "text," and choose one of the interviews or files. Once you’ve completed the coding, head back to the reporting tab. Select the coders and click the play button to view the results. This will generate a table similar to the one shown below:
+
+![](images/code-comparison.png)
+
+To interpret the table, you can click the question mark icon for a detailed explanation of what each column represents:
+
+-   **Agree %:** Calculated across all text files as the (total dual coded plus the total uncoded)/total characters
+
+-   **A and B %:** Calculated as the total dual coded characters/total characters
+
+-   **Not A Not B %:** The characters not coded by either coder/total characters
+
+-   **Disagree %:** Is 100% minus the total agreement percent.
+
+-   **Agree coded only %:** Is the dual coded characters divided by the dual coded and single coded characters
+
+-   **Kappa**: The statistic or coefficient also know as Cohen's kappa used to measure inter-rater reliability as described by McHugh (2012). This coefficient essentially assesses the degree of agreement and how well two independent coders classified/coded the same content into thematic groups.
+
+You might be wondering how this can be useful to you, right? Well, let's imagine you plan to publish your study. Several journals and peer reviewers might require that information, specially for disciplines that are more traditionally quantitative. Indicating that an independent coder agreed with your classification helps to support reliability, consistency and credibility of coding decisions that guided data analysis. But what are the thresholds?
+
+While there are some variations in the literature, a typical rule of thumb is that:
+
+-   Kappa = 0.00 should be taken as representing no agreement
+
+-   0.00 ± 0.20 as “slight” agreement
+
+-   0.21 ± 0.40 as “fair” agreement
+
+-   0.41 ± 0.60 as “moderate” agreement
+
+-   0.61 ± 0.80 as “substantial” agreement
+
+-   0.81 ± 0.99 as “almost perfect” agreement.
+
+-   A kappa coefficient of 1 represents perfect agreement.
 
 ### **Documenting Things**
 
@@ -188,3 +224,9 @@ Attributes are also exportable in csv file, as indicated below:
 ![](images/attributes-export.png)
 
 Save these files using a consistent naming convention and ensure they are included in your data archiving package along with other important files, which will be discussed in more detail in the next episode.
+
+------------------------------------------------------------------------
+
+**Recommended/Cited Sources:**
+
+McHugh, M. L. Interrater reliability: the kappa statistic. *Biochem Med*, 2012;22(3):276-82. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3900052>
