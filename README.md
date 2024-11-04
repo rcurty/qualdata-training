@@ -2,7 +2,7 @@
 
 This website aims to help researchers better and more ethically manage and share qualitative data from human subjects research.
 
-This course is designed to help you navigate best data management practices throughout the research data lifecycle while working with qualitative data from human subjects. A running example using a toy dataset will allow you to practice some of the concepts you learn and provide more concrete examples of application. 
+This course is designed to help you navigate best data management practices throughout the research data lifecycle while working with qualitative data from human subjects. A running example using a toy dataset will allow you to practice some of the concepts you learn and provide more concrete application examples. 
 
 Among other things, by the end of this self-pacing course, learners should expect:
 
@@ -10,7 +10,7 @@ Among other things, by the end of this self-pacing course, learners should expec
 2)  Craft better consent forms to allow for data share and reuse;
 3)  Recognize and apply data de-identification techniques;
 4)  Get started with free and campus-licensed tools to manage and analyze qualitative data;
-5)  Identify data repositories and best approaches to share qualitative data.
+5)  Identify data repositories and best approaches to share qualitative interview data.
 
 To accomplish that, we will be using the following diagram as a 
 
