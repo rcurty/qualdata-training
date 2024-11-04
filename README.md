@@ -1,4 +1,4 @@
-# Handling and Sharing Qualitative Data Responsibly and Effectively
+# Handling and Sharing Qualitative Interview Data Responsibly and Effectively
 
 This website aims to help researchers better and more ethically manage and share qualitative data from human subjects research.
 
