@@ -25,10 +25,9 @@ To save time, for this workshop, we will skip the installation process and grant
 
 ### Launching QualCoder
 
-To run QualCoder in a Mac you will need to type from any directory: `qualcoder` or, 
+To run QualCoder in a Mac you will need to type from any directory: `qualcoder` or,
 
 From the QualCoder-Master directory: `python3 -m qualcoder` or `python3 qualcoder/__main__.py`
-
 
 ::: callout-warning
 ## Running Qualcoder
@@ -78,11 +77,11 @@ Let's now set Sarah's project in QualCoder, bring the files into the project, an
 
 **Project \> Create New Project**
 
-Select the directory in which you want to save your `qda` project and name it `Influencers`.
+Select the directory in which you want to save your `qda` project folder and name it `Influencers`.
 
 #### Loading Files
 
-We've created a project but don't have any files yet, so let's load them now. Choose and manage files, and then, the second icon as noted below (Import File Into Project Folder), select the desired folder and files.
+We've created a project but don't have any files yet, so let's load them now. Click the Manage menu, choose and manage files, and then, the second icon as noted below (Import File Into Project Folder), select the desired folder and files.
 
 ![](images/add-files-02.png)
 

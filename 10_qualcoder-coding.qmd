@@ -119,7 +119,7 @@ After reviewing the basics with Sarah, she gained confidence in exploring the da
 
 Before we proceed, please access and download the [influencers_q4.qda](https://drive.google.com/drive/folders/10dXK1wFoQcYBCSTbo-ofglc8nI5kZr5u?usp=drive_link) in our shared drive, save it in your desktop and open it in QualCoder.
 
-QualCoder offers a few options for users to explore, query, visualize the data and export those reports and outputs. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, heat and tree maps. It also supports intercoder reliability testing for datasets coded, independently, by multiple people. Let's see show Sarah some of the options she might want to consider for her analysis.
+QualCoder offers a few options for users to explore, query, visualize the data and export those reports and outputs. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, heat and tree maps. It also supports intercoder reliability testing for datasets coded, independently, by multiple people. Let's see how Sarah some of the options she might want to consider for her analysis.
 
 Let's click `reports` to see options in QualCoder. We will start with coding reports:
 
