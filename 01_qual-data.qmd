@@ -38,7 +38,9 @@ Later in this course, we'll cover some practical recommendations to increase the
 
 ## Data Types in Qualitative Research
 
-![](images/qualdata-examples-banner.png){fig-align="center" width="689"} Qualitative data encompasses a variety of types, including written text, recordings, imagery, and cultural artifacts. Written text can be found in diaries, personal notes, letters, emails, news articles, official documents, policies, medical records, meeting minutes, and other organizational documents. Recordings consist of audio and video materials, along with their transcriptions. Imagery includes photographs and artwork, while cultural artifacts cover literature, film, music, and products or prototypes that reflect the experiences of research participants and their communities.
+![](images/qualdata-examples-banner.png){fig-align="center" width="689"}
+
+Qualitative data encompasses a variety of types, including written text, recordings, imagery, and cultural artifacts. Written text can be found in diaries, personal notes, letters, emails, news articles, official documents, policies, medical records, meeting minutes, and other organizational documents. Recordings consist of audio and video materials, along with their transcriptions. Imagery includes photographs and artwork, while cultural artifacts cover literature, film, music, and products or prototypes that reflect the experiences of research participants and their communities.
 
 The sources of qualitative data can be broadly categorized into two groups: direct interaction with human participants and existing materials generated independently of a research protocol. Direct interaction may involve interviews or focus groups, while existing materials can include social media posts, community-produced content, and various organizational records. These diverse sources allow researchers to explore and analyze a wide range of topics.
 
@@ -72,4 +74,4 @@ This course will use qualitative research data from direct interactions between 
 
 **Recommended/Cited Sources:**
 
-Creswell, J. W., & Creswell, J. W. (2007). Qualitative inquiry & research design: choosing among five approaches (Second edition.). Sage Publications. ([UCSB Library Catalog](https://search.library.ucsb.edu/permalink/01UCSB_INST/1aqck9j/alma990029788350203776))
+Creswell, J. W., & Creswell, J. W. (2007). Qualitative inquiry & research design: choosing among five approaches (Second edition.). Sage Publications. ([UCSB Library Catalog](https://search.library.ucsb.edu/permalink/01UCSB_INST/1aqck9j/alma990029788350203776){target='_blank'})

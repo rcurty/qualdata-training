@@ -46,7 +46,7 @@ The ultimate goal is that researchers will make more informed decisions on how t
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/CT8P-D5MK](https://perma.cc/CT8P-D5MK)).
+Source: UCSB Library Data Literacy Series ([perma.cc/CT8P-D5MK](https://perma.cc/CT8P-D5MK){target='_blank'}).
 
 Researchers studying Indigenous communities should pay special attention to an additional set of principles, named CARE, an acronym for a set of purpose-oriented principles for Indigenous Data Governance, which aims to help advance Indigenous innovation, sovereignty, and self-determination.
 
@@ -54,7 +54,7 @@ Researchers studying Indigenous communities should pay special attention to an a
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/3ZHR-6JAG](https://perma.cc/3ZHR-6JAG)).
+Source: UCSB Library Data Literacy Series ([perma.cc/3ZHR-6JAG](https://perma.cc/3ZHR-6JAG){target='_blank'}).
 
 ## Crafting a DMP for Qualitative Research
 
@@ -64,7 +64,7 @@ Fortunately, creating a DMP is simplified with the help of appropriate templates
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/3HFE-6X7U](https://perma.cc/3HFE-6X7U)).
+Source: UCSB Library Data Literacy Series ([perma.cc/3HFE-6X7U](https://perma.cc/3HFE-6X7U){target='_blank'}).
 
 To get started with the DMPTool, follow these steps:
 
@@ -78,9 +78,9 @@ It's important to highlight that the DMPTool is free for everyone. Non-UCSB affi
 
 The DMPTool offers a wide range of templates tailored to specific funder requirements and assists you in structuring your Data Management Plan (DMP) according to these templates. It guides you through the process with targeted questions, ensuring that all necessary components are addressed. Once completed, the tool generates a well-organized and professionally formatted DMP.
 
-The Qualitative Data Repository (QDR) has developed a specialized [data management checklist](https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf) for qualitative researchers to ensure that their Data Management Plans (DMPs) address all critical aspects. The checklist includes topic-specific examples from qualitative research where applicable, and offers practical tips based on our extensive experience advising researchers on their DMPs. You can use this checklist proactively as a guide while drafting your DMP, or as a tool to review and confirm that an existing DMP comprehensively covers all necessary elements. Using the DMPTool in tandem with QDR’s checklist can provide additional clarity and help you navigate the various topics effectively. This combination ensures that your DMP is comprehensive, meets all requirements, and is easy to understand.
+The Qualitative Data Repository (QDR) has developed a specialized [data management checklist](https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf){target='_blank'} for qualitative researchers to ensure that their Data Management Plans (DMPs) address all critical aspects. The checklist includes topic-specific examples from qualitative research where applicable, and offers practical tips based on our extensive experience advising researchers on their DMPs. You can use this checklist proactively as a guide while drafting your DMP, or as a tool to review and confirm that an existing DMP comprehensively covers all necessary elements. Using the DMPTool in tandem with QDR’s checklist can provide additional clarity and help you navigate the various topics effectively. This combination ensures that your DMP is comprehensive, meets all requirements, and is easy to understand.
 
-For future reference, you may find valuable insights by consulting the list of the [11 winning DMPs](https://blog.dmptool.org/2021/05/19/dmp-competition-winners-dmps-so-good-they-go-to-11) from the DMPTool Qualitative Data Competition. These exemplary DMPs showcase best practices and innovative approaches in managing qualitative data, offering a valuable benchmark for developing your own plan.
+For future reference, you may find valuable insights by consulting the list of the [11 winning DMPs](https://blog.dmptool.org/2021/05/19/dmp-competition-winners-dmps-so-good-they-go-to-11){target='_blank'} from the DMPTool Qualitative Data Competition. These exemplary DMPs showcase best practices and innovative approaches in managing qualitative data, offering a valuable benchmark for developing your own plan.
 
 ## Update as You Progress
 
@@ -94,4 +94,4 @@ When working with data from human subjects, ethical considerations are particula
 
 **Recommended/Cited Sources:**
 
-Qualitative Data Repository (2017). *Data Management Checklist*. <https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf>
+Qualitative Data Repository (2017). *Data Management Checklist*. <https://qdr.syr.edu/drupal_data/public/QDR%20-%20Data%20Management%20Checklist.pdf>{target='_blank'} 
