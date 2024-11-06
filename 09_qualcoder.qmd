@@ -11,7 +11,7 @@ QualCoder is client-based open-source and free multi-platform tool designed to s
 
 With QualCoder, you can code text, images, audio and video, and write journal notes and memos. You can categorize codes into a tree-like hierarchical categorization scheme. Coding for audio and video requires the [VLC media player](https://www.videolan.org/vlc/download-windows.html){target="_blank"}. Coder comparison reports can be generated for text coding using Cohen’s Kappa statistic for interrater/intercoder reliability, which measures the level of agreement between coders. A graph displaying codes and categories can be generated to visualize the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.
 
-This [blog post](https://qualcoder.wordpress.com/studies-using-qualcoder){target="_blank"} lists a few examples of research projects that have used QualCoder for data analysis and reporting. 
+This [blog post](https://qualcoder.wordpress.com/studies-using-qualcoder){target="_blank"} lists a few examples of research projects that have used QualCoder for data analysis and reporting.
 
 ## Installation
 
@@ -67,7 +67,7 @@ Other helpful tutorials can be found here: [https://github.com/ccbogel/QualCoder
 
 #### Anatomy of a QualCoder Project
 
-In QualCoder, *projects* serve as containers for organizing multiple files, cases, and attributes. Each project allows you to manage and analyze a specific qualitative data set, keeping everything organized. You can create different projects for distinct research questions or datasets, enabling a streamlined workflow. This structure helps you delve deeper into your analysis without mixing different data sets.
+In QualCoder, *projects* are folders which serve as containers for organizing multiple files, cases, and attributes. Each project allows you to manage and analyze a specific qualitative data set, keeping everything organized. You can create different projects for distinct research questions or datasets, enabling a streamlined workflow. This structure helps you delve deeper into your analysis without mixing different data sets.
 
 Understanding the roles of files, attributes, cases, and their relationships is key to most QDA software. In QualCoder, *files* refer to the individual documents or data sources you import for analysis. You may have more than one file associated with a unique case. *Cases* are specific units of analysis, often linked to files, that allow you to organize and explore your data with more detail. Together, they create a structured environment for qualitative analysis, allowing you to delve into themes and patterns effectively. In our project example, the cases will consist of individual interviewees, but we could also focus on their niche if we were to analyze at that level.
 
@@ -77,7 +77,7 @@ For example, let’s imagine that Sarah also collected social media video posts 
 
 As a heads-up, QualCoder was not designed to analyze attributes statistically. For that, you can export attributes as CSV files and use R or another open dedicated application. Also, the only current options for attributes are numeric and character, so dates, types, or integers are not supported. We will see how we can export attributes later.
 
-You can utilize *Journals* to practice data journaling and document ideas and reflections throughout the coding process, making them searchable with regex expressions—a topic we'll explore later. Journals are particularly useful for bottom-up approaches, requiring multiple iterations to refine your themes and coding scheme. Plus, you can enhance your journaling content with markdown formatting!
+You can also utilize *Journals* to practice data journaling and document ideas and reflections throughout the coding process, making them searchable with regex expressions—a topic we'll explore later. Journals are particularly useful for bottom-up approaches, requiring multiple iterations to refine your themes and coding scheme. Plus, you can enhance your journaling content with markdown formatting!
 
 ### Our Example Project in QualCoder
 
@@ -85,51 +85,27 @@ Let's now set Sarah's project in QualCoder, bring the files into the project, an
 
 #### Creating a Project
 
-**Project \> Create New Project**
+Choose a location on your computer to save your project folder and name it `Influencers`. For easy access, you may save it on your desktop. Once created, this will generate a folder named `Influencers.qda`, which will contain several empty subfolders: documents, video, audio, and images. These subfolders are where you can store your uploaded files according to their respective types.
 
-Select the directory in which you want to save your `qda` project folder and name it `Influencers`.
+#### Project Settings
+
+Click on `Project`, then select `Settings`. This will open a menu with various customization options, such as formatting, language, and more. For now, leave all settings as they are, but make sure to check the *Show IDs* option. Enabling this setting will be helpful for using advanced features in QualCoder later on.After that, click *OK* to save your changes. 
 
 #### Loading Files
 
-We've created a project folder but don't have any files yet, so let's load them now. Click the Manage menu, choose and manage files, and then, the second icon as noted below (Import File Into Project Folder), select the desired folder and files.
+We've created a project folder but don't have any files yet, so let's load them now. Again, if you have not done yet, ensure to unzip the project example data files [https://doi.org/10.5281/zenodo.14043001](https://doi.org/10.5281/zenodo.14043001){target="_blank"} and have them ready to be uploaded into QualCoder. 
+
+To do so, click the *Manage menu*, and choose and *Manage files*. Then, click on the icon below:
+
+![](images/icon-importfiles.png)
+
+Now locate the `sarah-project` folder in your computer, and let's select all files in the *data/deid-transcripts* folder, where you should find six word documents named `interviewee_0X`.
 
 ![](images/add-files-02.png)
 
 Note that the file ID will be assigned according to the import order, so if you want that to match your file naming convention, you should order it accordingly. If you need to fix it, click the red X on the right and delete the files, then reorder them accordingly and import them again into QualCoder.
 
-You may double-click on the file or choose the "eye icon" to open its content. Don't worry about the information at the bottom of the window for now; we will cover that later.
-
-#### Organizing Things
-
-*Create Cases*
-
-Now, let's create a case for each interviewee and link the transcript to them accordingly. We will use the same pseudonym assigned to each research participant described in the file.
-
-`Manage > Manage Cases > Pencil (Add Case) > Add your Case Name`
-
-![](images/create-cases.png)
-
-*Link Files*
-
-Now, let's link the corresponding file to the case we created. Click on the file cell to manage files for the case. This will prompt another window, as shown below:
-
-![](images/associate-casesandfiles.png)
-
-Now, create cases and link the files for each of the interviews. You should have one for Linda, Margot, Gina, Otto, Ben, and Alex. Note that you can also import CSV files with cases. This can be handy, especially for projects with several cases.
-
-*Describe Attributes*
-
-Each transcript has some characteristics associated with interviewees. It would be helpful to describe these as attributes for further analysis. We will only add two attributes: `age group` and `niche`. There are two different ways to create attributes: via `manage > manage attributes` or in the `manage file` window, you may select the `blue plus sign.` The latter might be more convenient in this case, considering we have only a few attributes and cases.
-
-We will assign age groups (25-29, 30-35, or 35-40) to each case and add their respective niches.
-
-![](images/attributes.png)
-
-You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to **`Manage > Manage Attributes`**
-
-We won't need to add memos for now, but they can provide additional context when attributes aren’t immediately apparent.
-
-We now have a well-organized project in QualCoder, so let’s jump into some coding!
+Double-click the file name or click the `eye icon` to preview the files. Don't worry about all the different icons listed right now; we will cover the most important ones later.
 
 ------------------------------------------------------------------------
 

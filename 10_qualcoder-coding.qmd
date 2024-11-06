@@ -3,9 +3,91 @@ title: "Coding and Documenting with Qualcoder"
 editor: visual
 ---
 
-## Practicing with the Case Example
+## Exploring Basic Coding
 
-Now that we’re more familiar with QualCoder’s interface and the basics of our project, let’s walk Sarah through the coding analysis of the transcripts using the software’s features and some best practices. QualCoder offers a versatile platform for coding not just text, but also images (including PDFs), video, and audio. While Sarah's project focuses on textual data, feel free to explore these features for your own work later on!
+Let’s guide Sarah through the process of coding her transcripts using the features of the software, along with some key best practices. QualCoder provides a versatile platform that supports coding not only text, but also images (including PDFs), video, and audio. While Sarah’s project is focused on textual data—meaning we’ll primarily cover text coding in this workshop—feel free to explore these additional features for your own future projects!
+
+Now that you've imported your files, let's dive into some basic coding. This will help you get comfortable with the core features of QualCoder before we move on to more advanced techniques.
+
+As mentioned in previous episodes, we are focusing on thematic analysis which essentially requires as a first step for us to assign a text label or tag to represent selected excerpts.
+
+To do so, let's click `Coding` and then, `code text`, select `interviewee_01.docx`. Let's look at Q1 the first paragraph and say we want to code it as their *entry point* in their career. After selecting the paragraph, do a *right-click*, and select `Mark with new code`. You should now see the code listed on the left-handed side. You should be able to rename it, change color, and other options with a *right-click*, but let's leave it like that for now.
+
+FIXME: <add screenshot>
+
+Note that the code will be assigned a `cid` which stands for code identifier, which is unique to them and won't be reassinged even if you delete an existing code. You might be wondering: Can I apply multiple codes to the same excerpt? The answer is: Yes! You can create and assign as many relevant codes to an excerpt as necessary, even if you've already tagged it with a code. QualCoder will handle overalps in selection with no issues.
+
+For example, let's try coding the same paragraph. If we want to code the phrase ***"Back in 2016 (...) self-love"*** as `self-acceptance`, you can simply apply that code. You'll notice that the last code you assign will be listed as "Mark with recent code". This serves as a handy shortcut for quickly applying existing codes. However, you can also select the code from the left-hand panel if you prefer.
+
+Once you've coded an excerpt, right-clicking on it will bring up additional options. You can choose `Unmark` to remove a code, or you can add a memo to the code, providing additional reasoning or context. This is useful for adding notes that will help you remember the rationale behind your coding decisions as you move forward with your analysis. So, let's do that. Select the text, then choose `Memo coded text` and choose `entry point` enter a description, for example: "How the interviewee’s career as a digital influencer and content creator began."
+
+You can also use ***in vivo*** coding, which means that instead of assigning a pre-existing or new code with a label, the selected text itself becomes the code. This can be particularly useful if you have key text snippets or specific keywords that you want to highlight directly from the data. However, ***in vivo*** coding has its limitations. It can generate potentially ambiguous fragments that lack proper context, making it harder to reconcile across different files or cases. For example, if I want to note that Linda’s journey as a content creator began in 2016, coding that exact phrase as ***in vivo*** might not be as useful as coding it under a more general category like “starting year” and applying that code consistently across interviews. The more traditional coding approach we just performed ensures more clarity and allows for easier comparison.
+
+::: {.callout-note appearance="simple" collapse="true" icon="false"}
+## 🏋 Exercise: Coding Ben's interview 
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+Alright, now it’s your turn! Let’s walk through the process of coding another interview, this time selecting Ben's interviewee_05.docx. 
+
+Start by focusing on the first question. First, apply the existing entry point code to a relevant selection. Then, create a new code of your choice to capture Ben’s motivation for starting his work as a content creator.
+:::
+:::
+
+For example, you have coded the first two paragraphs as `entry point` and also selected the first one as `pandemic` as indicated in the screenshot below. 
+
+Keep in mind that when we switch files, the code counts will reset, since this view only displays the codes relevant to the selected file. To view all excerpts across codes, you'd have to click on `Reports > Coding Reports`.
+
+Okay, so now it might be a good time to introduce you to another concept and function available in QualCoder: **categories**. Categories are used to organize codes in a hierarchical tree structure, helping to keep information well-organized and easily accessible. You can move codes into different categories, as well as move entire categories into larger parent categories. It’s also possible to move codes or categories out of their current positions to re-organize or restructure the hierarchy. Additionally, codes and categories can be merged by dragging and dropping a code onto another code or a category onto another category.
+
+You do not have to follow this steps now, as we will engage with categories shortly, but for this example I could, for instance, reorganize the existing codes having:
+
+- entry point (category)
+-- motivation (category)
+--- pandemic
+--- self-acceptance
+
+FIXME: Add Screenshot
+
+Unless you have a very structured, top-down approach from the outset, the coding structure or tree is likely to evolve as you interact with the data. The advantage of using a QDA tool is that it allows you to dynamically adjust your coding structure in response to new insights and emerging patterns. As you delve deeper into the data, you can effortlessly create new categories, reorganize existing codes, or merge categories, ensuring that the coding framework adapts alongside your evolving understanding of the data. This flexibility enables you to continuously refine and improve your analysis as new information emerges.
+
+## Organizing Things
+
+Now that we have covered some of the basics of coding, we will reorganize our project to establish a more efficient structure. This is especially important for projects that may evolve into something more complex, as it helps ensure better maintainability and scalability moving forward.
+
+*Create Cases*
+
+As mentioned earlier, in some projects, you may have multiple documents associated with a single case. However, this won't apply to our current example, as we’re only working with one interview transcript per case. This simplifies the structure for now, but keep in mind that QualCoder allows flexibility for more complex setups if needed in the future.
+
+Still, to keep our project well-organized and make the most of QualCoder's attributes feature— which can be helpful for extracting insights later on—let's create a case for each interviewee and link their respective transcript to the case. We'll use the same pseudonyms assigned to each research participant, as outlined in the file, to ensure consistency and clarity. This will allow us to efficiently track and analyze data specific to each participant.
+
+`Manage > Manage Cases > Pencil (Add Case) > Add your Case Name`
+
+![](images/create-cases.png)
+
+*Link Files*
+
+Now, let's link the corresponding file to the case we created. Click on the file cell to manage files for the case. This will prompt another window, as shown below:
+
+![](images/associate-casesandfiles.png)
+
+Now, create cases and link the files for each of the interviews. You should have one for Linda, Margot, Gina, Otto, Ben, and Alex. Note that you can also import CSV files with cases. This can be handy, especially for projects with several cases.
+
+*Describe Attributes*
+
+Each transcript has some characteristics associated with interviewees. It would be helpful to describe these as attributes for further analysis. We will only add two attributes: `age group` and `niche`. There are two different ways to create attributes: via `manage > manage attributes` or in the `manage file` window, you may select the `blue plus sign.` The latter might be more convenient in this case, considering we have only a few attributes and cases.
+
+We can assign age groups (25-29, 30-35, or 35-40) to each case and add their respective niches.
+
+![](images/attributes.png)
+
+You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to **`Manage > Manage Attributes`**
+
+We won't need to add memos for now, but they can provide additional context when attributes aren’t immediately apparent.
+
+We now have a well-organized project in QualCoder, so let’s jump into some more advanced coding!
+
+But wait, we can make things easier by importing attributes from a CSV file.
+
+## Practicing More Advanced Coding
 
 To make the most of our time, we’ll focus our coding examples and activities on the interviewees' responses to Question 4:
 
@@ -23,7 +105,7 @@ It’s important to keep in mind that this process typically requires multiple i
 
 So, we will start by representing these three main categories in QualCoder. To do that, let's do a ctrl+click on the panel. This will prompt a window with the most important actions for you to engage with the development and organization of your codebook.
 
-Click `add a new category`, and enter "Accountability". Complete the same process for the other two: authenticity and transparency. You may also add a memo with some explanation about their meanings.
+Click `add a new category`, and enter **Accountability*"**. Complete the same process for the other two: **Authenticity and Transparency**. You may also add a memo with some explanation about their meanings.
 
 ![](images/memo-category.png)
 
@@ -41,11 +123,11 @@ Note that the code now shows that there is one excerpt associated with the code.
 
 ![](images/coded-excerpt-view.png)
 
-Your turn! Code the second paragraph in relation to the category "Transparency" and code it as "Honest Reviews".
+Your turn! Code the second paragraph in relation to the category **Transparency** and code it as **Honest Reviews**.
 
 ![](images/honest-reviews-code.png)
 
-Alright, we have two new codes assigned to this interview, let's move to other interviews and see if we can find excerpts related to this existing codes. I trust you have found some right away. After assigning *honest reviews* to another interview excerpt, let's check the list of coded files.
+Alright, we have two new codes assigned to this interview, let's move to other interviews and see if we can find excerpts related to this existing codes. I trust you have found some right away. After assigning *Honest Reviews* to another interview excerpt, let's check the list of coded files.
 
 ![](images/honest-review-examples.png){width="500"}
 
@@ -55,7 +137,7 @@ Great! Now that we understand how to create categories, assign and organize code
 
 ![](images/upper-bar-code.png)
 
-You may use the search box to perform queries using [Regex functions](https://www.rexegg.com/regex-quickstart.php){target='_blank'} and locate specific terms within and across multiple documents. This can be extremely handy to speed up the process of getting to specific passages of the data. Once you perform a search you, unfortunately you won't see the total of matching results. QualCoder will highlight those and you may use the back and forward arrows to navigate results.
+You may use the search box to perform queries using [Regex functions](https://www.rexegg.com/regex-quickstart.php){target="_blank"} and locate specific terms within and across multiple documents. This can be extremely handy to speed up the process of getting to specific passages of the data. Once you perform a search you, unfortunately you won't see the total of matching results. QualCoder will highlight those and you may use the back and forward arrows to navigate results.
 
 Another useful feature is the ability to create file annotations for selected excerpts and coded sections, all conveniently displayed in one window. This allows you to highlight points that need clarification and passages you may want to revisit, especially if they have the potential to inspire new codes. You can use this tool to streamline your workflow and enhance your analysis. Note that the passage will be highlighted in bold so you can more easily spot what needs your attention. Similar approach can be followed with already coded passages, but typically those memos will reflect decisions behind the coding of that passage.
 
@@ -117,7 +199,7 @@ You may also edit text using the blue pencil (proceed with care as this are irre
 
 After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting and graphing features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels like she is in a good place to navigate the reporting options within the tool with us.
 
-Before we proceed, please open the folder `influencers_q4.qda` from the project example [sarah-project](https://doi.org/10.5281/zenodo.14043001){target='_blank'} you might have already downloaded and unzipped and open it in QualCoder.
+Before we proceed, please open the folder `influencers_q4.qda` from the project example [sarah-project](https://doi.org/10.5281/zenodo.14043001){target="_blank"} you might have already downloaded and unzipped and open it in QualCoder.
 
 QualCoder offers a few options for users to explore, query, visualize the data and export those reports and outputs. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, heat and tree maps. It also supports intercoder reliability testing for datasets coded, independently, by multiple people. Let's see how Sarah some of the options she might want to consider for her analysis.
 
@@ -195,11 +277,11 @@ While there are some variations in the literature, below is a typical rule of th
 
 Below are a few examples of papers reporting the kappa coefficient for interview data:
 
-Coates, A. E., Hardman, C. A., Halford, J. C. G., Christiansen, P., & Boyland, E. J. (2019). Food and beverage cues featured in YouTube videos of social media influencers popular with children: An exploratory study. *Frontiers in Psychology, 10*, Article 2142. <https://doi.org/10.3389/fpsyg.2019.02142>{target='_blank'}
+Coates, A. E., Hardman, C. A., Halford, J. C. G., Christiansen, P., & Boyland, E. J. (2019). Food and beverage cues featured in YouTube videos of social media influencers popular with children: An exploratory study. *Frontiers in Psychology, 10*, Article 2142. [https://doi.org/10.3389/fpsyg.2019.02142](https://doi.org/10.3389/fpsyg.2019.02142){target="_blank"}
 
-Dekoninck, H., Van Houtven, E., & Schmuck, D. (2023). Inspiring G(re)en Z: Unraveling (Para)social Bonds with Influencers and Perceptions of Their Environmental Content. *Environmental Communication*, *17*(7), 701–719. <https://doi.org/10.1080/17524032.2023.2237693>{target='_blank'}
+Dekoninck, H., Van Houtven, E., & Schmuck, D. (2023). Inspiring G(re)en Z: Unraveling (Para)social Bonds with Influencers and Perceptions of Their Environmental Content. *Environmental Communication*, *17*(7), 701–719. [https://doi.org/10.1080/17524032.2023.2237693](https://doi.org/10.1080/17524032.2023.2237693){target="_blank"}
 
-Kopp, B., & Dinkel, C. (2024). Adolescents’ values and values education through social media. *EDULEARN24 Proceedings*, 5257–5260. [10.21125/edulearn.2024.1289](https://doi.org/10.21125/edulearn.2024.1289){target='_blank'}
+Kopp, B., & Dinkel, C. (2024). Adolescents’ values and values education through social media. *EDULEARN24 Proceedings*, 5257–5260. [10.21125/edulearn.2024.1289](https://doi.org/10.21125/edulearn.2024.1289){target="_blank"}
 
 ### **Documenting Things**
 
@@ -220,7 +302,7 @@ When conducting qualitative research, it's crucial to maintain thorough document
 
     It’s important to note that because each program has unique functionalities regarding codes and their organization, users may encounter some modifications when importing a codebook into a different software environment.
 
-    Check which QDA software are REFI-QDA compatible: <https://www.qdasoftware.org/refi-qda-codebook>{target='_blank'}
+    Check which QDA software are REFI-QDA compatible: [https://www.qdasoftware.org/refi-qda-codebook](https://www.qdasoftware.org/refi-qda-codebook){target="_blank"}
     :::
 
 You may export your project and codebook using the REFI-QDA standard under the Export \> Project option.
@@ -237,4 +319,4 @@ Save these files using a consistent naming convention and ensure they are includ
 
 **Recommended/Cited Sources:**
 
-McHugh, M. L. Interrater reliability: the kappa statistic. *Biochem Med*, 2012;22(3):276-82. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3900052>{target='_blank'}
+McHugh, M. L. Interrater reliability: the kappa statistic. *Biochem Med*, 2012;22(3):276-82. [https://pmc.ncbi.nlm.nih.gov/articles/PMC3900052](https://pmc.ncbi.nlm.nih.gov/articles/PMC3900052){target="_blank"}
