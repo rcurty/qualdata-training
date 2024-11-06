@@ -11,6 +11,8 @@ QualCoder is client-based open-source and free multi-platform tool designed to s
 
 With QualCoder, you can code text, images, audio and video, and write journal notes and memos. You can categorize codes into a tree-like hierarchical categorization scheme. Coding for audio and video requires the [VLC media player](https://www.videolan.org/vlc/download-windows.html){target="_blank"}. Coder comparison reports can be generated for text coding using Cohen’s Kappa statistic for interrater/intercoder reliability, which measures the level of agreement between coders. A graph displaying codes and categories can be generated to visualize the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.
 
+This [blog post](https://qualcoder.wordpress.com/studies-using-qualcoder){target="_blank"} lists a few examples of research projects that have used QualCoder for data analysis and reporting. 
+
 ## Installation
 
 For this workshop, we will engage with the latest stable version of the software (currently 3.5) for the coding and reporting activities.
