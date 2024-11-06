@@ -24,7 +24,7 @@ Transcription is an essential process that converts spoken data into written tex
 
 -   *Intelligent Transcription:* This approach focuses on the core content of the conversation by omitting filler words and redundant elements. It presents the dialogue in a more readable format while retaining the essential meaning, making it easier to interpret and analyze the main points of the discussion.
 
-To assist this process, researchers can leverage dedicated transcription programs such as [Express Scribe](https://www.nch.com.au/scribe/index.html?ns=true&kw=express%20scribe&m=e&d=c&c=692007039289&ag=1367072385&gad_source=1&gclid=Cj0KCQjw2ou2BhCCARIsANAwM2GY4db0uKnr067lx7WaZTzm7rSO6fyH3a799j3g5kNeQZkCqj843F0aAoocEALw_wcB) that allows easy control of playback speed and navigation through audio segments or even use automatic transcription services such as [Otter.ai](https://otter.ai). Regardless of the chosen tool, we advise researchers to be cautious about technologies that automatically upload recordings for transcription. These recordings will likely contain sensitive and personal information that could be compromised if not handled properly. Therefore, we suggest you:
+To assist this process, researchers can leverage dedicated transcription programs such as [Express Scribe](https://www.nch.com.au/scribe/index.html?ns=true&kw=express%20scribe&m=e&d=c&c=692007039289&ag=1367072385&gad_source=1&gclid=Cj0KCQjw2ou2BhCCARIsANAwM2GY4db0uKnr067lx7WaZTzm7rSO6fyH3a799j3g5kNeQZkCqj843F0aAoocEALw_wcB){target='_blank'} that allows easy control of playback speed and navigation through audio segments or even use automatic transcription services such as [Otter.ai](https://otter.ai){target='_blank'}. Regardless of the chosen tool, we advise researchers to be cautious about technologies that automatically upload recordings for transcription. These recordings will likely contain sensitive and personal information that could be compromised if not handled properly. Therefore, we suggest you:
 
 -   Verify if the transcription company encrypts your data during transmission and at rest. Most services do, but if you find one that doesn’t, it’s wise to consider another provider.
 
@@ -38,7 +38,7 @@ While automated transcription and third-party services can expedite data process
 
 ![](images/transcription.png){width="350"}
 
-We won't have time to cover the transcription process in detail, but here is a good [guide](https://www.msvu.ca/wp-content/uploads/2020/05/GuideTranscribing.pdf) with things to remember when you are transcribing audio recording.
+We won't have time to cover the transcription process in detail, but here is a good [guide](https://www.msvu.ca/wp-content/uploads/2020/05/GuideTranscribing.pdf){target='_blank'} with things to remember when you are transcribing audio recording.
 
 ## What to Do with Recordings After Transcription?
 
