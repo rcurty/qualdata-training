@@ -10,9 +10,9 @@ Research data can be reused in various ways, as outlined in the handout below:
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR](https://perma.cc/AD4C-272F)).
+Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR](https://perma.cc/AD4C-272F){target='_blank'}).
 
-The [UK Data Archive](https://ukdataservice.ac.uk/learning-hub/qualitative-data/reusing-qualitative-data/approaches-to-reusing-qualitative-data/) highlights more specific applications of qualitative data secondary analysis:
+The [UK Data Archive](https://ukdataservice.ac.uk/learning-hub/qualitative-data/reusing-qualitative-data/approaches-to-reusing-qualitative-data){target='_blank'} highlights more specific applications of qualitative data secondary analysis:
 
 -   *Description:* Previous research can be utilized to describe the attributes, attitudes, and behaviors of individuals, societies, groups, or organizations during the original project period.
 
@@ -66,4 +66,4 @@ The good news is that most data repositories offer a recommended citation alongs
 </iframe>
 
 
-Source: UCSB Library Data Literacy Series ([perma.cc/VHW9-9EPQ](https://perma.cc/VHW9-9EPQ))
+Source: UCSB Library Data Literacy Series ([perma.cc/VHW9-9EPQ](https://perma.cc/VHW9-9EPQ){target='_blank'})

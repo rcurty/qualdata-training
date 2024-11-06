@@ -54,7 +54,7 @@ Taherzadeh, O., 2016, "Interview Transcripts", *Interview Transcripts*,
 
 Klein, M., 2022. *Interview transcripts of addiction therapists and
 recovering drug service users.* Bath: University of Bath Research Data
-Archive. Available from: <https://doi.org/10.15125/BATH-01096>.
+Archive. Available from: <https://doi.org/10.15125/BATH-01096>{target='_blank'}.
 
 Can you spot any differences? Supposing those were both topics related
 to your research, how likely would you be to reuse one dataset versus
@@ -143,7 +143,7 @@ Access controls fall into three main categories:
 
 Example: Cunningham, Una; De Brún, Aoife; Mayumi, Willgerodt et al.
 (2021). Appendices interview formats \[Dataset\]. Dryad.
-<https://doi.org/10.5061/dryad.q83bk3jg8>
+<https://doi.org/10.5061/dryad.q83bk3jg8>{target='_blank'}
 
 -   Subject to Embargo: a temporary restriction on sharing or publishing
     data. It means that the data can’t be made public for a set period,
@@ -154,7 +154,7 @@ Example: Cunningham, Una; De Brún, Aoife; Mayumi, Willgerodt et al.
 Example: Ibitoye, Mobolaji; OlaOlorun, Funmilola; Casterline, John B..
 2025. "Demand for Modern Contraception in Sub-Saharan Africa: New
 Methods, New Evidence". Qualitative Data Repository.
-<https://doi.org/10.5064/F600CMLO>. QDR Main Collection. V1
+<https://doi.org/10.5064/F600CMLO>{target='_blank'}. QDR Main Collection. V1
 
 -   Closed Access/Metadata Record Only (sensitive data/no consent): a
     summary and description of a dataset without containing the actual
@@ -177,7 +177,7 @@ Example: Steeves, Vicky; Peltzman, Shira; Kim, Julia; Griesinger, Peggy;
 Blumenthal, Karl-Rainer. 2020. "Data for: "What’s Wrong with Digital
 Stewardship: Evaluating the Organization of Digital Preservation
 Programs from Practitioners’ Perspectives". Qualitative Data Repository.
-<https://doi.org/10.5064/F6DJRPLK>.
+<https://doi.org/10.5064/F6DJRPLK>{target='_blank'}.
 
 ::: {.callout-note collapse="true" icon="false"}
 # 💭 **Discussion:** What is the value of sharing a metadata record only?
@@ -206,7 +206,7 @@ complying with funders' and journal policies' requirements.
 </iframe>
 
 Source: UCSB Library Data Literacy Series
-([perma.cc/3ZHR-6JAG](https://perma.cc/3ZHR-6JAG))
+([perma.cc/3ZHR-6JAG](https://perma.cc/3ZHR-6JAG){target='_blank'})
 
 ### Applying Access Controls
 
@@ -305,7 +305,7 @@ some examples:
 </iframe>
 
 Source: UCSB Library Data Literacy Series
-([perma.cc/W4FL-JDFT](https://perma.cc/W4FL-JDFT))
+([perma.cc/W4FL-JDFT](https://perma.cc/W4FL-JDFT){target='_blank'})
 
 ### Where Should You Share Your Project Data?
 
@@ -334,7 +334,7 @@ in the handout below:
 </iframe>
 
 Source: UCSB Library Data Literacy Series
-([perma.cc/WLF7-WTUC](https://perma.cc/WLF7-WTUC)).
+([perma.cc/WLF7-WTUC](https://perma.cc/WLF7-WTUC){target='_blank'}).
 
 ### Preparing Your Data for Submission
 
@@ -352,7 +352,7 @@ Required:
 -   README File: an overview of your project, including data sources,
     their relationships and a brief description of the methods. Here is
     a [customizable README
-    template](https://zenodo.org/records/10828379);
+    template](https://zenodo.org/records/10828379){target='_blank'};
 
 -   Data Collection Instruments: A sample of instruments used for data
     collection, such as surveys or interview guides;
@@ -377,7 +377,7 @@ Recommended:
 </iframe>
 
 Source: UCSB Library Data Literacy Series
-([perma.cc/E7BA-BBYE](https://perma.cc/E7BA-BBYE)).
+([perma.cc/E7BA-BBYE](https://perma.cc/E7BA-BBYE){target='_blank'}).
 
 ### Licensing Your Data
 
@@ -413,7 +413,7 @@ Creative Commons family:
 </iframe>
 
 Source: UCSB Library Data Literacy Series
-([perma.cc/ET6F-N84X](https://perma.cc/ET6F-N84X)).
+([perma.cc/ET6F-N84X](https://perma.cc/ET6F-N84X){target='_blank'}).
 
 ------------------------------------------------------------------------
 
@@ -424,13 +424,13 @@ Goodman-Williams R. Open-Science Guidance for Qualitative Research: An
 Empirically Validated Approach for De-Identifying Sensitive Narrative
 Data. *Advances in Methods and Practices in Psychological Science*.
 2023;6(4).
-doi:[10.1177/25152459231205832](https://doi.org/10.1177/25152459231205832)
+doi:[10.1177/25152459231205832](https://doi.org/10.1177/25152459231205832){target='_blank'}
 
 Myers CA, Long SE, Polasek FO. Protecting participant privacy while
 maintaining content and context: Challenges in qualitative data
 De-identification and sharing. ProcAssoc Inf Sci Technol. 2020;57:e415.
-<https://doi.org/10.1002/pra2.415>
+<https://doi.org/10.1002/pra2.415>{target='_blank'}
 
 DuBois, J. M., Strait, M., & Walsh, H. (2018). Is it time to share
 qualitative research data?*Qualitative Psychology, 5*(3), 380–393.
-<https://doi.org/10.1037/qup0000076>
+<https://doi.org/10.1037/qup0000076>{target='_blank'}
