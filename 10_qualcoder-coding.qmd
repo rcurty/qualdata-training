@@ -55,7 +55,7 @@ Great! Now that we understand how to create categories, assign and organize code
 
 ![](images/upper-bar-code.png)
 
-You may use the search box to perform queries using [Regex functions](https://www.rexegg.com/regex-quickstart.php) and locate specific terms within and across multiple documents. This can be extremely handy to speed up the process of getting to specific passages of the data. Once you perform a search you, unfortunately you won't see the total of matching results. QualCoder will highlight those and you may use the back and forward arrows to navigate results.
+You may use the search box to perform queries using [Regex functions](https://www.rexegg.com/regex-quickstart.php){target='_blank'} and locate specific terms within and across multiple documents. This can be extremely handy to speed up the process of getting to specific passages of the data. Once you perform a search you, unfortunately you won't see the total of matching results. QualCoder will highlight those and you may use the back and forward arrows to navigate results.
 
 Another useful feature is the ability to create file annotations for selected excerpts and coded sections, all conveniently displayed in one window. This allows you to highlight points that need clarification and passages you may want to revisit, especially if they have the potential to inspire new codes. You can use this tool to streamline your workflow and enhance your analysis. Note that the passage will be highlighted in bold so you can more easily spot what needs your attention. Similar approach can be followed with already coded passages, but typically those memos will reflect decisions behind the coding of that passage.
 
@@ -117,7 +117,7 @@ You may also edit text using the blue pencil (proceed with care as this are irre
 
 After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting and graphing features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels like she is in a good place to navigate the reporting options within the tool with us.
 
-Before we proceed, please access and download the [influencers_q4.qda](https://drive.google.com/drive/folders/10dXK1wFoQcYBCSTbo-ofglc8nI5kZr5u?usp=drive_link) in our shared drive, save it in your desktop and open it in QualCoder.
+Before we proceed, please open the folder `influencers_q4.qda` from the project example [sarah-project](https://doi.org/10.5281/zenodo.14043001){target='_blank'} you might have already downloaded and unzipped and open it in QualCoder.
 
 QualCoder offers a few options for users to explore, query, visualize the data and export those reports and outputs. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, heat and tree maps. It also supports intercoder reliability testing for datasets coded, independently, by multiple people. Let's see how Sarah some of the options she might want to consider for her analysis.
 
@@ -195,11 +195,11 @@ While there are some variations in the literature, below is a typical rule of th
 
 Below are a few examples of papers reporting the kappa coefficient for interview data:
 
-Coates, A. E., Hardman, C. A., Halford, J. C. G., Christiansen, P., & Boyland, E. J. (2019). Food and beverage cues featured in YouTube videos of social media influencers popular with children: An exploratory study. *Frontiers in Psychology, 10*, Article 2142. <https://doi.org/10.3389/fpsyg.2019.02142>
+Coates, A. E., Hardman, C. A., Halford, J. C. G., Christiansen, P., & Boyland, E. J. (2019). Food and beverage cues featured in YouTube videos of social media influencers popular with children: An exploratory study. *Frontiers in Psychology, 10*, Article 2142. <https://doi.org/10.3389/fpsyg.2019.02142>{target='_blank'}
 
-Dekoninck, H., Van Houtven, E., & Schmuck, D. (2023). Inspiring G(re)en Z: Unraveling (Para)social Bonds with Influencers and Perceptions of Their Environmental Content. *Environmental Communication*, *17*(7), 701–719. <https://doi.org/10.1080/17524032.2023.2237693>
+Dekoninck, H., Van Houtven, E., & Schmuck, D. (2023). Inspiring G(re)en Z: Unraveling (Para)social Bonds with Influencers and Perceptions of Their Environmental Content. *Environmental Communication*, *17*(7), 701–719. <https://doi.org/10.1080/17524032.2023.2237693>{target='_blank'}
 
-Kopp, B., & Dinkel, C. (2024). Adolescents’ values and values education through social media. *EDULEARN24 Proceedings*, 5257–5260. [10.21125/edulearn.2024.1289](https://doi.org/10.21125/edulearn.2024.1289 "doi")
+Kopp, B., & Dinkel, C. (2024). Adolescents’ values and values education through social media. *EDULEARN24 Proceedings*, 5257–5260. [10.21125/edulearn.2024.1289](https://doi.org/10.21125/edulearn.2024.1289){target='_blank'}
 
 ### **Documenting Things**
 
@@ -220,7 +220,7 @@ When conducting qualitative research, it's crucial to maintain thorough document
 
     It’s important to note that because each program has unique functionalities regarding codes and their organization, users may encounter some modifications when importing a codebook into a different software environment.
 
-    Check which QDA software are REFI-QDA compatible: <https://www.qdasoftware.org/refi-qda-codebook>
+    Check which QDA software are REFI-QDA compatible: <https://www.qdasoftware.org/refi-qda-codebook>{target='_blank'}
     :::
 
 You may export your project and codebook using the REFI-QDA standard under the Export \> Project option.
@@ -237,4 +237,4 @@ Save these files using a consistent naming convention and ensure they are includ
 
 **Recommended/Cited Sources:**
 
-McHugh, M. L. Interrater reliability: the kappa statistic. *Biochem Med*, 2012;22(3):276-82. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3900052>
+McHugh, M. L. Interrater reliability: the kappa statistic. *Biochem Med*, 2012;22(3):276-82. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3900052>{target='_blank'}

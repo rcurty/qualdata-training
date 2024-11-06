@@ -68,7 +68,7 @@ Source: UCSB Library Data Literacy Series ([perma.cc/3HFE-6X7U](https://perma.cc
 
 To get started with the DMPTool, follow these steps:
 
-1.  Visit [DMPTool](https://dmptool.org) in your web browser.
+1.  Visit [DMPTool](https://dmptool.org){target='_blank'}  in your web browser.
 
 2.  On the DMPTool homepage, enter your institutional email address on the right side and click "Continue."
 

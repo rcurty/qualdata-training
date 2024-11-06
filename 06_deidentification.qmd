@@ -26,7 +26,7 @@ Direct identifiers are pieces of information that can immediately identify an in
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/LM2L-K8DN](https://perma.cc/YEN7-XBDY)).
+Source: UCSB Library Data Literacy Series ([perma.cc/LM2L-K8DN](https://perma.cc/YEN7-XBDY){target='_blank'}).
 
 Initially, researchers might change names and disguise locations, but effectively managing identifying details in qualitative data requires a nuanced approach. Anonymity and privacy exist on a spectrum, so researchers must balance the risk of identification with the needs of their research.
 
@@ -52,7 +52,7 @@ The existing literature provides limited guidance on de-identifying qualitative 
 
 In the first phase, the process involves consultations with a range of stakeholders and subject-matter experts to identify risks related to re-identifiability and concerns about data sharing. The second phase outlines an iterative approach to identifying potentially identifiable information and developing tailored remediation strategies through group review and consensus. The final phase includes multiple methods for evaluating the effectiveness of the de-identification efforts, ensuring that the remediated transcripts adequately protect participants' privacy. If your project involves working with vulnerable or protected groups, or handling sensitive data, we strongly recommend reviewing and applying this framework to your research.
 
-![Qualitative Data De-identification Overview. Source: Campbell et al. (2023)](images/transcript-remediation.jpeg){width="809"}
+![Qualitative Data De-identification Overview. Source: Campbell et al. (2023){target='_blank'}](images/transcript-remediation.jpeg){width="809"}
 
 These three phases can be broken into tasks, actions and examples:
 
@@ -148,7 +148,7 @@ This handout provides a compilation with some helpful tips:
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/LM2L-K8DN](https://perma.cc/LM2L-K8DN)).
+Source: UCSB Library Data Literacy Series ([perma.cc/LM2L-K8DN](https://perma.cc/LM2L-K8DN){target='_blank'}).
 
 Having promised to keep participants' identities confidential, Sarah have assigned pseudonyms to interviewees. However, she is uncertain how to handle indirect identifiers. We will help her to address these issues confidently.
 
@@ -156,9 +156,9 @@ Having promised to keep participants' identities confidential, Sarah have assign
 ## 🏋️‍♀Exercise: Helping Sarah De-identifying Transcripts
 
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
-Let's open the files for `interviewee_01` and `interviewee_03` ([Sara-Project/Data/Transcripts](https://drive.google.com/drive/folders/1SBxXcMPnNdSHDxUFsMfl5u7cTwAzLskT?usp=sharing)). To make things easier, we have highlighted some potential sensitive pieces of information. What strategies can we implement to minimize the risk of interviewees' identification?
+Let's open the files for `interviewee_01` and `interviewee_03` located in `sara-Project/data/transcripts` you might have already unzipped from  (project example folder](https://zenodo.org/records/14043001){target='_blank'}). To make things easier, we have highlighted some potential sensitive pieces of information. What strategies can we implement to minimize the risk of interviewees' identification?
 
-The [Deid-Transcripts](https://drive.google.com/drive/folders/1yYlgtlQ0lvw7Iify7-XydBwpGSkgxwGg?usp=sharing) folder contains a possible solution.
+The `deid-transcripts` folder contains a possible solution to this exercise.
 :::
 :::
 
@@ -168,6 +168,6 @@ Adopting best practices for de-identifying responses from your human participant
 
 **Recommended/Cited Sources:**
 
-Campbell R, Javorka M, Engleton J, Fishwick K, Gregory K, Goodman-Williams R. Open-Science Guidance for Qualitative Research: An Empirically Validated Approach for De-Identifying Sensitive Narrative Data. *Advances in Methods and Practices in Psychological Science*. 2023;6(4). doi:[10.1177/25152459231205832](https://doi.org/10.1177/25152459231205832)
+Campbell R, Javorka M, Engleton J, Fishwick K, Gregory K, Goodman-Williams R. Open-Science Guidance for Qualitative Research: An Empirically Validated Approach for De-Identifying Sensitive Narrative Data. *Advances in Methods and Practices in Psychological Science*. 2023;6(4). doi:[10.1177/25152459231205832](https://doi.org/10.1177/25152459231205832){target='_blank'} 
 
-Myers CA, Long SE, Polasek FO. Protecting participant privacy while maintaining content and context: Challenges in qualitative data De-identification and sharing. ProcAssoc Inf Sci Technol. 2020;57:e415. <https://doi.org/10.1002/pra2.415>
+Myers CA, Long SE, Polasek FO. Protecting participant privacy while maintaining content and context: Challenges in qualitative data De-identification and sharing. ProcAssoc Inf Sci Technol. 2020;57:e415. <https://doi.org/10.1002/pra2.415>{target='_blank'}
