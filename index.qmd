@@ -18,9 +18,9 @@ categories: [data ethics, data management, data de-identification, human subject
 
 ## Course Description
 
-Qualitative data is vital in social sciences research as it delves deep into human behavior, attitudes, and interactions, offering a comprehensive perspective beyond what quantitative data can provide. It can offer valuable insights into the intricacies of social relationships and as means to develop hypotheses, theories, and models, guiding further inquiry and contributing to knowledge advancement. Often times qualitative data derives from researchers recruitment and engagement with human subjects posing additional challenges and considerations for proper data management.
+Qualitative data is vital in academic research as it delves deep into human behavior, attitudes, and interactions, offering a comprehensive perspective beyond what quantitative data can provide. It can offer valuable insights into the intricacies of social relationships and as means to develop hypotheses, theories, and models, guiding further inquiry and contributing to knowledge advancement. Often times qualitative data derives from researchers recruitment and engagement with human subjects posing additional challenges and considerations for proper data management.
 
-This website aims to assist researchers to better and ethically manage qualitative data from studies involving human subjects throughout its life cycle, since planning to sharing and reusing. Episodes were developed in such way to help researchers:
+This website is designed to support researchers in managing qualitative data more effectively and ethically, particularly for studies focused on thematic analysis of data derived from human subjects. It covers the entire data life cycle, from planning and collection to sharing and reuse. The episodes have been structured to guide researchers through each stage, helping them to:
 
 -   Understand the nuances and challenges of working with qualitative data;
 
