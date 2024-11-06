@@ -279,46 +279,49 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 <p>QualCoder is client-based open-source and free multi-platform tool designed to streamline qualitative data analysis. With its user-friendly interface and comprehensive features, QualCoder empowers researchers and analysts to efficiently organize, code, and analyze qualitative data, ranging from text documents to multimedia files. By providing tools for coding, categorizing, and retrieving data. QualCoder facilitates in-depth exploration and interpretation, enables researchers to uncover meaningful insights and patterns, and extracts rich and nuanced information from their qualitative data.</p>
-<p>With QualCoder, you can code text, images, audio and video, and write journal notes and memos. You can categorize codes into a tree-like hierarchical categorization scheme. Coding for audio and video requires the <a href="https://www.videolan.org/vlc/download-windows.html">VLC media player</a>. Coder comparison reports can be generated for text coding using Cohen’s Kappa statistic for interrater/intercoder reliability, which measures the level of agreement between coders. A graph displaying codes and categories can be generated to visualize the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.</p>
+<p>With QualCoder, you can code text, images, audio and video, and write journal notes and memos. You can categorize codes into a tree-like hierarchical categorization scheme. Coding for audio and video requires the <a href="https://www.videolan.org/vlc/download-windows.html" target="_blank">VLC media player</a>. Coder comparison reports can be generated for text coding using Cohen’s Kappa statistic for interrater/intercoder reliability, which measures the level of agreement between coders. A graph displaying codes and categories can be generated to visualize the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.</p>
+</section>
+<section id="installation" class="level2">
+<h2 class="anchored" data-anchor-id="installation">Installation</h2>
+<p>For this workshop, we will engage with the latest stable version of the software (currently 3.5) for the coding and reporting activities.</p>
 <p>Documentation:</p>
 <ul>
-<li><p>Wiki - <a href="https://github.com/ccbogel/QualCoder/wiki" class="uri">https://github.com/ccbogel/QualCoder/wiki</a></p></li>
-<li><p>GitHub Repository - <a href="https://github.com/ccbogel/QualCoder" class="uri">https://github.com/ccbogel/QualCoder</a></p></li>
-<li><p>GitHub Repository (QualCoder AI - beta) - <a href="https://github.com/kaixxx/QualCoder/tree/ai_integration" class="uri">https://github.com/kaixxx/QualCoder/tree/ai_integration</a></p></li>
+<li><p>Wiki - <a href="https://github.com/ccbogel/QualCoder/wiki" target="_blank">https://github.com/ccbogel/QualCoder/wiki</a></p></li>
+<li><p>GitHub Repository - <a href="https://github.com/ccbogel/QualCoder" target="_blank">https://github.com/ccbogel/QualCoder</a></p></li>
+<li><p>GitHub Repository (QualCoder AI - beta) - <a href="https://github.com/kaixxx/QualCoder/tree/ai_integration" target="_blank">https://github.com/kaixxx/QualCoder/tree/ai_integration</a></p></li>
 </ul>
-<p>You can follow <a href="https://github.com/ccbogel/QualCoder/wiki/01-Introduction">installation and running instructions</a> for your operating system. Please note, however, that Mac users will need to follow a multi-step process requiring additional components and the terminal. We are available to consult with individuals or groups that require assistance in that process.</p>
-<p>To save time, for this workshop, we will skip the installation process and grant learners access to a virtual machine with QualCoder pre-installed. We use the latest available version of the software (currently 3.5) for the coding and reporting activities.</p>
-<section id="launching-qualcoder" class="level3">
-<h3 class="anchored" data-anchor-id="launching-qualcoder">Launching QualCoder</h3>
-<p>To run QualCoder in a Mac you will need to type from any directory: <code>qualcoder</code> or,</p>
+<p>You can follow <a href="https://github.com/ccbogel/QualCoder/wiki/01-Introduction" target="_blank">installation and running instructions</a> for your operating system.</p>
+<section id="installation-procedures-windows-users" class="level3">
+<h3 class="anchored" data-anchor-id="installation-procedures-windows-users">Installation Procedures (Windows Users)</h3>
+<p>Download <a href="https://github.com/ccbogel/QualCoder/releases/download/3.5/QualCoder-3.5.exe" target="_blank">QualCoder-3.5.exe</a>. There is no need to install an application; just make sure QualCoder opens when you double-click the downloaded file. If a blue window shows up with the message “Windows protected your PC,” click the “More info” button and then “Run anyway.”</p>
+</section>
+<section id="installation-procedures-mac-users" class="level3">
+<h3 class="anchored" data-anchor-id="installation-procedures-mac-users">Installation Procedures (Mac Users)</h3>
+<p>Mac users should install QualCoder from source following <a href="https://github.com/ccbogel/QualCoder?tab=readme-ov-file#macos" target="_blank">these steps</a>. Please note, however, that Mac users will need to follow a multi-step process requiring additional components and the terminal. We are available to consult with individuals or groups that require assistance in that process.</p>
+<section id="launching-qualcoder-in-your-mac" class="level4">
+<h4 class="anchored" data-anchor-id="launching-qualcoder-in-your-mac">Launching QualCoder in your Mac</h4>
+<p>If you have successfully installed QualCoder, you should be able to run it to type in the terminal from any directory: <code>qualcoder</code> or,</p>
 <p>From the QualCoder-Master directory: <code>python3 -m qualcoder</code> or <code>python3 qualcoder/__main__.py</code></p>
-<div class="callout callout-style-default callout-warning callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Running Qualcoder
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Do not close the terminal or command prompt running in the background; otherwise, you will exit QualCoder. If you minimize the QualCoder window and get lost, you may click the Python Launch icon.</p>
-</div>
-</div>
+<p>Important: Do not close the terminal or command prompt running in the background; otherwise, you will exit QualCoder. If you minimize the QualCoder window and get lost, you may click the Python Launch icon.</p>
+</section>
+</section>
+<section id="accessing-the-virtual-machine-with-pre-installed-qualcoder" class="level3">
+<h3 class="anchored" data-anchor-id="accessing-the-virtual-machine-with-pre-installed-qualcoder">Accessing the Virtual Machine with Pre-Installed QualCoder</h3>
+<p>To save time, for the in-person workshop, we will skip the installation process for Mac users that did not come to the session with the software pre-installed, and grant them access to a virtual machine with QualCoder pre-installed.</p>
+<p>You should have:</p>
+<ol type="1">
+<li>Windows App downloaded on your laptop</li>
+<li>Access DUO Multifactor Authentication, as this will be required to launch the virtual machine.</li>
+<li>An email invitation to join the Virtual Machine</li>
+</ol>
+<p>Have these available, and follow <a href="https://www.library.ucsb.edu/sites/default/files/azure_lab_login_mac_instructions_w2024.pdf">Virtual Machine Setup - Mac users</a> instructions.</p>
+<p>Once you follow those instructions, since we will be using a Windows virtual machine, you may click on the QualCoder logo to launch it.</p>
 </section>
 <section id="basic-functionalities" class="level3">
 <h3 class="anchored" data-anchor-id="basic-functionalities">Basic Functionalities</h3>
 <p>We will cover some basic settings and terms (attributes, including how to create a project and how to engage with coding. If you are following this content asynchronously, we strongly advise you to watch the following video for additional features:</p>
 <div class="quarto-video"><iframe data-external="1" src="https://www.youtube.com/embed/wj5fY4F5Jxo" width="600" height="400" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>Other helpful tutorials can be found here: <a href="https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos" class="uri">https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos</a></p>
-<section id="accessing-the-virtual-machine-with-pre-installed-qualcoder" class="level4">
-<h4 class="anchored" data-anchor-id="accessing-the-virtual-machine-with-pre-installed-qualcoder">Accessing the Virtual Machine with Pre-Installed QualCoder</h4>
-<p>If you are an UCSB-affiliate attending one of the in-person offerings of this workshop, you will have the opportunity to engage with QualCoder via a virtual machine (VM). DUO Multifactor Authentication is required to login and use the VM, so make sure to have your phone handy.</p>
-<p>We will be using this lab VM <a href="https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Flabs.azure.com%2Fregister%2Fcqjai6x22&amp;p=bT1lYjljMjg1Yi1kNTMyLTRmNWEtODczYy01ZjJhNmI2ZmRjMmEmdT1hZW8mbD1jcWphaTZ4MjI%3D">dreamlab-datastats</a>, please follow the instructions below according to your operating system:</p>
-<p><a href="https://www.library.ucsb.edu/sites/default/files/azure_lab_login_mac_instructions_w2024.pdf">Mac users</a></p>
-<p><a href="https://www.library.ucsb.edu/sites/default/files/azure_lab_login_windows_instructions_w2024.pdf">Window users</a></p>
-<p>Once you follow those instructions, since we will be using a Windows virtual machine, you may click on the QualCoder logo to launch it.</p>
-</section>
+<p>Other helpful tutorials can be found here: <a href="https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos" target="_blank">https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos</a></p>
 <section id="anatomy-of-a-qualcoder-project" class="level4">
 <h4 class="anchored" data-anchor-id="anatomy-of-a-qualcoder-project">Anatomy of a QualCoder Project</h4>
 <p>In QualCoder, <em>projects</em> serve as containers for organizing multiple files, cases, and attributes. Each project allows you to manage and analyze a specific qualitative data set, keeping everything organized. You can create different projects for distinct research questions or datasets, enabling a streamlined workflow. This structure helps you delve deeper into your analysis without mixing different data sets.</p>
