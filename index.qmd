@@ -40,6 +40,6 @@ This course is grounded in the research data life cycle depicted in the graphica
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series. Click to expand: ([perma.cc/D95L-54W8](https://perma.cc/D95L-54W8)).
+Source: UCSB Library Data Literacy Series. Click to expand: ([perma.cc/D95L-54W8](https://perma.cc/D95L-54W8){target='_blank'}).
 
 Researchers and students are welcome to take advantage of this learning resource asynchronously at their own pace. We also encourage faculty to reuse or repurpose content to their research methods classes. If you'd like to us to host a hands-on in-person or remote workshop for your team, reach out to RDS for scheduling: [rds\@library.ucsb.edu](mailto:rds@library.ucsb.edu){.email}.
