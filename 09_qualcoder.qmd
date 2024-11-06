@@ -9,29 +9,29 @@ editor: visual
 
 QualCoder is client-based open-source and free multi-platform tool designed to streamline qualitative data analysis. With its user-friendly interface and comprehensive features, QualCoder empowers researchers and analysts to efficiently organize, code, and analyze qualitative data, ranging from text documents to multimedia files. By providing tools for coding, categorizing, and retrieving data. QualCoder facilitates in-depth exploration and interpretation, enables researchers to uncover meaningful insights and patterns, and extracts rich and nuanced information from their qualitative data.
 
-With QualCoder, you can code text, images, audio and video, and write journal notes and memos. You can categorize codes into a tree-like hierarchical categorization scheme. Coding for audio and video requires the [VLC media player](https://www.videolan.org/vlc/download-windows.html){target='_blank'}. Coder comparison reports can be generated for text coding using Cohen’s Kappa statistic for interrater/intercoder reliability, which measures the level of agreement between coders. A graph displaying codes and categories can be generated to visualize the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.
+With QualCoder, you can code text, images, audio and video, and write journal notes and memos. You can categorize codes into a tree-like hierarchical categorization scheme. Coding for audio and video requires the [VLC media player](https://www.videolan.org/vlc/download-windows.html){target="_blank"}. Coder comparison reports can be generated for text coding using Cohen’s Kappa statistic for interrater/intercoder reliability, which measures the level of agreement between coders. A graph displaying codes and categories can be generated to visualize the coding hierarchy. Most reports can be exported as html, open document text (ODT) or as plain text files.
 
 ## Installation
 
-For this workshop, we will engage with the latest stable version of the software (currently 3.5) for the coding and reporting activities. 
+For this workshop, we will engage with the latest stable version of the software (currently 3.5) for the coding and reporting activities.
 
 Documentation:
 
--   Wiki - <https://github.com/ccbogel/QualCoder/wiki>{target='_blank'}
+-   Wiki - [https://github.com/ccbogel/QualCoder/wiki](https://github.com/ccbogel/QualCoder/wiki){target="_blank"}
 
--   GitHub Repository - <https://github.com/ccbogel/QualCoder>{target='_blank'}
+-   GitHub Repository - [https://github.com/ccbogel/QualCoder](https://github.com/ccbogel/QualCoder){target="_blank"}
 
--   GitHub Repository (QualCoder AI - beta) - <https://github.com/kaixxx/QualCoder/tree/ai_integration>{target='_blank'}
+-   GitHub Repository (QualCoder AI - beta) - [https://github.com/kaixxx/QualCoder/tree/ai_integration](https://github.com/kaixxx/QualCoder/tree/ai_integration){target="_blank"}
 
-You can follow [installation and running instructions](https://github.com/ccbogel/QualCoder/wiki/01-Introduction){target='_blank'} for your operating system. 
+You can follow [installation and running instructions](https://github.com/ccbogel/QualCoder/wiki/01-Introduction){target="_blank"} for your operating system.
 
 ### Installation Procedures (Windows Users)
 
-Download [QualCoder-3.5.exe](https://github.com/ccbogel/QualCoder/releases/download/3.5/QualCoder-3.5.exe){target='_blank'}. There is no need to install an application; just make sure QualCoder opens when you double-click the downloaded file. If a blue window shows up with the message “Windows protected your PC,” click the “More info” button and then “Run anyway.”
+Download [QualCoder-3.5.exe](https://github.com/ccbogel/QualCoder/releases/download/3.5/QualCoder-3.5.exe){target="_blank"}. There is no need to install an application; just make sure QualCoder opens when you double-click the downloaded file. If a blue window shows up with the message “Windows protected your PC,” click the “More info” button and then “Run anyway.”
 
 ### Installation Procedures (Mac Users)
 
-Mac users should install QualCoder from source following [these steps](https://github.com/ccbogel/QualCoder?tab=readme-ov-file#macos){target='_blank'}. Please note, however, that Mac users will need to follow a multi-step process requiring additional components and the terminal. We are available to consult with individuals or groups that require assistance in that process.
+Mac users should install QualCoder from source following [these steps](https://github.com/ccbogel/QualCoder?tab=readme-ov-file#macos){target="_blank"}. Please note, however, that Mac users will need to follow a multi-step process requiring additional components and the terminal. We are available to consult with individuals or groups that require assistance in that process.
 
 #### Launching QualCoder in your Mac
 
@@ -41,21 +41,19 @@ From the QualCoder-Master directory: `python3 -m qualcoder` or `python3 qualcode
 
 Important: Do not close the terminal or command prompt running in the background; otherwise, you will exit QualCoder. If you minimize the QualCoder window and get lost, you may click the Python Launch icon.
 
-### Accessing the Virtual Machine with Pre-Installed QualCoder
+### Accessing the Virtual Machine with Pre-Installed QualCoder (Mac Users Only)
 
-To save time, for the in-person workshop, we will skip the installation process for Mac users that did not come to the session with the software pre-installed, and grant them access to a virtual machine with QualCoder pre-installed.
+To save time, for the in-person workshop, we will skip the installation process for *Mac users* that did not come to the session with the software pre-installed, and grant them access to a virtual machine (VM) with QualCoder.
 
-You should have:
+To access the VM should have:
 
- 1) Windows App downloaded on your laptop 
- 2) Access DUO Multifactor Authentication, as this will be required to launch the virtual machine.
- 3) An email invitation to join the Virtual Machine
+1)  [Windows App](https://apps.apple.com/us/app/windows-app/id1295203466?mt=12){target="_blank"} downloaded and installed on your laptop
+2)  Access to [DUO Multifactor Authentication](https://www.it.ucsb.edu/mfa/getting-started-mfa-duo){target="_blank"}, as this will be required to launch the virtual machine.
+3)  An email invitation to join the Virtual Machine
 
-Have these available, and follow [Virtual Machine Setup - Mac users](https://www.library.ucsb.edu/sites/default/files/azure_lab_login_mac_instructions_w2024.pdf) instructions. 
+Have these easily available, and follow [Virtual Machine Setup - Mac users](https://www.library.ucsb.edu/sites/default/files/azure_lab_login_mac_instructions_w2024.pdf){target="_blank"} instructions.
 
-
-Once you follow those instructions, since we will be using a Windows virtual machine, you may click on the QualCoder logo to launch it.
-
+Once you follow those instructions, you may click on the QualCoder logo to launch it.
 
 ### Basic Functionalities
 
@@ -63,8 +61,7 @@ We will cover some basic settings and terms (attributes, including how to create
 
 {{< video https://www.youtube.com/watch?v=wj5fY4F5Jxo width="600" height="400" >}}
 
-Other helpful tutorials can be found here: <https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos>{target='_blank'}
-
+Other helpful tutorials can be found here: [https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos](https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos){target="_blank"}
 
 #### Anatomy of a QualCoder Project
 
