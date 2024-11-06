@@ -81,7 +81,7 @@ Select the directory in which you want to save your `qda` project folder and nam
 
 #### Loading Files
 
-We've created a project but don't have any files yet, so let's load them now. Click the Manage menu, choose and manage files, and then, the second icon as noted below (Import File Into Project Folder), select the desired folder and files.
+We've created a project folder but don't have any files yet, so let's load them now. Click the Manage menu, choose and manage files, and then, the second icon as noted below (Import File Into Project Folder), select the desired folder and files.
 
 ![](images/add-files-02.png)
 
