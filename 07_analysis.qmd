@@ -80,9 +80,9 @@ Discourse analysis helps us understand how language reflects different ideas and
 
 #### Thematic Analysis
 
-Our practical exercises will focus on the most common approach; *thematic analysis*. So, here is a recommended workflow we suggest you follow for this method:
+**Our practical exercises will focus on the most common approach; *thematic analysis*. So, here is a recommended workflow we suggest you follow for this method:**
 
-![Source: [Sendze (2019)](https://www.proquest.com/dissertations-theses/case-study-public-library-directors/docview/2338979588/se-2?accountid=14522) adapted from [Braun, V., & Clarke, V. (2006)](https://doi.org/10.1191/1478088706qp063oa){target='_blank'}](images/thematic-analysis-workflow.png){fig-alt="An illustration of Braun and Clarke’s thematic analysis approach for developing themes from qualitative data (adapted from Braun & Clarke, 2006, p 87)." fig-align="left" width="500"}
+![Source: [Sendze (2019)](https://www.proquest.com/dissertations-theses/case-study-public-library-directors/docview/2338979588/se-2?accountid=14522) adapted from [Braun, V., & Clarke, V. (2006)](https://doi.org/10.1191/1478088706qp063oa){target="_blank"}](images/thematic-analysis-workflow.png){fig-alt="An illustration of Braun and Clarke’s thematic analysis approach for developing themes from qualitative data (adapted from Braun & Clarke, 2006, p 87)." fig-align="left" width="500"}
 
 Whether you're new to research or a pro, qualitative analysis is an active process of reflexivity in which your subjective experience and pre-knowledge about the phenomenon of interest inform your process of making sense of the data and finding patterns and relationships. It is all about close familiarization with the data, categorizing, discovering, reviewing, and iterating until you find meaningful insights to inform your research questions before you can draw conclusions and articulate your findings.
 
@@ -104,7 +104,7 @@ This handout provides a compilation with some helpful tips:
 
 </iframe>
 
-Source: UCSB Library Data Literacy Series ([perma.cc/4L6T-4ND5](https://perma.cc/4L6T-4ND5){target='_blank'}).
+Source: UCSB Library Data Literacy Series ([perma.cc/4L6T-4ND5](https://perma.cc/4L6T-4ND5){target="_blank"}).
 
 ### 🧠 Knowledge Checking
 
@@ -191,10 +191,10 @@ While there is no consensus on minimal sample sizes for qualitative research. Th
 
 **Optional**
 
-Now that we've gained some knowledge about coding, let's explore how we can put these concepts into practice. In pairs, access the [worksheet](https://docs.google.com/document/d/1Kxjx_Wp0PQ29e3Xhs1GZXTW2K3Da4LxnVd8zq1N2afY/edit){target='_blank'} and follow the instructions.
+Now that we've gained some knowledge about coding, let's explore how we can put these concepts into practice. In pairs, access the [worksheet](https://docs.google.com/document/d/1Kxjx_Wp0PQ29e3Xhs1GZXTW2K3Da4LxnVd8zq1N2afY/edit){target="_blank"} and follow the instructions.
 :::
 
-We will get more into this in later episodes, where we will have a chance to perform coding assisted by a QDA open and free software.
+We will get more into this in later episodes, where we will have a chance to perform thematic coding assisted by a QDA open and free software.
 
 ------------------------------------------------------------------------
 
