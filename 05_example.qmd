@@ -33,7 +33,7 @@ Interviews were conducted over Zoom and audio recorded with participants' consen
 
 Each interview generated approximately 15 minutes of audio recording and were manually transcribed by Sarah. Sarah decided to keep the transcription true to the recordings and seek assistance to mitigate any risk of identification later, as we will see in the next episode.
 
-Now, let's make sure we all have the project files and that we take a quick pick on what is included there by accessing the link: <https://doi.org/10.5281/zenodo.14043001>{target='_blank'}. Make sure to unzip this folder and save it in your desktop.
+Now, let's make sure we all have the project files and that we take a quick pick on what is included there by accessing the link: [https://doi.org/10.5281/zenodo.14043001](https://doi.org/10.5281/zenodo.14043001){target="_blank"}. Make sure to unzip this folder and save it in your desktop.
 
 ## Reviewing Documents
 
