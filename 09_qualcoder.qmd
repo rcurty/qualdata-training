@@ -57,7 +57,7 @@ Have these easily available, and follow [Virtual Machine Setup - Mac users](http
 
 Once you follow those instructions, you may click on the QualCoder logo to launch it.
 
-### Basic Functionalities
+## Basic Functionalities
 
 We will cover some basic settings and terms (attributes, including how to create a project and how to engage with coding. If you are following this content asynchronously, we strongly advise you to watch the following video for additional features:
 
@@ -65,7 +65,7 @@ We will cover some basic settings and terms (attributes, including how to create
 
 Other helpful tutorials can be found here: [https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos](https://github.com/ccbogel/QualCoder/wiki/15-QualCoder-videos){target="_blank"}
 
-#### Anatomy of a QualCoder Project
+### Anatomy of a QualCoder Project
 
 In QualCoder, *projects* are folders which serve as containers for organizing multiple files, cases, and attributes. Each project allows you to manage and analyze a specific qualitative data set, keeping everything organized. You can create different projects for distinct research questions or datasets, enabling a streamlined workflow. This structure helps you delve deeper into your analysis without mixing different data sets.
 
