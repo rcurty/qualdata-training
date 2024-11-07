@@ -53,7 +53,7 @@ To access the VM should have:
 2)  Access to [DUO Multifactor Authentication](https://www.it.ucsb.edu/mfa/getting-started-mfa-duo){target="_blank"}, as this will be required to launch the virtual machine.
 3)  An email invitation to join the Virtual Machine
 
-Have these easily available, and follow [Virtual Machine Setup - Mac users](https://www.library.ucsb.edu/sites/default/files/azure_lab_login_mac_instructions_w2024.pdf){target="_blank"} instructions.
+Have these easily available, and follow [Virtual Machine Setup - Mac](https://www.library.ucsb.edu/sites/default/files/azure_lab_login_mac_instructions_w2024.pdf) users instructions.
 
 Once you follow those instructions, you may click on the QualCoder logo to launch it.
 
