@@ -24,15 +24,16 @@ Once you've coded an excerpt, right-clicking on it will bring up additional opti
 You can also use ***in vivo*** coding, which means that instead of assigning a pre-existing or new code with a label, the selected text itself becomes the code. This can be particularly useful if you have key text snippets or specific keywords that you want to highlight directly from the data. However, ***in vivo*** coding has its limitations. It can generate potentially ambiguous fragments that lack proper context, making it harder to reconcile across different files or cases. For example, if I want to note that Linda’s journey as a content creator began in 2016, coding that exact phrase as ***in vivo*** might not be as useful as coding it under a more general category like “starting year” and applying that code consistently across interviews. The more traditional coding approach we just performed ensures more clarity and allows for easier comparison.
 
 ::: {.callout-note appearance="simple" collapse="true" icon="false"}
-## 🏋 Exercise: Coding Ben's interview 
+## 🏋 Exercise: Coding Ben's interview
+
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
-Alright, now it’s your turn! Let’s walk through the process of coding another interview, this time selecting Ben's interviewee_05.docx. 
+Alright, now it’s your turn! Let’s walk through the process of coding another interview, this time selecting Ben's interviewee_05.docx.
 
 Start by focusing on the first question. First, apply the existing entry point code to a relevant selection. Then, create a new code of your choice to capture Ben’s motivation for starting his work as a content creator.
 :::
 :::
 
-For example, you have coded the first two paragraphs as `entry point` and also selected the first one as `pandemic` as indicated in the screenshot below. 
+For example, you have coded the first two paragraphs as `entry point` and also selected the first one as `pandemic` as indicated in the screenshot below.
 
 Keep in mind that when we switch files, the code counts will reset, since this view only displays the codes relevant to the selected file. To view all excerpts across codes, you'd have to click on `Reports > Coding Reports`.
 
@@ -40,30 +41,45 @@ Okay, so now it might be a good time to introduce you to another concept and fun
 
 You do not have to follow this steps now, as we will engage with categories shortly, but for this example I could, for instance, reorganize the existing codes having:
 
-- entry point (category)
--- motivation (category)
---- pandemic
---- self-acceptance
+-   entry point (category) -- motivation (category) --- pandemic --- self-acceptance
 
 FIXME: Add Screenshot
 
-Unless you have a very structured, top-down approach from the outset, the coding structure or tree is likely to evolve as you interact with the data. The advantage of using a QDA tool is that it allows you to dynamically adjust your coding structure in response to new insights and emerging patterns. As you delve deeper into the data, you can effortlessly create new categories, reorganize existing codes, or merge categories, ensuring that the coding framework adapts alongside your evolving understanding of the data. This flexibility enables you to continuously refine and improve your analysis as new information emerges.
+Unless you have a very structured, top-down approach (as covered in previous episodes) from the outset, the coding structure or tree is likely to evolve as you interact with the data. The advantage of using a QDA tool is that it allows you to dynamically adjust your coding structure in response to new insights and emerging patterns. As you delve deeper into the data, you can effortlessly create new categories, reorganize existing codes, or merge categories, ensuring that the coding framework adapts alongside your evolving understanding of the data. This flexibility enables you to continuously refine and improve your analysis as new information emerges.
 
 ## Organizing Things
 
 Now that we have covered some of the basics of coding, we will reorganize our project to establish a more efficient structure. This is especially important for projects that may evolve into something more complex, as it helps ensure better maintainability and scalability moving forward.
 
-*Create Cases*
+### ***Create Cases***
 
-As mentioned earlier, in some projects, you may have multiple documents associated with a single case. However, this won't apply to our current example, as we’re only working with one interview transcript per case. This simplifies the structure for now, but keep in mind that QualCoder allows flexibility for more complex setups if needed in the future.
+A case is typically a source of information and can be associated with one or more files. As mentioned earlier, in some projects, you may have multiple documents associated with a single case. However, this won't apply to our current example, as we’re only working with one interview transcript per case. This simplifies the structure for now, but keep in mind that QualCoder allows flexibility for more complex setups if needed in the future.
 
 Still, to keep our project well-organized and make the most of QualCoder's attributes feature— which can be helpful for extracting insights later on—let's create a case for each interviewee and link their respective transcript to the case. We'll use the same pseudonyms assigned to each research participant, as outlined in the file, to ensure consistency and clarity. This will allow us to efficiently track and analyze data specific to each participant.
 
 `Manage > Manage Cases > Pencil (Add Case) > Add your Case Name`
 
+We will be adding the following:
+
++--------------------+-----------+-------------+
+| Name               | ID        | Case        |
++====================+===========+=============+
+| interviwee_01.docx | 1         | Linda       |
++--------------------+-----------+-------------+
+| interviwee_02.docx | 2         | Margot      |
++--------------------+-----------+-------------+
+| interviwee_03.docx | 3         | Gina        |
++--------------------+-----------+-------------+
+| interviwee_04.docx | 4         | Otto        |
++--------------------+-----------+-------------+
+| interviwee_05.docx | 5         | Ben         |
++--------------------+-----------+-------------+
+| interviwee_06.docx | 6         | Alex        |
++--------------------+-----------+-------------+
+
 ![](images/create-cases.png)
 
-*Link Files*
+### ***Link Files***
 
 Now, let's link the corresponding file to the case we created. Click on the file cell to manage files for the case. This will prompt another window, as shown below:
 
@@ -71,21 +87,39 @@ Now, let's link the corresponding file to the case we created. Click on the file
 
 Now, create cases and link the files for each of the interviews. You should have one for Linda, Margot, Gina, Otto, Ben, and Alex. Note that you can also import CSV files with cases. This can be handy, especially for projects with several cases.
 
-*Describe Attributes*
+### ***Describe Attributes***
+
+A case can be classified using attributes. An example case may be a person who has been interviewed (an audio or text interview file) and have published works (e.g. blog posts as files). The person can be assigned attributes such as their location, gender or occupation.
 
 Each transcript has some characteristics associated with interviewees. It would be helpful to describe these as attributes for further analysis. We will only add two attributes: `age group` and `niche`. There are two different ways to create attributes: via `manage > manage attributes` or in the `manage file` window, you may select the `blue plus sign.` The latter might be more convenient in this case, considering we have only a few attributes and cases.
 
-We can assign age groups (25-29, 30-35, or 35-40) to each case and add their respective niches.
+We can assign age groups (25-29, 30-35, or 35-40) to each case and add their respective niches, for example. This is what we will have for Sarah's sample interviews, which you may use as a cheatsheet to describe the attributes while following along:
+
++--------------------+----+--------+----------+----------------------+
+| Name               | ID | Case   | AgeGroup | Niche                |
++====================+====+========+==========+======================+
+| interviwee_01.docx | 1  | Linda  | 25-29    | Beauty & Skin Care   |
++--------------------+----+--------+----------+----------------------+
+| interviwee_02.docx | 2  | Margot | 30-35    | Fashion & Style      |
++--------------------+----+--------+----------+----------------------+
+| interviwee_03.docx | 3  | Gina   | 30-35    | Home Decor & DIY     |
++--------------------+----+--------+----------+----------------------+
+| interviwee_04.docx | 4  | Otto   | 25-29    | Travel & Adventure   |
++--------------------+----+--------+----------+----------------------+
+| interviwee_05.docx | 5  | Ben    | 25-29    | Finance & Investment |
++--------------------+----+--------+----------+----------------------+
+| interviwee_06.docx | 6  | Alex   | 36-40    | Wellness & Health    |
++--------------------+----+--------+----------+----------------------+
 
 ![](images/attributes.png)
 
-You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to **`Manage > Manage Attributes`**
+You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to `Manage` and then, `Manage Attributes`
+
+We can also import attributes from either a CSV or Microsoft Excel (XLSX) file. The first row should contain the attribute headings, and the first column must list the corresponding case names (e.g., ID1, ID2, ID3). Please note that case sensitivity is important. In the "Examples" folder, you will find both a cases.csv and cases.xlsx file for reference.
 
 We won't need to add memos for now, but they can provide additional context when attributes aren’t immediately apparent.
 
 We now have a well-organized project in QualCoder, so let’s jump into some more advanced coding!
-
-But wait, we can make things easier by importing attributes from a CSV file.
 
 ## Practicing More Advanced Coding
 
@@ -105,7 +139,7 @@ It’s important to keep in mind that this process typically requires multiple i
 
 So, we will start by representing these three main categories in QualCoder. To do that, let's do a ctrl+click on the panel. This will prompt a window with the most important actions for you to engage with the development and organization of your codebook.
 
-Click `add a new category`, and enter **Accountability*"**. Complete the same process for the other two: **Authenticity and Transparency**. You may also add a memo with some explanation about their meanings.
+Click `add a new category`, and enter \*\*Accountability\*"**. Complete the same process for the other two:** Authenticity and Transparency\*\*. You may also add a memo with some explanation about their meanings.
 
 ![](images/memo-category.png)
 
@@ -131,7 +165,7 @@ Alright, we have two new codes assigned to this interview, let's move to other i
 
 ![](images/honest-review-examples.png){width="500"}
 
-### More Coding Options
+### Additional Coding Options
 
 Great! Now that we understand how to create categories, assign and organize codes, and view excerpts related to those codes, let’s move our attention now to the top bar we mentioned earlier to understand other coding options we have to assist our coding tasks.
 
@@ -191,15 +225,15 @@ First, it may lead to a loss of context and limit the scope of analysis, potenti
 Auto-coding features, which can be also referred as *in vivo*, verbatim coding, literal coding use exact phrases or terms from participants' responses, enabling researchers to highlight key themes and concepts directly from the data. While this method can be effective for preliminary and first cycle coding, researchers should be aware of its potential drawbacks as the primary method. This approach can result in a loss of insight, as context may be overlooked. Additionally, auto-coding often oversimplifies the data, focusing on specific terms rather than capturing broader themes.
 :::
 
-### Additional features in the Coding Panel
+### Additional Features in the Coding Panel
 
 You may also edit text using the blue pencil (proceed with care as this are irreversible) and export your coded files with the list of codes in html, odt or txt. Caution in clicking the red X, that will erase all your coding efforts for that particular file.
 
-### Reporting & Graphing
+## Reporting & Graphing
 
 After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting and graphing features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels like she is in a good place to navigate the reporting options within the tool with us.
 
-Before we proceed, please open the folder `influencers_q4.qda` from the project example [sarah-project](https://doi.org/10.5281/zenodo.14043001){target="_blank"} you might have already downloaded and unzipped and open it in QualCoder.
+Before proceeding, in QualCoder, select Open Project, then navigate to the analysis folder within the project example [sarah-project](https://doi.org/10.5281/zenodo.14043001){target="_blank"}. If you haven't already unzipped the file, do so now, and then choose the `influencers_q4.qda` folder to open. 
 
 QualCoder offers a few options for users to explore, query, visualize the data and export those reports and outputs. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, heat and tree maps. It also supports intercoder reliability testing for datasets coded, independently, by multiple people. Let's see how Sarah some of the options she might want to consider for her analysis.
 
@@ -231,7 +265,7 @@ Let's move on to the `charts` section, where you'll encounter several options. W
 
 Take time to explore the options available. Which ones would make more sense for you visualize Sarah's coding?
 
-### Multiple Coders and Coding Comparison
+### Multiple Coders & Coding Comparison
 
 QualCoder was designed for individual use, allowing one person to work on a project at a time. However, a second coder can access the same project on the same computer, or the project folder can be easily transferred to another computer. To add a new coder, navigate to the project settings, enter the coder's name, and click "Apply."
 
@@ -283,7 +317,7 @@ Dekoninck, H., Van Houtven, E., & Schmuck, D. (2023). Inspiring G(re)en Z: Unrav
 
 Kopp, B., & Dinkel, C. (2024). Adolescents’ values and values education through social media. *EDULEARN24 Proceedings*, 5257–5260. [10.21125/edulearn.2024.1289](https://doi.org/10.21125/edulearn.2024.1289){target="_blank"}
 
-### **Documenting Things**
+## Documenting Things
 
 When conducting qualitative research, it's crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. QualCoder allows you to export a few important files to support interpretation and reusability. Here’s what we should recommend Sarah to save:
 
