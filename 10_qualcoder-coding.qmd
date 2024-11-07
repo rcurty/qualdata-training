@@ -15,7 +15,7 @@ To do so, let's click `Coding` and then, `code text`, select `interviewee_01.doc
 
 ![](images/assign-newcode.png){width="662"}
 
-Once you name your code, and click OK you should see the new code in the lower right-hand side.
+Once you name your code, and click OK you should see the new code in the lower left-hand side.
 
 ![](images/first-code.png){width="659"}
 
@@ -83,12 +83,12 @@ We will be adding the following:
 
 | Name               | ID  | Case   |
 |--------------------|-----|--------|
-| interviwee_01.docx | 1   | Linda  |
-| interviwee_02.docx | 2   | Margot |
-| interviwee_03.docx | 3   | Gina   |
-| interviwee_04.docx | 4   | Otto   |
-| interviwee_05.docx | 5   | Ben    |
-| interviwee_06.docx | 6   | Alex   |
+| interviewee_01.docx | 1   | Linda  |
+| interviewee_02.docx | 2   | Margot |
+| interviewee_03.docx | 3   | Gina   |
+| interviewee_04.docx | 4   | Otto   |
+| interviewee_05.docx | 5   | Ben    |
+| interviewee_06.docx | 6   | Alex   |
 
 ![](images/create-cases.png)
 
@@ -110,12 +110,12 @@ We can assign age groups (25-29, 30-35, or 35-40) to each case and add their res
 
 | Name               | ID  | Case   | AgeGroup | Niche                |
 |--------------------|-----|--------|----------|----------------------|
-| interviwee_01.docx | 1   | Linda  | 25-29    | Beauty & Skin Care   |
-| interviwee_02.docx | 2   | Margot | 30-35    | Fashion & Style      |
-| interviwee_03.docx | 3   | Gina   | 30-35    | Home Decor & DIY     |
-| interviwee_04.docx | 4   | Otto   | 25-29    | Travel & Adventure   |
-| interviwee_05.docx | 5   | Ben    | 25-29    | Finance & Investment |
-| interviwee_06.docx | 6   | Alex   | 36-40    | Wellness & Health    |
+| interviewee_01.docx | 1   | Linda  | 25-29    | Beauty & Skin Care   |
+| interviewee_02.docx | 2   | Margot | 30-35    | Fashion & Style      |
+| interviewee_03.docx | 3   | Gina   | 30-35    | Home Decor & DIY     |
+| interviewee_04.docx | 4   | Otto   | 25-29    | Travel & Adventure   |
+| interviewee_05.docx | 5   | Ben    | 25-29    | Finance & Investment |
+| interviewee_06.docx | 6   | Alex   | 36-40    | Wellness & Health    |
 
 ![](images/attributes.png)
 
@@ -177,7 +177,7 @@ Great! Now that we understand how to create categories, assign and organize code
 
 ![](images/upper-bar-code.png)
 
-You may use the search box to perform queries using [Regex functions](https://www.rexegg.com/regex-quickstart.php){target="_blank"} and locate specific terms within and across multiple documents. This can be extremely handy to speed up the process of getting to specific passages of the data. Once you perform a search you, unfortunately you won't see the total of matching results. QualCoder will highlight those and you may use the back and forward arrows to navigate results.
+You may use the search box to perform queries using [Regex functions](https://www.rexegg.com/regex-quickstart.php){target="_blank"} (regular expressions) and locate specific terms within and across multiple documents. This can be extremely handy to speed up the process of getting to specific passages of the data. Once you perform a search you, unfortunately you won't see the total of matching results. QualCoder will highlight those and you may use the back and forward arrows to navigate results.
 
 Another useful feature is the ability to create file annotations for selected excerpts and coded sections, all conveniently displayed in one window. This allows you to highlight points that need clarification and passages you may want to revisit, especially if they have the potential to inspire new codes. You can use this tool to streamline your workflow and enhance your analysis. Note that the passage will be highlighted in bold so you can more easily spot what needs your attention. Similar approach can be followed with already coded passages, but typically those memos will reflect decisions behind the coding of that passage.
 
