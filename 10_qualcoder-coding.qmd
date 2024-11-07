@@ -261,7 +261,7 @@ The \`code summary\` option allows the inspection of files and a detailed word s
 
 Well, there are more reports to experiment and not all of them will be relevant for this project. So let's now focus on the visualization options within the tool.
 
-The `view graph` option will allow you to create visual based on existing selected codes by clicking on the bule `plus sign`. You may move things around and apply additional customization, but we want to keep it simple. Assuming we are happy with it, we can save the graph by clicking the downward arrow, and adding a name and description to it.
+The `view graph` option will allow you to create a visualization based on existing selected codes by clicking on the bule `plus sign`. You may move things around and apply additional customization, but we want to keep it simple. Assuming we are happy with it, we can save the graph by clicking the downward arrow, and adding a name and description to it.
 
 ![](images/graph-codemap.png)
 

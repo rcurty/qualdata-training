@@ -345,8 +345,6 @@ Required:
 
 -   Processed de-identified data (e.g., transcripts);
 
--   Codebook;
-
 -   Coded Data (supporting excerpts);
 
 -   README File: an overview of your project, including data sources,
