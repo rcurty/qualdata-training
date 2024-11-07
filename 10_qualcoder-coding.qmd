@@ -69,7 +69,7 @@ You can also use ***in vivo*** coding, which means that instead of assigning a p
 
 Now that we have covered some of the basics of coding, we will reorganize our project to establish a more efficient structure. This is especially important for projects that may evolve into something more complex, as it helps ensure better maintainability and scalability moving forward.
 
-To make things more simple, let's delete the existing codes and categories to start a blank canva.
+To simplify things, let's remove the existing codes and categories so we can start with a clean slate. To do so, right-click each code and choose `delete`.
 
 ### ***Create Cases***
 
