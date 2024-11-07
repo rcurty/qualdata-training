@@ -316,28 +316,144 @@ ul.task-list li input[type="checkbox"] {
 <li>entry point (category) – motivation (category) — pandemic — self-acceptance</li>
 </ul>
 <p>FIXME: Add Screenshot</p>
-<p>Unless you have a very structured, top-down approach from the outset, the coding structure or tree is likely to evolve as you interact with the data. The advantage of using a QDA tool is that it allows you to dynamically adjust your coding structure in response to new insights and emerging patterns. As you delve deeper into the data, you can effortlessly create new categories, reorganize existing codes, or merge categories, ensuring that the coding framework adapts alongside your evolving understanding of the data. This flexibility enables you to continuously refine and improve your analysis as new information emerges.</p>
+<p>Unless you have a very structured, top-down approach (as covered in previous episodes) from the outset, the coding structure or tree is likely to evolve as you interact with the data. The advantage of using a QDA tool is that it allows you to dynamically adjust your coding structure in response to new insights and emerging patterns. As you delve deeper into the data, you can effortlessly create new categories, reorganize existing codes, or merge categories, ensuring that the coding framework adapts alongside your evolving understanding of the data. This flexibility enables you to continuously refine and improve your analysis as new information emerges.</p>
 </section>
 <section id="organizing-things" class="level2">
 <h2 class="anchored" data-anchor-id="organizing-things">Organizing Things</h2>
 <p>Now that we have covered some of the basics of coding, we will reorganize our project to establish a more efficient structure. This is especially important for projects that may evolve into something more complex, as it helps ensure better maintainability and scalability moving forward.</p>
-<p><em>Create Cases</em></p>
-<p>As mentioned earlier, in some projects, you may have multiple documents associated with a single case. However, this won’t apply to our current example, as we’re only working with one interview transcript per case. This simplifies the structure for now, but keep in mind that QualCoder allows flexibility for more complex setups if needed in the future.</p>
+<section id="create-cases" class="level3">
+<h3 class="anchored" data-anchor-id="create-cases"><strong><em>Create Cases</em></strong></h3>
+<p>A case is typically a source of information and can be associated with one or more files. As mentioned earlier, in some projects, you may have multiple documents associated with a single case. However, this won’t apply to our current example, as we’re only working with one interview transcript per case. This simplifies the structure for now, but keep in mind that QualCoder allows flexibility for more complex setups if needed in the future.</p>
 <p>Still, to keep our project well-organized and make the most of QualCoder’s attributes feature— which can be helpful for extracting insights later on—let’s create a case for each interviewee and link their respective transcript to the case. We’ll use the same pseudonyms assigned to each research participant, as outlined in the file, to ensure consistency and clarity. This will allow us to efficiently track and analyze data specific to each participant.</p>
 <p><code>Manage &gt; Manage Cases &gt; Pencil (Add Case) &gt; Add your Case Name</code></p>
+<p>We will be adding the following:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 29%">
+<col style="width: 16%">
+<col style="width: 19%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>ID</th>
+<th>Case</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>interviwee_01.docx</td>
+<td>1</td>
+<td>Linda</td>
+</tr>
+<tr class="even">
+<td>interviwee_02.docx</td>
+<td>2</td>
+<td>Margot</td>
+</tr>
+<tr class="odd">
+<td>interviwee_03.docx</td>
+<td>3</td>
+<td>Gina</td>
+</tr>
+<tr class="even">
+<td>interviwee_04.docx</td>
+<td>4</td>
+<td>Otto</td>
+</tr>
+<tr class="odd">
+<td>interviwee_05.docx</td>
+<td>5</td>
+<td>Ben</td>
+</tr>
+<tr class="even">
+<td>interviwee_06.docx</td>
+<td>6</td>
+<td>Alex</td>
+</tr>
+</tbody>
+</table>
 <p><img src="images/create-cases.png" class="img-fluid"></p>
-<p><em>Link Files</em></p>
+</section>
+<section id="link-files" class="level3">
+<h3 class="anchored" data-anchor-id="link-files"><strong><em>Link Files</em></strong></h3>
 <p>Now, let’s link the corresponding file to the case we created. Click on the file cell to manage files for the case. This will prompt another window, as shown below:</p>
 <p><img src="images/associate-casesandfiles.png" class="img-fluid"></p>
 <p>Now, create cases and link the files for each of the interviews. You should have one for Linda, Margot, Gina, Otto, Ben, and Alex. Note that you can also import CSV files with cases. This can be handy, especially for projects with several cases.</p>
-<p><em>Describe Attributes</em></p>
+</section>
+<section id="describe-attributes" class="level3">
+<h3 class="anchored" data-anchor-id="describe-attributes"><strong><em>Describe Attributes</em></strong></h3>
+<p>A case can be classified using attributes. An example case may be a person who has been interviewed (an audio or text interview file) and have published works (e.g.&nbsp;blog posts as files). The person can be assigned attributes such as their location, gender or occupation.</p>
 <p>Each transcript has some characteristics associated with interviewees. It would be helpful to describe these as attributes for further analysis. We will only add two attributes: <code>age group</code> and <code>niche</code>. There are two different ways to create attributes: via <code>manage &gt; manage attributes</code> or in the <code>manage file</code> window, you may select the <code>blue plus sign.</code> The latter might be more convenient in this case, considering we have only a few attributes and cases.</p>
-<p>We can assign age groups (25-29, 30-35, or 35-40) to each case and add their respective niches.</p>
+<p>We can assign age groups (25-29, 30-35, or 35-40) to each case and add their respective niches, for example. This is what we will have for Sarah’s sample interviews, which you may use as a cheatsheet to describe the attributes while following along:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 29%">
+<col style="width: 6%">
+<col style="width: 12%">
+<col style="width: 15%">
+<col style="width: 31%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>ID</th>
+<th>Case</th>
+<th>AgeGroup</th>
+<th>Niche</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>interviwee_01.docx</td>
+<td>1</td>
+<td>Linda</td>
+<td>25-29</td>
+<td>Beauty &amp; Skin Care</td>
+</tr>
+<tr class="even">
+<td>interviwee_02.docx</td>
+<td>2</td>
+<td>Margot</td>
+<td>30-35</td>
+<td>Fashion &amp; Style</td>
+</tr>
+<tr class="odd">
+<td>interviwee_03.docx</td>
+<td>3</td>
+<td>Gina</td>
+<td>30-35</td>
+<td>Home Decor &amp; DIY</td>
+</tr>
+<tr class="even">
+<td>interviwee_04.docx</td>
+<td>4</td>
+<td>Otto</td>
+<td>25-29</td>
+<td>Travel &amp; Adventure</td>
+</tr>
+<tr class="odd">
+<td>interviwee_05.docx</td>
+<td>5</td>
+<td>Ben</td>
+<td>25-29</td>
+<td>Finance &amp; Investment</td>
+</tr>
+<tr class="even">
+<td>interviwee_06.docx</td>
+<td>6</td>
+<td>Alex</td>
+<td>36-40</td>
+<td>Wellness &amp; Health</td>
+</tr>
+</tbody>
+</table>
 <p><img src="images/attributes.png" class="img-fluid"></p>
-<p>You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to <strong><code>Manage &gt; Manage Attributes</code></strong></p>
+<p>You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to <code>Manage</code> and then, <code>Manage Attributes</code></p>
+<p>We can also import attributes from either a CSV or Microsoft Excel (XLSX) file. The first row should contain the attribute headings, and the first column must list the corresponding case names (e.g., ID1, ID2, ID3). Please note that case sensitivity is important. In the “Examples” folder, you will find both a cases.csv and cases.xlsx file for reference.</p>
 <p>We won’t need to add memos for now, but they can provide additional context when attributes aren’t immediately apparent.</p>
 <p>We now have a well-organized project in QualCoder, so let’s jump into some more advanced coding!</p>
-<p>But wait, we can make things easier by importing attributes from a CSV file.</p>
+</section>
 </section>
 <section id="practicing-more-advanced-coding" class="level2">
 <h2 class="anchored" data-anchor-id="practicing-more-advanced-coding">Practicing More Advanced Coding</h2>
@@ -350,7 +466,7 @@ ul.task-list li input[type="checkbox"] {
 <p>She found that accountability, authenticity and transparency are ethical responsibilities frequently associated with the the work of content creators and social media influencers. She’s eager to explore these broad categories while keeping them flexible, allowing for refinement, including branching and or combination of existing codes, and the incorporation of new codes as they emerge. Therefore, we will first create these initial three categories to get her started with some coding using the tool.</p>
 <p>It’s important to keep in mind that this process typically requires multiple iterations, which we might not be able to afford in a short episode. While we want to demonstrate the overall process to Sarah, she will likely need to keep adjusting the codes until she comes up with a more solid list of unambiguous ones.</p>
 <p>So, we will start by representing these three main categories in QualCoder. To do that, let’s do a ctrl+click on the panel. This will prompt a window with the most important actions for you to engage with the development and organization of your codebook.</p>
-<p>Click <code>add a new category</code>, and enter **Accountability*“<strong>. Complete the same process for the other two: </strong>Authenticity and Transparency**. You may also add a memo with some explanation about their meanings.</p>
+<p>Click <code>add a new category</code>, and enter **Accountability*“<strong>. Complete the same process for the other two:</strong> Authenticity and Transparency**. You may also add a memo with some explanation about their meanings.</p>
 <p><img src="images/memo-category.png" class="img-fluid"></p>
 <p>With QualCoder we can create as many levels we want (as long as they are not ambiguous) and also drag categories and codes to reorganize them. We’ll see more about it later.</p>
 <p>We now have three initial categories to work with. Assuming we’re familiar with the transcripts, we’ll explore excerpts related to these categories and consider the possibility of developing new codes. It’s important to remember that while we can’t directly assign categories to excerpts, they serve as a useful guide for exploring the data. This approach will assist us in identifying relevant themes later on, as we’ve seen in previous episodes.</p>
@@ -364,8 +480,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Alright, we have two new codes assigned to this interview, let’s move to other interviews and see if we can find excerpts related to this existing codes. I trust you have found some right away. After assigning <em>Honest Reviews</em> to another interview excerpt, let’s check the list of coded files.</p>
 <p><img src="images/honest-review-examples.png" class="img-fluid" width="500"></p>
 </section>
-<section id="more-coding-options" class="level3">
-<h3 class="anchored" data-anchor-id="more-coding-options">More Coding Options</h3>
+<section id="additional-coding-options" class="level3">
+<h3 class="anchored" data-anchor-id="additional-coding-options">Additional Coding Options</h3>
 <p>Great! Now that we understand how to create categories, assign and organize codes, and view excerpts related to those codes, let’s move our attention now to the top bar we mentioned earlier to understand other coding options we have to assist our coding tasks.</p>
 <p><img src="images/upper-bar-code.png" class="img-fluid"></p>
 <p>You may use the search box to perform queries using <a href="https://www.rexegg.com/regex-quickstart.php" target="_blank">Regex functions</a> and locate specific terms within and across multiple documents. This can be extremely handy to speed up the process of getting to specific passages of the data. Once you perform a search you, unfortunately you won’t see the total of matching results. QualCoder will highlight those and you may use the back and forward arrows to navigate results.</p>
@@ -423,13 +539,14 @@ Auto-coding Limitations
 </section>
 </section>
 <section id="additional-features-in-the-coding-panel" class="level3">
-<h3 class="anchored" data-anchor-id="additional-features-in-the-coding-panel">Additional features in the Coding Panel</h3>
+<h3 class="anchored" data-anchor-id="additional-features-in-the-coding-panel">Additional Features in the Coding Panel</h3>
 <p>You may also edit text using the blue pencil (proceed with care as this are irreversible) and export your coded files with the list of codes in html, odt or txt. Caution in clicking the red X, that will erase all your coding efforts for that particular file.</p>
 </section>
-<section id="reporting-graphing" class="level3">
-<h3 class="anchored" data-anchor-id="reporting-graphing">Reporting &amp; Graphing</h3>
+</section>
+<section id="reporting-graphing" class="level2">
+<h2 class="anchored" data-anchor-id="reporting-graphing">Reporting &amp; Graphing</h2>
 <p>After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting and graphing features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels like she is in a good place to navigate the reporting options within the tool with us.</p>
-<p>Before we proceed, please open the folder <code>influencers_q4.qda</code> from the project example <a href="https://doi.org/10.5281/zenodo.14043001" target="_blank">sarah-project</a> you might have already downloaded and unzipped and open it in QualCoder.</p>
+<p>Before proceeding, in QualCoder, select Open Project, then navigate to the analysis folder within the project example <a href="https://doi.org/10.5281/zenodo.14043001" target="_blank">sarah-project</a>. If you haven’t already unzipped the file, do so now, and then choose the <code>influencers_q4.qda</code> folder to open.</p>
 <p>QualCoder offers a few options for users to explore, query, visualize the data and export those reports and outputs. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, heat and tree maps. It also supports intercoder reliability testing for datasets coded, independently, by multiple people. Let’s see how Sarah some of the options she might want to consider for her analysis.</p>
 <p>Let’s click <code>reports</code> to see options in QualCoder. We will start with coding reports:</p>
 <p><img src="images/report-options.png" class="img-fluid"></p>
@@ -445,9 +562,8 @@ Auto-coding Limitations
 <p>Let’s move on to the <code>charts</code> section, where you’ll encounter several options. We typically recommend researchers avoid pie charts, as they are not effective for communicating information with three or more slices; human eyes struggle to distinguish curves. Instead, let’s explore more effective alternatives.</p>
 <p><img src="images/graphs-options.png" class="img-fluid"></p>
 <p>Take time to explore the options available. Which ones would make more sense for you visualize Sarah’s coding?</p>
-</section>
-<section id="multiple-coders-and-coding-comparison" class="level3">
-<h3 class="anchored" data-anchor-id="multiple-coders-and-coding-comparison">Multiple Coders and Coding Comparison</h3>
+<section id="multiple-coders-coding-comparison" class="level3">
+<h3 class="anchored" data-anchor-id="multiple-coders-coding-comparison">Multiple Coders &amp; Coding Comparison</h3>
 <p>QualCoder was designed for individual use, allowing one person to work on a project at a time. However, a second coder can access the same project on the same computer, or the project folder can be easily transferred to another computer. To add a new coder, navigate to the project settings, enter the coder’s name, and click “Apply.”</p>
 <p><img src="images/adding-coder.png" class="img-fluid"></p>
 <p>Add yourself as Sarah’s helper. To do this, return to the coding text feature and code one or two excerpts using the existing codes, ensuring that your name is listed as the coder.</p>
@@ -478,8 +594,9 @@ Auto-coding Limitations
 <p>Dekoninck, H., Van Houtven, E., &amp; Schmuck, D. (2023). Inspiring G(re)en Z: Unraveling (Para)social Bonds with Influencers and Perceptions of Their Environmental Content. <em>Environmental Communication</em>, <em>17</em>(7), 701–719. <a href="https://doi.org/10.1080/17524032.2023.2237693" target="_blank">https://doi.org/10.1080/17524032.2023.2237693</a></p>
 <p>Kopp, B., &amp; Dinkel, C. (2024). Adolescents’ values and values education through social media. <em>EDULEARN24 Proceedings</em>, 5257–5260. <a href="https://doi.org/10.21125/edulearn.2024.1289" target="_blank">10.21125/edulearn.2024.1289</a></p>
 </section>
-<section id="documenting-things" class="level3">
-<h3 class="anchored" data-anchor-id="documenting-things"><strong>Documenting Things</strong></h3>
+</section>
+<section id="documenting-things" class="level2">
+<h2 class="anchored" data-anchor-id="documenting-things">Documenting Things</h2>
 <p>When conducting qualitative research, it’s crucial to maintain thorough documentation to ensure transparency and ethical compliance. Documentation should include both project and file level documentation. QualCoder allows you to export a few important files to support interpretation and reusability. Here’s what we should recommend Sarah to save:</p>
 <ol type="1">
 <li><p>Codebook: the coding framework used, including definitions of codes and categories.</p></li>
@@ -512,7 +629,6 @@ REFI-QDA Codebook
 <p>McHugh, M. L. Interrater reliability: the kappa statistic. <em>Biochem Med</em>, 2012;22(3):276-82. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3900052" target="_blank">https://pmc.ncbi.nlm.nih.gov/articles/PMC3900052</a></p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
