@@ -157,6 +157,7 @@ This handout provides a compilation of helpful tips:
 Source: UCSB Library Data Literacy Series ([perma.cc/U4D8-UYFR](https://perma.cc/U4D8-UYFR){target='_blank'}).
 
 ::: {.callout-important collapse="true"}
+
 ## Additional Considerations
 
 -   *Alignment with repository access policies:* Ensure consent language supports options for data deposition (controlled or public) supported by the repository of your choice.
