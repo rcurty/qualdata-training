@@ -15,7 +15,7 @@ In the remaining episodes, we’ll be guiding Sarah, a graduate student in the C
 
 ## Example Research Project
 
-Her main research question is: *How do content creators/digital influencers view their role in shaping their followers' consumer behavior, and what ethical dilemmas do they face when promoting products?*
+Her main research question is: ***How do content creators/digital influencers view their role in shaping their followers' consumer behavior, and what ethical dilemmas do they face when promoting products?***
 
 Given the novelty of this research topic and the limited academic literature available, Sarah hopes that the insights gained from this small-scale qualitative exploratory study will help identify key variables for a larger survey study with a representative sample of content creators/digital influencers across the U.S.
 
@@ -33,7 +33,7 @@ Interviews were conducted over Zoom and audio recorded with participants' consen
 
 Each interview generated approximately 15 minutes of audio recording and were manually transcribed by Sarah. Sarah decided to keep the transcription true to the recordings and seek assistance to mitigate any risk of identification later, as we will see in the next episode.
 
-Now, let's make sure we all have the project files and that we take a quick pick on what is included there by accessing the link: [https://doi.org/10.5281/zenodo.14043001](https://doi.org/10.5281/zenodo.14043001){target="_blank"}. Make sure to unzip this folder and save it in your desktop.
+Now, let's make sure we all have the project files and that we take a quick pick on what is included there by accessing the link: [https://doi.org/10.5281/zenodo.14043001](https://doi.org/10.5281/zenodo.14043001){target="_blank"}. Make sure to unzip this folder and save it in your desktop for easy access.
 
 ## Reviewing Documents
 
