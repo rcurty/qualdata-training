@@ -1,5 +1,5 @@
 ---
-title: "Ethical Considerations for HS Research"
+title: "Ethical Considerations for Human Subject Research"
 ---
 
 Ethical practices are central to all scientific endeavors, guiding researchers in pursuing knowledge with integrity and responsibility. However, extra ethical considerations and measures should be taken when research involves human subjects. Ensuring participants' well-being, dignity, and rights must be prioritized, demanding rigorous standards to protect them from harm and exploitation.
