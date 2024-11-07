@@ -85,23 +85,25 @@ Let's now set Sarah's project in QualCoder, bring the files into the project, an
 
 #### Creating a Project
 
-Choose a location on your computer to save your project folder and name it `Influencers`. For easy access, you may save it on your desktop. Once created, this will generate a folder named `Influencers.qda`, which will contain several empty subfolders: documents, video, audio, and images. These subfolders are where you can store your uploaded files according to their respective types.
+With QualCoder launched, click on `Project`, then `Create new Project`. Choose a location on your computer to save your project folder and name it `Influencers`. For easy access, you may save it on your desktop.
+
+Once created, this will generate a folder named `Influencers.qda`, which will contain several empty subfolders: documents, video, audio, and images. Take a minute to navigate those. These subfolders are where you can store your uploaded files according to their respective types.
 
 #### Project Settings
 
-Click on `Project`, then select `Settings`. This will open a menu with various customization options, such as formatting, language, and more. For now, leave all settings as they are, but make sure to check the *Show IDs* option. Enabling this setting will be helpful for using advanced features in QualCoder later on.After that, click *OK* to save your changes. 
+When use Qualcoder we may want to customize a few things. Click on `Project`, then select `Settings`. This will open a menu with various customization options, such as formatting, language, and more. For now, we will leave all settings as they are, but make sure to check the option `Show IDs`. Enabling this setting will be helpful for using advanced features in QualCoder later on. After that, click `OK` to save your changes.
 
 #### Loading Files
 
-We've created a project folder but don't have any files yet, so let's load them now. Again, if you have not done yet, ensure to unzip the project example data files [https://doi.org/10.5281/zenodo.14043001](https://doi.org/10.5281/zenodo.14043001){target="_blank"} and have them ready to be uploaded into QualCoder. 
+We've created a project folder but we don't have any files yet, so let's upload them now. Again, if you have not done yet, ensure to unzip the project example data files [https://doi.org/10.5281/zenodo.14043001](https://doi.org/10.5281/zenodo.14043001){target="_blank"} and have them ready to be uploaded into QualCoder.
 
-To do so, click the *Manage menu*, and choose and *Manage files*. Then, click on the icon below:
+To do so, click on `Manage`, and choose and `Manage files`. Then, click on the icon below:
 
 ![](images/icon-importfiles.png)
 
-Now locate the `sarah-project` folder in your computer, and let's select all files in the *data/deid-transcripts* folder, where you should find six word documents named `interviewee_0X`.
+Now locate the `sarah-project` folder in your computer, and let's select all files in the `data/deid-transcripts` folder, where you should find six word documents named `interviewee_0X`.
 
-![](images/add-files-02.png)
+![](images/file-uploading.png)
 
 Note that the file ID will be assigned according to the import order, so if you want that to match your file naming convention, you should order it accordingly. If you need to fix it, click the red X on the right and delete the files, then reorder them accordingly and import them again into QualCoder.
 

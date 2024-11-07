@@ -11,45 +11,65 @@ Now that you've imported your files, let's dive into some basic coding. This wil
 
 As mentioned in previous episodes, we are focusing on thematic analysis which essentially requires as a first step for us to assign a text label or tag to represent selected excerpts.
 
-To do so, let's click `Coding` and then, `code text`, select `interviewee_01.docx`. Let's look at Q1 the first paragraph and say we want to code it as their *entry point* in their career. After selecting the paragraph, do a *right-click*, and select `Mark with new code`. You should now see the code listed on the left-handed side. You should be able to rename it, change color, and other options with a *right-click*, but let's leave it like that for now.
+To do so, let's click `Coding` and then, `code text`, select `interviewee_01.docx`. Let's look at Q1 the first paragraph and say we want to code it as their ***career start*** in their career. After selecting the paragraph, do a *right-click*, and select `Mark with new code`. You should now see the code listed on the left-handed side. You should be able to rename it, change color, and other options with a *right-click*, but let's leave it like that for now.
 
-FIXME: <add screenshot>
+![](images/assign-newcode.png){width="662"}
 
-Note that the code will be assigned a `cid` which stands for code identifier, which is unique to them and won't be reassinged even if you delete an existing code. You might be wondering: Can I apply multiple codes to the same excerpt? The answer is: Yes! You can create and assign as many relevant codes to an excerpt as necessary, even if you've already tagged it with a code. QualCoder will handle overalps in selection with no issues.
+Once you name your code, and click OK you should see the new code in the lower right-hand side.
 
-For example, let's try coding the same paragraph. If we want to code the phrase ***"Back in 2016 (...) self-love"*** as `self-acceptance`, you can simply apply that code. You'll notice that the last code you assign will be listed as "Mark with recent code". This serves as a handy shortcut for quickly applying existing codes. However, you can also select the code from the left-hand panel if you prefer.
+![](images/first-code.png){width="659"}
 
-Once you've coded an excerpt, right-clicking on it will bring up additional options. You can choose `Unmark` to remove a code, or you can add a memo to the code, providing additional reasoning or context. This is useful for adding notes that will help you remember the rationale behind your coding decisions as you move forward with your analysis. So, let's do that. Select the text, then choose `Memo coded text` and choose `entry point` enter a description, for example: "How the interviewee’s career as a digital influencer and content creator began."
+Note that the code will be assigned a `cid` which stands for code identifier, which is unique to each code and won't be reused even if you delete an existing code. You might be wondering: would that be possible to apply multiple codes to the same excerpt? The answer is: Yes! You can create and assign as many relevant codes to an excerpt as necessary, even if you've already tagged it with a code. QualCoder will handle those overalps with no issues.
 
-You can also use ***in vivo*** coding, which means that instead of assigning a pre-existing or new code with a label, the selected text itself becomes the code. This can be particularly useful if you have key text snippets or specific keywords that you want to highlight directly from the data. However, ***in vivo*** coding has its limitations. It can generate potentially ambiguous fragments that lack proper context, making it harder to reconcile across different files or cases. For example, if I want to note that Linda’s journey as a content creator began in 2016, coding that exact phrase as ***in vivo*** might not be as useful as coding it under a more general category like “starting year” and applying that code consistently across interviews. The more traditional coding approach we just performed ensures more clarity and allows for easier comparison.
+For example, let's try coding the same paragraph. If we want to code the phrase ***"Back in 2016 (...) self-love"*** as `self-acceptance`, you can simply apply that code. You'll notice that the last code you assign will be listed as "Mark with recent code". This serves as a handy shortcut for quickly applying pre-existing codes. However, you can also select the code from the left-hand panel if you prefer.
+
+Once you've coded an excerpt, right-clicking on it will bring up many additional options. You can choose `Unmark` to remove a code, or you can add a memo to the code, providing additional reasoning or context. This is useful for adding notes that will help you remember the rationale behind your coding decisions as you move forward with your analysis. So, let's do that. Select the text, then choose `Memo coded text` and choose `career start` enter a description, for example: "How the interviewee’s career as a digital influencer and content creator began."
+
+![](images/second-code.png)
+
+![](images/code-memo.png)
 
 ::: {.callout-note appearance="simple" collapse="true" icon="false"}
 ## 🏋 Exercise: Coding Ben's interview
 
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
-Alright, now it’s your turn! Let’s walk through the process of coding another interview, this time selecting Ben's interviewee_05.docx.
+Alright, now it’s your turn! Let’s walk through the process of coding another interview, this time selecting Ben's `interviewee_05.docx`.
 
-Start by focusing on the first question. First, apply the existing entry point code to a relevant selection. Then, create a new code of your choice to capture Ben’s motivation for starting his work as a content creator.
+Start by focusing on the first question. First, apply the existing `career start` code to a relevant selection. Then, create a new code of your choice to capture Ben’s motivation for starting his work as a content creator.
 :::
 :::
 
-For example, you have coded the first two paragraphs as `entry point` and also selected the first one as `pandemic` as indicated in the screenshot below.
+For example, you have coded the first two paragraphs as `career start`. Let's say `pandemic` is another relevant code we would like to have added associated with the first paragraph and let's add that.
 
-Keep in mind that when we switch files, the code counts will reset, since this view only displays the codes relevant to the selected file. To view all excerpts across codes, you'd have to click on `Reports > Coding Reports`.
+![](images/third-code.png)
 
-Okay, so now it might be a good time to introduce you to another concept and function available in QualCoder: **categories**. Categories are used to organize codes in a hierarchical tree structure, helping to keep information well-organized and easily accessible. You can move codes into different categories, as well as move entire categories into larger parent categories. It’s also possible to move codes or categories out of their current positions to re-organize or restructure the hierarchy. Additionally, codes and categories can be merged by dragging and dropping a code onto another code or a category onto another category.
+Keep in mind that when we switch files, the code counts will reset, since this view only displays the codes relevant to the selected file.
 
-You do not have to follow this steps now, as we will engage with categories shortly, but for this example I could, for instance, reorganize the existing codes having:
+![](images/count-file.png){width="224"}
 
--   entry point (category) -- motivation (category) --- pandemic --- self-acceptance
+To view all excerpts associated with each code and across files, you'd have to click on `Reports` and then, `Coding Reports`. Select the files, and click the play button to generate the report.
 
-FIXME: Add Screenshot
+![](images/basic-report.png)
+
+Okay, so now it might be a good time to introduce you to another concept and function available in QualCoder: **categories**.
+
+Categories are used to organize codes in a hierarchical tree structure, helping to keep information well-organized and easily accessible. You can move codes into different categories, as well as move entire categories into larger parent categories. It’s also possible to move codes or categories out of their current positions to re-organize or restructure the hierarchy. Additionally, codes and categories can be merged by dragging and dropping a code onto another code or a category onto another category.
+
+You don't need to follow these steps immediately, as we'll dive deeper into categories soon. However, for this example, I could create a 'motivation' category to group the codes 'pandemic' and 'self-acceptance.' This would serve as an organizational framework to categorize all the other motivational factors that influenced content creators and digital influencers in their decision to enter this space.
+
+-   motivation (category) -- pandemic (code) -- self-acceptance (code)
+
+![](images/category.png){width="391"}
 
 Unless you have a very structured, top-down approach (as covered in previous episodes) from the outset, the coding structure or tree is likely to evolve as you interact with the data. The advantage of using a QDA tool is that it allows you to dynamically adjust your coding structure in response to new insights and emerging patterns. As you delve deeper into the data, you can effortlessly create new categories, reorganize existing codes, or merge categories, ensuring that the coding framework adapts alongside your evolving understanding of the data. This flexibility enables you to continuously refine and improve your analysis as new information emerges.
+
+You can also use ***in vivo*** coding, which means that instead of assigning a pre-existing or new code with a label, the selected text itself becomes the code. This can be particularly useful if you have key text snippets or specific keywords that you want to highlight directly from the data. However, ***in vivo*** coding has its limitations. It can generate potentially ambiguous fragments that lack proper context, making it harder to reconcile across different files or cases. For example, if I want to note that Linda’s journey as a content creator began in 2016, coding that exact phrase as ***in vivo*** might not be as useful as coding it under a more general category like “starting year” and applying that code consistently across interviews. The more traditional coding approach we just performed ensures more clarity and allows for easier comparison.
 
 ## Organizing Things
 
 Now that we have covered some of the basics of coding, we will reorganize our project to establish a more efficient structure. This is especially important for projects that may evolve into something more complex, as it helps ensure better maintainability and scalability moving forward.
+
+To make things more simple, let's delete the existing codes and categories to start a blank canva.
 
 ### ***Create Cases***
 
@@ -61,21 +81,14 @@ Still, to keep our project well-organized and make the most of QualCoder's attri
 
 We will be adding the following:
 
-+--------------------+-----------+-------------+
-| Name               | ID        | Case        |
-+====================+===========+=============+
-| interviwee_01.docx | 1         | Linda       |
-+--------------------+-----------+-------------+
-| interviwee_02.docx | 2         | Margot      |
-+--------------------+-----------+-------------+
-| interviwee_03.docx | 3         | Gina        |
-+--------------------+-----------+-------------+
-| interviwee_04.docx | 4         | Otto        |
-+--------------------+-----------+-------------+
-| interviwee_05.docx | 5         | Ben         |
-+--------------------+-----------+-------------+
-| interviwee_06.docx | 6         | Alex        |
-+--------------------+-----------+-------------+
+| Name               | ID  | Case   |
+|--------------------|-----|--------|
+| interviwee_01.docx | 1   | Linda  |
+| interviwee_02.docx | 2   | Margot |
+| interviwee_03.docx | 3   | Gina   |
+| interviwee_04.docx | 4   | Otto   |
+| interviwee_05.docx | 5   | Ben    |
+| interviwee_06.docx | 6   | Alex   |
 
 ![](images/create-cases.png)
 
@@ -95,21 +108,14 @@ Each transcript has some characteristics associated with interviewees. It would 
 
 We can assign age groups (25-29, 30-35, or 35-40) to each case and add their respective niches, for example. This is what we will have for Sarah's sample interviews, which you may use as a cheatsheet to describe the attributes while following along:
 
-+--------------------+----+--------+----------+----------------------+
-| Name               | ID | Case   | AgeGroup | Niche                |
-+====================+====+========+==========+======================+
-| interviwee_01.docx | 1  | Linda  | 25-29    | Beauty & Skin Care   |
-+--------------------+----+--------+----------+----------------------+
-| interviwee_02.docx | 2  | Margot | 30-35    | Fashion & Style      |
-+--------------------+----+--------+----------+----------------------+
-| interviwee_03.docx | 3  | Gina   | 30-35    | Home Decor & DIY     |
-+--------------------+----+--------+----------+----------------------+
-| interviwee_04.docx | 4  | Otto   | 25-29    | Travel & Adventure   |
-+--------------------+----+--------+----------+----------------------+
-| interviwee_05.docx | 5  | Ben    | 25-29    | Finance & Investment |
-+--------------------+----+--------+----------+----------------------+
-| interviwee_06.docx | 6  | Alex   | 36-40    | Wellness & Health    |
-+--------------------+----+--------+----------+----------------------+
+| Name               | ID  | Case   | AgeGroup | Niche                |
+|--------------------|-----|--------|----------|----------------------|
+| interviwee_01.docx | 1   | Linda  | 25-29    | Beauty & Skin Care   |
+| interviwee_02.docx | 2   | Margot | 30-35    | Fashion & Style      |
+| interviwee_03.docx | 3   | Gina   | 30-35    | Home Decor & DIY     |
+| interviwee_04.docx | 4   | Otto   | 25-29    | Travel & Adventure   |
+| interviwee_05.docx | 5   | Ben    | 25-29    | Finance & Investment |
+| interviwee_06.docx | 6   | Alex   | 36-40    | Wellness & Health    |
 
 ![](images/attributes.png)
 
@@ -233,7 +239,7 @@ You may also edit text using the blue pencil (proceed with care as this are irre
 
 After reviewing the basics with Sarah, she gained confidence in exploring the data using the tool independently. She initiated a new project over the weekend, concentrating on Q4, where she experimented with the tool and developed categories and codes. When she returned, she had some preliminary coding ready, allowing us to guide her through the reporting and graphing features in QualCoder. Although she hasn’t finished the analysis yet, Sarah feels like she is in a good place to navigate the reporting options within the tool with us.
 
-Before proceeding, in QualCoder, select Open Project, then navigate to the analysis folder within the project example [sarah-project](https://doi.org/10.5281/zenodo.14043001){target="_blank"}. If you haven't already unzipped the file, do so now, and then choose the `influencers_q4.qda` folder to open. 
+Before proceeding, in QualCoder, select Open Project, then navigate to the analysis folder within the project example [sarah-project](https://doi.org/10.5281/zenodo.14043001){target="_blank"}. If you haven't already unzipped the file, do so now, and then choose the `influencers_q4.qda` folder to open.
 
 QualCoder offers a few options for users to explore, query, visualize the data and export those reports and outputs. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, heat and tree maps. It also supports intercoder reliability testing for datasets coded, independently, by multiple people. Let's see how Sarah some of the options she might want to consider for her analysis.
 
