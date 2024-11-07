@@ -40,7 +40,7 @@ Some of these answers will also help to inform a Data Request for controlled acc
 
 We have talked about the responsibilities of researchers sharing data, but what are the responsibilities of those reusing pre-existing research data?
 
-Researchers interested in reusing QHS data need to pay special attention to the following:
+Researchers interested in reusing qualitative human subject (QHS) data need to pay special attention to the following:
 
 1\. Proper Attribution: Acknowledge the original creators of the data by giving them credit, thereby respecting their contributions and intellectual property rights.
 
