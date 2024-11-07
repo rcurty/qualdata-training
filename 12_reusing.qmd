@@ -1,5 +1,5 @@
 ---
-title: "Reusing QHS Data"
+title: "Reusing Qualitative Human Subject Data"
 ---
 
 Sharing well-documented data and connecting it to related research is crucial for maximizing reuse potential. With the tips we've provided and the support of QualCoder for exporting codebooks and reports, Sarah can easily share her project with the research community. This ensures that her work is valuable within her field and accessible to other disciplines. By adopting this approach, she enhances the reuse value of her data and fosters collaboration across various research areas!
