@@ -156,7 +156,7 @@ Having promised to keep participants' identities confidential, Sarah have assign
 ## 🏋️‍♀Exercise: Helping Sarah De-identifying Transcripts
 
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
-Let's open the files for `interviewee_01` and `interviewee_03` located in `sara-Project/data/transcripts` you might have already unzipped from  (project example folder](https://zenodo.org/records/14043001){target='_blank'}). To make things easier, we have highlighted some potential sensitive pieces of information. What strategies can we implement to minimize the risk of interviewees' identification?
+Let's open the files for `interviewee_01` and `interviewee_03` located in `sara-Project/data/transcripts` you might have already unzipped from  [project example folder](https://zenodo.org/records/14043001){target='_blank'}. To make things easier, we have highlighted some potential sensitive pieces of information. What strategies can we implement to minimize the risk of interviewees' identification?
 
 The `deid-transcripts` folder contains a possible solution to this exercise. Please note that the names listed at the top of the document are pseudonyms assigned to the interviewees. After all, we want to ensure the privacy and confidentiality of participants by avoiding the use of real names, right?
 :::
