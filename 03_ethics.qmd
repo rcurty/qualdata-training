@@ -111,7 +111,7 @@ For this last, we recommend you add tiered options, as described below:
 +------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
 | *Example 2: Use/Reuse* | I consent to de-identified excerpts of my interview to be used in academic publications. Y\_\_\_\_ N \_\_\_\_                         |
 |                        |                                                                                                                                       |
-|                        | I consent to de-identified excerpts of my interview to be used in academic publications in classroom activities. Y\_\_\_\_ N \_\_\_\_ |
+|                        | I consent to de-identified excerpts of my interview to be used in classroom activities. Y\_\_\_\_ N \_\_\_\_ |
 +------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
 | *Example 3: Sharing*   | I consent audio recordings to be shared with select research teams. Y\_\_\_\_ N \_\_\_\_                                              |
 |                        |                                                                                                                                       |
