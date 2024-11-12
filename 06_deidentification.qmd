@@ -4,7 +4,7 @@ title: "Data De-identification"
 
 Disclosing sensitive information without proper safeguards can lead to significant harm and jeopardize not only the well-being of participants but also the integrity and trustworthiness of the research process.
 
-The richness of the data obtained through interviews presents additional ethical and analytical challenges, particularly regarding the need for more nuanced and intricate analysis, concerning the protection of participant' identity, and the mitigation of the risk of re-identification.
+The richness of the data obtained through interviews presents additional ethical and analytical challenges, particularly regarding the need for more nuanced and intricate analysis, concerning the protection of participant identity, and the mitigation of the risk of re-identification.
 
 Qualitative data can be more difficult to de-identify compared to quantitative data due to its typically unstructured nature. Another challenge is that qualitative data includes unique personal narratives and contextual details that can inadvertently reveal identities, requiring careful and nuanced de-identification strategies to protect participants' privacy effectively. The process of de-identification or anonymization can also alter or diminish data value, especially when the significance lies in capturing personal experiences or narratives. Researchers should consider using de-identification alongside other methods, such as limiting access to the data or obtaining explicit consent from participants to share some or all of their personal information. Because extensive de-identification might sometimes obscure important details needed for deep analysis, striking a balance between removing identifiers and preserving the essential context of the qualitative data is key.
 
@@ -13,12 +13,12 @@ In a nutshell, data de-identification entails the process of removing direct and
 ::: {.callout-note collapse="true" icon="false"}
 ## 🤔 Should all data derived from human subjects always be de-identified?
 
-Not all qualitative data collected from human participants requires de-identification. First, it depends on the agreement made with the research subject and the nature of the study. Also, oral history research and "on the record," interviews resulting notes or transcripts can be shared with the respondent's name, especially for well-known figures who are used to journalistic interviews. However, be aware of local practices: in some regions, interviewees may have the right to review the written record before it is shared or published. Data that is already part of the public record, such as public statements by politicians, does not need to be de-identified.
+Not all qualitative data collected from human participants requires de-identification. First, it depends on the agreement made with the research subject and the nature of the study. Also, oral history research and "on the record" interviews and resulting notes or transcripts can be shared with the respondent's name, especially for well-known figures who are used to journalistic interviews. However, be aware of local practices: in some regions, interviewees may have the right to review the written record before it is shared or published. Data that is already part of the public record, such as public statements by politicians, does not need to be de-identified.
 :::
 
 ## Direct vs Indirect Identifiers
 
-A person's identity can be disclosed from direct identifiers, unique to an individual or indirect identifiers which, when linked with other available information, could identify someone.
+A person's identity can be disclosed from direct identifiers, which are unique to an individual, or indirect identifiers which, when linked with other available information, could identify someone.
 
 Direct identifiers are pieces of information that can immediately identify an individual on their own, such as a social security number, full name, email address, home address, or phone number. In contrast, indirect identifiers are data points that do not uniquely identify someone by themselves but can do so when combined with other information. Examples of indirect identifiers include job title, gender, and ethnicity. The risk associated with indirect identifiers can vary depending on the context and the availability of additional data. Therefore, it is crucial to understand which data points are relevant within the context of the study and to consider both direct and indirect identifiers to effectively protect privacy and minimize the risk of identification.
 
