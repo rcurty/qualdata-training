@@ -12,7 +12,7 @@ author:
     orcid: 0000-0001-8785-0021
 date: last-modified
 citation: 
-  url: https://ucsb-library-research-data-services.github.io/change
+  url: rcurty.github.io/qualdata-training
 categories: [data ethics, data management, data de-identification, human subjects, qualcoder, qualitative research, sensitive data, thematic analysis]
 ---
 
