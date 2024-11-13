@@ -10,7 +10,7 @@ These tools may range from analog methods, such as post-its notes and manual ann
 
 ![Post-it Coding - Source: [Musings (2013)](https://blatryk.wordpress.com/2013/09/15/handheld-coding-thoughts-on-the-science-of-design-research/){target='_blank'}](images/post-it-coding.jpeg){fig-alt="Example of Coding Technique using Post-it" fig-align="center" width="500"}
 
-Not rarely, researchers use MS Word or Google docs to annotate and analyze qualitative data. While this process may satisfy some small-scale projects' needs, there are some disadvantages associated with this process. Can you guess what are those?
+Not rarely, researchers use MS Word or Google docs to annotate and analyze qualitative data. While this process may satisfy some small-scale projects' needs, there are some disadvantages associated with this process. Can you guess what those are?
 
 ![MS Word Coding Example - Source: [hdl.handle.net/2139/39482](hdl.handle.net/2139/39482)](images/ms-word-coding.png){target='_blank'}
 
@@ -36,9 +36,9 @@ Choosing a tool will depend on the specific needs of your project, including the
 
 The UCSB Library offers limited [NVivo](https://lumivero.com/){target='_blank'} and [MaxQDA](https://www.maxqda.com){target='_blank'} licenses to campus affiliates via the [DREAMLab](https://www.library.ucsb.edu/dreamlab){target='_blank'}. These two programs together with [Atlas.TI](https://atlasti.com/){target='_blank'} are the leading and most widely recognized proprietary solutions in the market. They are well-known for their comprehensive features, flexibility, and ability to handle complex qualitative research projects.
 
-So why not focus primary on those well-established proprietary solutions? 1. Proprietary tools already have comprehensive documentation and online tutorials available. 2. UCSB can only support a limited number of seats per quarter due to the high licensing costs. Additionally, some advanced collaboration and synchronization are not supported for our institutional license. 3. The learning curve to use these tools can be steep for some researchers, especially since some features may be less relevant and underutilized. 4. While we can help you navigate and get started with UCSB-licensed proprietary tools if you choose so, we want promote of more democratic, open-source and free alternatives to help researchers organize, code and analyze qualitative data.
+However, this course will focus not on those proprietary tools, but instead on open-source tools. Why not proprietary solutions? 1. Proprietary tools already have comprehensive documentation and online tutorials available. 2. UCSB can only support a limited number of seats per quarter due to the high licensing costs. Additionally, some advanced collaboration and synchronization features are not supported for our institutional license. 3. The learning curve to use these tools can be steep for some researchers, especially since some features may be less relevant and underutilized. 4. While we can help you navigate and get started with UCSB-licensed proprietary tools if you choose so, we want promote more democratic, open-source and free alternatives to help researchers organize, code and analyze qualitative data.
 
-Below we compare the top most popular open-source free tool: [Qualcoder](https://qualcoder.wordpress.com){target='_blank'} and [Taguette](https://www.taguette.org){target='_blank'}.
+Below we compare the two most popular open-source free tools: [Qualcoder](https://qualcoder.wordpress.com){target='_blank'} and [Taguette](https://www.taguette.org){target='_blank'}.
 
 ***Comparison of Qualcoder vs. Taguette for Qualitative Data Analysis***
 
@@ -56,6 +56,6 @@ Below we compare the top most popular open-source free tool: [Qualcoder](https:/
 
 (\*) QualCoder AI (beta) experimental version of QualCoder with AI-enhanced functionality (using GPT-4). See: <https://github.com/kaixxx/QualCoder/tree/ai_integration>{target='_blank'}
 
-Despite of its limited collaboration capabilities (as it will be further described), for this offer of the course we will be using QualCoder. This choice was motivated by the fact that this tool offer more robust coding features than Taguette, and that are more similar to advanced options offered by commercial QDA tools. 
+Despite its limited collaboration capabilities (as will be further described), for this offering of the course we will be using QualCoder. This choice was motivated by the fact that this tool offers more robust coding features than Taguette, and its features are more similar to the advanced options offered by commercial QDA tools. 
 
 If you are interested in learning more about Taguette, here is a hands-on workshop to help you get started: [Open Qualitative Research](http://ucla-imls-open-sci.info/open-qualitative-research){target='_blank'}.

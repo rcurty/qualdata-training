@@ -86,7 +86,7 @@ Discourse analysis helps us understand how language reflects different ideas and
 
 Whether you're new to research or a pro, qualitative analysis is an active process of reflexivity in which your subjective experience and pre-knowledge about the phenomenon of interest inform your process of making sense of the data and finding patterns and relationships. It is all about close familiarization with the data, categorizing, discovering, reviewing, and iterating until you find meaningful insights to inform your research questions before you can draw conclusions and articulate your findings.
 
-Data can be arranged and coded following two types of approaches: a more inductive (bottom-up) approach, where insights and themes emerge more organically and directly from the data without prior assumptions, or even a combination of both as researchers engage with and learn more details from the data. Or a deductive (top-down) approach, where researchers apply preexisting theoretical frameworks or concepts to the data.
+Data can be arranged and coded following two types of approaches: a more inductive (bottom-up) approach, where insights and themes emerge more organically and directly from the data without prior assumptions, or a deductive (top-down) approach, where researchers apply preexisting theoretical frameworks or concepts to the data. The approaches can also be combined as researchers engage with and learn more details from the data. 
 
 ![Inductive vs. Deductive Coding](images/inductive-deductive-coding.jpg){width="746"}
 
@@ -97,8 +97,6 @@ The top-down approach begins with a specific theoretical framework or research q
 It’s important to remember that, although it’s helpful to understand the differences between these two approaches, they can actually work well together. Combining them allows you to take advantage of each method’s strengths, leading to a richer and more nuanced analysis that incorporates real-world data and theoretical insights.
 
 Check our handout for more information on these two approaches:
-
-This handout provides a compilation with some helpful tips:
 
 <iframe width="50%" height="800" src="https://rcd.ucsb.edu/sites/default/files/2024-06/DLS-202406-QualCoding.pdf">
 
@@ -127,7 +125,7 @@ Allowing codes to develop organically without prior assumptions.
 :::
 
 ::: choice
-Analyzing data without an structured approach.
+Analyzing data without a structured approach.
 :::
 :::
 :::
