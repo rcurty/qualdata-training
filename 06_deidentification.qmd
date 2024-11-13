@@ -52,7 +52,7 @@ The existing literature provides limited guidance on de-identifying qualitative 
 
 In the first phase, the process involves consultations with a range of stakeholders and subject-matter experts to identify risks related to re-identifiability and concerns about data sharing. The second phase outlines an iterative approach to identifying potentially identifiable information and developing tailored remediation strategies through group review and consensus. The final phase includes multiple methods for evaluating the effectiveness of the de-identification efforts, ensuring that the remediated transcripts adequately protect participants' privacy. If your project involves working with vulnerable or protected groups, or handling sensitive data, we strongly recommend reviewing and applying this framework to your research.
 
-![Qualitative Data De-identification Overview. Source: Campbell et al. (2023){target='_blank'}](images/transcript-remediation.jpeg){width="809"}
+![Qualitative Data De-identification Overview. Source: Campbell et al. (2023)](images/transcript-remediation.jpeg){width="809"}
 
 These three phases can be broken into tasks, actions and examples:
 
@@ -85,7 +85,7 @@ These three phases can be broken into tasks, actions and examples:
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                                | Implement remediation plans                                                               | Edit and redact text                                                                                    | Insert blurred text, remove redacted text, and insert summaries in the event of important long redactions                                        |
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                | Provide support to coding team if there will be repeated exposure to traumatic con tent\* | Check in with team members regarding their experiences of vicarious trauma                              | Provide information and support regarding the emotional impact of repeated exposure to traumatic content and offer supportive resources          |
+|                                                                | Provide support to coding team if there will be repeated exposure to traumatic content\* | Check in with team members regarding their experiences of vicarious trauma                              | Provide information and support regarding the emotional impact of repeated exposure to traumatic content and offer supportive resources          |
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 | Phase 3:                                                       | Select validity standards                                                                 | Assess credibility (i.e., confidence in the accuracy of the findings)                                   | Use of prolonged engagement, persistent engagement, and member checks to assess accuracy of the findings                                         |
 |                                                                |                                                                                           |                                                                                                         |                                                                                                                                                  |
@@ -95,7 +95,7 @@ These three phases can be broken into tasks, actions and examples:
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                                |                                                                                           | Assess transferability (i.e., the findings have applicability in other con texts)                       | Provide audiences with sufficient detail about the project so they can assess whether conclusions are transferable to other settings             |
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                |                                                                                           | Assess confirmability (i.e., the findings reflect the participants’ views, not the researchers’ biases) | Consider how re searchers’ positionalities affected the processes and findings and when necessary, recenter the participants’ views              |
+|                                                                |                                                                                           | Assess confirmability (i.e., the findings reflect the participants’ views, not the researchers’ biases) | Consider how researchers’ positionalities affected the processes and findings and when necessary, recenter the participants’ views              |
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 
 \*Not applicable to small-scale studies. Source: Adapted from: Campbell et al. (2023).
@@ -106,7 +106,7 @@ Now, let's focus on some practical ways to remediate potentially identifiable da
 
 2.  Thoroughly review data to pinpoint any details that could lead to individual identification.
 
-3.  Assign an unique identifier to each participant to replace their name.
+3.  Assign a unique identifier to each participant to replace their name.
 
 4.  Replace real names (people, companies) with pseudonyms.
 
@@ -150,13 +150,13 @@ This handout provides a compilation with some helpful tips:
 
 Source: UCSB Library Data Literacy Series ([perma.cc/LM2L-K8DN](https://perma.cc/LM2L-K8DN){target='_blank'}).
 
-Having promised to keep participants' identities confidential, Sarah have assigned pseudonyms to interviewees. However, she is uncertain how to handle indirect identifiers. We will help her to address these issues confidently.
+Having promised to keep participants' identities confidential, Sarah has assigned pseudonyms to interviewees. However, she is uncertain how to handle indirect identifiers. We will help her to address these issues confidently.
 
 ::: {.callout-note appearance="simple" collapse="true" icon="false"}
 ## 🏋️‍♀Exercise: Helping Sarah De-identifying Transcripts
 
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
-Let's open the files for `interviewee_01` and `interviewee_03` located in `sara-Project/data/transcripts` you might have already unzipped from  [project example folder](https://zenodo.org/records/14043001){target='_blank'}. To make things easier, we have highlighted some potential sensitive pieces of information. What strategies can we implement to minimize the risk of interviewees' identification?
+Let's open the files for `interviewee_01` and `interviewee_03` located in `sara-project/data/transcripts` you might have already unzipped from  [project example folder](https://zenodo.org/records/14043001){target='_blank'}. To make things easier, we have highlighted some potential sensitive pieces of information. What strategies can we implement to minimize the risk of interviewees' identification?
 
 The `deid-transcripts` folder contains a possible solution to this exercise. Please note that the names listed at the top of the document are pseudonyms assigned to the interviewees. After all, we want to ensure the privacy and confidentiality of participants by avoiding the use of real names, right?
 :::
