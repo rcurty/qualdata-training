@@ -4,7 +4,7 @@ title: "Data De-identification"
 
 Disclosing sensitive information without proper safeguards can lead to significant harm and jeopardize not only the well-being of participants but also the integrity and trustworthiness of the research process.
 
-The richness of the data obtained through interviews presents additional ethical and analytical challenges, particularly regarding the need for more nuanced and intricate analysis, concerning the protection of participant' identity, and the mitigation of the risk of re-identification.
+The richness of the data obtained through interviews presents additional ethical and analytical challenges, particularly regarding the need for more nuanced and intricate analysis, concerning the protection of participant identity, and the mitigation of the risk of re-identification.
 
 Qualitative data can be more difficult to de-identify compared to quantitative data due to its typically unstructured nature. Another challenge is that qualitative data includes unique personal narratives and contextual details that can inadvertently reveal identities, requiring careful and nuanced de-identification strategies to protect participants' privacy effectively. The process of de-identification or anonymization can also alter or diminish data value, especially when the significance lies in capturing personal experiences or narratives. Researchers should consider using de-identification alongside other methods, such as limiting access to the data or obtaining explicit consent from participants to share some or all of their personal information. Because extensive de-identification might sometimes obscure important details needed for deep analysis, striking a balance between removing identifiers and preserving the essential context of the qualitative data is key.
 
@@ -13,12 +13,12 @@ In a nutshell, data de-identification entails the process of removing direct and
 ::: {.callout-note collapse="true" icon="false"}
 ## 🤔 Should all data derived from human subjects always be de-identified?
 
-Not all qualitative data collected from human participants requires de-identification. First, it depends on the agreement made with the research subject and the nature of the study. Also, oral history research and "on the record," interviews resulting notes or transcripts can be shared with the respondent's name, especially for well-known figures who are used to journalistic interviews. However, be aware of local practices: in some regions, interviewees may have the right to review the written record before it is shared or published. Data that is already part of the public record, such as public statements by politicians, does not need to be de-identified.
+Not all qualitative data collected from human participants requires de-identification. First, it depends on the agreement made with the research subject and the nature of the study. Also, oral history research and "on the record" interviews and resulting notes or transcripts can be shared with the respondent's name, especially for well-known figures who are used to journalistic interviews. However, be aware of local practices: in some regions, interviewees may have the right to review the written record before it is shared or published. Data that is already part of the public record, such as public statements by politicians, does not need to be de-identified.
 :::
 
 ## Direct vs Indirect Identifiers
 
-A person's identity can be disclosed from direct identifiers, unique to an individual or indirect identifiers which, when linked with other available information, could identify someone.
+A person's identity can be disclosed from direct identifiers, which are unique to an individual, or indirect identifiers which, when linked with other available information, could identify someone.
 
 Direct identifiers are pieces of information that can immediately identify an individual on their own, such as a social security number, full name, email address, home address, or phone number. In contrast, indirect identifiers are data points that do not uniquely identify someone by themselves but can do so when combined with other information. Examples of indirect identifiers include job title, gender, and ethnicity. The risk associated with indirect identifiers can vary depending on the context and the availability of additional data. Therefore, it is crucial to understand which data points are relevant within the context of the study and to consider both direct and indirect identifiers to effectively protect privacy and minimize the risk of identification.
 
@@ -52,7 +52,7 @@ The existing literature provides limited guidance on de-identifying qualitative 
 
 In the first phase, the process involves consultations with a range of stakeholders and subject-matter experts to identify risks related to re-identifiability and concerns about data sharing. The second phase outlines an iterative approach to identifying potentially identifiable information and developing tailored remediation strategies through group review and consensus. The final phase includes multiple methods for evaluating the effectiveness of the de-identification efforts, ensuring that the remediated transcripts adequately protect participants' privacy. If your project involves working with vulnerable or protected groups, or handling sensitive data, we strongly recommend reviewing and applying this framework to your research.
 
-![Qualitative Data De-identification Overview. Source: Campbell et al. (2023){target='_blank'}](images/transcript-remediation.jpeg){width="809"}
+![Qualitative Data De-identification Overview. Source: Campbell et al. (2023)](images/transcript-remediation.jpeg){width="809"}
 
 These three phases can be broken into tasks, actions and examples:
 
@@ -85,7 +85,7 @@ These three phases can be broken into tasks, actions and examples:
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                                | Implement remediation plans                                                               | Edit and redact text                                                                                    | Insert blurred text, remove redacted text, and insert summaries in the event of important long redactions                                        |
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                | Provide support to coding team if there will be repeated exposure to traumatic con tent\* | Check in with team members regarding their experiences of vicarious trauma                              | Provide information and support regarding the emotional impact of repeated exposure to traumatic content and offer supportive resources          |
+|                                                                | Provide support to coding team if there will be repeated exposure to traumatic content\* | Check in with team members regarding their experiences of vicarious trauma                              | Provide information and support regarding the emotional impact of repeated exposure to traumatic content and offer supportive resources          |
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 | Phase 3:                                                       | Select validity standards                                                                 | Assess credibility (i.e., confidence in the accuracy of the findings)                                   | Use of prolonged engagement, persistent engagement, and member checks to assess accuracy of the findings                                         |
 |                                                                |                                                                                           |                                                                                                         |                                                                                                                                                  |
@@ -95,7 +95,7 @@ These three phases can be broken into tasks, actions and examples:
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                                |                                                                                           | Assess transferability (i.e., the findings have applicability in other con texts)                       | Provide audiences with sufficient detail about the project so they can assess whether conclusions are transferable to other settings             |
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                |                                                                                           | Assess confirmability (i.e., the findings reflect the participants’ views, not the researchers’ biases) | Consider how re searchers’ positionalities affected the processes and findings and when necessary, recenter the participants’ views              |
+|                                                                |                                                                                           | Assess confirmability (i.e., the findings reflect the participants’ views, not the researchers’ biases) | Consider how researchers’ positionalities affected the processes and findings and when necessary, recenter the participants’ views              |
 +----------------------------------------------------------------+-------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 
 \*Not applicable to small-scale studies. Source: Adapted from: Campbell et al. (2023).
@@ -106,7 +106,7 @@ Now, let's focus on some practical ways to remediate potentially identifiable da
 
 2.  Thoroughly review data to pinpoint any details that could lead to individual identification.
 
-3.  Assign an unique identifier to each participant to replace their name.
+3.  Assign a unique identifier to each participant to replace their name.
 
 4.  Replace real names (people, companies) with pseudonyms.
 
@@ -150,13 +150,13 @@ This handout provides a compilation with some helpful tips:
 
 Source: UCSB Library Data Literacy Series ([perma.cc/LM2L-K8DN](https://perma.cc/LM2L-K8DN){target='_blank'}).
 
-Having promised to keep participants' identities confidential, Sarah have assigned pseudonyms to interviewees. However, she is uncertain how to handle indirect identifiers. We will help her to address these issues confidently.
+Having promised to keep participants' identities confidential, Sarah has assigned pseudonyms to interviewees. However, she is uncertain how to handle indirect identifiers. We will help her to address these issues confidently.
 
 ::: {.callout-note appearance="simple" collapse="true" icon="false"}
 ## 🏋️‍♀Exercise: Helping Sarah De-identifying Transcripts
 
 ::: {.callout-note collapse="true" appearance="simple" icon="false"}
-Let's open the files for `interviewee_01` and `interviewee_03` located in `sara-Project/data/transcripts` you might have already unzipped from  [project example folder](https://zenodo.org/records/14043001){target='_blank'}. To make things easier, we have highlighted some potential sensitive pieces of information. What strategies can we implement to minimize the risk of interviewees' identification?
+Let's open the files for `interviewee_01` and `interviewee_03` located in `sara-project/data/transcripts` you might have already unzipped from  [project example folder](https://zenodo.org/records/14043001){target='_blank'}. To make things easier, we have highlighted some potential sensitive pieces of information. What strategies can we implement to minimize the risk of interviewees' identification?
 
 The `deid-transcripts` folder contains a possible solution to this exercise. Please note that the names listed at the top of the document are pseudonyms assigned to the interviewees. After all, we want to ensure the privacy and confidentiality of participants by avoiding the use of real names, right?
 :::
