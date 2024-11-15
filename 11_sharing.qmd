@@ -358,9 +358,6 @@ Required:
 -   Codebook: the coding framework used, including definitions of codes
     and categories;
 
--   README File: an overview of your project, including data sources,
-    their relationships and a brief description of the methods. Here is
-    a customizable README template.
 
 Recommended:
 
