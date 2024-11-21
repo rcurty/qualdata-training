@@ -222,10 +222,6 @@ Note that the text is highlighted and coded accordingly.
 ![](images/autocoding3-01.png)
 
 ::: callout-note
-First, it may lead to a loss of context and limit the scope of analysis, potentially overlooking important themes. Second, the subjective nature of code selection can result in inconsistencies, and complex ideas may become oversimplified. Third, this approach can complicate comparisons across different data sets, since it is unlikely terms and expressions derived from various sources will match.
-:::
-
-::: {.callout-caution collapse="true"}
 #### Auto-coding Limitations
 
 Auto-coding features, which can be also referred as *in vivo*, verbatim coding, literal coding use exact phrases or terms from participants' responses, enabling researchers to highlight key themes and concepts directly from the data. While this method can be effective for preliminary and first cycle coding, researchers should be aware of its potential drawbacks as the primary method. This approach can result in a loss of insight, as context may be overlooked. Additionally, auto-coding often oversimplifies the data, focusing on specific terms rather than capturing broader themes.
