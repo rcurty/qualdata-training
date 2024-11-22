@@ -145,7 +145,7 @@ It’s important to keep in mind that this process typically requires multiple i
 
 So, we will start by representing these three main categories in QualCoder. To do that, let's do a ctrl+click on the panel. This will prompt a window with the most important actions for you to engage with the development and organization of your codebook.
 
-Click `add a new category`, and enter \*\*Accountability\*"**. Complete the same process for the other two:** Authenticity and Transparency\*\*. You may also add a memo with some explanation about their meanings.
+Click `add a new category`, and enter *Accountability*. Complete the same process for the other two: *Authenticity and Transparency*. You may also add a memo with some explanation about their meanings.
 
 ![](images/memo-category.png)
 
