@@ -121,7 +121,7 @@ We can assign age groups (25-29, 30-35, or 35-40) to each case and add their res
 
 You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to `Manage` and then, `Manage Attributes`
 
-We can also import attributes from either a CSV or Microsoft Excel (XLSX) file. The first row should contain the attribute headings, and the first column must list the corresponding case names (e.g., ID1, ID2, ID3). Please note that case sensitivity is important. In the "Examples" folder, you will find both a cases.csv and cases.xlsx file for reference.
+We can also import attributes from either a CSV or Microsoft Excel (XLSX) file. The first row should contain the attribute headings, and the first column must list the corresponding case names (e.g., ID1, ID2, ID3). Please note that case sensitivity is important. Here is a file we can use to save us time: [attributes_influencers.xlsx](https://docs.google.com/spreadsheets/d/1m0G5aEIDy9b-zTpP7ksZDFO1ScshQ9kj/edit?usp=sharing&ouid=101311538260511928101&rtpof=true&sd=true)
 
 We won't need to add memos for now, but they can provide additional context when attributes aren’t immediately apparent.
 
@@ -336,7 +336,7 @@ When conducting qualitative research, it's crucial to maintain thorough document
 
     The Rotterdam Exchange Format Initiative (REFI-QDA) is a standard which enables interoperability between Qualitative Data Analysis Software (QDAS or CAQDAS) programs. It ensures that a codebook developed in one of the compatible software programs can be exported and imported into any other listed programs.
 
-    It’s important to note that because each program has unique functionalities regarding codes and their organization, users may encounter some modifications when importing a codebook into a different software environment.
+    It’s important to note that because each program has unique functionalities regarding codes and their structure, users may encounter some issues such as inconsistencies and data loss when importing a codebook into a different software environment.
 
     Check which QDA software are REFI-QDA compatible: [https://www.qdasoftware.org/refi-qda-codebook](https://www.qdasoftware.org/refi-qda-codebook){target="_blank"}
     :::
