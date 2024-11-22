@@ -121,7 +121,7 @@ We can assign age groups (25-29, 30-35, or 35-40) to each case and add their res
 
 You can easily edit attribute values directly in the interface. However, to delete or modify an existing attribute column, please navigate to `Manage` and then, `Manage Attributes`
 
-We can also import attributes from either a CSV or Microsoft Excel (XLSX) file. The first row should contain the attribute headings, and the first column must list the corresponding case names (e.g., ID1, ID2, ID3). Please note that case sensitivity is important. Here is a file we can use to save us time: [attributes_influencers.xlsx](https://docs.google.com/spreadsheets/d/1m0G5aEIDy9b-zTpP7ksZDFO1ScshQ9kj/edit?usp=sharing&ouid=101311538260511928101&rtpof=true&sd=true)
+We can also import attributes from either a CSV or Microsoft Excel (XLSX) file. The first row should contain the attribute headings, and the first column must list the corresponding case names (e.g., ID1, ID2, ID3). Please note that case sensitivity is important. Here is a file we can use to save us time: [attributes_influencers.xlsx](https://docs.google.com/spreadsheets/d/1m0G5aEIDy9b-zTpP7ksZDFO1ScshQ9kj/edit?usp=sharing&ouid=101311538260511928101&rtpof=true&sd=true){target="_blank"}
 
 We won't need to add memos for now, but they can provide additional context when attributes aren’t immediately apparent.
 
