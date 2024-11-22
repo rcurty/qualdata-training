@@ -237,7 +237,7 @@ After reviewing the basics with Sarah, she gained confidence in exploring the da
 
 Before proceeding, in QualCoder, select Open Project, then navigate to the analysis folder within the project example [sarah-project](https://doi.org/10.5281/zenodo.14043001){target="_blank"}. If you haven't already unzipped the file, do so now, and then choose the `influencers_q4.qda` folder to open.
 
-QualCoder offers a few options for users to explore, query, visualize the data and export those reports and outputs. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, heat and tree maps. It also supports intercoder reliability testing for datasets coded, independently, by multiple people. Let's see how Sarah some of the options she might want to consider for her analysis.
+QualCoder offers a few options for users to explore, query, visualize the data and export those reports and outputs. It can provide code counting summaries in a variety of formats, word clouds, plotting in bars and pie charts, heat and tree maps. It also supports intercoder reliability testing for datasets coded, independently, by two people. Let's see how Sarah some of the options she might want to consider for her analysis.
 
 Let's click `reports` to see options in QualCoder. We will start with coding reports:
 
