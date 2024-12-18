@@ -9,11 +9,9 @@ Among other things, by the end of this self-pacing course, learners should expec
 1)  Learn how to stay compliant with IRB and ethical requirements when working with human subjects data;
 2)  Craft better consent forms to allow for data share and reuse;
 3)  Recognize and apply data de-identification techniques;
-4)  Get started with free and campus-licensed tools to manage and analyze qualitative data;
-5)  Identify data repositories and best approaches to share qualitative interview data.
-
-To accomplish that, we will be using the following diagram as a 
-
+4)  Articulate important concepts and considerations regarding interview data;
+5)  Get started with free and campus-licensed tools to manage and analyze qualitative data;
+6)  Identify data repositories and best approaches to share project deliverables.
 
 
 *If you have comments or feedback, please use the [issues](enter%20URL%20for%20issues) repository feature*
