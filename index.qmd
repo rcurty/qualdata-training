@@ -32,7 +32,7 @@ This website is designed to support researchers in managing qualitative data mor
 
 -   Get started with tools to manage and analyze qualitative data;
 
--   Identify best approaches to share and receive credit for qualitative data.
+-   Identify best approaches to share and receive credit for sharing data.
 
 This course is grounded in the research data life cycle depicted in the graphical handout below which focuses on approaches for researchers to handle human subject qualitative data more effectively & responsibly. We will use this framework to explore recommended data management practices applied to human subjects qualitative data throughout the following steps: 1) planning and collecting, 2) analyzing and documenting, 3) sharing/archiving, and 4) reusing.
 
