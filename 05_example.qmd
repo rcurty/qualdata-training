@@ -11,7 +11,7 @@ From this point onward, we will be working with a fictional research project and
 
 Image Generated using [openart.ai](https://openart.ai/)
 
-In the remaining episodes, we’ll be guiding Sarah, a graduate student in the Communication department, as she embarks on a pilot study with content creators/digital influencers for her dissertation research. Sarah's goal is to understand how content creators/influencers, with verified profiles and a large community of followers, perceive their impact on consumerism, their role in shaping their audience shopping behaviors, and their ethical responsibilities when endorsing products and services.
+In the remaining episodes, we’ll be guiding Sarah, a graduate student in the Communication department, as she embarks on a pilot study with content creators/digital influencers for her dissertation research. Sarah's goal is to understand how content creators/influencers with verified profiles and a large community of followers perceive their impact on consumerism, their role in shaping their audience's shopping behaviors, and their ethical responsibilities when endorsing products and services.
 
 ## Example Research Project
 
@@ -19,11 +19,11 @@ Her main research question is: ***How do content creators/digital influencers vi
 
 Given the novelty of this research topic and the limited academic literature available, Sarah hopes that the insights gained from this small-scale qualitative exploratory study will help identify key variables for a larger survey study with a representative sample of content creators/digital influencers across the U.S.
 
-Sarah has previous experience with quantitative methods but is very new to qualitative research and could use our help for better handling the data. Having already conducted six short structured interviews with subjects from top revenue niches (i.e., Home Decor and DYI, Travel & Adventure, Fashion & Style, Health & Wellness, Finance & Investment, Beauty & Skincare) and planning to conduct a dozen more, Sarah is eager to begin engaging with the data she has collected so far and deciding how to best organize and interpret it. We’ll be walking her through this process, providing the necessary guidance and support for effective and responsible data management.
+Sarah has previous experience with quantitative methods but is very new to qualitative research and could use our help to handle the data better. Having already conducted six short structured interviews with subjects from top revenue niches (i.e., Home Decor and DYI, Travel & Adventure, Fashion & Style, Health & Wellness, Finance & Investment, Beauty & Skincare) and planning to conduct a dozen more, Sarah is eager to begin engaging with the data she has collected so far and deciding how to organize best and interpret it. We’ll walk her through this process, providing guidance and support for effective and responsible data management.
 
-Interviews were conducted over Zoom and audio recorded with participants' consent. The interview included four main questions, which were consistent across all interviews:
+Interviews were conducted over Zoom, and audio was recorded with participants' consent. The interview included four main questions, which were consistent across all interviews:
 
-*Q1. Please tell me a little about your work as a content creator/digital influencer how it started, and how you have established yourself in your current niche.*
+*Q1. Please tell me a little about your work as a content creator/digital influencer, how it started, and how you have established yourself in your current niche.*
 
 *Q2. In what ways do you believe content creators/digital influencers shape consumer behavior? Could you share any examples?*
 
@@ -31,9 +31,9 @@ Interviews were conducted over Zoom and audio recorded with participants' consen
 
 *Q4. In your view, what are the essential ethical responsibilities that content creators and digital influencers should uphold? Can you share any personal experiences that illustrate these responsibilities in action?*
 
-Each interview generated approximately 15 minutes of audio recording and were manually transcribed by Sarah. Sarah decided to keep the transcription true to the recordings and seek assistance to mitigate any risk of identification later, as we will see in the next episode.
+Each interview generated approximately 15 minutes of audio recording and was manually transcribed by Sarah. Sarah decided to keep the transcription true to the recordings and seek assistance to mitigate any risk of identification later, as we will see in the next episode.
 
-Now, let's make sure we all have the project files and that we take a quick pick on what is included there by accessing the link: [https://doi.org/10.5281/zenodo.14043001](https://doi.org/10.5281/zenodo.14043001){target="_blank"}. Make sure to unzip this folder and save it in your desktop for easy access.
+Now, let's make sure we all have the project files and that we take a quick pick on what is included, thereby accessing the link: [https://doi.org/10.5281/zenodo.14511085](https://doi.org/10.5281/zenodo.14511085){target="_blank"}. Make sure to unzip this folder and save it in your desktop for easy access.
 
 ## Reviewing Documents
 
@@ -42,13 +42,13 @@ Open the Sarah's Project folder. Before we look at the transcripts, skim through
 ::: {.callout-note collapse="true" icon="false"}
 ## 💭 Discussion
 
-1.  *Do pilot studies, such as Sarah's, require IRB review?*
+1.  *Do pilot studies like Sarah's require IRB review?*
 
-Answer: Yes! A pilot study is a preliminary investigation, often involving 10 or fewer participants, aimed at testing the feasibility of a research design and refining data collection methods or instruments. Despite its exploratory nature and potential lack of inclusion in final results or publications, a pilot study with human subjects requires IRB review as it constitutes human subjects research. If the pilot study refines tools or procedures for a larger study, it remains an integral part of the research process. It’s crucial to inform participants that they are part of a pilot study and clarify whether their data will be used for refinement purposes or included in the main study.
+Answer: Yes! A pilot study is a preliminary investigation, often involving ten or fewer participants, aimed at testing the feasibility of a research design and refining data collection methods or instruments. Despite its exploratory nature and potential lack of inclusion in final results or publications, a pilot study with human subjects requires IRB review as it constitutes human subjects research. If the pilot study refines tools or procedures for a larger study, it remains an integral part of the research process. It’s crucial to inform participants that they are part of a pilot study and clarify whether their data will be used for refinement purposes or included in the main study.
 
-2.  *What if Sarah accepts our advise and make some modifications to the informed consent? What about the participants who have already signed the original consent form?*
+2. *What if Sarah accepts our advice and makes some modifications to the informed consent? What about the participants who have already signed the original consent form?*
 
-Answer: All amendments (i.e., changes/modifications) to approved research must be submitted to the IRB for review and approval before they are implemented. If the amendments involve changes to how participants' data will be used or how their involvement is described, inform the participants of these changes. This might involve contacting them to obtain updated consent or simply providing them with new information depending on the nature of the amendments.
+Answer: All amendments (i.e., changes/modifications) to approved research must be submitted to the IRB for review and approval before implementation. If the amendments involve changes to how participants' data will be used or how their involvement is described, inform the participants of these changes. This might involve contacting them to obtain updated consent or simply providing them with new information, depending on the nature of the amendments.
 :::
 
-Now, let's open some transcripts. Sarah did well by not listing actual interviewees' names. She organized all transcripts in a dedicated `data` folder and adopted a file convention name before sharing it with us. Way to go, Sarah! When working on your own projects, ensure to do the same.
+Now, let's open some transcripts. Sarah did well by not listing the actual interviewees' names. She organized all transcripts in a dedicated `data` folder and adopted a file convention name before sharing it with us. Way to go, Sarah! When working on your own projects, please make sure to do the same.
