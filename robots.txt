@@ -1,1 +1,1 @@
-Sitemap: https://rcurty.github.io/qualdata-training/sitemap.xml
+Sitemap: https://UCSB-Library-Research-Data-Services.github.io/qualdata-training/sitemap.xml
