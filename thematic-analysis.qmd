@@ -1,0 +1,59 @@
+---
+title: "Thematic Analysis Exercise"
+format: html
+editor: visual
+---
+
+## **Handling & Sharing Qualitative Data Responsibly & Effectively Workshop**
+
+Website 🌐 [https://ucsb-library-research-data-services.github.io/qualdata-training](https://ucsb-library-research-data-services.github.io/qualdata-training/)
+
+**Episode:** Analyzing Qualitative Data
+
+**Expected Time:** 15 min.
+
+## **Instructions**
+
+------------------------------------------------------------------------
+
+### **Materials**
+
+-   Exercise sheet
+
+-   Pen/Pencil
+
+-   Colored paper or Post-its
+
+## **Prompt**
+
+In a study on job satisfaction, Dr. Morey relies on the crucial role of research assistants like you to identify key concepts and patterns in the collected data. Your task involves coding interview excerpts to extract meaningful insights. We will begin by systematically coding the data and identifying recurring themes, sentiments, and concepts expressed by the participants. Once the coding process is complete, we will categorize these codes into broader themes that encapsulate the essence of the findings. This thematic analysis, driven by your efforts, will help Dr. Morey understand the underlying factors influencing job satisfaction and provide a structured data interpretation framework. Your tasks will include identifying 4-8 codes, and then, group them into 3-6 relevant main themes following the steps below:
+
+1.  **Get familiar with the data**: read the brief transcript excerpts provided below.
+
+2.  **Identify potential codes**: highlight key phrases and statements that indicate essential concepts related to job satisfaction. 
+
+3.  **Create codes:** assign a code that captures the essence of the sentiment or idea expressed in those key phrases. (1-3 words)
+
+4.  **Form themes**: review codes to identify patterns and relationships and cluster similar codes to form broader themes. 
+
+5.  **Review and refine themes**: check how well they represent the coded data. This process may involve merging, splitting, or redefining themes to ensure they accurately reflect the data.
+
+6.  **Defining and naming themes**: Once we have a coherent set of themes, define each theme in detail. This includes outlining the theme's scope, core meaning, and the aspects of the data it covers. Assign a succinct name that conveys their essence.
+
+### Interview Excerpts
+
+I-02: "I love the flexibility my job offers. I can work from home and adjust my hours as needed."
+
+I-09: "The team is very supportive. We always help each other out."
+
+I-13: "There aren't many opportunities for advancement. It feels like I'm stuck in the same position."
+
+I-17: "My manager recognizes my hard work and gives me regular feedback."
+
+I-24: "The workload is too heavy, and I often have to work late hours."
+
+I-25: "We have great benefits, like health insurance and retirement plans."
+
+I-30: "I don't feel valued here. My contributions are often overlooked."
+
+I-36: "The office environment is very positive and collaborative."
